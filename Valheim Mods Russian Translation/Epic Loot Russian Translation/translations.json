@@ -827,10 +827,10 @@
   "mod_epicloot_set_me_berserker": "Берсеркер [Активный]: В течение 10 секунд вы не сможете восстанавливать здоровье, но вы наносите от +50% до +200% урона оружием в зависимости от недостающего здоровья вашего персонажа. Восстановление: 3 минуты.",
 
   "mod_epicloot_basicmagicnameformat": "Магическ. {0}", // 0 = base name
-  "mod_epicloot_fullnameformat": "{2}{1}{0}", // 0 = prefix, 1 = base name, 2 = suffix
+  "mod_epicloot_fullnameformat": "{0}{1}{2}", // 0 = prefix, 1 = base name, 2 = suffix
   "mod_epicloot_prefixformat": "{0} ",
   "mod_epicloot_suffixformat": " {0}",
-  "mod_epicloot_epicnameformat": "{0} {1}", // 0 = adjective, 1 = name
+  "mod_epicloot_epicnameformat": "{1} {0}", // 0 = adjective, 1 = name
   "mod_epicloot_basiclegendarynameformat": "Легендарн. {0}", // 0 = base name
   
   "mod_epicloot_rare_prefix1": "Странный",
