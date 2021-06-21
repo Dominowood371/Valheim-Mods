@@ -76,4 +76,6 @@ Added item drops for new mobs:
   * The One Who Hunts in the Rain (StormFenring - Fenring)               1600                      Blunt, Lightning
 
 ### Install
-To install, just copy the text from the loottable.json file and paste into your loottable.json file
+To install, just copy the text from the `loottable.json` file and paste into your `loottable.json` file or download the `loottable.json` file with replacement, move the file to the folder `\Valheim\BepInEx\plugins`
+
+> just in case, I recommend making a backup copy of the original file: `loottable.json`.
