@@ -79,3 +79,5 @@ Added item drops for new mobs:
 To install, just copy the text from the `loottable.json` file and paste into your `loottable.json` file or download the `loottable.json` file with replacement, move the file to the folder `\Valheim\BepInEx\plugins`
 
 > just in case, I recommend making a backup copy of the original file: `loottable.json`.
+
+### Note
