@@ -1,6 +1,7 @@
 [Epic Loot](http://www.nexusmods.com/valheim/mods/387) Version 0.8.1 - [Terraheim](https://www.nexusmods.com/valheim/mods/803) Version 2.0.6 - [Forsaken](http://www.nexusmods.com/valheim/mods/799) Version 0.7.0 - [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) Version
 4.2.2 - [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) Version 1.0.5
 
+### Description
 This is a loot table for Epic Loot that adds the improved armor and weapons from various mods.
 
 **Mobs:**
@@ -65,3 +66,14 @@ Added item drops for new mobs:
 * Tier 5 - Ocean, Mistlands, DeepNorth
 * Tier 6 - Ashlands
 * Tier 5-6 - Boss
+  * The Damned One                (BlazingDamnedOne - SkeletonWarrior)   1500                      Blunt, Poison, Fire
+  * The Damned One                (DammedOne - SkeletonWarrior)          2500                      Blunt, Poison
+  * The One Who is Always Hungry  (DevourerFenring - Fenring)            2800                      Slash, Blunt
+  * The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)  2800                      Pierce, Frost
+  * Jotunn                        (Jotunn - Troll)                       18000                     Blunt, Chop, Pickaxe
+  * BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)       650                       Blunt, Slash
+  * The Mourning Queen            (SvartalfrQueen - RRR_NPC)             1800                      Blunt, Poison
+  * The One Who Hunts in the Rain (StormFenring - Fenring)               1600                      Blunt, Lightning
+
+### Install
+To install, just copy the text from the loottable.json file and paste into your loottable.json file
