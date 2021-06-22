@@ -10,12 +10,7 @@ Mod EpicLoot Russian Translation Version 0.8.0 - 0.8.1.
 ## Установка
 Работает только для версии EpicLoot 0.8.0 - 0.8.1, на других версиях не гарантирую работу при полной замене.
 
-Скачайте и замените файлы `itemnames.json` и `translations.json` в папке `Valheim\BepInEx\plugins\`
-
-### Файл itemnames.json
-В файле `itemnames.json` - изменены местами имена и прилагательные для нормального отображения, к примеру раньше было "Злодей Клинок" теперь будет "Клинок Злодея".
-
-Вы можете и сами вручную изменить файл `itemnames.json`, чтобы имена и прилагательные нормально отображались, найдите там строки: `"Names" : [`, `"Adjectives" : [` и поменяйте их местами.
+Скачайте и замените файл `translations.json` в папке `Valheim\BepInEx\plugins\`
 
 ### Папка config
 Для более полного перевода замените в файле `Valheim\BepInEx\config\randyknapp.mods.epicloot.cfg` строки [Rarity]
