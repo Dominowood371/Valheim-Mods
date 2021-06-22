@@ -107,93 +107,93 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // MonsterMas MOD
-    // Item                      IDS:                     Tier
-    //
-    // RRRM_ Yeti
-    // RRRM_CrazyTroll
-    // RRRM_EarthTroll
-    // RRRM_Golem2
-    // RRRM_FireGolem
-    // RRRM_Wizard
-    // RRRM_WereWolfBlackArmored
-    // RRRM_WereWolfDarkGrey
-    // RRRM_WereWolfBlack
-    // RRRM_WereWolfBrown
-    // RRRM_WereWolfWhite
-    // RRRM_TheNasty
-    // RRRM_WereBearGray
-    // RRRM_WereBearBlack
-    // RRRM_WereBearRed
-    // RRRM_WendigoForest
-    // RRRM_WendigoSwamp
-    // RRRM_BlackSpider
-    // RRRM_FrostSpider
-    // RRRM_TentaRoot 
-    // RRRM_Pinetree_01
-    // RRRM_FirTree
-    // RRRM_RRRM_Birch1
-    // RRRM_RRRM_Birch2
-    // RRRM_SwampTree1
-    //  
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Steel Age MOD
     // Item                      IDS:                     Tier
     // 
+    // Nordic Hero Bow           NordHeroBow              Tier5
+    // Draugr Sword              DraugrSword              Tier5
+    // Steel Battle Axe          SteelBattleAxe           Tier5
+    // Steel Battle Hammer       SteelBattleHammer        Tier5
+    // Steel Mace                SteelMace                Tier5
+    // Steel WarAxe              SteelWarAxe              Tier5
+    // Nordic Steel Sword        NordicSteelSword         Tier5
+    // Swedish Steel Sword       SwedishSteelSword        Tier5
+    // Steel Viking Axe          VikingAxe                Tier5
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+    {
+      "Name": "TierSteelAge",
+      "Loot": [
+	{ "Item": "NordHeroBow",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "DraugrSword",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "SteelBattleAxe",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "SteelBattleHammer",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "SteelMace",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "SteelWarAxe",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "NordicSteelSword",   "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "SwedishSteelSword",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "VikingAxe",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+      ]
+    },
+	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Runic Swords MOD
-    // Item                      IDS:                     Tier
+    // Item                      IDS:                     Tier        Bosses
     // 
-    // Runic Lightning Sword                              Eikthyr
-    // Runic Poison Sword                                 Bonemass
-    // Runic Ice Sword                                    Moder
-    // Runic Fire Sword                                   Yagluth
+    // Runic Lightning Sword     GreatLightningRuneSword  Tier7       Eikthyr
+    // Runic Poison Sword        GreatPoisonRuneSword     Tier7       Bonemass
+    // Runic Ice Sword           GreatIceRuneSword        Tier7       Moder
+    // Runic Fire Sword          GreatFireRuneSword       Tier7       Yagluth
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+    {
+      "Name": "TierRunicSwords",
+      "Loot": [
+	{ "Item": "GreatLightningRuneSword",    "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "GreatPoisonRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "GreatIceRuneSword",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "GreatFireRuneSword",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
+      ]
+    },
+	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Forsaken MOD
     // Item                      IDS:                     Tier        Bosses
     // 
-    // Static Cleaver            v801_BattleaxeLightning  Tier5       Eikthyr
-    // Bolts Edge                v801_SwordLightning      Tier5       Eikthyr
-    // Spiritine                 v801_SpearSpirit         Tier5       The Elder
-    // Rotclub                   v801_SledgePoison        Tier5       Bonemass
-    // Wyrmfist                  v801_UnarmedFrost        Tier5       Moder
-    // Wyrmripper                v801_UnarmedFrostOH      Tier5       Moder
-    // Rimefang                  v801_BowFrost            Tier5       Moder
-    // Icicle                    v801_KnifeFrost          Tier5       Moder
-    // Molten Star               v801_SledgeFire          Tier5       Yagluth
-    // Lycanthro                 v801_UnarmedFenring      Tier5       Yagluth
-    // Aegis of the Dead King    v801_ShieldFire          Tier5       Yagluth
-    // Riftblade                 v801_SwordFire           Tier5       Yagluth
-    // Chaotic Hand              v801_SpellFire           Tier5       Yagluth
+    // Static Cleaver            v801_BattleaxeLightning  Tier7       Eikthyr
+    // Bolts Edge                v801_SwordLightning      Tier7       Eikthyr
+    // Spiritine                 v801_SpearSpirit         Tier7       The Elder
+    // Rotclub                   v801_SledgePoison        Tier7       Bonemass
+    // Wyrmfist                  v801_UnarmedFrost        Tier7       Moder
+    // Wyrmripper                v801_UnarmedFrostOH      Tier7       Moder
+    // Rimefang                  v801_BowFrost            Tier7       Moder
+    // Icicle                    v801_KnifeFrost          Tier7       Moder
+    // Molten Star               v801_SledgeFire          Tier7       Yagluth
+    // Lycanthro                 v801_UnarmedFenring      Tier7       Yagluth
+    // Aegis of the Dead King    v801_ShieldFire          Tier7       Yagluth
+    // Riftblade                 v801_SwordFire           Tier7       Yagluth
+    // Chaotic Hand              v801_SpellFire           Tier7       Yagluth
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     {
       "Name": "TierForsaken",
       "Loot": [
-	{ "Item": "v801_BattleaxeLightning", "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_SpearSpirit",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_SledgePoison",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_SledgeFire",         "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_UnarmedFenring",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_UnarmedFrost",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_UnarmedFrostOH",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_ShieldFire",         "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_SwordFire",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_SwordLightning",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_SpellFire",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_BowFrost",           "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "v801_KnifeFrost",         "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+	{ "Item": "v801_BattleaxeLightning", "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_SpearSpirit",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_SledgePoison",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_SledgeFire",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_UnarmedFenring",     "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_UnarmedFrost",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_UnarmedFrostOH",     "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_ShieldFire",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_SwordFire",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_SwordLightning",     "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_SpellFire",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_BowFrost",           "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "v801_KnifeFrost",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
       ]
     },
 
@@ -1452,6 +1452,38 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // MonsterMas MOD
+    // Item                      IDS:                     Tier
+    //
+    // RRRM_ Yeti
+    // RRRM_CrazyTroll
+    // RRRM_EarthTroll
+    // RRRM_Golem2
+    // RRRM_FireGolem
+    // RRRM_Wizard
+    // RRRM_WereWolfBlackArmored
+    // RRRM_WereWolfDarkGrey
+    // RRRM_WereWolfBlack
+    // RRRM_WereWolfBrown
+    // RRRM_WereWolfWhite
+    // RRRM_TheNasty
+    // RRRM_WereBearGray
+    // RRRM_WereBearBlack
+    // RRRM_WereBearRed
+    // RRRM_WendigoForest
+    // RRRM_WendigoSwamp
+    // RRRM_BlackSpider
+    // RRRM_FrostSpider
+    // RRRM_TentaRoot 
+    // RRRM_Pinetree_01
+    // RRRM_FirTree
+    // RRRM_RRRM_Birch1
+    // RRRM_RRRM_Birch2
+    // RRRM_SwampTree1
+    //  
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Monsternomicon MOD
     // Item                          IDS:                                   Health                    Attacks
     //  
@@ -1465,7 +1497,6 @@
     // The One Who Hunts in the Rain (StormFenring - Fenring) Boss          1600                      Blunt, Lightning
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 
     // Ashlands
     ////////////////////////////////////////////////////////////////////////////////////
