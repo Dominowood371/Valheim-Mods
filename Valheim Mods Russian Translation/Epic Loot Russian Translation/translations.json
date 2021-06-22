@@ -361,7 +361,7 @@
   "mod_epicloot_bounties_tooltip_slay": "Убейте его",
   "mod_epicloot_bounties_tooltip_slaymultiple": "Убейте его и его приспешников",
   "mod_epicloot_bounties_tooltip_status": "Статус:",
-  "mod_epicloot_bounties_tooltip_vanquished": "Побежден!"
+  "mod_epicloot_bounties_tooltip_vanquished": "Побежден!",
   "mod_epicloot_bounties_minimappin": "Охота за добычей: $1",
   "mod_epicloot_gamble_tooltip": "Заплатите своим золотом и наградой за шанс получить зачарованный предмет!",
   "mod_epicloot_gamble_tooltip_chance": "Шанс на:",
