@@ -107,6 +107,46 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Plate Armor MOD
+    // Item                            IDS:                                  Tier
+    // 
+    // Chest                           ArmorPlateIronChestJD                 Tier3
+    // Legs                            ArmorPlateIronLegsJD                  Tier3
+    // Helmet                          ArmorPlateIronHelmetJD                Tier3
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    {
+      "Name": "Tier3PlateArmor",
+      "Loot": [
+        { "Item": "ArmorPlateIronChestJD",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronLegsJD",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronHelmetJD",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    },
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Barbarian's Armor MOD
+    // Item                            IDS:                                  Tier
+    // 
+    // Helmet                          ArmorBarbarianBronzeHelmetJDT         Tier3
+    // Chest                           ArmorBarbarianBronzeChestJDT          Tier3
+    // Legs                            ArmorBarbarianBronzeLegsJDT           Tier3
+    // Cape                            ArmorBarbarianCapeJD                  Tier3
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    {
+      "Name": "Tier3BarbariansArmor",
+      "Loot": [
+        { "Item": "ArmorBarbarianBronzeHelmetJDT",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianBronzeChestJDT",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianBronzeLegsJDT",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianCapeJD",             "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    },
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Chaos Warrior Armor MOD
     // Item                            IDS:                     Tier
     // 
@@ -744,6 +784,8 @@
         { "Item": "Tier3Armor"   },
         { "Item": "Tier3Shields" },
         { "Item": "Tier3Tools"   },
+        { "Item": "Tier3PlateArmor"          },
+        { "Item": "Tier3BarbariansArmor"     },
         { "Item": "Tier3ChaosWarriorArmor"   },
         { "Item": "Tier3HugosMoreTwoHanders" },
         { "Item": "Tier3TerraheimWeapons"    },
