@@ -122,14 +122,17 @@ Added item drops for new mobs:
 * Tier 5 - Ocean, Mistlands, DeepNorth
 * Tier 6 - Ashlands
 * Tier 5-6 - Boss
-  * The Damned One                (BlazingDamnedOne - SkeletonWarrior)   1500                      Blunt, Poison, Fire
-  * The Damned One                (DammedOne - SkeletonWarrior)          2500                      Blunt, Poison
-  * The One Who is Always Hungry  (DevourerFenring - Fenring)            2800                      Slash, Blunt
-  * The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)  2800                      Pierce, Frost
-  * Jotunn                        (Jotunn - Troll)                       18000                     Blunt, Chop, Pickaxe
-  * BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)       650                       Blunt, Slash
-  * The Mourning Queen            (SvartalfrQueen - RRR_NPC)             1800                      Blunt, Poison
-  * The One Who Hunts in the Rain (StormFenring - Fenring)               1600                      Blunt, Lightning
+
+| Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Damage |
+| -- | -- | -- | -- | -- |
+| BroodMother GloomWeaver       | MotherDarkSpider | Tree Spider          | 650                      | Blunt, Slash |
+| The Damned One                | BlazingDamnedOne | SkeletonWarrior      | 1500                     | Blunt, Poison, Fire |
+| The Damned One                | DammedOne        | SkeletonWarrior      | 2500                     | Blunt, Poison |
+| The One Who Hunts in the Rain | StormFenring     | Fenring              | 1600                     | Blunt, Lightning |
+| The One Who is Always Hungry  | DevourerFenring  | Fenring              | 2800                     | Slash, Blunt |
+| The Forgotten One             | ForgottenOne     | Skeleton Warrior Ice | 2800                     | Pierce, Frost |
+| The Mourning Queen            | SvartalfrQueen   | RRR_NPC              | 1800                     | Blunt, Poison |
+| Jotunn                        | Jotunn           | Troll                | 18000                    | Blunt, Chop, Pickaxe |
 
 ### Install
 To install, just copy the text from the `loottable.json` file and paste into your `loottable.json` file or download the `loottable.json` file with replacement, move the file to the folder `\Valheim\BepInEx\plugins`
