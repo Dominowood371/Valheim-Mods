@@ -18,6 +18,7 @@ List of mods to be added to the table:
 | [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters |
 | [MonsterMash](https://www.nexusmods.com/valheim/mods/1284) | 0.0.7 | Enemies, Monsters |
  
+ [:arrow_up:Loot table](#Loot table)  
 ### Loot table
 Distribution of mods in the table.
 
