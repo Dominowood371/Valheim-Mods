@@ -243,19 +243,19 @@
     // Forsaken MOD
     // Item                      IDS:                     Tier        Bosses
     // 
-    // Static Cleaver            v801_BattleaxeLightning  Tier7       Eikthyr
-    // Bolts Edge                v801_SwordLightning      Tier7       Eikthyr
-    // Spiritine                 v801_SpearSpirit         Tier7       The Elder
-    // Rotclub                   v801_SledgePoison        Tier7       Bonemass
-    // Wyrmfist                  v801_UnarmedFrost        Tier7       Moder
-    // Wyrmripper                v801_UnarmedFrostOH      Tier7       Moder
-    // Rimefang                  v801_BowFrost            Tier7       Moder
-    // Icicle                    v801_KnifeFrost          Tier7       Moder
-    // Molten Star               v801_SledgeFire          Tier7       Yagluth
-    // Lycanthro                 v801_UnarmedFenring      Tier7       Yagluth
-    // Aegis of the Dead King    v801_ShieldFire          Tier7       Yagluth
-    // Riftblade                 v801_SwordFire           Tier7       Yagluth
-    // Chaotic Hand              v801_SpellFire           Tier7       Yagluth
+    // Static Cleaver            v801_BattleaxeLightning  Tier7       Eikthyr      Slash, Lightning
+    // Bolts Edge                v801_SwordLightning      Tier7       Eikthyr      Lightning
+    // Spiritine                 v801_SpearSpirit         Tier7       The Elder    Spirit
+    // Rotclub                   v801_SledgePoison        Tier7       Bonemass     Poison
+    // Wyrmfist                  v801_UnarmedFrost        Tier7       Moder        Frost
+    // Wyrmripper                v801_UnarmedFrostOH      Tier7       Moder        Frost,
+    // Rimefang                  v801_BowFrost            Tier7       Moder        Pierce, Frost
+    // Icicle                    v801_KnifeFrost          Tier7       Moder        Pierce, Frost
+    // Chaotic Hand              v801_SpellFire           Tier7       Yagluth      Fire 
+    // Molten Star               v801_SledgeFire          Tier7       Yagluth      Blunt, Pierce, Fire
+    // Aegis of the Dead King    v801_ShieldFire          Tier7       Yagluth      Fire 
+    // Riftblade                 v801_SwordFire           Tier7       All          Fire, Frost, Lightning, Spirit, Poison
+    // Lycanthro                 v801_UnarmedFenring      Tier7       All          Slash Pierce
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -2177,6 +2177,8 @@
             { "Item": "SledgeStagbreaker",       "Weight": 1, "Rarity": [ 177, 20, 2, 1 ] },
             { "Item": "v801_BattleaxeLightning", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordLightning",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",          "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "GreatLightningRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
@@ -2226,8 +2228,10 @@
           "Level": 1,
           "Drops": [ [1, 35], [2, 55], [3, 10], [4, 0] ],
           "Loot": [
-            { "Item": "Tier2Everything",  "Weight": 1, "Rarity": [ 59, 29, 10, 2 ] },
-            { "Item": "v801_SpearSpirit", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "Tier2Everything",     "Weight": 1, "Rarity": [ 59, 29, 10, 2 ] },
+            { "Item": "v801_SpearSpirit",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2278,6 +2282,8 @@
           "Loot": [
             { "Item": "Tier3Everything",      "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] },
             { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "GreatPoisonRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
@@ -2332,6 +2338,8 @@
             { "Item": "v801_UnarmedFrostOH", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_BowFrost",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_KnifeFrost",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "GreatIceRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
@@ -2382,11 +2390,11 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SpellFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SledgeFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_ShieldFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "v801_SpellFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "GreatFireRuneSword",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
