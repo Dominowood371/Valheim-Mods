@@ -40,6 +40,12 @@ Distribution of mods in the table.
 * Tier 5 - Blackmetal Weapons, Padded Armor, Lox Cape, Linen Cape
 * Tier 6 - Flametal Weapons, Belt
 
+**Barbarian's Armor**
+* Tier 2 - Bronze Armor
+* Tier 3 - Iron Armor
+* Tier 4 - Silver Armor
+* Tier 5 - Padded Armor
+
 **Forsaken**
 
 Items only drop from bosses:
