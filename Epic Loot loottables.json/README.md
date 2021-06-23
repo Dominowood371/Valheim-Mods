@@ -5,18 +5,18 @@ This is a loot table for Epic Loot that adds the improved armor and weapons from
 ### Сontains Mods
 List of mods to be added to the table:
 
-| Mods | Version | Categories | Loot table | 
-| -- | -- | -- | -- | 
-| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) |   0.8.2 | Standard items Game |  [📋](#loot-table) | 
-| [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.1.0 | Weapons, Armor | [📋](###Loot table) | 
-| [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons | [📋](###Loot table) | 
-| [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) | 4.2.2 | Weapons | [📋](###Loot table) | 
-| [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.0.8 | Weapons | [📋](###Loot table) | 
-| [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons | [📋](###Loot table) | 
-| [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 1.1.0 | Armor | [📋](###Loot table) | 
-| [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.0 | Armor | [📋](###Loot table) | 
-| [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters | [📋](###Loot table) | 
-| [MonsterMash](https://www.nexusmods.com/valheim/mods/1284) | 0.0.7 | Enemies, Monsters | [📋](###Loot table) | 
+| Mods | Version | Categories |
+| -- | -- | -- |
+| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) |   0.8.2 | Standard items Game |
+| [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.1.0 | Weapons, Armor |
+| [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons |
+| [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) | 4.2.2 | Weapons |
+| [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.0.8 | Weapons |
+| [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
+| [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 1.1.0 | Armor |
+| [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.0 | Armor |
+| [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters |
+| [MonsterMash](https://www.nexusmods.com/valheim/mods/1284) | 0.0.7 | Enemies, Monsters |
  
 ### Loot table
 Distribution of mods in the table.
