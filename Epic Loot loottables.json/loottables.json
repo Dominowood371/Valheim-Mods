@@ -107,6 +107,47 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Chaos Warrior Armor MOD
+    // Item                            IDS:                     Tier
+    // 
+    // Half plate harness              T1ChaosPlateArmor        Tier2
+    // Tusk plate helm                 T1ChaosPlateHelm         Tier2
+    // Battered plate leggings         T1ChaosPlateLegs         Tier2
+    // Three quarters plate harness    T2ChaosPlateArmor        Tier3
+    // Fanged plate helm               T2ChaosPlateHelm         Tier3
+    // Refurbished plate leggings      T2ChaosPlateLegs         Tier3
+    // Uncanny plate harness           ChaosPlateArmorBody      Tier6
+    // Uncanny plate helm              ChaosPlateHelm           Tier6
+    // Uncanny plate leggings          ChaosPlateLegs           Tier6
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    {
+      "Name": "Tier2ChaosWarriorArmor",
+      "Loot": [
+        { "Item": "T1ChaosPlateArmor",     "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "T1ChaosPlateHelm",      "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "T1ChaosPlateLegs",      "Rarity": [ 80, 14, 4, 2 ] }
+      ]
+    },
+    {
+      "Name": "Tier3ChaosWarriorArmor",
+      "Loot": [
+        { "Item": "T2ChaosPlateArmor",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "T2ChaosPlateHelm",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "T2ChaosPlateLegs",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    },
+    {
+      "Name": "Tier6ChaosWarriorArmor",
+      "Loot": [
+        { "Item": "ChaosPlateArmorBody",   "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ChaosPlateHelm",        "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ChaosPlateLegs",        "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] }
+      ]
+    },
+	  
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Steel Age MOD
     // Item                      IDS:                     Tier
     // 
@@ -518,14 +559,6 @@
         { "Item": "BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt",   "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] }
       ]
     },
-    {
-      "Name": "Tier6TerraheimEverything",
-      "Loot": [
-        { "Item": "Tier6TerraheimWeapons" },
-        { "Item": "Tier6TerraheimShields" },
-        { "Item": "Tier6TerraheimArmor"   }
-      ]
-    },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -663,8 +696,9 @@
         { "Item": "Tier2Armor"   },
         { "Item": "Tier2Shields" },
         { "Item": "Tier2Tools"   },
-        { "Item": "Tier2TerraheimWeapons" },
-        { "Item": "Tier2TerraheimArmor"   }
+        { "Item": "Tier2ChaosWarriorArmor" },
+        { "Item": "Tier2TerraheimWeapons"  },
+        { "Item": "Tier2TerraheimArmor"    }
       ]
     },
 
@@ -710,9 +744,10 @@
         { "Item": "Tier3Armor"   },
         { "Item": "Tier3Shields" },
         { "Item": "Tier3Tools"   },
+        { "Item": "Tier3ChaosWarriorArmor"   },
         { "Item": "Tier3HugosMoreTwoHanders" },
-        { "Item": "Tier3TerraheimWeapons" },
-        { "Item": "Tier3TerraheimArmor"   }
+        { "Item": "Tier3TerraheimWeapons"    },
+        { "Item": "Tier3TerraheimArmor"      }
       ]
     },
 
@@ -796,6 +831,18 @@
         { "Item": "Tier5TerraheimWeapons" },
         { "Item": "Tier5TerraheimTools"   },
         { "Item": "Tier5TerraheimArmor"   }
+      ]
+    }
+  ],
+    // Tier 6 Items
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Name": "Tier6Everything",
+      "Loot": [
+        { "Item": "Tier6ChaosWarriorArmor" },
+        { "Item": "Tier6TerraheimWeapons"  },
+        { "Item": "Tier6TerraheimShields"  },
+        { "Item": "Tier6TerraheimArmor"    }
       ]
     }
   ],
@@ -1145,7 +1192,7 @@
           "Drops": [ [0, 50], [1, 46], [2, 3], [3, 1] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
           ]
         },
         {
@@ -1153,7 +1200,7 @@
           "Drops": [ [0, 30], [1, 64], [2, 4], [3, 2] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -1161,7 +1208,7 @@
           "Drops": [ [0, 5], [1, 87], [2, 5], [3, 3] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
           ]
         },
         {
@@ -1169,7 +1216,7 @@
           "Drops": [ [0, 0], [1, 86], [2, 10], [3, 4] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
@@ -1177,7 +1224,7 @@
           "Drops": [ [0, 0], [1, 80], [2, 15], [3, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] }
           ]
         }
       ]
@@ -1191,42 +1238,42 @@
           "Level": 1,
           "Drops": [ [0, 70], [1, 28], [2, 2] ],
           "Loot": [
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 25, 65, 10 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 25, 65, 10 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 50], [1, 46], [2, 3], [3, 1] ],
           "Loot": [
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 30], [1, 64], [2, 4], [3, 2] ],
           "Loot": [
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 5], [1, 87], [2, 5], [3, 3] ],
           "Loot": [
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 86], [2, 10], [3, 4] ],
           "Loot": [
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 80], [2, 15], [3, 5] ],
           "Loot": [
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] }
           ]
         }
       ]
@@ -1551,7 +1598,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -1601,7 +1648,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -1708,7 +1755,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -1758,7 +1805,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -1808,7 +1855,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -1910,7 +1957,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -1960,7 +2007,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -2029,7 +2076,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6TerraheimEverything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
