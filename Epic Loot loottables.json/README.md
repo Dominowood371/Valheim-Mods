@@ -13,6 +13,7 @@ List of mods to be added to the table:
 | [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) | 4.2.2 | Weapons |
 | [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.0.8 | Weapons |
 | [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
+| [Plate Armor](https://www.nexusmods.com/valheim/mods/567) | 1.0.2 | Armor |
 | [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 1.1.0 | Armor |
 | [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.0 | Armor |
 | [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters |
@@ -39,6 +40,10 @@ Distribution of mods in the table.
 * Tier 4 - Silver Weapons, Silver Armor, Wolf Cape
 * Tier 5 - Blackmetal Weapons, Padded Armor, Lox Cape, Linen Cape
 * Tier 6 - Flametal Weapons, Belt
+
+**Plate Armor**
+
+* Tier 3 - Iron Armor
 
 **Barbarian's Armor**
 
