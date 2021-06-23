@@ -213,7 +213,7 @@ item_battleaxe_sledge_blackmetal=Топорный молот из черного
 item_battleaxe_sledge_blackmetal_description=An unbreakable edge, a crushing sledge. Неразрушимая кромка, сокрушительная кувалда.
 item_battleaxe_sledge_fire=Уконвасара
 item_battleaxe_sledge_fire_description=Могущество Укко, призыватель грозы.
-#-------------------------SHIELDS-------------------------
+#-------------------------SHIELDS (Шиты)-------------------------
 item_shield_silverdagger=Parrying Dagger
 item_shield_silverdagger_description=Finesse, rather than brute force, is often the key to victory.
 item_shield_fire=Pridwen
@@ -250,7 +250,7 @@ item_lightningbomb_description=Держа такой мешочек в руке,
 #-------------------------THROWING AXES (Метательные топоры)-------------------------
 item_throwingaxe_flint=Кремневый метательный топор
 item_throwingaxe_bronze=Бронзовый метательный топор
-item_throwingaxe_iron=Poisoned Iron Throwing Axe
+item_throwingaxe_iron=Метательный топор из отравленного железа
 item_throwingaxe_silver=Вурпакса
 item_throwingaxe_blackmetal=Метательный топор из черного металла
 item_throwingaxe_fire=Тюрфинг
