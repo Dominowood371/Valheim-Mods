@@ -1,5 +1,5 @@
 ## Description
-This is a loot table for Epic Loot that adds the improved armor and weapons from various mods.
+This is a [loot table](https://github.com/Dominowood371/Valheim-Mods/blob/main/Epic%20Loot%20loottables.json/loottables.json) for [Epic Loot](https://github.com/RandyKnapp/ValheimMods/tree/main/EpicLoot) that adds the improved armor and weapons from various mods.
 
 
 ### Сontains Mods
