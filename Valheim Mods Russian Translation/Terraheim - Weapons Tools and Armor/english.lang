@@ -178,10 +178,12 @@ item_greatsword_blackmetal_description=An undulating blade of cold, dark steel.
 item_greatsword_folcbrand_description=A keen sword, each strike cuts like a freezing gale.
 item_greatsword_fire_description=Þráinn's pride, Semingr's bane. This inferno has seared the flesh of four hundred and twenty men.
 #-------------------------BATTLEAXES (Боевые топоры)-------------------------
+item_battleaxe_flint=Greatclub
 item_battleaxe_bronze_terraheim=Bronze Battleaxe
 item_battleaxe_silver=Silver Battleaxe
 item_battleaxe_blackmetal=Blackmetal Battleaxe
 item_battleaxe_fire=Ridill
+item_battleaxe_flint_description=Sometimes it is best to not overcomplicate things...
 item_battleaxe_bronze_terraheim_description=Wolf-caller, head-splitter.
 item_battleaxe_silver_description=A chilling blade of pure silver.
 item_battleaxe_blackmetal_description=A harrowing blade of unearthly material.
@@ -211,6 +213,13 @@ item_battleaxe_sledge_blackmetal=Топорный молот из черного
 item_battleaxe_sledge_blackmetal_description=An unbreakable edge, a crushing sledge. Неразрушимая кромка, сокрушительная кувалда.
 item_battleaxe_sledge_fire=Уконвасара
 item_battleaxe_sledge_fire_description=Могущество Укко, призыватель грозы.
+#-------------------------SHIELDS-------------------------
+item_shield_silverdagger=Parrying Dagger
+item_shield_silverdagger_description=Finesse, rather than brute force, is often the key to victory.
+item_shield_fire=Pridwen
+item_shield_fire_description=Arthur's Aegis, an intricate knotwork of burning metal.
+item_shield_fire_tower=Svalinn
+item_shield_fire_tower_description=Sun's Bane, an inferno summoned from intricate knotwork.
 #-------------------------BOWS (Луки)-------------------------
 item_bow_blackmetalTH=Двойной лук из черного металла
 item_bow_blackmetalTH_description=Гибкие кончики из таинственного черного металла предоставляют намного высокую скорость вытягивания титьевы.
