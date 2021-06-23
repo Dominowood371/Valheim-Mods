@@ -21,7 +21,7 @@ List of mods to be added to the table:
 ### Loot table
 Distribution of mods in the table.
 
-**Mobs:**
+**Mobs**
 * Tier 0 - Greyling, Deer, Boar, Neck
 * Tier 0-1 - Skeleton, Greydwarf
 * Tier 1-2 - Greydwarf Brute, Greydwarf Shaman, Poison Skeleton
@@ -31,7 +31,7 @@ Distribution of mods in the table.
 * Tier 5-6 - Fuling Berserker, Fuling Shaman
 * Tier 6 - Surtling
 
-**Terraheim - Weapons Tools and Armor:**
+**Terraheim - Weapons Tools and Armor**
 * Tier 0 - Wood Weapons, Stone Weapons
 * Tier 1 - Flint Weapons, Leather Cape
 * Tier 2 - Bronze Weapons, Troll leather Armor, Bronze Armor, Troll Leather Cape
@@ -55,7 +55,7 @@ Distribution of mods in the table.
 
 **Forsaken**
 
-Items only drop from bosses:
+Very powerful weapons, therefore, only drop from bosses:
 
 * Eikthyr - Static Cleaver
 * Eikthyr -  Bolts Edge
@@ -89,6 +89,27 @@ Adds two-handed weapon drop:
 * Tier5 - Black Metal Battleaxe
 * Tier5 - Dragon Slayer
 
+**Steel Age**
+
+* Tier4 - Nordic Hero Bow
+* Tier4 - Draugr Sword
+* Tier4 - Steel Battle Axe
+* Tier4 - Steel Battle Hammer
+* Tier4 - Steel Mace
+* Tier4 - Steel WarAxe
+* Tier4 - Nordic Steel Sword
+* Tier4 - Swedish Steel Sword
+* Tier4 - Steel Viking Axe
+ 
+**Runic Swords**
+
+Very powerful weapons, therefore, only drop from bosses:
+
+* Eikthyr - Runic Lightning Sword
+* Bonemass - Runic Poison Sword
+* Moder - Runic Ice Sword
+* Yagluth - Runic Fire Sword
+ 
 **Monsternomicon**
 
 Added item drops for new mobs:
