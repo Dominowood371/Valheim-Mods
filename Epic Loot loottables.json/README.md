@@ -1,8 +1,21 @@
-[Epic Loot](http://www.nexusmods.com/valheim/mods/387) Version 0.8.1 - [Terraheim](https://www.nexusmods.com/valheim/mods/803) Version 2.0.6 - [Forsaken](http://www.nexusmods.com/valheim/mods/799) Version 0.7.0 - [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) Version
-4.2.2 - [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) Version 1.0.5
-
 ### Description
 This is a loot table for Epic Loot that adds the improved armor and weapons from various mods.
+
+
+### Сontains Mods
+List of mods to be added to the table:
+
+| Mods | Version | Categories |
+| -- | -- | -- |
+| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) |   0.8.2 | Standard items Game |
+| [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.1.0 | Weapons, Armor |
+| [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons |
+| [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) | 4.2.2 | Weapons |
+| [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters |
+| [MonsterMash](https://www.nexusmods.com/valheim/mods/1284) | 0.0.7 | Enemies, Monsters |
+ 
+### Loot table
+Distribution of mods in the table.
 
 **Mobs:**
 * Tier 0 - Greyling, Deer, Boar, Neck
