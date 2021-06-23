@@ -110,30 +110,30 @@
     // Steel Age MOD
     // Item                      IDS:                     Tier
     // 
-    // Nordic Hero Bow           NordHeroBow              Tier5
-    // Draugr Sword              DraugrSword              Tier5
-    // Steel Battle Axe          SteelBattleAxe           Tier5
-    // Steel Battle Hammer       SteelBattleHammer        Tier5
-    // Steel Mace                SteelMace                Tier5
-    // Steel WarAxe              SteelWarAxe              Tier5
-    // Nordic Steel Sword        NordicSteelSword         Tier5
-    // Swedish Steel Sword       SwedishSteelSword        Tier5
-    // Steel Viking Axe          VikingAxe                Tier5
+    // Nordic Hero Bow           NordHeroBow              Tier4
+    // Draugr Sword              DraugrSword              Tier4
+    // Steel Battle Axe          SteelBattleAxe           Tier4
+    // Steel Battle Hammer       SteelBattleHammer        Tier4
+    // Steel Mace                SteelMace                Tier4
+    // Steel WarAxe              SteelWarAxe              Tier4
+    // Nordic Steel Sword        NordicSteelSword         Tier4
+    // Swedish Steel Sword       SwedishSteelSword        Tier4
+    // Steel Viking Axe          VikingAxe                Tier4
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     {
       "Name": "TierSteelAge",
       "Loot": [
-	{ "Item": "NordHeroBow",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "DraugrSword",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SteelBattleAxe",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SteelBattleHammer",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SteelMace",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SteelWarAxe",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "NordicSteelSword",   "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SwedishSteelSword",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "VikingAxe",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+	{ "Item": "NordHeroBow",        "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "DraugrSword",        "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "SteelBattleAxe",     "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "SteelBattleHammer",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "SteelMace",          "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "SteelWarAxe",        "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "NordicSteelSword",   "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "SwedishSteelSword",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "VikingAxe",          "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
       ]
     },
 	  
@@ -749,6 +749,7 @@
         { "Item": "Tier4Weapons" },
         { "Item": "Tier4Armor"   },
         { "Item": "Tier4Shields" },
+        { "Item": "TierSteelAge" },
         { "Item": "Tier4HugosMoreTwoHanders" },
         { "Item": "Tier4TerraheimWeapons" },
         { "Item": "Tier4TerraheimShields" },
@@ -2086,7 +2087,8 @@
             { "Item": "Tier0Shields",            "Weight": 1, "Rarity": [ 177, 20, 2, 1 ] },
             { "Item": "SledgeStagbreaker",       "Weight": 1, "Rarity": [ 177, 20, 2, 1 ] },
             { "Item": "v801_BattleaxeLightning", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "v801_SwordLightning",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "v801_SwordLightning",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatLightningRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2185,8 +2187,9 @@
           "Level": 1,
           "Drops": [ [1, 0], [2, 60], [3, 35], [4, 5] ],
           "Loot": [
-            { "Item": "Tier3Everything",   "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] },
-            { "Item": "v801_SledgePoison", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "Tier3Everything",      "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] },
+            { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatPoisonRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2239,7 +2242,8 @@
             { "Item": "v801_UnarmedFrost",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFrostOH", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_BowFrost",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "v801_KnifeFrost",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "v801_KnifeFrost",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatIceRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2293,7 +2297,8 @@
             { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_ShieldFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "v801_SpellFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "v801_SpellFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "GreatFireRuneSword",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
