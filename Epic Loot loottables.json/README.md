@@ -7,7 +7,7 @@ List of mods to be added to the table:
 
 | Mods | Version | Categories | Loot table | 
 | -- | -- | -- | -- | 
-| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) |   0.8.2 | Standard items Game |  [:arrow_up:Loot table](###Loot_table) | 
+| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) |   0.8.2 | Standard items Game |  [:arrow_up:Loot table](#loot-table) | 
 | [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.1.0 | Weapons, Armor | [📋](###Loot table) | 
 | [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons | [📋](###Loot table) | 
 | [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) | 4.2.2 | Weapons | [📋](###Loot table) | 
