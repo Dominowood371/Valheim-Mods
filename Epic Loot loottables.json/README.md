@@ -41,10 +41,17 @@ Distribution of mods in the table.
 * Tier 6 - Flametal Weapons, Belt
 
 **Barbarian's Armor**
+
 * Tier 2 - Bronze Armor
 * Tier 3 - Iron Armor
 * Tier 4 - Silver Armor
 * Tier 5 - Padded Armor
+
+**Chaos Warrior Armor**
+
+* Tier 2 - Bronze Armor
+* Tier 3 - Iron Armor
+* Tier 6 - Flametal Armor
 
 **Forsaken**
 
