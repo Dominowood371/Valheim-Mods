@@ -140,12 +140,15 @@ ArmorBarbarianCapeJD_desc=Barbarian Cloak
 item_helmet_barbarian_t3=Iron-Braced Barbarian Helmet
 item_helmet_barbarian_t4=Gilded Barbarian Helmet
 item_helmet_barbarian_t5=Padded Barbarian Helmet
+item_helmet_barbarian_t6=Burning Barbarian Helmet
 item_chest_barbarian_t3=Iron-Braced Barbarian Chestplate
 item_chest_barbarian_t4=Gilded Barbarian Chestplate
 item_chest_barbarian_t5=Padded Barbarian Chestplate
+item_chest_barbarian_t6=Burning Barbarian Chestplate
 item_legs_barbarian_t3=Iron-Braced Barbarian Leggings
 item_legs_barbarian_t4=Gilded Barbarian Leggings
 item_legs_barbarian_t5=Padded Barbarian Leggings
+item_legs_barbarian_t6=Burning Barbarian Leggings
 #------------------------CHAOS-------------------------
 item_helmet_chaos_t0=Chosen Greathelm
 item_helmet_chaos_t10=Padded Chosen Greathelm
