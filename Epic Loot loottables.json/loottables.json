@@ -220,32 +220,40 @@
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Runic Swords MOD
-    // Item                      IDS:                     Tier        Bosses
+    // Item                          IDS:                      Tier        Bosses
+    //   
+    // Runic Lightning Sword         LightningRuneSword        Tier7       Eikthyr
+    // Runic Poison Sword            PoisonRuneSword           Tier7       Bonemass
+    // Runic Ice Sword               IceRuneSword              Tier7       Moder
+    // Runic Fire Sword              FireRuneSword             Tier7       Yagluth
+    //   
+    // Great Runic Lightning Sword   GreatLightningRuneSword   Tier7       Eikthyr
+    // Great Runic Poison Sword      GreatPoisonRuneSword      Tier7       Bonemass
+    // Great Runic Ice Sword         GreatIceRuneSword         Tier7       Moder
+    // Great Runic Fire Sword        GreatFireRuneSword        Tier7       Yagluth
     // 
-    // Runic Lightning Sword     LightningRuneDagger      Tier7       Eikthyr
-    // Runic Poison Sword        PoisonRuneDagger         Tier7       Bonemass
-    // Runic Ice Sword           IceRuneDagger            Tier7       Moder
-    // Runic Fire Sword          FireRuneDagger           Tier7       Yagluth
-    //   
-    // Runic Lightning Sword     LightningRuneSword       Tier7       Eikthyr
-    // Runic Poison Sword        PoisonRuneSword          Tier7       Bonemass
-    // Runic Ice Sword           IceRuneSword             Tier7       Moder
-    // Runic Fire Sword          FireRuneSword            Tier7       Yagluth
-    //   
-    // Runic Lightning Sword     GreatLightningRuneSword  Tier7       Eikthyr
-    // Runic Poison Sword        GreatPoisonRuneSword     Tier7       Bonemass
-    // Runic Ice Sword           GreatIceRuneSword        Tier7       Moder
-    // Runic Fire Sword          GreatFireRuneSword       Tier7       Yagluth
+    // Runic Lightning Dagger        LightningRuneDagger       Tier7       Eikthyr
+    // Runic Poison Dagger           PoisonRuneDagger          Tier7       Bonemass
+    // Runic Ice Dagger              IceRuneDagger             Tier7       Moder
+    // Runic Fire Dagger             FireRuneDagger            Tier7       Yagluth
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     {
       "Name": "TierRunicSwords",
       "Loot": [
-	{ "Item": "GreatLightningRuneSword",    "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-	{ "Item": "GreatPoisonRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-	{ "Item": "GreatIceRuneSword",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-	{ "Item": "GreatFireRuneSword",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
+	{ "Item": "LightningRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "PoisonRuneSword",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "IceRuneSword",             "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "FireRuneSword",            "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },	
+	{ "Item": "GreatLightningRuneSword",  "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "GreatPoisonRuneSword",     "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "GreatIceRuneSword",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "GreatFireRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },	
+	{ "Item": "LightningRuneDagger",      "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "PoisonRuneDagger",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "IceRuneDagger",            "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "FireRuneDagger",           "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
       ]
     },
 	  
