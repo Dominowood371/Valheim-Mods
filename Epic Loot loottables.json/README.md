@@ -11,7 +11,7 @@ List of mods to be added to the table:
 | [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.1.0 | Weapons, Armor |
 | [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons |
 | [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) | 4.2.2 | Weapons |
-| [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.0.8 | Weapons |
+| [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.0.9 | Weapons |
 | [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
 | [Plate Armor](https://www.nexusmods.com/valheim/mods/567) | 1.0.2 | Armor |
 | [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 1.1.0 | Armor |
