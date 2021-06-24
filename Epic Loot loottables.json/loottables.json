@@ -222,6 +222,16 @@
     // Runic Swords MOD
     // Item                      IDS:                     Tier        Bosses
     // 
+    // Runic Lightning Sword     LightningRuneDagger      Tier7       Eikthyr
+    // Runic Poison Sword        PoisonRuneDagger         Tier7       Bonemass
+    // Runic Ice Sword           IceRuneDagger            Tier7       Moder
+    // Runic Fire Sword          FireRuneDagger           Tier7       Yagluth
+    //   
+    // Runic Lightning Sword     LightningRuneSword       Tier7       Eikthyr
+    // Runic Poison Sword        PoisonRuneSword          Tier7       Bonemass
+    // Runic Ice Sword           IceRuneSword             Tier7       Moder
+    // Runic Fire Sword          FireRuneSword            Tier7       Yagluth
+    //   
     // Runic Lightning Sword     GreatLightningRuneSword  Tier7       Eikthyr
     // Runic Poison Sword        GreatPoisonRuneSword     Tier7       Bonemass
     // Runic Ice Sword           GreatIceRuneSword        Tier7       Moder
@@ -2179,7 +2189,9 @@
             { "Item": "v801_SwordLightning",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordFire",          "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFenring",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "GreatLightningRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "LightningRuneSword",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatLightningRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "LightningRuneDagger",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2284,7 +2296,9 @@
             { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFenring",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "GreatPoisonRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "PoisonRuneSword",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatPoisonRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "PoisonRuneDagger",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2340,7 +2354,9 @@
             { "Item": "v801_KnifeFrost",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "GreatIceRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "IceRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatIceRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "IceRuneDagger",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2395,7 +2411,9 @@
             { "Item": "v801_ShieldFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "GreatFireRuneSword",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "FireRuneSword",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "GreatFireRuneSword",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "FireRuneDagger",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
