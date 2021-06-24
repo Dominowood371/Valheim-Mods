@@ -121,18 +121,56 @@ Added item drops for new mobs:
 
 * Tier 5 - Ocean, Mistlands, DeepNorth
 * Tier 6 - Ashlands
+
+| Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Tier |
+| ---- | ------------------- | ------------------------ | ------ | ------ |
+| Fire-breathing Drake | AshHatchling | Hatchling | 750 |  |
+| Cinderwings | AshMosquito | Deathsquito | 5 |  |
+| Ash-eater Neck | AshNeck | Neck | 850 |  |
+| Blazing Bones | BlazingBones | SkeletonWarrior | 180 | Tier 6 |
+| Burned Bones | BurnedBones | SkeletonWarrior | 240 | Tier 6 | 
+| Elder Surtling | ElderSurtling | Surtling | 80 | Tier 7 | 
+| Ash-eater Tadpole | SmallAshNeck | Neck |  100 | Tier 3 | 
+| Swollen Body | SwollenBody | Draugr | 320 | Tier 3  | 
+| Frozen Corpse | AngryFrozenCorpse | SkeletonWarriorIce | 320  | Tier 5  | 
+| Boreal Spirit | AngrySpirit | Ghost |  55 | Tier 3  | 
+| Boreal Spirit | CalmSpirit | Ghost | 55 | Tier 3 | 
+| Dvergr | Dvergr | RRR_NPC | 280 | Tier 4 | 
+| Dvergr | DvergrEvent | RRR_NPC | 280 | Tier 4 | 
+| Frozen Corpse | FrozenCorpse | SkeletonWarrior | 280 | Tier 5 | 
+| Pale-coat Fenring | PolarFenring | Fenring | 800 | Tier 5 | 
+| Icebreaker Lox | PolarLox | Lox | 1000 | Tier 5 | 
+| Silver Golem | SilverGolem | StoneGolem | Tier 5 |   | 
+| Icebreaker Calf | SmallPolarLox | Lox | 400 | Tier 5 | 
+| Frost-brood Serpent | SmallPolarSerpent | Serpent |  250 | Tier 5 | 
+| Moonlit Moth | DarkMosquito | Deathsquito | 5 | Tier 5 | 
+| Moonlit Warden | DarkProtector | gd_king | 1800 | Tier 3 | 
+| Sentinel GloomWeaver | DarkSpider | TreeSpider | 140 |   | 
+| Suffocating GloomWeaver | PoisonDarkSpider | TreeSpider | 650 |   | 
+| Brood GloomWeaver | SmallDarkSpider | TreeSpider | 140 |   | 
+| Svartalfr | Svartalfr | RRR_NPC | 220 |   | 
+| Svartalfr | SvartalfrArcher | RRR_NPC | 220 |   | 
+| Svartalfr | SvartalfrBrigade | RRR_NPC | 220 |   | 
+| Inexorable Svartalfr | SvartalfrHeavy | RRR_NPC | 220 |   | 
+| Duskseeker Svartalfr | SvartalfrMage | RRR_NPC | 220 |   | 
+| Drowned Soul | DrownedSoul | Wraith | 120 | Tier 5 | 
+| Storm-herald Wyrven | StormHatchling | Hatchling | 140 | Tier 5 | 
+| Storm-devourer Vargr | StormWolf | Wolf | 160 | Tier 4 | 
+
+
+
 * Tier 5-6 - Boss
 
-| Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Damage |
-| -- | -- | -- | -- | -- |
-| BroodMother GloomWeaver       | MotherDarkSpider | Tree Spider          | 650                      | Blunt, Slash |
-| The Damned One                | BlazingDamnedOne | SkeletonWarrior      | 1500                     | Blunt, Poison, Fire |
-| The Damned One                | DammedOne        | SkeletonWarrior      | 2500                     | Blunt, Poison |
-| The One Who Hunts in the Rain | StormFenring     | Fenring              | 1600                     | Blunt, Lightning |
-| The One Who is Always Hungry  | DevourerFenring  | Fenring              | 2800                     | Slash, Blunt |
-| The Forgotten One             | ForgottenOne     | Skeleton Warrior Ice | 2800                     | Pierce, Frost |
-| The Mourning Queen            | SvartalfrQueen   | RRR_NPC              | 1800                     | Blunt, Poison |
-| Jotunn                        | Jotunn           | Troll                | 18000                    | Blunt, Chop, Pickaxe |
+| Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Damage | Tier |
+| ---- | ------------------- | ------------------------ | ------ | ------ | ---- |
+| BroodMother GloomWeaver       | MotherDarkSpider | Tree Spider          | 650                      | Blunt, Slash |  |
+| The Damned One                | BlazingDamnedOne | SkeletonWarrior      | 1500                     | Blunt, Poison, Fire |  |
+| The Damned One                | DammedOne        | SkeletonWarrior      | 2500                     | Blunt, Poison |  |
+| The One Who Hunts in the Rain | StormFenring     | Fenring              | 1600                     | Blunt, Lightning |  |
+| The One Who is Always Hungry  | DevourerFenring  | Fenring              | 2800                     | Slash, Blunt |  |
+| The Forgotten One             | ForgottenOne     | Skeleton Warrior Ice | 2800                     | Pierce, Frost | Tier 5 |
+| The Mourning Queen            | SvartalfrQueen   | RRR_NPC              | 1800                     | Blunt, Poison |  |
+| Jotunn                        | Jotunn           | Troll                | 18000                    | Blunt, Chop, Pickaxe | Tier 5 |
 
 ### Install
 To install, just copy the text from the `loottable.json` file and paste into your `loottable.json` file or download the `loottable.json` file with replacement, move the file to the folder `\Valheim\BepInEx\plugins`
