@@ -1,12 +1,12 @@
 #=========================ARMOR (Броня)==========================
-#------------------------CRAFTING-------------------------
+#------------------------CRAFTING (Крафт)-------------------------
 piece_reforger=Верстак оружейника
 piece_reforger_ext1=Troll-Hide Hammers
 piece_reforger_ext2=Basin Forge
 piece_reforger_ext3=Stake Block
 piece_reforger_ext4=Hammer Rack
 piece_reforger_ext5=Blackmetal Swage Block
-#------------------------RESOURCES-------------------------
+#------------------------RESOURCES (Ресурсы)-------------------------
 item_salamander_fur=Salamander Fur
 item_salamander_fur_description=You or a loved one could be entitled to financial compensation...
 #------------------------CLASSES (Класси)-------------------------
@@ -15,7 +15,7 @@ class_ranger=Bowman
 class_tank=Shieldbrother
 class_thrower=Skirmisher
 class_challenge=Braggart
-#------------------------CAPES-------------------------
+#------------------------CAPES (Накидки)-------------------------
 item_cape_deerhideT0=Fur-Lined Deer Hide Cape
 item_cape_deerhideT1=Salamander-Lined Deer Hide Cape
 item_cape_trollhideT0=Fur-Lined Troll Hide Cape
@@ -26,7 +26,7 @@ item_cape_linenT0=Fur-Lined Linen Cape
 item_cape_linenT1=Salamander-Lined Linen Cape
 ArmorBarbarianCapeJDT0=Fur-Lined Barbarian Cape
 ArmorBarbarianCapeJDT1=Salamander-Lined Barbarian Cape
-#------------------------RAG-------------------------
+#------------------------RAG (Холщовая)-------------------------
 item_chest_rags_t0=Béotes Shirt
 item_chest_rags_t1=Troll-Reinforced Béotes Shirt
 item_chest_rags_t2=Bronze-Reinforced Béotes Shirt
@@ -41,7 +41,7 @@ item_legs_rags_t3=Iron-Reinforced Béotes Pants
 item_legs_rags_t4=Silver-Reinforced Béotes Pants
 item_legs_rags_t5=Padded Béotes Pants
 item_legs_rags_t6=Burning Béotes Pants
-#------------------------LEATHER-------------------------
+#------------------------LEATHER (Кожаная)-------------------------
 item_helmet_leather_t0=Fyrd Skullcap
 item_helmet_leather_t1=Troll-Reinforced Fyrd Skullcap
 item_helmet_leather_t2=Bronze-Reinforced Fyrd Skullcap
@@ -63,7 +63,7 @@ item_legs_leather_t3=Iron-Reinforced Fyrd Pants
 item_legs_leather_t4=Silver-Reinforced Fyrd Pants
 item_legs_leather_t5=Padded Fyrd Pants
 item_legs_leather_t6=Burning Fyrd Pants
-#------------------------TROLL LEATHER-------------------------
+#------------------------TROLL LEATHER (Из кожи тролля)-------------------------
 item_helmet_trollleather_t0=Jötunn Hood
 item_helmet_trollleather_t2=Bronze-Reinforced Jötunn Hood
 item_helmet_trollleather_t3=Iron-Reinforced Jötunn Hood
@@ -82,7 +82,7 @@ item_legs_trollleather_t3=Iron-Reinforced Jötunn Pants
 item_legs_trollleather_t4=Silver-Reinforced Jötunn Pants
 item_legs_trollleather_t5=Padded Jötunn Pants
 item_legs_trollleather_t6=Burning Jötunn Pants
-#------------------------BRONZE-------------------------
+#------------------------BRONZE (Бронзовая)-------------------------
 item_helmet_bronze_t0=Eorl Helmet
 item_helmet_bronze_t3=Iron-Braced Eorl Helmet
 item_helmet_bronze_t4=Silver-Etched Eorl Helmet
@@ -98,7 +98,7 @@ item_legs_bronze_t3=Iron-Braced Eorl Greaves
 item_legs_bronze_t4=Silver-Etched Eorl Greaves
 item_legs_bronze_t5=Padded Eorl Greaves
 item_legs_bronze_t6=Burning Eorl Greaves
-#------------------------IRON-------------------------
+#------------------------IRON (Железная)-------------------------
 item_helmet_iron_t0=Thegn Helmet
 item_helmet_iron_t4=Silver-Etched Thegn Helmet
 item_helmet_iron_t5=Padded Thegn Helmet
@@ -111,7 +111,7 @@ item_legs_iron_t0=Thegn Greaves
 item_legs_iron_t4=Silver-Etched Thegn Greaves
 item_legs_iron_t5=Padded Thegn Greaves
 item_legs_iron_t6=Burning Thegn Greaves
-#------------------------SILVER-------------------------
+#------------------------SILVER (Серебряная)-------------------------
 item_helmet_drake_t0=Wyrdwulf Helmet
 item_helmet_drake_t5=Padded Wyrdwulf Helmet
 item_helmet_drake_t6=Burning Wyrdwulf Helmet
@@ -121,14 +121,14 @@ item_chest_wolf_t6=Burning Wyrdwulf Mail
 item_legs_wolf_t0=Wyrdwulf Chausses 
 item_legs_wolf_t5=Padded Wyrdwulf Chausses 
 item_legs_wolf_t6=Burning Wyrdwulf Chausses 
-#------------------------PADDED-------------------------
+#------------------------PADDED (Обитая)-------------------------
 item_helmet_padded_t0=Huscarl Helmet
 item_helmet_padded_t6=Burning Huscarl Helmet
 item_chest_padded_t0=Huscarl Scalemail
 item_chest_padded_t6=Burning Huscarl Scalemail
 item_legs_padded_t0=Huscarl Greaves 
 item_legs_padded_t6=Burning Huscarl Greaves 
-#------------------------BARBARIAN-------------------------
+#------------------------BARBARIAN (Варварская)-------------------------
 ArmorBarbarianBronzeHelmetJD=Barbarian Helmet
 ArmorBarbarianBronzeChestJD=Barbarian Chestplate
 ArmorBarbarianBronzeLegsJD=Barbarian Leggings
@@ -149,7 +149,7 @@ item_legs_barbarian_t3=Iron-Braced Barbarian Leggings
 item_legs_barbarian_t4=Gilded Barbarian Leggings
 item_legs_barbarian_t5=Padded Barbarian Leggings
 item_legs_barbarian_t6=Burning Barbarian Leggings
-#------------------------CHAOS-------------------------
+#------------------------CHAOS (Хаоса)-------------------------
 item_helmet_chaos_t0=Chosen Greathelm
 item_helmet_chaos_t10=Padded Chosen Greathelm
 item_helmet_chaos_t20=Burning Chosen Greathelm
