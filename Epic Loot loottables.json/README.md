@@ -114,6 +114,14 @@ Very powerful weapons, therefore, only drop from bosses:
 * Bonemass - Runic Poison Sword
 * Moder - Runic Ice Sword
 * Yagluth - Runic Fire Sword
+* Eikthyr - Great Runic Lightning Sword
+* Bonemass - Great Runic Poison Sword
+* Moder - Great Runic Ice Sword
+* Yagluth - Great Runic Fire Sword
+* Eikthyr - Runic Lightning Dagger
+* Bonemass - Runic Poison Dagger
+* Moder - Runic Ice Dagger
+* Yagluth - Runic Fire Dagger
  
 **Monsternomicon**
 
