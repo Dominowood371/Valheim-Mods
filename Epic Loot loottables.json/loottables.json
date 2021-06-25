@@ -223,16 +223,19 @@
     // Item                          IDS:                      Tier        Bosses
     //   
     // Runic Lightning Sword         LightningRuneSword        Tier7       Eikthyr
+    // Runic Spirit Sword            SpiritRuneSword           Tier7       The Elder
     // Runic Poison Sword            PoisonRuneSword           Tier7       Bonemass
     // Runic Ice Sword               IceRuneSword              Tier7       Moder
     // Runic Fire Sword              FireRuneSword             Tier7       Yagluth
     //   
     // Great Runic Lightning Sword   GreatLightningRuneSword   Tier7       Eikthyr
+    // Great Runic Spirit Sword      GreatSpiritRuneSword      Tier7       The Elder
     // Great Runic Poison Sword      GreatPoisonRuneSword      Tier7       Bonemass
     // Great Runic Ice Sword         GreatIceRuneSword         Tier7       Moder
     // Great Runic Fire Sword        GreatFireRuneSword        Tier7       Yagluth
     // 
     // Runic Lightning Dagger        LightningRuneDagger       Tier7       Eikthyr
+    // Runic Spirit Dagger           SpiritRuneDagger          Tier7       The Elder
     // Runic Poison Dagger           PoisonRuneDagger          Tier7       Bonemass
     // Runic Ice Dagger              IceRuneDagger             Tier7       Moder
     // Runic Fire Dagger             FireRuneDagger            Tier7       Yagluth
@@ -1657,8 +1660,20 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier6Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },		  
+            { "Item": "v801_SpellFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SledgeFire",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_ShieldFire",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "PoisonRuneSword",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatPoisonRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "PoisonRuneDagger",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "FireRuneSword",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatFireRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "FireRuneDagger",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -1707,8 +1722,14 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier6Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "PoisonRuneSword",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatPoisonRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "PoisonRuneDagger",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -1814,8 +1835,13 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier6Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatSpiritRuneSword",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneDagger",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -1864,8 +1890,17 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier6Everything",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_UnarmedFrost",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFrostOH", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_BowFrost",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_KnifeFrost",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "IceRuneSword",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatIceRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "IceRuneDagger",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -1914,8 +1949,10 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier6Everything",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "TierForsaken",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "TierRunicSwords",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
@@ -2016,8 +2053,13 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier6Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatSpiritRuneSword",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneDagger",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2066,8 +2108,14 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier6Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "PoisonRuneSword",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatPoisonRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "PoisonRuneDagger",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2135,8 +2183,15 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything",         "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier6Everything",         "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_BattleaxeLightning", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordLightning",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",          "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "LightningRuneSword",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatLightningRuneSword", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "LightningRuneDagger",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2248,10 +2303,13 @@
           "Level": 1,
           "Drops": [ [1, 35], [2, 55], [3, 10], [4, 0] ],
           "Loot": [
-            { "Item": "Tier2Everything",     "Weight": 1, "Rarity": [ 59, 29, 10, 2 ] },
-            { "Item": "v801_SpearSpirit",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "Tier2Everything",         "Weight": 1, "Rarity": [ 59, 29, 10, 2 ] },
+            { "Item": "v801_SpearSpirit",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_SwordFire",          "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneSword",         "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatSpiritRuneSword",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneDagger",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2362,9 +2420,9 @@
             { "Item": "v801_KnifeFrost",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "IceRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "IceRuneSword",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "GreatIceRuneSword",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
-            { "Item": "IceRuneDagger",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+            { "Item": "IceRuneDagger",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
           ]
         },
         {
@@ -2419,9 +2477,9 @@
             { "Item": "v801_ShieldFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_UnarmedFenring", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "FireRuneSword",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "FireRuneSword",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "GreatFireRuneSword",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "FireRuneDagger",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "FireRuneDagger",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
