@@ -71,10 +71,10 @@ Very powerful weapons, therefore, only drop from bosses:
 * Moder - Rimefang
 * Moder - Icicle
 * Yagluth - Molten Star
-* Yagluth - Lycanthro
 * Yagluth - Aegis of the Dead King
-* Yagluth - Riftblade
 * Yagluth - Chaotic Hand
+* All - Riftblade
+* All - Lycanthro
 
 **Two Handed Weapons**
 
@@ -111,14 +111,17 @@ Adds two-handed weapon drop:
 Very powerful weapons, therefore, only drop from bosses:
 
 * Eikthyr - Runic Lightning Sword
+* The Elder - Runic Spirit Sword
 * Bonemass - Runic Poison Sword
 * Moder - Runic Ice Sword
 * Yagluth - Runic Fire Sword
 * Eikthyr - Great Runic Lightning Sword
+* The Elder - Great Runic Spirit Sword
 * Bonemass - Great Runic Poison Sword
 * Moder - Great Runic Ice Sword
 * Yagluth - Great Runic Fire Sword
 * Eikthyr - Runic Lightning Dagger
+* The Elder - Runic Spirit Dagger
 * Bonemass - Runic Poison Dagger
 * Moder - Runic Ice Dagger
 * Yagluth - Runic Fire Dagger
@@ -169,16 +172,16 @@ Added item drops for new mobs:
 
 * Tier 5-6 - Boss
 
-| Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Damage | Tier |
-| ---- | ------------------- | ------------------------ | ------ | ------ | ---- |
-| BroodMother GloomWeaver       | MotherDarkSpider | Tree Spider          | 650                      | Blunt, Slash |  |
-| The Damned One                | BlazingDamnedOne | SkeletonWarrior      | 1500                     | Blunt, Poison, Fire |  |
-| The Damned One                | DammedOne        | SkeletonWarrior      | 2500                     | Blunt, Poison |  |
-| The One Who Hunts in the Rain | StormFenring     | Fenring              | 1600                     | Blunt, Lightning |  |
-| The One Who is Always Hungry  | DevourerFenring  | Fenring              | 2800                     | Slash, Blunt |  |
-| The Forgotten One             | ForgottenOne     | Skeleton Warrior Ice | 2800                     | Pierce, Frost | Tier 5 |
-| The Mourning Queen            | SvartalfrQueen   | RRR_NPC              | 1800                     | Blunt, Poison |  |
-| Jotunn                        | Jotunn           | Troll                | 18000                    | Blunt, Chop, Pickaxe | Tier 5 |
+| Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Damage | Tier | Item Drops |
+| ---- | ------------------- | ------------------------ | ------ | ------ | ---- | ---------- |
+| BroodMother GloomWeaver       | MotherDarkSpider | Tree Spider          | 650   | Blunt, Slash |  | Riftblade, Lycanthro, Spirit Rune Sword, Great Spirit Rune Sword, Spirit Rune Dagger
+| The Damned One                | BlazingDamnedOne | SkeletonWarrior      | 1500  | Blunt, Poison, Fire |  | Rotclub, Chaotic Hand, Molten Star, Aegis of the Dead King, Riftblade, Lycanthro, Runic Poison Sword, Runic Fire Sword, Great Runic Poison Sword, Great Runic Fire Sword, Runic Poison Dagger, Runic Fire Dagger
+| The Damned One                | DammedOne        | SkeletonWarrior      | 2500  | Blunt, Poison |  | Rotclub, Riftblade, Lycanthro, Poison Rune Sword, Great Poison Rune Sword, Poison Rune Dagger
+| The One Who Hunts in the Rain | StormFenring     | Fenring              | 1600  | Blunt, Lightning |  | Static Cleaver, Bolts Edge, Riftblade, Lycanthro, Lightning Rune Sword, Great Lightning Rune Sword, Lightning Rune Dagger
+| The One Who is Always Hungry  | DevourerFenring  | Fenring              | 2800  | Slash, Blunt |  | Riftblade, Lycanthro, Spirit Rune Sword, Great Spirit Rune Sword, Spirit Rune Dagger
+| The Forgotten One             | ForgottenOne     | Skeleton Warrior Ice | 2800  | Pierce, Frost | Tier 5 | Wyrmfist, Wyrmripper, Rimefang, Icicle, Riftblade, Lycanthro, Runic Ice Sword, Great Runic Ice Sword, Runic Ice Dagger
+| The Mourning Queen            | SvartalfrQueen   | RRR_NPC              | 1800  | Blunt, Poison |  | Rotclub, Riftblade, Lycanthro, Poison Rune Sword, Great Poison Rune Sword, Poison Rune Dagger
+| Jotunn                        | Jotunn           | Troll                | 18000 | Blunt, Chop, Pickaxe | Tier 5 | Static Cleaver, Bolts Edge, Spiritine, Rotclub, Wyrmfist, Wyrmripper, Rimefang, Icicle, Chaotic Hand, Molten Star, Aegis of the Dead King, Riftblade, Lycanthro, Runic Lightning Sword, Runic Spirit Sword, Runic Poison Sword, Runic Ice Sword, Runic Fire Sword, Great Runic Lightning Sword, Great Runic Spirit Sword, Great Runic Poison Sword, Great Runic Ice Sword, Great Runic Fire Sword, Runic Lightning Dagger, Runic Spirit Dagger, Runic Poison Dagger, Runic Ice Dagger, Runic Fire Dagger
 
 ### Install
 To install, just copy the text from the `loottable.json` file and paste into your `loottable.json` file or download the `loottable.json` file with replacement, move the file to the folder `\Valheim\BepInEx\plugins`
