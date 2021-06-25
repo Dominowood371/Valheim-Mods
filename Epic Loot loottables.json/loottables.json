@@ -247,13 +247,16 @@
       "Loot": [
 	{ "Item": "LightningRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "PoisonRuneSword",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "SpiritRuneSword",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "IceRuneSword",             "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "FireRuneSword",            "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },	
 	{ "Item": "GreatLightningRuneSword",  "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "GreatSpiritRuneSword",     "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "GreatPoisonRuneSword",     "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "GreatIceRuneSword",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "GreatFireRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },	
 	{ "Item": "LightningRuneDagger",      "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+	{ "Item": "SpirituneDagger",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "PoisonRuneDagger",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "IceRuneDagger",            "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
 	{ "Item": "FireRuneDagger",           "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
