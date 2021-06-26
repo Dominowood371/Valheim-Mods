@@ -1,0 +1,262 @@
+Magic Dust - Магическая пыль
+
+Rare Dust - Редкая пыль
+
+Epic Dust - Эпическая пыль
+
+Legendary Dust - Легендарная пыль
+
+The remant upon the sacrificial altar. Used to enchant items. Obtained by sacrificing magic items.
+
+Остатки из жертвенного алтаря. Используется для зачарования предметов. Добывается путем жертвоприношения, зачарованных предметов.
+
+Magic Essence - Магическая эссенция
+
+Rare Essence - Редкая эссенция
+
+Epic Essence - Эпическая эссенция
+
+Legendary Essence - Легендарная эссенция
+
+The distilled protean power to change one's environment. Used to enchant or augment weapons and tools. Obtained by sacrificing magic weapons or tools.
+
+Дистиллированная многогранная сила способная изменять окружающую среду. Используется для зачарования или улучшения оружия и инструментов. Добывается путем жертвоприношения, зачарованного оружия или инструментов.
+
+Magic Reagent - Магический реагент
+
+Rare Reagent - Редкий реагент
+
+Epic Reagent - Эпический реагент
+
+Legendary Reagent - Легендарний реагент
+
+A form representing pure synthesis. Used to enchant or augment armor and shields. Obtained by sacrificing magic armor or shields.
+
+Форма, представляющая собой чистый синтез. Используется для зачарования или улучшения брони и щитов. Добывается путем жертвоприношения, зачарованной брони или щитов.
+
+Magic Runestone - Магический рунный камень
+
+Rare Runestone - Редкий рунный камень
+
+Epic Runestone - Эпический рунный камень
+
+Legendary Runestone - Легендарний рунный камень
+
+A catalyst of empyreal potential. Used to enchant or augment magic items. Obtained by sacrificing powerful trophies.
+
+Катализатор эмпирического потенциала. Используется для зачарования или увеличения зачарованных предметов. Добывается путем жертвоприношения, могущественных трофеев.
+
+Magic Shard - Магический осколок
+
+Rare Shard - Редкий осколок
+
+Epic Shard - Эпический осколок
+
+Legendary Shard - Легендарний осколок
+
+A sliver of monstrous lifeforce. Used to augment magic items. Obtained by sacrificing animal and monster trophies.
+
+Осколок чудовищной жизненной силы. Используется для усиления зачарованных предметов. Добывается путем жертвоприношения, трофеев животных и монстров.
+
+Andvaranaut - Андваранаут 
+
+A dwarven-crafted ring in the shape of a dragon. Supposedly, it will guide any who wear it to sources of gold, but this one seems to be cursed to only find Haldor's treasure chests.
+
+Кольцо в форме дракона, созданное гномами. Предпологается что оно может помочь в поиске источников золота, любого кто наденет его, но кажется оно было проклято (озорной Бог Локи украла сокровище Андвари и кольцо. В отместку Андвари проклял кольцо, чтобы принести несчастья и разрушения тому, кто им владеет) и теперь оно находить только сундуки с сокровищами Хальдора.
+
+Gold Ruby Ring - Золотое кольцо с рубином
+
+A beautiful ring of fine gold, set with a square-cut ruby
+
+Красивое кольцо из чистого золота, содержащее рубин с квадратной огранкой.
+
+Leather Belt - Кожаный ремень
+
+A common leather belt. Holds your pants up.
+
+Обычный кожаный ремень. Поддерживающий штаны.
+
+Silver Ring - Серебряное кольцо
+
+An intricately wrought loop of fine silver
+
+Одна неразрывно кованая петля из чистого серебра.
+
+Forest Token - Жетон лесника
+
+A small metal token bearing a brilliant green leaf insignia.
+
+Маленький металлический жетон с эмблемой в виде блестящего зеленого листа.
+
+Iron Bounty Token - Железный жетон Охотника
+
+A toothy iron skull that commemorates your deeds.
+
+Зубастый железный череп для памяти о твоих подвигах.
+
+Gold Bounty Token - Золотой жетон Охотника
+
+Only the greatest monster-slayers of Valheim carry these heavy tokens.
+
+Только величайшие убийцы монстров Вальхейма носят такие тяжелые жетоны.
+
+---------------------------
+
+Heimdall (tank) - Хеймдалль
+
+Tower Shield (Guardian of the Gods) - Хранитель богов 
+Head (Son of Nine Mothers) - Сын девяти матерей
+Cape () - 
+Chest (Heart of the Bifrost) - Сердце Биврёста
+Legs (Stride of the Aesir) - Проводник Асов
+
+
+Ragnar (aoe) - Рагнар 
+
+Battleaxe (Serpentsbane) - Змеиный Бич
+Head () - 
+Cape (Ragnar's Boneless Wrap) -  Накидка Рагнара Бескостного
+Chest (Ragnar's White Shirt) - Рубашка Рагнара Хвитсерка
+Legs (Ragnar's Ironsides) - Штаны Рагнара Железнобокого
+
+
+Bloodaxe (dps) - Кровавая Секира
+
+Knife (Fratricide) - Братоубийца
+Head (Bloodaxe's Crown) - Корона Кровавой Секиры
+Cape (Bloodaxe's Royal Mantle) - Королевская мантия Кровавой Секиры
+Chest () - 
+Legs (Bloodaxe's Boots) - Ботинки Кровавой Секиры
+
+
+Agilaz (bow) - Эгиль
+
+Bow (King's Warning/Second Arrow) - Предупреждение короля, второй стрелой
+Head () - 
+Cape (Völund's Wings) - Крылья Велунда
+Chest (Skadi's Hunting Coat) - Охотничье пальто Скади
+Legs (Ullr's Hunting Skis) - Охотничьи лыжи Уллра
+
+
+Eir (healing) - Эйр
+
+Head (Gaze of Frigg) -  Взгляд Фригги
+Cape (Wings of the Valkyrie) - Крылья Валькирии
+Chest (Feast of Protection) - Пиршество защитника
+Legs (Arrival of Aid) -  Прибывающая подержка
+
+
+Wayfarer (exploration) - Странник
+
+Head () - 
+Cape () -
+Chest () - 
+Legs() - 
+
+Coxswain (sailing) - Рулевой
+
+Head () - 
+Cape () -
+Chest () - 
+Legs() - 
+
+-----
+ ✔ Sleipnir's Hoof (Club, increase move speed) - Копыто Слейпнира
+ ✔ Gungnir (Ancient Bark Spear) - Гунгнир, копье Одина
+ ✔ Mjolnir (Iron Sledge) - Мьёльнир
+ ✔ Skofnung (Iron Sword) - Скофнунг
+ Dainslief (Silver Sword) - Дайнслейф
+ ✔ Angurvadal (Sword) - Ангурва
+  Vidar's Shoes (Iron Legs, huge kick damage boost?) - Башмаки Видара
+  Skidbaldnir (ship that can turn into an item) - Скидбладнир
+  Hofund (Sword, charges with each kill, then discharges on heavy attack) - Хофунд
+  Gjallarhorn (Tankard, when used (how?) makes all enemies flee from the player) - Гьяллархорн
+  Draupner (Ring, Luck and increased gold drops) - Драупнир
+  Grídarvöl (staff/club, ??? nobody knows that this does?) - Гридарвёль
+  Járngreipr (gauntlets (utility?), Fire-immunity, can throw any weapon?) - Ярнгрейпр 
+  Sword of Freyr (sword) - Меч Фрейра
+  Falcon Cloak of Freyja (cape, actually transform into bird?!) - Соколиный плащ Фрейи
+  Brísingamen (necklace/utility, no enemies attack you, unless attacked) - Брисингамен
+  Eldhrimnir (cauldron material, used to built a special cauldron that makes double or triple amount) - Эльдхримнир
+  Odrerir (fermentor material, unlocks the Mead of Poetry recipe and allows fermenting the mead of poetry) - Одрёрир
+  Mead of Poetry (mead, double XP for a time) - Мёд поэзии
+  Aegishjalmarr (helm, ability to paralyze all enemies in range) - Агисхьяльм
+ ✔ Gram/Fafnir's Bane (sword) - Грам
+  Ridill and Hrotti (paired swords, just two swords? set item swords? can't even dual wield in game) - Ридиль и Хротти
+  Refil (sword) - Ревиль
+  Balmung (sword) - Бальмунг
+  Shield of Nuodung (shield) - Щит Нуодунга
+  Naglhring (sword) - Наглхринг 
+  Ekkisax (sword) - Эккисакс 
+  Hildigrim (helm) - Боевой шлем, Хильдигрим
+  Lagulf (sword) - Бринниг
+  Blodgang (sword) - Блутганг 
+  Finnsleif (armor) - Наследие Финна
+  Hildigolt (helm) - Боевой кабан, Хильдиголт
+  Hildisvin (helm) - Боевой вепрь, Хильдисвин
+  Ring of Helgi (ring, waterbreathing? Frost immunity?) - Кольцо Хельги
+  Sviagris (ring) - Свейская Свинья
+  Tarnkappe (cape, "Cloak of Darkness" sneaking?) - Плащ невидимости
+  Mimung (sword) - Мимунг
+  Naegling (sword, Beowulf, twigs and serpents design) - Нэглинг
+
+✔✖
+Blob             ✔
+BlobElite        ✔
+Boar             ✔
+Bonemass         ✔
+Hatchling        ✔
+Deer             ✔
+Deathsqui        ✔
+Draugr           ✔
+Draugr_Ranged    ✖
+Draugr_Elite     ✔
+Dragon           ✔
+Fenring          ✔
+Goblin           ✔
+GoblinArcher     ✖
+GoblinBrute      ✔
+GoblinShaman     ✔
+GoblinKing       ✔
+Ghost            ✔
+Greydwarf        ✔
+Greydwarf_Elite  ✔
+Greydwarf_Shaman ✔
+Greyling         ✔
+Leech            ✔
+Leviathan        ✖
+Neck             ✔
+Skeleton         ✔
+Skeleton_Poison  ✔
+StoneGolem       ✔
+Surtling         ✔
+Serpent          ✔
+Troll            ✔
+Wraith           ✔
+Wolf             ✔
+Eikthyr          ✔
+gd_king          ✔
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
