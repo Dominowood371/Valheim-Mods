@@ -7,8 +7,8 @@ piece_reforger_ext3=Stake Block
 piece_reforger_ext4=Hammer Rack
 piece_reforger_ext5=Blackmetal Swage Block
 #------------------------RESOURCES (Ресурсы)-------------------------
-item_salamander_fur=Salamander Fur
-item_salamander_fur_description=You or a loved one could be entitled to financial compensation...
+item_salamander_fur=Шкура саламандры
+item_salamander_fur_description=Вы или ваш близкий человек может(е) обменять этот ценный ресурс на денежное вознаграждение...
 #------------------------CLASSES (Класси)-------------------------
 class_berserker=Berserkr
 class_ranger=Bowman
@@ -189,8 +189,8 @@ item_battleaxe_silver_description=A chilling blade of pure silver.
 item_battleaxe_blackmetal_description=A harrowing blade of unearthly material.
 item_battleaxe_fire_description=Regin's treasure, heart ripper, dragon slayer.
 #------------------------ARROWS (Стрелы)-------------------------
-item_arrow_great_fire=Flametal Greatarrow
-item_arrow_fire_great_description=Perhaps not the most subtle of tools, but none can doubt its effectiveness.
+item_arrow_great_fire=Большая огнеметаллическая стрела
+item_arrow_fire_great_description=Возможно и не самая тонкая стрела, но никто не может сомневаться в её эффективности.
 #-------------------------AXES (Топоры)-------------------------
 item_axe_frost=Forstasca
 item_axe_frost_description=A glittering wolf's fang. Your foes shall fear its frost.
@@ -216,10 +216,10 @@ item_battleaxe_sledge_fire_description=Могущество Укко, призы
 #-------------------------SHIELDS (Шиты)-------------------------
 item_shield_silverdagger=Парирующий кинжал
 item_shield_silverdagger_description=Искусность, а не грубая сила, часто является ключом к победе.
-item_shield_fire=Pridwen
-item_shield_fire_description=Arthur's Aegis, an intricate knotwork of burning metal.
-item_shield_fire_tower=Svalinn
-item_shield_fire_tower_description=Sun's Bane, an inferno summoned from intricate knotwork.
+item_shield_fire=Придвен
+item_shield_fire_description=Эгида Артура с запутанным кельтским узлом из горящего металла.
+item_shield_fire_tower=Свалинн
+item_shield_fire_tower_description=Проклятие Солнца, ад вызванный из запутанных кельтских узлов.
 #-------------------------BOWS (Луки)-------------------------
 item_bow_blackmetalTH=Двойной лук из черного металла
 item_bow_blackmetalTH_description=Гибкие кончики из таинственного черного металла предоставляют намного высокую скорость вытягивания титьевы.
@@ -228,8 +228,8 @@ item_bow_fireTH_description=Шедевр Гоха. Созданный замыс
 #-------------------------DAGGERS (Ножи)-------------------------
 item_knife_iron=Железный нож 
 item_knife_iron_description=Слабое напоминание о вашей прежней жизни.
-item_knife_silver=Obsidian Dagger
-item_knife_silver_description=Mountain glass, sharp as could be. It has a certain affinity with the Chosen armor.
+item_knife_silver=Обсидиановый кинжал
+item_knife_silver_description=Горное стекло, настолько острое, насколько это возможно. Он имеет определенное сходство с броней Избранных.
 item_knife_fire=Карнвеннан
 item_knife_fire_description=Сердце Артура, секач Олвен. Кинжал дарованный богом обжигающий неестественным пламенем.
 #-------------------------MACES (Дубины)-------------------------
