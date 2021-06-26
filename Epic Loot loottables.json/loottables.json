@@ -1592,11 +1592,10 @@
     // MonsterMas MOD
     // Item                      IDS:                     Tier
     //
-    // RRRM_ Yeti
+    // RRRM_Yeti
     // RRRM_CrazyTroll
     // RRRM_EarthTroll
     // RRRM_Golem2
-    // RRRM_FireGolem
     // RRRM_Wizard
     // RRRM_WereWolfBlackArmored
     // RRRM_WereWolfDarkGrey
@@ -1609,6 +1608,8 @@
     // RRRM_WereBearRed
     // RRRM_WendigoForest
     // RRRM_WendigoSwamp
+    //
+    // RRRM_FireGolem  
     // RRRM_BlackSpider
     // RRRM_FrostSpider
     // RRRM_TentaRoot 
