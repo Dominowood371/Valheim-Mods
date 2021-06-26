@@ -1,12 +1,12 @@
 # Valheim-Mods
 Customization mods for the game Valheim.
 
-## - Cheat Commands -
+## Cheat Commands
 To activate cheat commands, type `devcommands` and press enter. You'll be able to use the cheat commands below in singleplayer mode. They won't work on a multiplayer server.
 
 To deactivate cheat commands, type `devcommands` and press enter again.
 
-  **How to Read this List:**
+ **How to Read this List:**
 
 - Anything between parentheses ( ) is a comment describing the command. (don't type these)
 - Anything in brackets [ ] are arguments that the command takes. (don't add the brackets when using the commands)
@@ -65,7 +65,7 @@ stopevent
 tame (tames nearby creatures)
 wind [angle] [intensity 0-1]
 ```
-## - Creative Mode -
+## Creative Mode
 
 ### How to Enable Creative/Debug Mode
 
