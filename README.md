@@ -1,9 +1,9 @@
 # Valheim-Mods
 
 ## - Cheat Commands -
-To activate cheat commands, type devcommands and press enter. You'll be able to use the cheat commands below in singleplayer mode. They won't work on a multiplayer server.
+To activate cheat commands, type `devcommands` and press enter. You'll be able to use the cheat commands below in singleplayer mode. They won't work on a multiplayer server.
 
-To deactivate cheat commands, type devcommands and press enter again.
+To deactivate cheat commands, type `devcommands` and press enter again.
 
   **How to Read this List:**
 
@@ -69,11 +69,12 @@ wind [angle] [intensity 0-1]
 ### How to Enable Creative/Debug Mode
 
 1. Follow the steps above to enable cheatmode
-2. Type "debugmode" into the console without quotes
+2. Type `debugmode` into the console without quotes
 
 ### Controls and Features
 
-- Z - Toggles Flying
-- B - No Placement Cost
-- K - Kills all monsters
-- Using "No Placement Cost" mode (B) you can **repair all equipment** from your inventory, **place buildings for free** with a hammer, and **craft items for free** from your inventory.
+- **Z** - Toggles Flying
+- **B** - No Placement Cost
+- **K** - Kills all monsters
+
+Using "No Placement Cost" mode (B) you can **repair all equipment** from your inventory, **place buildings for free** with a hammer, and **craft items for free** from your inventory.
