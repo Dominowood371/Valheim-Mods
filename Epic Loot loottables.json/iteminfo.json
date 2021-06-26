@@ -1,4 +1,15 @@
-// Runic Swords MOD ✔ , ""
+    // , ""
+    // Plate Armor MOD ✔
+    // Barbarian's Armor MOD ✔
+    // Chaos Warrior Armor MOD ✔
+    // Steel Age MOD
+    // Runic Swords MOD ✔
+    // Forsaken MOD
+    // Hugos More Two Handers MOD
+    // Terraheim - Weapons Tools and Armor MOD
+
+
+
 
 {
   "ItemInfo": [
@@ -142,7 +153,12 @@
         "ArmorBronzeChest", 
         "ArmorIronChest", 
         "ArmorWolfChest", 
-        "ArmorPaddedCuirass"
+        "ArmorPaddedCuirass", 
+        "ArmorPlateIronChestJD", 
+        "ArmorBarbarianBronzeChestJDT", 
+        "T1ChaosPlateArmor", 
+        "T2ChaosPlateArmor", 
+        "ChaosPlateArmorBody"
       ]
     },
     {
@@ -155,7 +171,12 @@
         "ArmorBronzeLegs", 
         "ArmorIronLegs", 
         "ArmorWolfLegs", 
-        "ArmorPaddedGreaves"
+        "ArmorPaddedGreaves", 
+        "ArmorPlateIronLegsJD", 
+        "ArmorBarbarianBronzeLegsJDT", 
+        "T1ChaosPlateLegs", 
+        "T2ChaosPlateLegs", 
+        "ChaosPlateLegs"
       ]
     },
     {
@@ -167,7 +188,12 @@
         "HelmetBronze", 
         "HelmetIron", 
         "HelmetDrake", 
-        "HelmetPadded"
+        "HelmetPadded", 
+        "ArmorPlateIronHelmetJD", 
+        "ArmorBarbarianBronzeHelmetJDT", 
+        "T1ChaosPlateHelm", 
+        "T2ChaosPlateHelm", 
+        "ChaosPlateHelm"
       ]
     },
     {
@@ -178,7 +204,8 @@
         "CapeTrollHide", 
         "CapeWolf", 
         "CapeLinen", 
-        "CapeLox"
+        "CapeLox", 
+        "ArmorBarbarianCapeJD"
       ]
     },
     {
