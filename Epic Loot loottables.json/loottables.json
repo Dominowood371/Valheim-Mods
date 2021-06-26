@@ -1566,6 +1566,29 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // MonsterLabZ MOD
+    // Item                      IDS:                                           Health          
+    //  
+    // Black Spider              BlackSpider                                    40
+    // Brown Spider              BrownSpider                                    90
+    // Fire Golem                FireGolem                                      800
+    // Forest Spider             ForestSpider                                   90
+    // Frigid Spider             FrigidSpider                                   90
+    // Frost Spider              FrostSpider                                    90
+    // Ghost Warrior             GhostWarrior                                   40
+    // Green Spider              GreenSpider                                    90
+    // Greydwarf                 ExportedGreydwarf_Purple - Greydwarf_Purple    40
+    // Ice Golem                 IceGolem                                       1500
+    // Molluscan                 ExportedMolluscan - Molluscan                  40
+    // Skeleton Warrior          SkeletonWarrior                                40
+    // Burning Skeleton Warrior  SkeletonWarriorFire                            40
+    // Frozen Skeleton Warrior   SkeletonWarriorIce                             40
+    // Tan Spider                TanSpider                                      90
+    // Tree Spider               TreeSpider                                     90
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
+	  
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
     // Item                      IDS:                     Tier
     //
