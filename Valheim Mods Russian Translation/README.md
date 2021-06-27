@@ -1,3 +1,6 @@
-Translations into Russian mods for **Valheim** game.
+### Description
 
-Переводы [модов](https://www.nexusmods.com/valheim/) на русский язык для игры **Valheim**.
+> Translations of various [mods](https://www.nexusmods.com/valheim/) into Russian for the game **Valheim**. 
+
+### Описание
+> Переводы различных [модов](https://www.nexusmods.com/valheim/) на русский язык для игры **Valheim**.
