@@ -10,11 +10,11 @@ piece_reforger_ext5=Blackmetal Swage Block
 item_salamander_fur=Шкура саламандры
 item_salamander_fur_description=Вы или ваш близкий человек может(е) обменять этот ценный ресурс на денежное вознаграждение...
 #------------------------CLASSES (Класси)-------------------------
-class_berserker=Berserkr
-class_ranger=Bowman
-class_tank=Shieldbrother
-class_thrower=Skirmisher
-class_challenge=Braggart
+class_berserker=Берсерк
+class_ranger=Лучник
+class_tank=Щитоносец
+class_thrower=Застрельщик
+class_challenge=Фанфарон
 #------------------------CAPES (Накидки)-------------------------
 item_cape_deerhideT0=Fur-Lined Deer Hide Cape
 item_cape_deerhideT1=Salamander-Lined Deer Hide Cape
@@ -150,21 +150,21 @@ item_legs_barbarian_t4=Gilded Barbarian Leggings
 item_legs_barbarian_t5=Padded Barbarian Leggings
 item_legs_barbarian_t6=Burning Barbarian Leggings
 #------------------------CHAOS (Хаоса)-------------------------
-item_helmet_chaos_t0=Chosen Greathelm
-item_helmet_chaos_t10=Padded Chosen Greathelm
-item_helmet_chaos_t20=Burning Chosen Greathelm
-item_chest_chaos_t0=Chosen Breastplate
-item_chest_chaos_t10=Padded Chosen Breastplate
-item_chest_chaos_t20=Burning Chosen Breastplate
-item_legs_chaos_t0=Chosen Greaves
-item_legs_chaos_t10=Padded Chosen Greaves
-item_legs_chaos_t20=Burning Chosen Greaves
+item_helmet_chaos_t0=Большой шлем Избранного
+item_helmet_chaos_t10=Обитый большой шлем Избранного
+item_helmet_chaos_t20=Обожженный большой шлем Избранного
+item_chest_chaos_t0=Нагрудник Избранного
+item_chest_chaos_t10=Обитый нагрудник Избранного
+item_chest_chaos_t20=Обожженный нагрудник Избранного
+item_legs_chaos_t0=Наголенники Избранного
+item_legs_chaos_t10=Обитые наголенники Избранного
+item_legs_chaos_t20=Обожженные наголенники Избранного
 #------------------------UTILITY BELTS (Аксессуары ремни)-------------------------
-item_helmet_woodsman=Aescfell Belt
-item_belt_miner=Stánbrysan Belt
-item_belt_waterproof=Casul Belt
-item_belt_farmer=Eorðtilia Belt
-item_belt_thief=Stulor Belt
+item_helmet_woodsman=Пояс Эскфелла
+item_belt_miner=Пояс Станбрысана
+item_belt_waterproof=Пояс Касула
+item_belt_farmer=Пояс Эоротилии
+item_belt_thief=Пояс Стулора
 #=========================WEAPONS (Оружие) ==========================
 #-------------------------GREATSWORDS (Двуручные мечи)-------------------------
 item_greatsword_iron=Iron Greatsword
@@ -199,10 +199,10 @@ item_axe_fire_description=Glory of Frisia, savior of the Āsegas. A burning shar
 item_axe_serpent=Þunorwyrm 
 item_axe_serpent_description=Born of storms and seas, Þunorwyrm strikes with the might of Þórr.
 #-------------------------ATGEIRS (Древковое оружие)-------------------------
-item_atgeir_silver=Silver Kresja
-item_atgeir_silver_description=A hewing spear whose cold blade invokes the pale frost.
-item_atgeir_fire=Claíomh Solais
-item_atgeir_fire_description=A shaft of sunlight materialized into a weapon.
+item_atgeir_silver=Серебряная алебарда 
+item_atgeir_silver_description=Рубящее копье, холодное лезвие которого вызывает бледный мороз.
+item_atgeir_fire=Алебарда Света
+item_atgeir_fire_description=Древко стрелы из луча солнечного света материализованое в оружие.
 #-------------------------SPEARS (Копья)-------------------------
 item_spear_blackmetal=Копье из черного металла
 item_spear_blackmetal_description=Cбалансированный уничтожитель из неразрушающего черного металла.
