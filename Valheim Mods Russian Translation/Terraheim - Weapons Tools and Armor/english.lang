@@ -204,10 +204,10 @@ item_atgeir_silver_description=A hewing spear whose cold blade invokes the pale 
 item_atgeir_fire=Claíomh Solais
 item_atgeir_fire_description=A shaft of sunlight materialized into a weapon.
 #-------------------------SPEARS (Копья)-------------------------
-item_spear_blackmetal=Blackmetal Spear
-item_spear_blackmetal_description=A poised killer of unbreakable black iron.
-item_spear_fire=Rhongomiant
-item_spear_fire_description=Arthur's life, a burning point of hellish flame.
+item_spear_blackmetal=Копье из черного металла
+item_spear_blackmetal_description=Cбалансированный уничтожитель из неразрушающего черного металла.
+item_spear_fire=Ронгомианд
+item_spear_fire_description=Жизнь Артура из пылающей пики с адским пламенем.
 #-------------------------SLEDGES (Кувалды)-------------------------
 item_battleaxe_sledge_blackmetal=Топорный молот из черного металла
 item_battleaxe_sledge_blackmetal_description=Неразрушимые края, сокрушительной кувалды.
