@@ -194,3 +194,4 @@ To install, just copy the text from the `loottable.json` file and paste into you
 
 >If you want to use the table without adding mods for monsters, this will not affect the game itself and will not cause errors.
 
+>If you want to use the table without adding mods for weapons and armor, this will affect the chance of items dropping, since items that do not exist will drop, and an error will be displayed in the logs about this, such an error will not affect the game itself, but this will reduce the chance drops of the items themselves from Epic Loot.
