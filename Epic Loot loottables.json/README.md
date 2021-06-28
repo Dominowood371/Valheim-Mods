@@ -16,6 +16,7 @@ List of mods to be added to the table:
 | [Plate Armor](https://www.nexusmods.com/valheim/mods/567) | 1.0.2 | Armor |
 | [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 1.1.0 | Armor |
 | [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.1 | Armor |
+| [MonsterLabZ](https://www.nexusmods.com/valheim/mods/1264) | 1.6 | Enemies, Monsters |
 | [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters |
 | [MonsterMash](https://www.nexusmods.com/valheim/mods/1284) | 0.0.9 | Enemies, Monsters |
  
@@ -130,43 +131,44 @@ Very powerful weapons, therefore, only drop from bosses:
 
 Added item drops for new mobs:
 
-* Tier 5 - Ocean, Mistlands, DeepNorth
-* Tier 6 - Ashlands
+* Tier 5 - Ocean, Mistlands
+* Tier 6 - DeepNorth
+* Tier 7 - Ashlands
 
 | Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Tier |
 | ---- | ------------------- | ------------------------ | ------ | ------ |
-| Fire-breathing Drake | AshHatchling | Hatchling | 750 |  |
-| Cinderwings | AshMosquito | Deathsquito | 5 |  |
-| Ash-eater Neck | AshNeck | Neck | 850 |  |
-| Blazing Bones | BlazingBones | SkeletonWarrior | 180 | Tier 6 |
-| Burned Bones | BurnedBones | SkeletonWarrior | 240 | Tier 6 | 
-| Elder Surtling | ElderSurtling | Surtling | 80 | Tier 7 | 
-| Ash-eater Tadpole | SmallAshNeck | Neck |  100 | Tier 3 | 
-| Swollen Body | SwollenBody | Draugr | 320 | Tier 3  | 
-| Frozen Corpse | AngryFrozenCorpse | SkeletonWarriorIce | 320  | Tier 5  | 
-| Boreal Spirit | AngrySpirit | Ghost |  55 | Tier 3  | 
-| Boreal Spirit | CalmSpirit | Ghost | 55 | Tier 3 | 
-| Dvergr | Dvergr | RRR_NPC | 280 | Tier 4 | 
-| Dvergr | DvergrEvent | RRR_NPC | 280 | Tier 4 | 
-| Frozen Corpse | FrozenCorpse | SkeletonWarrior | 280 | Tier 5 | 
-| Pale-coat Fenring | PolarFenring | Fenring | 800 | Tier 5 | 
-| Icebreaker Lox | PolarLox | Lox | 1000 | Tier 5 | 
-| Silver Golem | SilverGolem | StoneGolem | Tier 5 |   | 
-| Icebreaker Calf | SmallPolarLox | Lox | 400 | Tier 5 | 
-| Frost-brood Serpent | SmallPolarSerpent | Serpent |  250 | Tier 5 | 
-| Moonlit Moth | DarkMosquito | Deathsquito | 5 | Tier 5 | 
-| Moonlit Warden | DarkProtector | gd_king | 1800 | Tier 3 | 
-| Sentinel GloomWeaver | DarkSpider | TreeSpider | 140 |   | 
-| Suffocating GloomWeaver | PoisonDarkSpider | TreeSpider | 650 |   | 
-| Brood GloomWeaver | SmallDarkSpider | TreeSpider | 140 |   | 
-| Svartalfr | Svartalfr | RRR_NPC | 220 |   | 
-| Svartalfr | SvartalfrArcher | RRR_NPC | 220 |   | 
-| Svartalfr | SvartalfrBrigade | RRR_NPC | 220 |   | 
-| Inexorable Svartalfr | SvartalfrHeavy | RRR_NPC | 220 |   | 
-| Duskseeker Svartalfr | SvartalfrMage | RRR_NPC | 220 |   | 
-| Drowned Soul | DrownedSoul | Wraith | 120 | Tier 5 | 
-| Storm-herald Wyrven | StormHatchling | Hatchling | 140 | Tier 5 | 
-| Storm-devourer Vargr | StormWolf | Wolf | 160 | Tier 4 | 
+| Fire-breathing Drake | AshHatchling | Hatchling       | 750    | Tier 7 |
+| Cinderwings | AshMosquito | Deathsquito               | 5      | Tier 7 |
+| Ash-eater Neck | AshNeck | Neck                       | 850    | Tier 7 |
+| Blazing Bones | BlazingBones | SkeletonWarrior        | 180    | Tier 7 |
+| Burned Bones | BurnedBones | SkeletonWarrior          | 240    | Tier 7 | 
+| Elder Surtling | ElderSurtling | Surtling             | 80     | Tier 7 | 
+| Ash-eater Tadpole | SmallAshNeck | Neck               | 100    | Tier 7 | 
+| Swollen Body | SwollenBody | Draugr                   | 320    | Tier 7 | 
+| Frozen Corpse | AngryFrozenCorpse | SkeletonWarriorIce | 320   | Tier 5 | 
+| Boreal Spirit | AngrySpirit | Ghost                   | 55     | Tier 5 | 
+| Boreal Spirit | CalmSpirit | Ghost                    | 55     | Tier 5 | 
+| Dvergr | Dvergr | RRR_NPC                             | 280    | Tier 5 | 
+| Dvergr | DvergrEvent | RRR_NPC                        | 280    | Tier 5 | 
+| Frozen Corpse | FrozenCorpse | SkeletonWarrior        | 280    | Tier 5 | 
+| Pale-coat Fenring | PolarFenring | Fenring            | 800    | Tier 5 | 
+| Icebreaker Lox | PolarLox | Lox                       | 1000   | Tier 5 | 
+| Silver Golem | SilverGolem | StoneGolem               | 2000   | Tier 5 | 
+| Icebreaker Calf | SmallPolarLox | Lox                 | 400    | Tier 5 | 
+| Frost-brood Serpent | SmallPolarSerpent | Serpent     | 250    | Tier 5 | 
+| Moonlit Moth | DarkMosquito | Deathsquito             | 5      | Tier 5 | 
+| Moonlit Warden | DarkProtector | gd_king              | 1800   | Tier 6 | 
+| Sentinel GloomWeaver | DarkSpider | TreeSpider        | 140    | Tier 6 | 
+| Suffocating GloomWeaver | PoisonDarkSpider | TreeSpider | 650  | Tier 6 | 
+| Brood GloomWeaver | SmallDarkSpider | TreeSpider      | 140    | Tier 6 | 
+| Svartalfr | Svartalfr | RRR_NPC                       | 220    | Tier 6 | 
+| Svartalfr | SvartalfrArcher | RRR_NPC                 | 220    | Tier 6 | 
+| Svartalfr | SvartalfrBrigade | RRR_NPC                | 220    | Tier 6 | 
+| Inexorable Svartalfr | SvartalfrHeavy | RRR_NPC       | 220    | Tier 6 | 
+| Duskseeker Svartalfr | SvartalfrMage | RRR_NPC        | 220    | Tier 6 | 
+| Drowned Soul | DrownedSoul | Wraith                   | 120    | Tier 5 | 
+| Storm-herald Wyrven | StormHatchling | Hatchling      | 140    | Tier 5 | 
+| Storm-devourer Vargr | StormWolf | Wolf               | 160    | Tier 5 | 
 
 
 
@@ -174,13 +176,13 @@ Added item drops for new mobs:
 
 | Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Damage | Tier | Item Drops |
 | ---- | ------------------- | ------------------------ | ------ | ------ | ---- | ---------- |
-| BroodMother GloomWeaver       | MotherDarkSpider | Tree Spider          | 650   | Blunt, Slash |  | Riftblade, Lycanthro, Spirit Rune Sword, Great Spirit Rune Sword, Spirit Rune Dagger
-| The Damned One                | BlazingDamnedOne | SkeletonWarrior      | 1500  | Blunt, Poison, Fire |  | Rotclub, Chaotic Hand, Molten Star, Aegis of the Dead King, Riftblade, Lycanthro, Runic Poison Sword, Runic Fire Sword, Great Runic Poison Sword, Great Runic Fire Sword, Runic Poison Dagger, Runic Fire Dagger
-| The Damned One                | DammedOne        | SkeletonWarrior      | 2500  | Blunt, Poison |  | Rotclub, Riftblade, Lycanthro, Poison Rune Sword, Great Poison Rune Sword, Poison Rune Dagger
-| The One Who Hunts in the Rain | StormFenring     | Fenring              | 1600  | Blunt, Lightning |  | Static Cleaver, Bolts Edge, Riftblade, Lycanthro, Lightning Rune Sword, Great Lightning Rune Sword, Lightning Rune Dagger
-| The One Who is Always Hungry  | DevourerFenring  | Fenring              | 2800  | Slash, Blunt |  | Riftblade, Lycanthro, Spirit Rune Sword, Great Spirit Rune Sword, Spirit Rune Dagger
-| The Forgotten One             | ForgottenOne     | Skeleton Warrior Ice | 2800  | Pierce, Frost | Tier 5 | Wyrmfist, Wyrmripper, Rimefang, Icicle, Riftblade, Lycanthro, Runic Ice Sword, Great Runic Ice Sword, Runic Ice Dagger
-| The Mourning Queen            | SvartalfrQueen   | RRR_NPC              | 1800  | Blunt, Poison |  | Rotclub, Riftblade, Lycanthro, Poison Rune Sword, Great Poison Rune Sword, Poison Rune Dagger
+| BroodMother GloomWeaver       | MotherDarkSpider | Tree Spider          | 650   | Blunt, Slash         | Tier 6 | Riftblade, Lycanthro, Spirit Rune Sword, Great Spirit Rune Sword, Spirit Rune Dagger
+| The Damned One                | BlazingDamnedOne | SkeletonWarrior      | 1500  | Blunt, Poison, Fire  | Tier 7 | Rotclub, Chaotic Hand, Molten Star, Aegis of the Dead King, Riftblade, Lycanthro, Runic Poison Sword, Runic Fire Sword, Great Runic Poison Sword, Great Runic Fire Sword, Runic Poison Dagger, Runic Fire Dagger
+| The Damned One                | DammedOne        | SkeletonWarrior      | 2500  | Blunt, Poison        | Tier 7 | Rotclub, Riftblade, Lycanthro, Poison Rune Sword, Great Poison Rune Sword, Poison Rune Dagger
+| The One Who Hunts in the Rain | StormFenring     | Fenring              | 1600  | Blunt, Lightning     | Tier 5 | Static Cleaver, Bolts Edge, Riftblade, Lycanthro, Lightning Rune Sword, Great Lightning Rune Sword, Lightning Rune Dagger
+| The One Who is Always Hungry  | DevourerFenring  | Fenring              | 2800  | Slash, Blunt         | Tier 5 | Riftblade, Lycanthro, Spirit Rune Sword, Great Spirit Rune Sword, Spirit Rune Dagger
+| The Forgotten One             | ForgottenOne     | Skeleton Warrior Ice | 2800  | Pierce, Frost        | Tier 5 | Wyrmfist, Wyrmripper, Rimefang, Icicle, Riftblade, Lycanthro, Runic Ice Sword, Great Runic Ice Sword, Runic Ice Dagger
+| The Mourning Queen            | SvartalfrQueen   | RRR_NPC              | 1800  | Blunt, Poison        | Tier 6 | Rotclub, Riftblade, Lycanthro, Poison Rune Sword, Great Poison Rune Sword, Poison Rune Dagger
 | Jotunn                        | Jotunn           | Troll                | 18000 | Blunt, Chop, Pickaxe | Tier 5 | Static Cleaver, Bolts Edge, Spiritine, Rotclub, Wyrmfist, Wyrmripper, Rimefang, Icicle, Chaotic Hand, Molten Star, Aegis of the Dead King, Riftblade, Lycanthro, Runic Lightning Sword, Runic Spirit Sword, Runic Poison Sword, Runic Ice Sword, Runic Fire Sword, Great Runic Lightning Sword, Great Runic Spirit Sword, Great Runic Poison Sword, Great Runic Ice Sword, Great Runic Fire Sword, Runic Lightning Dagger, Runic Spirit Dagger, Runic Poison Dagger, Runic Ice Dagger, Runic Fire Dagger
 
 ### Install
@@ -189,3 +191,6 @@ To install, just copy the text from the `loottable.json` file and paste into you
 > just in case, I recommend making a backup copy of the original file: `loottable.json`.
 
 ### Note
+
+>If you want to use the table without adding mods for monsters, this will not affect the game itself and will not cause errors.
+
