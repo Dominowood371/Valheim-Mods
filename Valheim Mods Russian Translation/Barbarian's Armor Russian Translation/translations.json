@@ -1,0 +1,18 @@
+{
+  // Barbarian's bronze helmet
+  "$ArmorBarbarianBronzeHelmetJD", "Barbarian's bronze helmet",
+  // A helmet made from a bronze alloy.
+  "$ArmorBarbarianBronzeHelmetJD_desc", "A helmet made from a bronze alloy.",
+  // Barbarian's bronze armor
+  "$ArmorBarbarianBronzeChestJD", "Barbarian's bronze armor",
+	// A simple piece of metal attached to leather straps, leaves some things to be desired.
+  "$ArmorBarbarianBronzeChestJD_desc", "A simple piece of metal attached to leather straps, leaves some things to be desired.",
+	// Barbarian's pants
+	"$ArmorBarbarianBronzeLegsJD", "Barbarian's pants",
+	// Fabric pants and leather boots with a fashionable bronze belt.
+	"$ArmorBarbarianBronzeLegsJD_desc", "Fabric pants and leather boots with a fashionable bronze belt.",
+	// Barbarian's fur cloak
+	"$ArmorBarbarianCapeJD", "Barbarian's fur cloak",
+	// Thick but short cape made of fur. Covers your back when your drunk raidmates can't.
+	"$ArmorBarbarianCapeJD_desc", "Thick but short cape made of fur. Covers your back when your drunk raidmates can't."
+}
