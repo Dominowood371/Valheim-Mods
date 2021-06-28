@@ -131,8 +131,8 @@ Very powerful weapons, therefore, only drop from bosses:
 
 Added item drops for new mobs:
 
-* Tier 5 - Ocean, Mistlands
-* Tier 6 - DeepNorth
+* Tier 5 - Ocean, DeepNorth
+* Tier 6 - Mistlands
 * Tier 7 - Ashlands
 
 | Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Tier |
