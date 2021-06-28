@@ -6,4 +6,4 @@ Mod Steel Age Russian Translation Version 1.0.11.
 
 ### Установка
 
-Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\SteelAge\Assets\Translations\English`.
+Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\SteelAge\Assets\Translations\Russian`.
