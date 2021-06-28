@@ -6,4 +6,4 @@ Mod Runic Swords Russian Translation Version 1.0.8.
 
 ### Установка
 
-Скачайте файл `RuneSwords.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\RuneSwords\Assets\Translations\Russian`.
+Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\RuneSwords\Assets\Translations\Russian`.
