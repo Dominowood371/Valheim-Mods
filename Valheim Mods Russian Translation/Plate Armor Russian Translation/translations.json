@@ -1,14 +1,8 @@
 {
-  // Iron Plate Helmet
-	"$ArmorPlateIronHelmetJD": "Iron Plate Helmet", 
-  // An unusually shaped helmet, you've got a feeling your descendants will love it.
-	"$ArmorPlateIronHelmetJD_desc": "An unusually shaped helmet, you've got a feeling your descendants will love it.",
-  // Iron Platemail
-	"$ArmorPlateIronChestJD": "Iron Platemail",
-  // An armor fashioned from large plates of iron. Feels tiring to just look at it.
-	"$ArmorPlateIronChestJD_desc": "An armor fashioned from large plates of iron. Feels tiring to just look at it.",
-  // Iron Plate Leggings
-	"$ArmorPlateIronLegsJD": "Iron Plate Leggings",
-  // Thick plates of metal, finally something to stop those pesky dwarves from gnawing at your legs.
-	"$ArmorPlateIronLegsJD_desc", "Thick plates of metal, finally something to stop those pesky dwarves from gnawing at your legs."
+  "ArmorPlateIronHelmetJD": "Iron Plate Helmet", 
+  "ArmorPlateIronHelmetJD_desc": "An unusually shaped helmet, you've got a feeling your descendants will love it.",
+  "ArmorPlateIronChestJD": "Iron Platemail",
+  "ArmorPlateIronChestJD_desc": "An armor fashioned from large plates of iron. Feels tiring to just look at it.",
+  "ArmorPlateIronLegsJD": "Iron Plate Leggings",
+  "ArmorPlateIronLegsJD_desc": "Thick plates of metal, finally something to stop those pesky dwarves from gnawing at your legs."
 }
