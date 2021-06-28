@@ -1693,7 +1693,6 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "Tier6Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },		  
             { "Item": "v801_SpellFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -1755,7 +1754,6 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "Tier6Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -1807,57 +1805,57 @@
     // Frozen Corpse (AngryFrozenCorpse - SkeletonWarriorIce)
     {
       "Object": "RRRM_AngryFrozenCorpse",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Boreal Spirit (AngrySpirit - Ghost)
     {
       "Object": "RRRM_AngrySpirit",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Boreal Spirit (CalmSpirit - Ghost)
     {
       "Object": "RRRM_CalmSpirit",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Dvergr (Dvergr - RRR_NPC)
     {
       "Object": "RRRN_Dvergr",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Dvergr (DvergrEvent - RRR_NPC)
     {
       "Object": "RRRN_DvergrEvent",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Frozen Corpse (FrozenCorpse - SkeletonWarrior)
     {
       "Object": "RRRM_FrozenCorpse",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Pale-coat Fenring (PolarFenring - Fenring)
     {
       "Object": "RRRM_PolarFenring",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Icebreaker Lox (PolarLox - Lox)
     {
       "Object": "RRRM_PolarLox",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Silver Golem (SilverGolem - StoneGolem)
     {
       "Object": "RRRM_SilverGolem",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Icebreaker Calf (SmallPolarLox - Lox)
     {
       "Object": "RRRM_SmallPolarLox",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Frost-brood Serpent (SmallPolarSerpent - Serpent)
     {
       "Object": "RRRM_SmallPolarSerpent",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // The One Who is Always Hungry (DevourerFenring - Fenring) Boss
     ////////////////////////////////////////////////////////////////////////////////////
@@ -1868,8 +1866,7 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier4Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFenring",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "SpiritRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -1923,8 +1920,7 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier4Everything",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_UnarmedFrost",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFrostOH", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_BowFrost",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -1982,8 +1978,7 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier4Everything",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "TierForsaken",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "TierRunicSwords",  "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
@@ -2087,7 +2082,6 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFenring",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "SpiritRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -2142,7 +2136,6 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordFire",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_UnarmedFenring",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -2193,19 +2186,19 @@
     // Drowned Soul (DrownedSoul - Wraith)
     {
       "Object": "RRRM_DrownedSoul",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Storm-herald Wyrven (StormHatchling - Hatchling)
     {
       "Object": "RRRM_StormHatchling",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Other
     ////////////////////////////////////////////////////////////////////////////////////
     // Storm-devourer Vargr (StormWolf - Wolf)
     {
       "Object": "RRRM_StormWolf",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // The One Who Hunts in the Rain (StormFenring - Fenring) Boss
     ////////////////////////////////////////////////////////////////////////////////////
@@ -2216,8 +2209,7 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything",         "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything",         "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier4Everything",         "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_BattleaxeLightning", "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordLightning",     "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
             { "Item": "v801_SwordFire",          "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -2505,7 +2497,7 @@
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier5Everything",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "v801_SpellFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SpellFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SledgeFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_ShieldFire",     "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SwordFire",      "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
