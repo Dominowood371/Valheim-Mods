@@ -129,9 +129,9 @@
     // Barbarian's Armor MOD
     // Item                            IDS:                                  Tier
     // 
-    // Helmet                          ArmorBarbarianBronzeHelmetJDT         Tier3
-    // Chest                           ArmorBarbarianBronzeChestJDT          Tier3
-    // Legs                            ArmorBarbarianBronzeLegsJDT           Tier3
+    // Helmet                          ArmorBarbarianBronzeHelmetJD          Tier3
+    // Chest                           ArmorBarbarianBronzeChestJD           Tier3
+    // Legs                            ArmorBarbarianBronzeLegsJD            Tier3
     // Cape                            ArmorBarbarianCapeJD                  Tier3
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -139,9 +139,9 @@
     {
       "Name": "Tier3BarbariansArmor",
       "Loot": [
-        { "Item": "ArmorBarbarianBronzeHelmetJDT",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianBronzeChestJDT",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianBronzeLegsJDT",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianBronzeHelmetJD",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianBronzeChestJD",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianBronzeLegsJD",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
         { "Item": "ArmorBarbarianCapeJD",             "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
