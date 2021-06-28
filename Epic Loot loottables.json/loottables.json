@@ -1577,10 +1577,15 @@
     // Frigid Spider             FrigidSpider                                   90
     // Frost Spider              FrostSpider                                    90
     // Ghost Warrior             GhostWarrior                                   40
+    // $enemy_goblin             GoblinBase - ExportedGoblinBase                200
+    // Goblin                    GoblinLoot                                     200
+    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew      150  
     // Green Spider              GreenSpider                                    90
     // Greydwarf                 ExportedGreydwarf_Purple - Greydwarf_Purple    40
     // Ice Golem                 IceGolem                                       1500
     // Molluscan                 ExportedMolluscan - Molluscan                  40
+    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem          800
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly  40
     // Skeleton Warrior          SkeletonWarrior                                40
     // Burning Skeleton Warrior  SkeletonWarriorFire                            40
     // Frozen Skeleton Warrior   SkeletonWarriorIce                             40
