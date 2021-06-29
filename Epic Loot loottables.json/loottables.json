@@ -409,8 +409,12 @@
     //
     //                                                                    Armor
     //
-    //          Leather
     // Item                       IDS:                                                                   Tier
+    //          Rag   	  
+    // Helmet                     	                	
+    // Chest                      ArmorRagsChestT1_Terraheim_AddNewSets_AddRagsArmor	                 Tier0	
+    // Legs                       ArmorRagsLegsT1_Terraheim_AddNewSets_AddRagsArmor                      Tier0
+    //          Leather
     // Helmet                     HelmetLeatherT1_Terraheim_AddNewSets_AddLeatherArmor	                 Tier1	
     // Chest                      ArmorLeatherChestT1_Terraheim_AddNewSets_AddLeatherArmor	         Tier1		
     // Legs                       ArmorLeatherLegsT1_Terraheim_AddNewSets_AddLeatherArmor	         Tier1	
@@ -430,6 +434,10 @@
     // Helmet                     HelmetDrakeT5_Terraheim_AddNewSets_AddSilverArmor                      Tier4
     // Chest                      ArmorWolfChestT5_Terraheim_AddNewSets_AddSilverArmor                   Tier4
     // Legs                       ArmorWolfLegsT5_Terraheim_AddNewSets_AddSilverArmor                    Tier4
+    //          Padded
+    // Helmet                     HelmetPaddedT6_Terraheim_AddNewSets_AddPaddedArmor                     Tier5
+    // Chest                      ArmorPaddedCuirassT6_Terraheim_AddNewSets_AddPaddedArmor               Tier5
+    // Legs                       ArmorPaddedGreavesT6_Terraheim_AddNewSets_AddPaddedArmor               Tier5
     //
     //                                                                    Barbarian
     //
@@ -454,10 +462,10 @@
     //
     // Leather Cape               CapeDeerHide, CapeDeerHideT0TH, CapeDeerHideT1TH                       Tier1
     // Troll Leather Cape         CapeTrollHide, CapeTrollHideT0TH, CapeTrollHideT1TH                    Tier2
+    // Barbarian Cape             ArmorBarbarianCapeJDT0TH, ArmorBarbarianCapeJDT1TH                     Tier3
     // Wolf Cape                  CapeWolf, CapeWolfT1TH                                                 Tier4
     // Lox Cape                   CapeLox, CapeLoxT1TH                                                   Tier5
     // Linen Cape                 CapeLinen, CapeLinenT0TH, CapeLinenT1TH                                Tier5
-    //
     //                                                                    Belt
     //
     // Aescfell Belt              HelmetWoodsman_Terraheim_AddCirculets_AddWoodsmanCirculet              Tier6
@@ -554,6 +562,13 @@
       ]
     },
     {
+      "Name": "Tier0TerraheimArmor",
+      "Loot": [
+        { "Item": "ArmorRagsChestT1_Terraheim_AddNewSets_AddRagsArmor",       "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "ArmorRagsLegsT1_Terraheim_AddNewSets_AddRagsArmor",        "Rarity": [ 94, 3, 2, 1 ] }
+      ]
+    },
+    {
       "Name": "Tier1TerraheimArmor",
       "Loot": [
         { "Item": "HelmetLeatherT1_Terraheim_AddNewSets_AddLeatherArmor",     "Rarity": [ 94, 3, 2, 1 ] },
@@ -587,7 +602,9 @@
         { "Item": "ArmorBarbarianBronzeLegsJDT3",                                       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
         { "Item": "ArmorBarbarianBronzeHelmetJDT3_Terraheim_BarbarianArmor_AddNewSets", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
         { "Item": "ArmorBarbarianBronzeChestJDT3_Terraheim_BarbarianArmor_AddNewSets",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianBronzeLegsJDT3_Terraheim_BarbarianArmor_AddNewSets",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+        { "Item": "ArmorBarbarianBronzeLegsJDT3_Terraheim_BarbarianArmor_AddNewSets",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianCapeJDT0TH",                                           "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianCapeJDT1TH",                                           "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
     {
@@ -605,6 +622,9 @@
     {
       "Name": "Tier5TerraheimArmor",
       "Loot": [
+        { "Item": "HelmetPaddedT6_Terraheim_AddNewSets_AddPaddedArmor",                 "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorPaddedCuirassT6_Terraheim_AddNewSets_AddPaddedArmor",           "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorPaddedGreavesT6_Terraheim_AddNewSets_AddPaddedArmor",           "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "ArmorBarbarianBronzeLegsJDT5_Terraheim_BarbarianArmor_AddNewSets",   "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "ArmorBarbarianBronzeChestJDT5_Terraheim_BarbarianArmor_AddNewSets",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets", "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
@@ -664,7 +684,8 @@
         { "Item": "Tier0Tools"   },
         { "Item": "Tier0Armor"   },
         { "Item": "Tier0Shields" },
-        { "Item": "Tier0TerraheimWeapons" }
+        { "Item": "Tier0TerraheimWeapons" },
+        { "Item": "Tier1TerraheimArmor"   }
       ]
     },
 
