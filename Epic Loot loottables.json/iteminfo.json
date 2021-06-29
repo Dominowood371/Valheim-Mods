@@ -1,15 +1,11 @@
-    // , ""
     // Plate Armor MOD ✔
     // Barbarian's Armor MOD ✔
     // Chaos Warrior Armor MOD ✔
-    // Steel Age MOD
+    // Steel Age MOD ✔
     // Runic Swords MOD ✔
-    // Forsaken MOD
-    // Hugos More Two Handers MOD
-    // Terraheim - Weapons Tools and Armor MOD
-
-
-
+    // Hugos More Two Handers MOD ✔
+    // Forsaken MOD ✔
+    // Terraheim - Weapons Tools and Armor MOD ✔
 
 {
   "ItemInfo": [
@@ -30,7 +26,24 @@
         "GreatSpiritRuneSword", 
         "GreatPoisonRuneSword", 
         "GreatIceRuneSword", 
-        "GreatFireRuneSword"
+        "GreatFireRuneSword", 
+        "DraugrSword", 
+        "NordicSteelSword", 
+        "SwedishSteelSword", 
+        "SwordIronGreat", 
+        "SwordFlametalGreatIron", 
+        "SwordSilverGreat", 
+        "SwordBlackMetalGreat", 
+        "SwordObsidianGreat", 
+        "SwordFlametalGreat", 
+        "SwordDragonSlayer", 
+        "v801_SwordLightning", 
+        "v801_SwordFire", 
+        "GreatswordIron", 
+        "GreatswordChitinTH", 
+        "SwordFolcbrand", 
+        "GreatswordBlackmetal", 
+        "GreatswordFireTH"
       ]
     },
     {
@@ -41,13 +54,35 @@
         "AxeFlint", 
         "AxeBronze", 
         "AxeIron", 
-        "AxeBlackMetal" 
+        "AxeBlackMetal", 
+        "SteelWarAxe", 
+        "VikingAxe", 
+        "v801_BattleaxeLightning", 
+        "AxeForstasca", 
+        "AxeSerpentTH", 
+        "AxeFireTH", 
+        "ThrowingAxeFlint", 
+        "ThrowingAxeBronze", 
+        "ThrowingAxeIron", 
+        "ThrowingAxeSilver", 
+        "ThrowingAxeBlackmetal", 
+        "ThrowingAxeFire"   
       ]
     },
     {
       "Type": "TwoHandAxes",
       "Fallback": "AxeIron",
-      "Items": [ "Battleaxe" ]
+      "Items": [ 
+        "Battleaxe", 
+        "SteelBattleAxe", 
+        "SteelBattleHammer", 
+        "AxeSilverBattle", 
+        "AxeBlackMetalBattle", 
+        "BattleaxeBronzeTerraheim", 
+        "BattleaxeSilver", 
+        "GreataxeBlackmetal", 
+        "BattleaxeFireTH"   
+      ]
     },
     {
       "Type": "Knives",
@@ -62,6 +97,10 @@
         "PoisonRuneDagger",
         "IceRuneDagger",
         "FireRuneDagger",
+        "v801_KnifeFrost",
+        "KnifeIron",
+        "KnifeSilverTH",
+        "KnifeFireTH"
       ]
     },
     {
@@ -72,7 +111,14 @@
         "MaceBronze", 
         "MaceIron", 
         "MaceSilver", 
-        "MaceNeedle"
+        "MaceNeedle", 
+        "SteelMace", 
+        "MaceCoreGreat", 
+        "MaceCoreGreatGreen", 
+        "MaceGraspUndying", 
+        "MaceSilverGreat", 
+        "GreataxeFlintTH", 
+        "MaceFireTH"
       ]
     },
     {
@@ -80,7 +126,12 @@
       "Fallback": "AxeFlint",
       "Items": [ 
         "SledgeStagbreaker", 
-        "SledgeIron"
+        "SledgeIron", 
+        "SledgeIron", 
+        "v801_SledgePoison", 
+        "v801_SledgeFire", 
+        "BattleaxeBlackmetal", 
+        "SledgeFireTH"
       ]
     },
     {
@@ -89,7 +140,9 @@
       "Items": [ 
         "AtgeirBronze", 
         "AtgeirIron", 
-        "AtgeirBlackmetal"
+        "AtgeirBlackmetal", 
+        "AtgeirSilver", 
+        "AtgeirFireTH"
       ]
     },
     {
@@ -100,7 +153,10 @@
         "SpearBronze", 
         "SpearElderbark", 
         "SpearChitin", 
-        "SpearWolfFang"
+        "SpearWolfFang", 
+        "v801_SpearSpirit", 
+        "SpearBlackmetal", 
+        "SpearFireTH"
       ]
     },
     {
@@ -109,7 +165,8 @@
       "Items": [ 
         "PickaxeAntler", 
         "PickaxeBronze", 
-        "PickaxeIron"
+        "PickaxeIron", 
+        "PickaxeBlackmetal"
       ]
     },
     {
@@ -119,7 +176,11 @@
         "Bow", 
         "BowFineWood", 
         "BowHuntsman", 
-        "BowDraugrFang"
+        "BowDraugrFang", 
+        "NordHeroBow", 
+        "v801_BowFrost", 
+        "BowBlackmetalTH", 
+        "BowFireTH"
       ]
     },
     {
@@ -130,7 +191,11 @@
         "ShieldBronzeBuckler", 
         "ShieldBanded", 
         "ShieldSilver", 
-        "ShieldBlackmetal"
+        "ShieldBlackmetal", 
+        "v801_UnarmedFrostOH", 
+        "v801_ShieldFire", 
+        "ShieldSilverDagger", 
+        "ShieldFireTH"
       ]
     },
     {
@@ -140,7 +205,8 @@
         "ShieldWoodTower", 
         "ShieldIronTower", 
         "ShieldSerpentscale", 
-        "ShieldBlackmetalTower"
+        "ShieldBlackmetalTower", 
+        "ShieldFireTowerTH"
       ]
     },
     {
@@ -158,7 +224,16 @@
         "ArmorBarbarianBronzeChestJDT", 
         "T1ChaosPlateArmor", 
         "T2ChaosPlateArmor", 
-        "ChaosPlateArmorBody"
+        "ChaosPlateArmorBody", 
+        "ArmorLeatherChestT1_Terraheim_AddNewSets_AddLeatherArmor", 
+        "ArmorTrollLeatherChestT2_Terraheim_AddNewSets_AddTrollLeatherArmor", 
+        "ArmorBronzeChestT3_Terraheim_AddNewSets_AddBronzeArmor", 
+        "ArmorIronChestT4_Terraheim_AddNewSets_AddIronArmor", 
+        "ArmorWolfChestT5_Terraheim_AddNewSets_AddSilverArmor", 
+        "ArmorBarbarianBronzeChestJDT3", 
+        "ArmorBarbarianBronzeChestJDT3_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorBarbarianBronzeChestJDT4_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorBarbarianBronzeChestJDT5_Terraheim_BarbarianArmor_AddNewSets"
       ]
     },
     {
@@ -176,7 +251,16 @@
         "ArmorBarbarianBronzeLegsJDT", 
         "T1ChaosPlateLegs", 
         "T2ChaosPlateLegs", 
-        "ChaosPlateLegs"
+        "ChaosPlateLegs", 
+        "ArmorLeatherLegsT1_Terraheim_AddNewSets_AddLeatherArmor", 
+        "ArmorTrollLeatherLegsT2_Terraheim_AddNewSets_AddTrollLeatherArmor", 
+        "ArmorBronzeLegsT3_Terraheim_AddNewSets_AddBronzeArmor", 
+        "ArmorIronLegsT4_Terraheim_AddNewSets_AddIronArmor", 
+        "ArmorWolfLegsT5_Terraheim_AddNewSets_AddSilverArmor", 
+        "ArmorBarbarianBronzeLegsJDT3", 
+        "ArmorBarbarianBronzeLegsJDT3_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorBarbarianBronzeLegsJDT4_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorBarbarianBronzeLegsJDT5_Terraheim_BarbarianArmor_AddNewSets"
       ]
     },
     {
@@ -193,7 +277,16 @@
         "ArmorBarbarianBronzeHelmetJDT", 
         "T1ChaosPlateHelm", 
         "T2ChaosPlateHelm", 
-        "ChaosPlateHelm"
+        "ChaosPlateHelm", 
+        "HelmetLeatherT1_Terraheim_AddNewSets_AddLeatherArmor", 
+        "HelmetTrollLeatherT2_Terraheim_AddNewSets_AddTrollLeatherArmor", 
+        "HelmetBronzeT3_Terraheim_AddNewSets_AddBronzeArmor", 
+        "HelmetIronT4_Terraheim_AddNewSets_AddIronArmor", 
+        "HelmetDrakeT5_Terraheim_AddNewSets_AddSilverArmor", 
+        "ArmorBarbarianBronzeHelmetJDT3", 
+        "ArmorBarbarianBronzeHelmetJDT3_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorBarbarianBronzeHelmetJDT4_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets"
       ]
     },
     {
@@ -205,7 +298,15 @@
         "CapeWolf", 
         "CapeLinen", 
         "CapeLox", 
-        "ArmorBarbarianCapeJD"
+        "ArmorBarbarianCapeJD", 
+        "CapeDeerHideT0TH", 
+        "CapeDeerHideT1TH", 
+        "CapeTrollHideT0TH", 
+        "CapeTrollHideT1TH", 
+        "CapeWolfT1TH", 
+        "CapeLoxT1TH", 
+        "CapeLinenT0TH", 
+        "CapeLinenT1TH"
       ]
     },
     {
@@ -225,7 +326,13 @@
     {
       "Type": "Utility",
       "Fallback": "",
-      "Items": [ ]
+      "Items": [ 
+        "HelmetWoodsman_Terraheim_AddCirculets_AddWoodsmanCirculet", 
+        "BeltMiner_Terraheim_AddCirculets_AddMinersCirculet", 
+        "BeltFarmer_Terraheim_AddCirculets_AddFarmerBelt", 
+        "BeltThief_Terraheim_AddCirculets_AddThiefBelt", 
+        "BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt"
+      ]
     }
   ]
 }
