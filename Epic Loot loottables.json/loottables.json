@@ -142,7 +142,7 @@
         { "Item": "ArmorBarbarianBronzeHelmetJD",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
         { "Item": "ArmorBarbarianBronzeChestJD",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
         { "Item": "ArmorBarbarianBronzeLegsJD",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianCapeJD",             "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+        { "Item": "ArmorBarbarianCapeJD",            "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
 
@@ -446,9 +446,9 @@
     // Chest                      ArmorBarbarianBronzeChestJDT4_Terraheim_BarbarianArmor_AddNewSets      Tier4
     // Legs                       ArmorBarbarianBronzeLegsJDT4_Terraheim_BarbarianArmor_AddNewSets       Tier4
     //          PADDED:
+    // Helmet                     ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets     Tier5
     // Legs                       ArmorBarbarianBronzeLegsJDT5_Terraheim_BarbarianArmor_AddNewSets       Tier5
     // Chest                      ArmorBarbarianBronzeChestJDT5_Terraheim_BarbarianArmor_AddNewSets      Tier5
-    // Helmet                     ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets     Tier5
     //
     //                                                                    Cape
     //
