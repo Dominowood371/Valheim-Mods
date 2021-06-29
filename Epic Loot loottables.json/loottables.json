@@ -189,17 +189,17 @@
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Steel Age MOD
-    // Item                      IDS:                     Tier
+    // Item                      IDS:                     Tier   Handed Weapon    Type Weapon
     // 
-    // Nordic Hero Bow           NordHeroBow              Tier4
-    // Draugr Sword              DraugrSword              Tier4
-    // Steel Battle Axe          SteelBattleAxe           Tier4
-    // Steel Battle Hammer       SteelBattleHammer        Tier4
-    // Steel Mace                SteelMace                Tier4
-    // Steel WarAxe              SteelWarAxe              Tier4
-    // Nordic Steel Sword        NordicSteelSword         Tier4
-    // Swedish Steel Sword       SwedishSteelSword        Tier4
-    // Steel Viking Axe          VikingAxe                Tier4
+    // Nordic Hero Bow           NordHeroBow              Tier4  TwoHandedWeapon  Bows
+    // Draugr Sword              DraugrSword              Tier4  OneHandedWeapon  Swords
+    // Steel Battle Axe          SteelBattleAxe           Tier4  TwoHandedWeapon  TwoHandAxes
+    // Steel Battle Hammer       SteelBattleHammer        Tier4  TwoHandedWeapon  TwoHandAxes	
+    // Steel Mace                SteelMace                Tier4  OneHandedWeapon  Clubs
+    // Steel WarAxe              SteelWarAxe              Tier4  OneHandedWeapon  Axes
+    // Nordic Steel Sword        NordicSteelSword         Tier4  OneHandedWeapon  Swords
+    // Swedish Steel Sword       SwedishSteelSword        Tier4  OneHandedWeapon  Swords
+    // Steel Viking Axe          VikingAxe                Tier4  OneHandedWeapon  Axes
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -220,25 +220,25 @@
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Runic Swords MOD
-    // Item                          IDS:                      Tier        Bosses
+    // Item                          IDS:                      Tier        Bosses     Handed Weapon    Type Weapon
     //   
-    // Runic Lightning Sword         LightningRuneSword        Tier7       Eikthyr
-    // Runic Spirit Sword            SpiritRuneSword           Tier7       The Elder
-    // Runic Poison Sword            PoisonRuneSword           Tier7       Bonemass
-    // Runic Ice Sword               IceRuneSword              Tier7       Moder
-    // Runic Fire Sword              FireRuneSword             Tier7       Yagluth
+    // Runic Lightning Sword         LightningRuneSword        Tier7       Eikthyr    OneHandedWeapon  Swords
+    // Runic Spirit Sword            SpiritRuneSword           Tier7       The Elder  OneHandedWeapon  Swords
+    // Runic Poison Sword            PoisonRuneSword           Tier7       Bonemass   OneHandedWeapon  Swords
+    // Runic Ice Sword               IceRuneSword              Tier7       Moder      OneHandedWeapon  Swords
+    // Runic Fire Sword              FireRuneSword             Tier7       Yagluth    OneHandedWeapon  Swords
     //   
-    // Great Runic Lightning Sword   GreatLightningRuneSword   Tier7       Eikthyr
-    // Great Runic Spirit Sword      GreatSpiritRuneSword      Tier7       The Elder
-    // Great Runic Poison Sword      GreatPoisonRuneSword      Tier7       Bonemass
-    // Great Runic Ice Sword         GreatIceRuneSword         Tier7       Moder
-    // Great Runic Fire Sword        GreatFireRuneSword        Tier7       Yagluth
+    // Great Runic Lightning Sword   GreatLightningRuneSword   Tier7       Eikthyr    TwoHandedWeapon  Swords
+    // Great Runic Spirit Sword      GreatSpiritRuneSword      Tier7       The Elder  TwoHandedWeapon  Swords
+    // Great Runic Poison Sword      GreatPoisonRuneSword      Tier7       Bonemass   TwoHandedWeapon  Swords
+    // Great Runic Ice Sword         GreatIceRuneSword         Tier7       Moder      TwoHandedWeapon  Swords
+    // Great Runic Fire Sword        GreatFireRuneSword        Tier7       Yagluth    TwoHandedWeapon  Swords
     // 
-    // Runic Lightning Dagger        LightningRuneDagger       Tier7       Eikthyr
-    // Runic Spirit Dagger           SpiritRuneDagger          Tier7       The Elder
-    // Runic Poison Dagger           PoisonRuneDagger          Tier7       Bonemass
-    // Runic Ice Dagger              IceRuneDagger             Tier7       Moder
-    // Runic Fire Dagger             FireRuneDagger            Tier7       Yagluth
+    // Runic Lightning Dagger        LightningRuneDagger       Tier7       Eikthyr    OneHandedWeapon  Knives
+    // Runic Spirit Dagger           SpiritRuneDagger          Tier7       The Elder  OneHandedWeapon  Knives
+    // Runic Poison Dagger           PoisonRuneDagger          Tier7       Bonemass   OneHandedWeapon  Knives
+    // Runic Ice Dagger              IceRuneDagger             Tier7       Moder      OneHandedWeapon  Knives
+    // Runic Fire Dagger             FireRuneDagger            Tier7       Yagluth    OneHandedWeapon  Knives
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -265,21 +265,21 @@
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Forsaken MOD
-    // Item                      IDS:                     Tier        Bosses
+    // Item                      IDS:                     Tier        Bosses     Handed Weapon    Type Weapon  Type Damage
     // 
-    // Static Cleaver            v801_BattleaxeLightning  Tier7       Eikthyr      Slash, Lightning
-    // Bolts Edge                v801_SwordLightning      Tier7       Eikthyr      Lightning
-    // Spiritine                 v801_SpearSpirit         Tier7       The Elder    Spirit
-    // Rotclub                   v801_SledgePoison        Tier7       Bonemass     Poison
-    // Wyrmfist                  v801_UnarmedFrost        Tier7       Moder        Frost
-    // Wyrmripper                v801_UnarmedFrostOH      Tier7       Moder        Frost,
-    // Rimefang                  v801_BowFrost            Tier7       Moder        Pierce, Frost
-    // Icicle                    v801_KnifeFrost          Tier7       Moder        Pierce, Frost
-    // Chaotic Hand              v801_SpellFire           Tier7       Yagluth      Fire 
-    // Molten Star               v801_SledgeFire          Tier7       Yagluth      Blunt, Pierce, Fire
-    // Aegis of the Dead King    v801_ShieldFire          Tier7       Yagluth      Fire 
-    // Riftblade                 v801_SwordFire           Tier7       All          Fire, Frost, Lightning, Spirit, Poison
-    // Lycanthro                 v801_UnarmedFenring      Tier7       All          Slash Pierce
+    // Static Cleaver            v801_BattleaxeLightning  Tier7       Eikthyr    OneHandedWeapon  Axes         Slash, Lightning
+    // Bolts Edge                v801_SwordLightning      Tier7       Eikthyr    OneHandedWeapon  Swords       Lightning
+    // Spiritine                 v801_SpearSpirit         Tier7       The Elder  OneHandedWeapon  Spears       Spirit
+    // Rotclub                   v801_SledgePoison        Tier7       Bonemass   TwoHandedWeapon  Sledges      Poison
+    // Wyrmfist                  v801_UnarmedFrost        Tier7       Moder      OneHandedWeapon  Unarmed      Frost
+    // Wyrmripper                v801_UnarmedFrostOH      Tier7       Moder      OneHandedWeapon  RoundShields Frost,
+    // Rimefang                  v801_BowFrost            Tier7       Moder      TwoHandedWeapon  Bows         Pierce, Frost
+    // Icicle                    v801_KnifeFrost          Tier7       Moder      OneHandedWeapon  Knives       Pierce, Frost
+    // Chaotic Hand              v801_SpellFire           Tier7       Yagluth    OneHandedWeapon  Unarmed      Fire 
+    // Molten Star               v801_SledgeFire          Tier7       Yagluth    TwoHandedWeapon  Sledges      Blunt, Pierce, Fire
+    // Aegis of the Dead King    v801_ShieldFire          Tier7       Yagluth    OneHandedWeapon  RoundShields Fire 
+    // Riftblade                 v801_SwordFire           Tier7       All        TwoHandedWeapon  Swords       Fire, Frost, Lightning, Spirit, Poison
+    // Lycanthro                 v801_UnarmedFenring      Tier7       All        OneHandedWeapon  Unarmed      Slash Pierce
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -304,23 +304,23 @@
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Hugos More Two Handers MOD
-    // Item                      IDS:                     Tier
+    // Item                      IDS:                     Tier   Handed Weapon    Type Weapon  
     // 
-    // Iron Great Sword          SwordIronGreat           Tier3
-    // Heavy Iron Great Sword    SwordFlametalGreatIron   Tier3
-    // Great Core Mace           MaceCoreGreat            Tier3
-    // Great Core Mace (Green)   MaceCoreGreatGreen       Tier3
+    // Iron Great Sword          SwordIronGreat           Tier3  TwoHandedWeapon  Swords
+    // Heavy Iron Great Sword    SwordFlametalGreatIron   Tier3  TwoHandedWeapon  Swords
+    // Great Core Mace           MaceCoreGreat            Tier3  TwoHandedWeapon  Clubs
+    // Great Core Mace (Green)   MaceCoreGreatGreen       Tier3  TwoHandedWeapon  Clubs
     // 
-    // Grasp of Undying          MaceGraspUndying         Tier3
-    // Silver Great Sword        SwordSilverGreat         Tier4
-    // Great Silver Mace         MaceSilverGreat          Tier4
-    // Silver Battleaxe          AxeSilverBattle          Tier4
+    // Grasp of Undying          MaceGraspUndying         Tier4  TwoHandedWeapon  Clubs
+    // Silver Great Sword        SwordSilverGreat         Tier4  TwoHandedWeapon  Swords
+    // Great Silver Mace         MaceSilverGreat          Tier4  TwoHandedWeapon  Clubs
+    // Silver Battleaxe          AxeSilverBattle          Tier4  TwoHandedWeapon  TwoHandAxes
     // 
-    // Black Metal Great Sword   SwordBlackMetalGreat     Tier5
-    // Moder's Sorrow            SwordObsidianGreat       Tier5
-    // Flametal Great Sword      SwordFlametalGreat       Tier5
-    // Black Metal Battleaxe     AxeBlackMetalBattle      Tier5
-    // Dragon Slayer             SwordDragonSlayer        Tier5
+    // Black Metal Great Sword   SwordBlackMetalGreat     Tier5  TwoHandedWeapon  Swords
+    // Moder's Sorrow            SwordObsidianGreat       Tier5  TwoHandedWeapon  Swords
+    // Flametal Great Sword      SwordFlametalGreat       Tier5  TwoHandedWeapon  Swords
+    // Black Metal Battleaxe     AxeBlackMetalBattle      Tier5  TwoHandedWeapon  TwoHandAxes
+    // Dragon Slayer             SwordDragonSlayer        Tier5  TwoHandedWeapon  Swords
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
@@ -356,54 +356,54 @@
     //
     // Terraheim - Weapons Tools and Armor MOD
     //
-    // Item                       IDS:                      Tier
-    //                                                                    Atgeirs
-    // Silver Kresja              AtgeirSilver              Tier4
-    // Claíomh Solais             AtgeirFireTH              Tier6
-    //                                                                    Axes
-    // Forstasca	          AxeForstasca              Tier4
-    // Þunorwyrm	          AxeSerpentTH              Tier5         x
-    // Fosite	                  AxeFireTH                 Tier6
-    //                                                                    Battleaxes
-    // Greatclub                  GreataxeFlintTH           Tier0         x
-    // Bronze Battleaxe	          BattleaxeBronzeTerraheim  Tier2
-    // Silver Battleaxe           BattleaxeSilver           Tier4
-    // Blackmetal                 GreataxeBlackmetal        Tier5
-    // Ridill	                  BattleaxeFireTH           Tier6
-    //                                                                    Bows
-    // Blackmetal Bow	          BowBlackmetalTH           Tier5
-    // Gwynttorrwr	          BowFireTH                 Tier6
-    //                                                                    Daggers
-    // Iron Knife	          KnifeIron                 Tier3
-    // Obsidian Dagger	          KnifeSilverTH             Tier4         x
-    // Carnwennan	          KnifeFireTH               Tier6
-    //                                                                    Greatswords
-    // Iron Greatsword	          GreatswordIron            Tier3
-    // Chitin Greatsword	  GreatswordChitinTH        Tier3         x
-    // Folcbrand	          SwordFolcbrand            Tier4
-    // Blackmetal Greatsword      GreatswordBlackmetal      Tier5
-    // Mistilteinn 	          GreatswordFireTH          Tier6
+    // Item                       IDS:                      Tier                             Handed Weapon    Type Weapon 
+    //                                                                   Atgeirs
+    // Silver Kresja              AtgeirSilver              Tier4                            TwoHandedWeapon  Polearms
+    // Claíomh Solais             AtgeirFireTH              Tier6                            TwoHandedWeapon  Polearms
+    //                                                                   Axes
+    // Forstasca	          AxeForstasca              Tier4                            OneHandedWeapon  Axes
+    // Þunorwyrm	          AxeSerpentTH              Tier5                            OneHandedWeapon  Axes         
+    // Fosite	                  AxeFireTH                 Tier6                            OneHandedWeapon  Axes
+    //                                                                   Battleaxes
+    // Greatclub                  GreataxeFlintTH           Tier0                            TwoHandedWeapon  Clubs    
+    // Bronze Battleaxe	          BattleaxeBronzeTerraheim  Tier2                            TwoHandedWeapon  TwoHandAxes
+    // Silver Battleaxe           BattleaxeSilver           Tier4                            TwoHandedWeapon  TwoHandAxes
+    // Blackmetal                 GreataxeBlackmetal        Tier5                            TwoHandedWeapon  TwoHandAxes
+    // Ridill	                  BattleaxeFireTH           Tier6                            TwoHandedWeapon  TwoHandAxes
+    //                                                                   Bows
+    // Blackmetal Bow	          BowBlackmetalTH           Tier5                            TwoHandedWeapon  Bows
+    // Gwynttorrwr	          BowFireTH                 Tier6                            TwoHandedWeapon  Bows
+    //                                                                   Daggers
+    // Iron Knife	          KnifeIron                 Tier3                            OneHandedWeapon  Knives
+    // Obsidian Dagger	          KnifeSilverTH             Tier4                            OneHandedWeapon  Knives
+    // Carnwennan	          KnifeFireTH               Tier6                            OneHandedWeapon  Knives
+    //                                                                   Greatswords
+    // Iron Greatsword	          GreatswordIron            Tier3                            TwoHandedWeapon  Swords
+    // Chitin Greatsword	  GreatswordChitinTH        Tier3                            TwoHandedWeapon  Swords      
+    // Folcbrand	          SwordFolcbrand            Tier4                            TwoHandedWeapon  Swords
+    // Blackmetal Greatsword      GreatswordBlackmetal      Tier5                            TwoHandedWeapon  Swords
+    // Mistilteinn 	          GreatswordFireTH          Tier6                            TwoHandedWeapon  Swords
     //                                                                    Maces
-    // Almace	                  MaceFireTH                Tier6
+    // Almace	                  MaceFireTH                Tier6                            OneHandedWeapon  Clubs
     //                                                                    Shields
-    // Parrying Dagger	          ShieldSilverDagger        Tier4
-    // Pridwen	                  ShieldFireTH              Tier6         x
-    // Svalinn	                  ShieldFireTowerTH         Tier6         x
+    // Parrying Dagger	          ShieldSilverDagger        Tier4                            OneHandedWeapon  RoundShields
+    // Pridwen	                  ShieldFireTH              Tier6                            OneHandedWeapon  RoundShields
+    // Svalinn	                  ShieldFireTowerTH         Tier6                            OneHandedWeapon  TowerShields
     //                                                                    Sledges
-    // Blackmetal Axehammer       BattleaxeBlackmetal       Tier5
-    // Ukonvasara                 SledgeFireTH              Tier6
+    // Blackmetal Axehammer       BattleaxeBlackmetal       Tier5                            TwoHandedWeapon  Sledges
+    // Ukonvasara                 SledgeFireTH              Tier6                            TwoHandedWeapon  Sledges
     //                                                                    Spears
-    // Blackmetal                 SpearBlackmetal           Tier5
-    // Rhongomiant	          SpearFireTH               Tier6
+    // Blackmetal                 SpearBlackmetal           Tier5                            OneHandedWeapon  Spears
+    // Rhongomiant	          SpearFireTH               Tier6                            OneHandedWeapon  Spears
     //                                                                    Throwing Axes
-    // Flint Throwing Axe         ThrowingAxeFlint          Tier1
-    // Bronze Throwing Axe        ThrowingAxeBronze         Tier2
-    // Poisoned Iron Throwing Axe ThrowingAxeIron           Tier3
-    // Wyrpasca	                  ThrowingAxeSilver         Tier4
-    // Blackmetal Throwing Axe	  ThrowingAxeBlackmetal     Tier5
-    // Tyrfing	                  ThrowingAxeFire           Tier6
+    // Flint Throwing Axe         ThrowingAxeFlint          Tier1                            OneHandedWeapon  Axes
+    // Bronze Throwing Axe        ThrowingAxeBronze         Tier2                            OneHandedWeapon  Axes
+    // Poisoned Iron Throwing Axe ThrowingAxeIron           Tier3                            OneHandedWeapon  Axes
+    // Wyrpasca	                  ThrowingAxeSilver         Tier4                            OneHandedWeapon  Axes
+    // Blackmetal Throwing Axe	  ThrowingAxeBlackmetal     Tier5                            OneHandedWeapon  Axes
+    // Tyrfing	                  ThrowingAxeFire           Tier6                            OneHandedWeapon  Axes
     //                                                                    Pickaxe
-    // Blackmetal Pickaxe	  PickaxeBlackmetal         Tier5
+    // Blackmetal Pickaxe	  PickaxeBlackmetal         Tier5                            TwoHandedWeapon  Pickaxes
     //
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     //
@@ -1583,7 +1583,7 @@
     // Green Spider              GreenSpider                                    90
     // Greydwarf                 ExportedGreydwarf_Purple - Greydwarf_Purple    40
     // Ice Golem                 IceGolem                                       1500
-    // Molluscan                 ExportedMolluscan - Molluscan                  40
+    // Molluscan                 Molluscan - ExportedMolluscan                  40
     // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem          800
     // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly  40
     // Skeleton Warrior          SkeletonWarrior                                40
