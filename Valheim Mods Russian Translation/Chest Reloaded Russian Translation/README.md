@@ -10,6 +10,9 @@ Mod Chest Reloaded Russian Translation Version 0.7.1.
 
 ### Оригинал 
 
+<details>
+  <summary>Посмотреть оригинал</summary>
+  
 ```
 {
   "big_wooden_signed_locker": "Big Wooden Locker",
@@ -21,3 +24,5 @@ Mod Chest Reloaded Russian Translation Version 0.7.1.
   "piece_sign_assign_item": "Assign item to sign"
 }
 ```
+  
+</details>
