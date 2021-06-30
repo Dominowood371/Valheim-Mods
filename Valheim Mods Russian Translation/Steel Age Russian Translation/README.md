@@ -10,6 +10,9 @@ Mod Steel Age Russian Translation Version 1.0.11.
 
 ### Оригинал 
 
+<details>
+  <summary>Посмотреть оригинал</summary>
+  
 ```
 {
   "nordherobow": "Nordic Hero Bow",
@@ -36,3 +39,5 @@ Mod Steel Age Russian Translation Version 1.0.11.
   "vikingaxedescrip": "A Viking axe crafted from finewood and steel"
 }
 ```
+  
+</details>
