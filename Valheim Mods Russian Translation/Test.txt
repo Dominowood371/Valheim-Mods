@@ -201,3 +201,14 @@ Legs() -
   Naegling (sword, Beowulf, twigs and serpents design) - Нэглинг
   
 ✔✖
+
+* Meadows Луга
+* Swamp  Болота
+* Mountain  Горы
+* BlackForest Чёрный лес
+* Plains Равнины
+* AshLands Пепельные земли
+* DeepNorth Дальний север
+* Ocean Океан
+* Mistlands Туманные земли
+
