@@ -1591,27 +1591,27 @@
     // MonsterLabZ MOD
     // Item                      IDS:                                           Health          
     //  
-    // Black Spider              BlackSpider                                    40
-    // Brown Spider              BrownSpider                                    90
-    // Fire Golem                FireGolem                                      800
-    // Forest Spider             ForestSpider                                   90
-    // Frigid Spider             FrigidSpider                                   90
-    // Frost Spider              FrostSpider                                    90
-    // Tan Spider                TanSpider                                      90
-    // Tree Spider               TreeSpider                                     90
-    // Ghost Warrior             GhostWarrior                                   40
-    // $enemy_goblin             GoblinBase - ExportedGoblinBase                200
-    // Goblin                    GoblinLoot                                     200
-    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew      150  
-    // Green Spider              GreenSpider                                    90
-    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple    40
-    // Ice Golem                 IceGolem                                       1500
-    // Molluscan                 Molluscan - ExportedMolluscan                  40
-    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem          800
-    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly  40
-    // Skeleton Warrior          SkeletonWarrior                                40
-    // Burning Skeleton Warrior  SkeletonWarriorFire                            40
-    // Frozen Skeleton Warrior   SkeletonWarriorIce                             40
+    // Black Spider              BlackSpider                                    40    Mistlands
+    // Brown Spider              BrownSpider                                    90    Mistlands
+    // Forest Spider             ForestSpider                                   90    Mistlands
+    // Frigid Spider             FrigidSpider                                   90    DeepNorth
+    // Frost Spider              FrostSpider                                    90    DeepNorth
+    // Tan Spider                TanSpider                                      90    Mistlands
+    // Tree Spider               TreeSpider                                     90    Mistlands
+    // Green Spider              GreenSpider                                    90    Mistlands
+    // Ghost Warrior             GhostWarrior                                   40    BlackForest
+    // $enemy_goblin             GoblinBase - ExportedGoblinBase                200   Plains
+    // Goblin                    GoblinLoot                                     200   Plains
+    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew      150   Plains
+    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple    40    BlackForest
+    // Molluscan                 Molluscan - ExportedMolluscan                  40    Plains
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly  40    Meadows
+    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem          800   DeepNorth
+    // Fire Golem                FireGolem                                      800   AshLands
+    // Ice Golem                 IceGolem                                       1500  DeepNorth
+    // Skeleton Warrior          SkeletonWarrior                                40    BlackForest
+    // Burning Skeleton Warrior  SkeletonWarriorFire                            40    AshLands
+    // Frozen Skeleton Warrior   SkeletonWarriorIce                             40    DeepNorth
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 	  
