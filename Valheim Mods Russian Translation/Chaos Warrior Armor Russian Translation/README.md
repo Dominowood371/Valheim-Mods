@@ -10,6 +10,9 @@ Mod Chaos Warrior Armor Russian Translation Version 6.0.1.
 
 ### Оригинал 
 
+<details>
+  <summary>Посмотреть оригинал</summary>
+  
 ```
 {
   "item_armor_pchaosbodytwo": "Uncanny plate harness",
@@ -32,3 +35,5 @@ Mod Chaos Warrior Armor Russian Translation Version 6.0.1.
   "item_legs_t2pchaoslegsdescription": "Thick leather leggings reinforced with cold iron. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased."
 }
   ```
+  
+</details>
