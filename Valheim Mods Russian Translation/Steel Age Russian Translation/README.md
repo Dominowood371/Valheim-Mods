@@ -7,3 +7,32 @@ Mod Steel Age Russian Translation Version 1.0.11.
 ### Установка
 
 Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\SteelAge\Assets\Translations\Russian`.
+
+### Оригинал 
+
+```
+{
+  "nordherobow": "Nordic Hero Bow",
+  "nordherobow_description": "A heroic bow made from iron.",
+  "steelbar": "An ingot of steel",
+  "steelbar_description": "A cold bar of steel to craft new items with",
+  "draugr_sword": "Draugr Sword",
+  "draugr_sword_description": "A cold steel sword from a draugr",
+  "steel_battleaxe": "Steel Battle-Axe",
+  "steel_battleaxe_description": "A large battle axe crafted from steel",
+  "steel_battlehammer": "Steel Battle Hammer",
+  "steel_battlehammer_descriptions": "A large war hammer crafted from steel",
+  "steelmace": "Steel Mace",
+  "steelmace_description": "A steel mace for smacking your enemies around",
+  "steel_waraxe": "Steel WarAxe",
+  "steel_waraxe_description": "A small hand axe made from steel",
+  "steelarrow": "Steel Arrows",
+  "steelarrowdescrip": "Arrows tipped with steel and affixed with feathers.",
+  "steelsword": "Steel Nordic Sword",
+  "steelsworddescrip": "A Nordic Steel Sword",
+  "swedishsteelsword": "Swedish Steel Sword",
+  "swedishsteelsworddescrip": "A Swedish Sword made from steel",
+  "vikingaxe": "Steel Viking Axe",
+  "vikingaxedescrip": "A Viking axe crafted from finewood and steel"
+}
+```
