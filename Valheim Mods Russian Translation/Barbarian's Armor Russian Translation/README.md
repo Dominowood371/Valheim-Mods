@@ -10,8 +10,10 @@ Mod Barbarian's Russian Translation Version 1.1.0.
 
 ### Оригинал 
 
-```
+<details>
+  <summary>Посмотреть оригинал</summary>
   
+```
 {
   "ArmorBarbarianBronzeHelmetJD": "Barbarian's bronze helmet",
   "ArmorBarbarianBronzeHelmetJD_desc": "A helmet made from a bronze alloy.",
@@ -23,3 +25,5 @@ Mod Barbarian's Russian Translation Version 1.1.0.
   "ArmorBarbarianCapeJD_desc": "Thick but short cape made of fur. Covers your back when your drunk raidmates can't."
 }
 ```
+  
+</details>
