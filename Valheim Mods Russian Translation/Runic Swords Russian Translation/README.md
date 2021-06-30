@@ -7,3 +7,47 @@ Mod Runic Swords Russian Translation Version 1.0.8.
 ### Установка
 
 Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\RuneSwords\Assets\Translations\Russian`.
+
+### Оригинал 
+
+<details>
+  <summary>Посмотреть оригинал</summary>
+  
+```
+{
+  "icerunesword": "Runic Ice Sword",
+  "firerunesword": "Runic Fire Sword",
+  "lightningrunesword": "Runic Lightning Sword",
+  "poisonrunesword": "Runic Poison Sword",
+  "greatlightningrunesword": "Great Runic Lightning Sword",
+  "greatfirerunesword": "Great Runic Fire Sword",
+  "greaticerunesword": "Great Runic Ice Sword",
+  "greatpoisonrunesword": "Great Runic Poison Sword",
+  "firerunedagger": "Runic Fire Dagger",
+  "icerunedagger": "Runic Ice Dagger",
+  "lightningrunedagger": "Runic Lightning Dagger",
+  "poisonrunedagger": "Runic Poison Dagger",
+  "icerunesworddescrip": "This sword is cold to the touch it has been blessed by Skaoi with ancient runes that give it a mystical frost aura",
+  "greaticerunesworddescrip": "This sword is cold to the touch it has been blessed by Skaoi with ancient runes that give it a mystical frost aura",
+  "icerunedaggerdescrip": "This dagger is cold to the touch it has been blessed by Skaoi with ancient runes that give it a mystical frost aura",
+  "firerunesworddescrip": "This sword almost burn your hand as you touch it burning with Lokis wrath this blade burns those enemies its edge kisses",
+  "greatfirerunesworddescrip": "This sword almost burn your hand as you touch it burning with Lokis wrath this blade burns those enemies its edge kisses",
+  "firerunedaggerdescrip": "This dagger almost burn your hand as you touch it burning with Lokis wrath this blade burns those enemies its edge kisses",
+  "lightningrunesworddescrip": "This sword is truly a gift from Odin himself, it has a quivering yellow aura with sparks flying off the blade. It inflicts lightning damage",
+  "greatlightningrunesworddescrip": "This sword is truly a gift from Odin himself, it has a quivering yellow aura with sparks flying off the blade. It inflicts lightning damage",
+  "lightningrunedaggerdescrip": "This dagger is truly a gift from Odin himself, it has a quivering yellow aura with sparks flying off the blade. It inflicts lightning damage",
+  "poisonrunesworddescrip": "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force",
+  "greatpoisonrunesworddescrip": "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force",
+  "poisonrunedaggerdescrip": "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force"
+  "piece_artisan_ext1":"Artisan Rune",
+  "piece_artisan_ext1desrip":"Extension for artisan table",
+  "piece_artisan_ext2":"Artisan Rune",
+  "piece_artisan_ext2desrip":"Extension for artisan table",
+  "piece_artisan_ext3":"Artisan Rune",
+  "piece_artisan_ext3desrip":"Extension for artisan table",
+  "piece_artisan_ext4":"Artisan Rune",
+  "piece_artisan_ext4desrip":"Extension for artisan table",
+  "piece_artisan_ext5":"Artisan Rune",
+  "piece_artisan_ext5desrip":"Extension for artisan table"
+}
+```
