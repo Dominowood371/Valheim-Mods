@@ -1589,7 +1589,7 @@
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterLabZ MOD
-    // Item                      IDS:                                           Health          
+    // Mobs                      IDS:                                           Health          
     //  
     // Black Spider              BlackSpider                                    40    Mistlands
     // Brown Spider              BrownSpider                                    90    Mistlands
@@ -1744,12 +1744,12 @@
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
-    // Item                      IDS:                     Tier
-    //
+    // Mobs                      IDS:                     Tier
+    //  
     // Yeti
     // CrazyTroll
     // EarthTroll
-    // Golem2
+    // Golem2           boss
     // Wizard
     // WereWolfBlackArmored
     // WereWolfDarkGrey
@@ -1861,9 +1861,10 @@
       "Object": "WendigoSwamp",
       "RefObject": "Tier6Mob"
     },
+	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Monsternomicon MOD
-    // Item                          IDS:                                   Health                    Attacks
+    // Mobs                          IDS:                                   Health                    Attacks
     //  
     // The Damned One                (BlazingDamnedOne - SkeletonWarrior)   1500                      Blunt, Poison, Fire
     // The Damned One                (DammedOne - SkeletonWarrior)          2500                      Blunt, Poison
