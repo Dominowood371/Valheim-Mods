@@ -1746,35 +1746,121 @@
     // MonsterMas MOD
     // Item                      IDS:                     Tier
     //
-    // RRRM_Yeti
-    // RRRM_CrazyTroll
-    // RRRM_EarthTroll
-    // RRRM_Golem2
-    // RRRM_Wizard
-    // RRRM_WereWolfBlackArmored
-    // RRRM_WereWolfDarkGrey
-    // RRRM_WereWolfBlack
-    // RRRM_WereWolfBrown
-    // RRRM_WereWolfWhite
-    // RRRM_TheNasty
-    // RRRM_WereBearGray
-    // RRRM_WereBearBlack
-    // RRRM_WereBearRed
-    // RRRM_WendigoForest
-    // RRRM_WendigoSwamp
-    //
-    // RRRM_FireGolem  
-    // RRRM_BlackSpider
-    // RRRM_FrostSpider
-    // RRRM_TentaRoot 
-    // RRRM_Pinetree_01
-    // RRRM_FirTree
-    // RRRM_RRRM_Birch1
-    // RRRM_RRRM_Birch2
-    // RRRM_SwampTree1
+    // Yeti
+    // CrazyTroll
+    // EarthTroll
+    // Golem2
+    // Wizard
+    // WereWolfBlackArmored
+    // WereWolfDarkGrey
+    // WereWolfBlack
+    // WereWolfBrown
+    // WereWolfWhite
+    // TheNasty
+    // WereBearGray
+    // WereBearBlack
+    // WereBearRed
+    // WendigoForest
+    // WendigoSwamp
     //  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+    // Yeti
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Yeti",
+      "RefObject": "Tier6Mob"
+    },
+    // Crazy Troll
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "CrazyTroll",
+      "RefObject": "Tier6Mob"
+    },
+    // Earth Troll
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "EarthTroll",
+      "RefObject": "Tier6Mob"
+    },
+    // Tree Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "TreeSpider",
+      "RefObject": "Tier6Mob"
+    },
+    // Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Golem2",
+      "RefObject": "Tier6Mob"
+    },
+    // Wizard
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Wizard",
+      "RefObject": "Tier6Mob"
+    },
+    // Were Wolf Black Armored
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WereWolfBlackArmored",
+      "RefObject": "Tier6Mob"
+    },
+    // Were Wolf Dark Grey
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WereWolfDarkGrey",
+      "RefObject": "Tier6Mob"
+    },
+    // Were Wolf Brown
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WereWolfBrown",
+      "RefObject": "Tier6Mob"
+    },
+    // Were Wolf White
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WereWolfWhite",
+      "RefObject": "Tier6Mob"
+    },
+    // The Nasty
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "TheNasty",
+      "RefObject": "Tier6Mob"
+    },
+    // Were Bear Gray
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WereBearGray",
+      "RefObject": "Tier6Mob"
+    },
+    // Were Bear Black
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WereBearBlack",
+      "RefObject": "Tier6Mob"
+    },
+    // Were Bear Red
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WereBearRed",
+      "RefObject": "Tier6Mob"
+    },
+    // Wendigo Forest
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WendigoForest",
+      "RefObject": "Tier6Mob"
+    },
+    // Wendigo Swamp
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WendigoSwamp",
+      "RefObject": "Tier6Mob"
+    },
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Monsternomicon MOD
     // Item                          IDS:                                   Health                    Attacks
