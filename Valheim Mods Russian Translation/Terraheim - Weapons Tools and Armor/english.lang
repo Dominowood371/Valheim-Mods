@@ -1,11 +1,11 @@
 #=========================ARMOR (Броня)==========================
 #------------------------CRAFTING (Крафт)-------------------------
 piece_reforger=Верстак оружейника
-piece_reforger_ext1=Troll-Hide Hammers
-piece_reforger_ext2=Basin Forge
-piece_reforger_ext3=Stake Block
-piece_reforger_ext4=Hammer Rack
-piece_reforger_ext5=Blackmetal Swage Block
+piece_reforger_ext1=Молотки для шкуры тролля
+piece_reforger_ext2=Кузнечный горн
+piece_reforger_ext3=Подставка для инструментов
+piece_reforger_ext4=Стойка для молотка
+piece_reforger_ext5=Блок обжима из черного металла
 #------------------------RESOURCES (Ресурсы)-------------------------
 item_salamander_fur=Шкура саламандры
 item_salamander_fur_description=Вы или ваш близкий человек может(е) обменять этот ценный ресурс на денежное вознаграждение...
