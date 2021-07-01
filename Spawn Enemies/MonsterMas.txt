@@ -1,0 +1,35 @@
+https://valheim.fandom.com/wiki/Category:Materials 
+
+"Players", "AnimalsVeg", "ForestMonsters", "Undead", "Demon", "MountainMonsters", "SeaMonsters", "PlainsMonsters", "Boss"	
+
+* Meadows Луга
+* Swamp  Болота
+* Mountain  Горы
+* BlackForest Чёрный лес
+* Plains Равнины
+* AshLands Пепельные земли
+* DeepNorth Дальний север
+* Ocean Океан
+* Mistlands Туманные земли
+	  
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // MonsterMas MOD
+    // Mobs                      drop                              Tier    Health   локация    вражда
+    //
+    // Yeti                      Entrails RawMeat LeatherScraps
+    // CrazyTroll                TrollHide RawMeat
+    // EarthTroll                TrollHide RawMeat
+    // Golem2           boss     Stone SurtlingCore
+    // Wizard                    Chain Coal
+    // WereWolfBlackArmored      WolfPelt WolfFang RawMeat
+    // WereWolfDarkGrey          WolfPelt WolfFang RawMeat
+    // WereWolfBlack             WolfPelt WolfFang RawMeat
+    // WereWolfBrown             WolfPelt WolfFang RawMeat
+    // WereWolfWhite             WolfPelt WolfFang RawMeat
+    // TheNasty                  Entrails Chitin
+    // WereBearGray              Entrails RawMeat LeatherScraps
+    // WereBearBlack             Entrails RawMeat LeatherScraps
+    // WereBearRed               Entrails RawMeat LeatherScraps
+    // WendigoForest             Entrails RawMeat LeatherScraps
+    // WendigoSwamp              Entrails RawMeat LeatherScraps
+    //  
