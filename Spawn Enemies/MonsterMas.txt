@@ -21,11 +21,11 @@ https://valheim.fandom.com/wiki/Category:Materials
     // EarthTroll                TrollHide RawMeat TrophyForestTroll
     // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem
     // Wizard                    Chain Coal Thistle TrophyWraith
-    // WereWolfBlackArmored      WolfPelt WolfFang RawMeat TrophyWolf
-    // WereWolfDarkGrey          WolfPelt WolfFang RawMeat TrophyWolf
-    // WereWolfBlack             WolfPelt WolfFang RawMeat TrophyWolf
-    // WereWolfBrown             WolfPelt WolfFang RawMeat TrophyWolf
-    // WereWolfWhite             WolfPelt WolfFang RawMeat TrophyWolf
+    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf
+    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf
+    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf
+    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf
+    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf
     // TheNasty                  Entrails Bloodbag Chitin
     // WereBearGray              Entrails RawMeat LeatherScraps
     // WereBearBlack             Entrails RawMeat LeatherScraps
