@@ -8,8 +8,6 @@ Mod ZethPack Russian Translation Version 1.2.5.
 
 Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\ZethPack\Assets\Assets\Translations\Russian`.
 
-Чтобы скачать файл на сайте `github.com` нажмите на нужный файл и над файлом будет кнопка `Raw`
-
 ### Скачивание
 
 1. Найдите файл, который вы хотите загрузить.
