@@ -33,3 +33,32 @@ https://valheim.fandom.com/wiki/Category:Materials
     // WendigoForest             Entrails RawMeat LeatherScraps
     // WendigoSwamp              Entrails RawMeat LeatherScraps
     //  
+    
+      ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // MonsterMas MOD
+    // Mobs                      drop                              Tier          Health   локация    вражда
+    //
+    // Yeti                      WolfPelt YmirRemains Entrails
+    // CrazyTroll                CopperOre TinOre LeatherScraps Bloodbag
+    // EarthTroll                Amber TrophyForestTroll CookedLoxMeat LoxPelt
+    // Golem2           boss     Obsidian  IronScrap FlametalOre SurtlingCore Crystal TrophySGolem
+    // Wizard                    TrophyWraith Thistle Ruby
+    // WereWolfBlackArmored      WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
+    // WereWolfDarkGrey          WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
+    // WereWolfBlack             WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
+    // WereWolfBrown             WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
+    // WereWolfWhite             WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
+    // TheNasty                  Needle NeckTail LeatherScraps Bloodbag
+    // WereBearGray              RawMeat 
+    // WereBearBlack             RawMeat
+    // WereBearRed               RawMeat
+    // WendigoForest             Bloodbag
+    // WendigoSwamp              Bloodbag
+    //  
+  
+    
+    
+    
+    
+    
+    
