@@ -17,21 +17,21 @@ https://valheim.fandom.com/wiki/Category:Materials
     // Mobs                      drop                              Tier    Health   локация    вражда
     //
     // Yeti                      Entrails RawMeat LeatherScraps
-    // CrazyTroll                TrollHide RawMeat
-    // EarthTroll                TrollHide RawMeat
-    // Golem2           boss     Stone SurtlingCore
-    // Wizard                    Chain Coal
-    // WereWolfBlackArmored      WolfPelt WolfFang RawMeat
-    // WereWolfDarkGrey          WolfPelt WolfFang RawMeat
-    // WereWolfBlack             WolfPelt WolfFang RawMeat
-    // WereWolfBrown             WolfPelt WolfFang RawMeat
-    // WereWolfWhite             WolfPelt WolfFang RawMeat
-    // TheNasty                  Entrails Chitin
+    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll
+    // EarthTroll                TrollHide RawMeat TrophyForestTroll
+    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem
+    // Wizard                    Chain Coal Thistle TrophyWraith
+    // WereWolfBlackArmored      WolfPelt WolfFang RawMeat TrophyWolf
+    // WereWolfDarkGrey          WolfPelt WolfFang RawMeat TrophyWolf
+    // WereWolfBlack             WolfPelt WolfFang RawMeat TrophyWolf
+    // WereWolfBrown             WolfPelt WolfFang RawMeat TrophyWolf
+    // WereWolfWhite             WolfPelt WolfFang RawMeat TrophyWolf
+    // TheNasty                  Entrails Bloodbag Chitin
     // WereBearGray              Entrails RawMeat LeatherScraps
     // WereBearBlack             Entrails RawMeat LeatherScraps
     // WereBearRed               Entrails RawMeat LeatherScraps
-    // WendigoForest             Entrails RawMeat LeatherScraps
-    // WendigoSwamp              Entrails RawMeat LeatherScraps
+    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer
+    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer
     //  
     
       ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
