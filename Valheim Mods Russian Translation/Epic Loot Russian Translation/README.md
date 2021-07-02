@@ -20,7 +20,7 @@ Mod EpicLoot Russian Translation Version 0.8.0 - 0.8.1.
 * Epic Rarity Display Name = Эпическ.
 * Legendary Rarity Display Name = Легендарн.
 
-### Скачивание
+## Скачивание
 
 1. Найдите файл, который вы хотите загрузить.
 2. Нажмите на его, чтобы просмотреть содержимое файла в GitHub.
