@@ -23,7 +23,7 @@ https://valheim.fandom.com/wiki/Factions
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
-    // Mobs                      drop                              Tier                Health   локация                  вражда
+    // Mobs                      Drop                                                 Health Faction 
     //
     // Yeti                      Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
     // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500 "m_faction": 4, Demon
@@ -42,7 +42,6 @@ https://valheim.fandom.com/wiki/Factions
     // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 2, ForestMonsters
     // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 3, Undead
     //  
-    
     
 Boar	           Forest	Meadows                 m_faction = 2
 Deer	           Forest	Meadows                 m_faction = 2
