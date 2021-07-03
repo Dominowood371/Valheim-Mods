@@ -1,6 +1,14 @@
 https://valheim.fandom.com/wiki/Category:Materials 
 
-"Players", "AnimalsVeg", "ForestMonsters", "Undead", "Demon", "MountainMonsters", "SeaMonsters", "PlainsMonsters", "Boss"	
+1 "Players", 
+2 "AnimalsVeg", 
+3 "ForestMonsters",     
+4 "Undead", 
+5 "Demon", 
+6 "MountainMonsters",    
+7 "SeaMonsters",            
+8 "PlainsMonsters",      
+9 "Boss"
 
 * Meadows Луга
 * Swamp  Болота
