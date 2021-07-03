@@ -1,4 +1,5 @@
 https://valheim.fandom.com/wiki/Category:Materials 
+https://valheim.fandom.com/wiki/Factions
 
 1 "Players", 
 2 "AnimalsVeg", 
