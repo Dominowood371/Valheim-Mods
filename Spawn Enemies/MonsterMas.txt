@@ -66,41 +66,40 @@ https://valheim.fandom.com/wiki/Factions
     //  
     
     
-Boar	           Forest	Meadows
-Deer	           Forest	Meadows
-Greyling	   Forest	Meadows
-Neck	           Forest	Meadows
-Eikthyr	           Boss	        Meadows
-Ghost	           Undead	Black Forest
-Greydwarf	   Forest	Black Forest
-Greydwarf brute	   Forest	Black Forest
-Greydwarf shaman   Forest	Black Forest
-Rancid remains	   Undead	Black Forest
-Skeleton	   Undead	Black Forest Swamp
-Troll	           Forest	Black Forest
-The Elder	   Boss	        Black Forest
-Root	           Boss	        Black Forest
-Blob	           Undead	Swamp
-Draugr	           Undead	Swamp
-Draugr elite       Undead	Swamp
-Leech	           Undead	Swamp
-Oozer	           Undead	Swamp
-Oozer	           Undead	Swamp
-Surtling	   Demon	Swamp Ashlands
-Wraith	           Undead	Swamp
-Bonemass	   Boss	        Swamp
-Drake	           Mountain	Mountain
-Fenring	           Mountain	Mountain
-Stone Golem	   Forest	Mountain
-Wolf	           Mountain     Mountain
-Moder	           Boss	        Mountain
-Deathsquito	   Plains	Plains
-Fuling	           Plains	Plains
-Fuling Berserker   Plains	Plains
-Fuling shaman	   Plains	Plains
-Lox	           Plains	Plains
-Yagluth	           Boss	        Plains
-Serpent	           Sea          Ocean
+Boar	           Forest	Meadows                 m_faction = 2
+Deer	           Forest	Meadows                 m_faction = 2
+Greyling	   Forest	Meadows                 m_faction = 2
+Neck	           Forest	Meadows                 m_faction = 2
+Eikthyr	           Boss	        Meadows                 m_faction = 8
+Ghost	           Undead	Black Forest            m_faction = 3
+Greydwarf	   Forest	Black Forest            m_faction = 2
+Greydwarf brute	   Forest	Black Forest            m_faction = 2
+Greydwarf shaman   Forest	Black Forest            m_faction = 2
+Rancid remains	   Undead	Black Forest            m_faction = 3
+Skeleton	   Undead	Black Forest Swamp      m_faction = 3
+Troll	           Forest	Black Forest            m_faction = 2
+The Elder	   Boss	        Black Forest            m_faction = 8
+Root	           Boss	        Black Forest            m_faction = 8
+Blob	           Undead	Swamp                   m_faction = 3
+Draugr	           Undead	Swamp                   m_faction = 3
+Draugr elite       Undead	Swamp                   m_faction = 3
+Leech	           Undead	Swamp                   m_faction = 3
+Oozer	           Undead	Swamp                   m_faction = 3
+Surtling	   Demon	Swamp Ashlands          m_faction = 4
+Wraith	           Undead	Swamp                   m_faction = 3
+Bonemass	   Boss	        Swamp                   m_faction = 8
+Drake	           Mountain	Mountain                m_faction = 5
+Fenring	           Mountain	Mountain                m_faction = 5
+Stone Golem	   Forest	Mountain                m_faction = 2
+Wolf	           Mountain     Mountain                m_faction = 5
+Moder	           Boss	        Mountain                m_faction = 8
+Deathsquito	   Plains	Plains                  m_faction = 7
+Fuling	           Plains	Plains                  m_faction = 7
+Fuling Berserker   Plains	Plains                  m_faction = 7
+Fuling shaman	   Plains	Plains                  m_faction = 7
+Lox	           Plains	Plains                  m_faction = 7
+Yagluth	           Boss	        Plains                  m_faction = 8
+Serpent	           Sea          Ocean                   m_faction = 6
     
     
     
