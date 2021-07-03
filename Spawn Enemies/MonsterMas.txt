@@ -64,9 +64,43 @@ https://valheim.fandom.com/wiki/Factions
     // WendigoForest             Bloodbag    
     // WendigoSwamp              Bloodbag
     //  
-  
     
     
+Boar	           Forest	Meadows
+Deer	           Forest	Meadows
+Greyling	   Forest	Meadows
+Neck	           Forest	Meadows
+Eikthyr	           Boss	        Meadows
+Ghost	           Undead	Black Forest
+Greydwarf	   Forest	Black Forest
+Greydwarf brute	   Forest	Black Forest
+Greydwarf shaman   Forest	Black Forest
+Rancid remains	   Undead	Black Forest
+Skeleton	   Undead	Black Forest Swamp
+Troll	           Forest	Black Forest
+The Elder	   Boss	        Black Forest
+Root	           Boss	        Black Forest
+Blob	           Undead	Swamp
+Draugr	           Undead	Swamp
+Draugr elite       Undead	Swamp
+Leech	           Undead	Swamp
+Oozer	           Undead	Swamp
+Oozer	           Undead	Swamp
+Surtling	   Demon	Swamp Ashlands
+Wraith	           Undead	Swamp
+Bonemass	   Boss	        Swamp
+Drake	           Mountain	Mountain
+Fenring	           Mountain	Mountain
+Stone Golem	   Forest	Mountain
+Wolf	           Mountain     Mountain
+Moder	           Boss	        Mountain
+Deathsquito	   Plains	Plains
+Fuling	           Plains	Plains
+Fuling Berserker   Plains	Plains
+Fuling shaman	   Plains	Plains
+Lox	           Plains	Plains
+Yagluth	           Boss	        Plains
+Serpent	           Sea          Ocean
     
     
     
