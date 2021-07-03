@@ -1,15 +1,15 @@
 https://valheim.fandom.com/wiki/Category:Materials 
 https://valheim.fandom.com/wiki/Factions
 
-1 "Players", 
-2 "AnimalsVeg", 
-3 "ForestMonsters",     
-4 "Undead", 
-5 "Demon", 
-6 "MountainMonsters",    
-7 "SeaMonsters",            
-8 "PlainsMonsters",      
-9 "Boss"
+0 "Players", 
+1 "AnimalsVeg", 
+2 "ForestMonsters",     
+3 "Undead", 
+4 "Demon", 
+5 "MountainMonsters",    
+6 "SeaMonsters",            
+7 "PlainsMonsters",      
+8 "Boss"
 
 * Meadows Луга
 * Swamp  Болота
@@ -23,46 +23,24 @@ https://valheim.fandom.com/wiki/Factions
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
-    // Mobs                      drop                              Tier                Health   локация    вражда
+    // Mobs                      drop                              Tier                Health   локация                  вражда
     //
-    // Yeti                      Entrails RawMeat LeatherScraps                        1850 "m_faction": 5,
-    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500 "m_faction": 4,
-    // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500 "m_faction": 7,
-    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900 "m_faction": 8,
-    // Wizard                    Chain Coal Thistle TrophyWraith                        100 "m_faction": 3,
-    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 3,
-    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 3,
-    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 2,
-    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 2,
-    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 5,
-    // TheNasty                  Entrails Bloodbag Chitin                                50 "m_faction": 3,
-    // WereBearGray              Entrails RawMeat LeatherScraps                        1850 "m_faction": 5,
-    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850 "m_faction": 5,
-    // WereBearRed               Entrails RawMeat LeatherScraps                        1850 "m_faction": 5,
-    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 2,
-    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 3,
-    //  
-    
-      ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // MonsterMas MOD
-    // Mobs                      drop                              Tier          Health   локация    вражда
-    //
-    // Yeti                      WolfPelt YmirRemains Entrails
-    // CrazyTroll                CopperOre TinOre LeatherScraps Bloodbag
-    // EarthTroll                Amber TrophyForestTroll CookedLoxMeat LoxPelt
-    // Golem2           boss     Obsidian  IronScrap FlametalOre SurtlingCore Crystal TrophySGolem
-    // Wizard                    TrophyWraith Thistle Ruby
-    // WereWolfBlackArmored      WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
-    // WereWolfDarkGrey          WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
-    // WereWolfBlack             WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
-    // WereWolfBrown             WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
-    // WereWolfWhite             WolfFang WolfPelt TrophyWolf RawMeat Entrails Bloodbag
-    // TheNasty                  Needle NeckTail LeatherScraps Bloodbag
-    // WereBearGray              RawMeat 
-    // WereBearBlack             RawMeat
-    // WereBearRed               RawMeat
-    // WendigoForest             Bloodbag    
-    // WendigoSwamp              Bloodbag
+    // Yeti                      Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
+    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500 "m_faction": 4, Demon
+    // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500 "m_faction": 7, PlainsMonsters
+    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900 "m_faction": 8, Boss
+    // Wizard                    Chain Coal Thistle TrophyWraith                        100 "m_faction": 3, Undead
+    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 3, Undead
+    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 3, Undead
+    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 2, ForestMonsters
+    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 2, ForestMonsters
+    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 5, MountainMonsters
+    // TheNasty                  Entrails Bloodbag Chitin                                50 "m_faction": 3, Undead
+    // WereBearGray              Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
+    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
+    // WereBearRed               Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
+    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 2, ForestMonsters
+    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 3, Undead
     //  
     
     
