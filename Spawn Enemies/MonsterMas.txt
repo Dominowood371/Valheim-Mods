@@ -14,24 +14,24 @@ https://valheim.fandom.com/wiki/Category:Materials
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
-    // Mobs                      drop                              Tier    Health   локация    вражда
+    // Mobs                      drop                              Tier                Health   локация    вражда
     //
-    // Yeti                      Entrails RawMeat LeatherScraps
-    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll
-    // EarthTroll                TrollHide RawMeat TrophyForestTroll
-    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem
-    // Wizard                    Chain Coal Thistle TrophyWraith
-    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf
-    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf
-    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf
-    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf
-    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf
-    // TheNasty                  Entrails Bloodbag Chitin
-    // WereBearGray              Entrails RawMeat LeatherScraps
-    // WereBearBlack             Entrails RawMeat LeatherScraps
-    // WereBearRed               Entrails RawMeat LeatherScraps
-    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer
-    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer
+    // Yeti                      Entrails RawMeat LeatherScraps                        1850 "m_faction": 5,
+    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500 "m_faction": 4,
+    // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500 "m_faction": 7,
+    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900 "m_faction": 8,
+    // Wizard                    Chain Coal Thistle TrophyWraith                        100 "m_faction": 3,
+    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 3,
+    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 3,
+    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 2,
+    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 2,
+    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 5,
+    // TheNasty                  Entrails Bloodbag Chitin                                50 "m_faction": 3,
+    // WereBearGray              Entrails RawMeat LeatherScraps                        1850 "m_faction": 5,
+    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850 "m_faction": 5,
+    // WereBearRed               Entrails RawMeat LeatherScraps                        1850 "m_faction": 5,
+    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 2,
+    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 3,
     //  
     
       ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -52,7 +52,7 @@ https://valheim.fandom.com/wiki/Category:Materials
     // WereBearGray              RawMeat 
     // WereBearBlack             RawMeat
     // WereBearRed               RawMeat
-    // WendigoForest             Bloodbag
+    // WendigoForest             Bloodbag    
     // WendigoSwamp              Bloodbag
     //  
   
