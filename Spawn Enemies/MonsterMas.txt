@@ -23,26 +23,105 @@ https://valheim.fandom.com/wiki/Factions
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
-    // Mobs                      Drop                                                 Health Faction 
+    // Mobs                      Drop                                                 Health    Tier    Location      Faction 
     //
-    // Yeti                      Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
-    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500 "m_faction": 4, Demon
-    // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500 "m_faction": 7, PlainsMonsters
-    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900 "m_faction": 8, Boss
-    // Wizard                    Chain Coal Thistle TrophyWraith                        100 "m_faction": 3, Undead
-    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 3, Undead
-    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 3, Undead
-    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 2, ForestMonsters
-    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 2, ForestMonsters
-    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850 "m_faction": 5, MountainMonsters
-    // TheNasty                  Entrails Bloodbag Chitin                                50 "m_faction": 3, Undead
-    // WereBearGray              Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
-    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
-    // WereBearRed               Entrails RawMeat LeatherScraps                        1850 "m_faction": 5, MountainMonsters
-    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 2, ForestMonsters
-    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850 "m_faction": 3, Undead
+    // Yeti                      Entrails RawMeat LeatherScraps                        1850                           "m_faction": 5, MountainMonsters
+    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500                           "m_faction": 4, Demon
+    // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500                           "m_faction": 7, PlainsMonsters
+    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900                           "m_faction": 8, Boss
+    // Wizard                    Chain Coal Thistle TrophyWraith                        100                           "m_faction": 3, Undead
+    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 3, Undead
+    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 3, Undead
+    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 2, ForestMonsters
+    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 2, ForestMonsters
+    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 5, MountainMonsters
+    // TheNasty                  Entrails Bloodbag Chitin                                50                           "m_faction": 3, Undead
+    // WereBearGray              Entrails RawMeat LeatherScraps                        1850                           "m_faction": 5, MountainMonsters
+    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850                           "m_faction": 5, MountainMonsters
+    // WereBearRed               Entrails RawMeat LeatherScraps                        1850                           "m_faction": 5, MountainMonsters
+    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850                           "m_faction": 2, ForestMonsters
+    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850                           "m_faction": 3, Undead
     //  
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // MonsterLabZ MOD
+    // Mobs                      Drop                                         Health    Tier    Location      Faction    Drop
+    //  
+    // Black Spider              BlackSpider                                       40    Tier    Mistlands
+    // Brown Spider              BrownSpider                                       90    Tier    Mistlands
+    // Forest Spider             ForestSpider                                      90    Tier    Mistlands
+    // Frigid Spider             FrigidSpider                                      90    Tier    DeepNorth
+    // Frost Spider              FrostSpider                                       90    Tier    DeepNorth 
+    // Tan Spider                TanSpider                                         90    Tier    Mistlands
+    // Tree Spider               TreeSpider                                        90    Tier    Mistlands
+    // Green Spider              GreenSpider                                       90    Tier    Mistlands
+    // Ghost Warrior             GhostWarrior                                      40    Tier    BlackForest
+    // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier    Plains
+    // Goblin                    GoblinLoot                                       200    Tier    Plains
+    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew        150    Tier    Plains
+    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier    BlackForest
+    // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier    Plains
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier    Meadows
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier    
+    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier    DeepNorth
+    // Fire Golem                FireGolem                                        800    Tier    AshLands
+    // Ice Golem                 IceGolem                                        1500    Tier    DeepNorth
+    // Skeleton Warrior          SkeletonWarrior                                   40    Tier    BlackForest
+    // Burning Skeleton Warrior  SkeletonWarriorFire                               40    Tier    AshLands
+    // Frozen Skeleton Warrior   SkeletonWarriorIce                                40    Tier    DeepNorth
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Monsternomicon MOD
+    // Mobs                          IDS:                                     Health    Tier    Location      Faction    Drop
+    // 
+    // Fire-breathing Drake          (AshHatchling - Hatchling)                  750    Tier    
+    // Cinderwings                   (AshMosquito - Deathsquito)                   5    Tier    
+    // Ash-eater Neck                (AshNeck - Neck)                            850    Tier    
+    // Blazing Bones                 (BlazingBones - SkeletonWarrior)            180    Tier    
+    // Burned Bones                  (BurnedBones - SkeletonWarrior)             240    Tier    
+    // Elder Surtling                (ElderSurtling - Surtling)                   80    Tier    
+    // Ash-eater Tadpole             (SmallAshNeck - Neck)                       100    Tier    
+    // Swollen Body                  (SwollenBody - Draugr)                      320    Tier    
+    // Frozen Corpse                 (AngryFrozenCorpse - SkeletonWarriorIce)    320    Tier    
+    // Boreal Spirit                 (AngrySpirit - Ghost)                        55    Tier    
+    // Boreal Spirit                 (CalmSpirit - Ghost)                         55    Tier    
+    // Dvergr                        (Dvergr - RRR_NPC)                          280    Tier    
+    // Dvergr                        (DvergrEvent - RRR_NPC)                     280    Tier    
+    // Frozen Corpse                 (FrozenCorpse - SkeletonWarrior)            280    Tier    
+    // Pale-coat Fenring             (PolarFenring - Fenring)                    800    Tier    
+    // Icebreaker Lox                (PolarLox - Lox)                           2000    Tier    
+    // Silver Golem                  (SilverGolem - StoneGolem)                 2000    Tier    
+    // Icebreaker Calf               (SmallPolarLox - Lox)                       400    Tier    
+    // Frost-brood Serpent           (SmallPolarSerpent - Serpent)               250    Tier    
+    // Moonlit Warden                (DarkProtector - gd_king)                     5    Tier    
+    // Sentinel GloomWeaver          (DarkSpider - TreeSpider)                   140    Tier    
+    // Suffocating GloomWeaver       (PoisonDarkSpider - TreeSpider)             140    Tier    
+    // Brood GloomWeaver             (SmallDarkSpider - TreeSpider)               60    Tier    
+    // Svartalfr                     (Svartalfr - RRR_NPC)                       220    Tier    
+    // Svartalfr                     (SvartalfrArcher - RRR_NPC)                 220    Tier    
+    // Svartalfr                     (SvartalfrBrigade - RRR_NPC)                220    Tier    
+    // Inexorable Svartalfr          (SvartalfrHeavy - RRR_NPC)                  220    Tier    
+    // Duskseeker Svartalfr          (SvartalfrMage - RRR_NPC)                   220    Tier    
+    // Drowned Soul                  (DrownedSoul - Wraith)                      220    Tier    
+    // Storm-herald Wyrven           (StormHatchling - Hatchling)                140    Tier    
+    // Storm-devourer Vargr          (StormWolf - Wolf)                          160    Tier
+    //  
+    // The Damned One                (BlazingDamnedOne - SkeletonWarrior)       1500    Tier                   
+    // The Damned One                (DammedOne - SkeletonWarrior)              2500    Tier                   
+    // The One Who is Always Hungry  (DevourerFenring - Fenring)                2800    Tier                   
+    // The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)      2800    Tier                   
+    // Jotunn                        (Jotunn - Troll)                          18000    Tier                   
+    // BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)            650    Tier                   
+    // The Mourning Queen            (SvartalfrQueen - RRR_NPC)                 1800    Tier                   
+    // The One Who Hunts in the Rain (StormFenring - Fenring) Boss              1600    Tier                   
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
     
+    
+    
+    
+    
+---------------------------------------------------------------------
 Boar	           Forest	Meadows                 m_faction = 2
 Deer	           Forest	Meadows                 m_faction = 2
 Greyling	   Forest	Meadows                 m_faction = 2
