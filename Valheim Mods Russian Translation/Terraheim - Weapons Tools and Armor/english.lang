@@ -16,16 +16,16 @@ class_tank=Щитоносец
 class_thrower=Застрельщик
 class_challenge=Фанфарон
 #------------------------CAPES (Накидки)-------------------------
-item_cape_deerhideT0=Fur-Lined Deer Hide Cape
-item_cape_deerhideT1=Salamander-Lined Deer Hide Cape
-item_cape_trollhideT0=Fur-Lined Troll Hide Cape
-item_cape_trollhideT1=Salamander-Lined Troll Hide Cape
-item_cape_wolfT1=Salamander-Lined Wolf Fur Cape
-item_cape_loxT1=Salamander-Lined Lox Cape
-item_cape_linenT0=Fur-Lined Linen Cape
-item_cape_linenT1=Salamander-Lined Linen Cape
-ArmorBarbarianCapeJDT0=Fur-Lined Barbarian Cape
-ArmorBarbarianCapeJDT1=Salamander-Lined Barbarian Cape
+item_cape_deerhideT0=Плащ из шкуры оленя с меховой подкладкой
+item_cape_deerhideT1=Плащ из шкуры оленя с саламандровой подкладкой
+item_cape_trollhideT0=Плащ из кожи тролля с меховой подкладкой
+item_cape_trollhideT1=Плащ из кожи тролля с саламандровой подкладкой
+item_cape_wolfT1=Плащ из шкуры волка с саламандровой подкладкой
+item_cape_loxT1=Плащ из шкуры локса с саламандровой подкладкой
+item_cape_linenT0=Льняной плащ с меховой подкладкой 
+item_cape_linenT1=Льняной плащ с саламандровой подкладкой
+ArmorBarbarianCapeJDT0=Варварский меховой плащ с меховой подкладкой
+ArmorBarbarianCapeJDT1=Варварский меховой плащ с саламандровой подкладкой
 #------------------------RAG (Холщовая)-------------------------
 item_chest_rags_t0=Béotes Shirt
 item_chest_rags_t1=Troll-Reinforced Béotes Shirt
@@ -129,10 +129,10 @@ item_chest_padded_t6=Burning Huscarl Scalemail
 item_legs_padded_t0=Huscarl Greaves 
 item_legs_padded_t6=Burning Huscarl Greaves 
 #------------------------BARBARIAN (Варварская)-------------------------
-ArmorBarbarianBronzeHelmetJD=Barbarian Helmet
-ArmorBarbarianBronzeChestJD=Barbarian Chestplate
-ArmorBarbarianBronzeLegsJD=Barbarian Leggings
-ArmorBarbarianCapeJD=Barbarian Cloak
+ArmorBarbarianBronzeHelmetJD=Варварский шлем
+ArmorBarbarianBronzeChestJD=Варварский нагрудник
+ArmorBarbarianBronzeLegsJD=Варварские штаны
+ArmorBarbarianCapeJD=Варварский плащ
 ArmorBarbarianBronzeHelmetJD_desc=An overly embellished bronze helmet.
 ArmorBarbarianBronzeChestJD_desc=While not completely covering, it does let you move freely.
 ArmorBarbarianBronzeLegsJD_desc=Shaggy, but protective.
@@ -167,37 +167,37 @@ item_belt_farmer=Пояс Эоротилии
 item_belt_thief=Пояс Стулора
 #=========================WEAPONS (Оружие) ==========================
 #-------------------------GREATSWORDS (Двуручные мечи)-------------------------
-item_greatsword_iron=Iron Greatsword
-item_greatsword_chitin=Chitin Greatsword
+item_greatsword_iron=Большой железный меч
+item_greatsword_chitin=Большой хитиновый меч
 item_greatsword_folcbrand=Folcbrand
-item_greatsword_blackmetal=Blackmetal Greatsword
-item_greatsword_fire=Mistilteinn
-item_greatsword_iron_description=Blood-worm, wound-tool.
-item_greatsword_chitin_description=A savage, abyssal sword.
-item_greatsword_blackmetal_description=An undulating blade of cold, dark steel.
-item_greatsword_folcbrand_description=A keen sword, each strike cuts like a freezing gale.
-item_greatsword_fire_description=Þráinn's pride, Semingr's bane. This inferno has seared the flesh of four hundred and twenty men.
+item_greatsword_blackmetal=Большой меч из черного металла
+item_greatsword_fire=Мистелтейнн
+item_greatsword_iron_description=Кровяной червь, отличный инструмент для нанесении ран.
+item_greatsword_chitin_description=Беспощадный, глубинный меч.
+item_greatsword_blackmetal_description=Волнообразный меч из холодной и темной стали. 
+item_greatsword_folcbrand_description=Острый меч, каждый удар режет, как леденящий сильный ветер.
+item_greatsword_fire_description=Гордость Траина и проклятие Семинга. Это адское оружие сожгло плоть четырехсот двадцати человек.
 #-------------------------BATTLEAXES (Боевые топоры)-------------------------
-item_battleaxe_flint=Greatclub
-item_battleaxe_bronze_terraheim=Bronze Battleaxe
-item_battleaxe_silver=Silver Battleaxe
-item_battleaxe_blackmetal=Blackmetal Battleaxe
-item_battleaxe_fire=Ridill
-item_battleaxe_flint_description=Sometimes it is best to not overcomplicate things...
-item_battleaxe_bronze_terraheim_description=Wolf-caller, head-splitter.
-item_battleaxe_silver_description=A chilling blade of pure silver.
-item_battleaxe_blackmetal_description=A harrowing blade of unearthly material.
-item_battleaxe_fire_description=Regin's treasure, heart ripper, dragon slayer.
+item_battleaxe_flint=Большая дубина
+item_battleaxe_bronze_terraheim=Бронзовый боевой топор
+item_battleaxe_silver=Серебряный боевой топор
+item_battleaxe_blackmetal=Боевой топор из черного металла
+item_battleaxe_fire=Ридиль
+item_battleaxe_flint_description=Иногда лучше не усугублять ситуацию...
+item_battleaxe_bronze_terraheim_description=Волчий звонарь, разрубающий головы.
+item_battleaxe_silver_description=Леденящее кровь лезвие из чистого серебра.
+item_battleaxe_blackmetal_description=Мучительное лезвие из таинственного материала.
+item_battleaxe_fire_description=Сокровище Регина, потрошитель сердец и убийца драконов.
 #------------------------ARROWS (Стрелы)-------------------------
 item_arrow_great_fire=Большая огнеметаллическая стрела
 item_arrow_fire_great_description=Возможно и не самая тонкая стрела, но никто не может сомневаться в её эффективности.
 #-------------------------AXES (Топоры)-------------------------
-item_axe_frost=Forstasca
-item_axe_frost_description=A glittering wolf's fang. Your foes shall fear its frost.
-item_axe_fire=Fosite
-item_axe_fire_description=Glory of Frisia, savior of the Āsegas. A burning shard of fire and fury.
-item_axe_serpent=Þunorwyrm 
-item_axe_serpent_description=Born of storms and seas, Þunorwyrm strikes with the might of Þórr.
+item_axe_frost=Форстаска
+item_axe_frost_description=Сверкающий волчий клык. Ваши враги будут в страхе от его мороза.
+item_axe_fire=Фосити
+item_axe_fire_description=Прославленный Фризии, спаситель Асегасов. Горящий осколок огня и ярости.
+item_axe_serpent=Тхунорвурм
+item_axe_serpent_description=Рожденный штормами и морями, Тхунорвурм наносит свои удары с такой же силой как у Тора.
 #-------------------------ATGEIRS (Древковое оружие)-------------------------
 item_atgeir_silver=Серебряная алебарда 
 item_atgeir_silver_description=Рубящее копье, холодное лезвие которого вызывает бледный мороз.
@@ -234,7 +234,7 @@ item_knife_fire=Карнвеннан
 item_knife_fire_description=Сердце Артура, секач Олвен. Кинжал дарованный богом обжигающий неестественным пламенем.
 #-------------------------MACES (Дубины)-------------------------
 item_mace_fire=Альмас
-item_mace_fire_description=По вере архиепископа Турпина, Альмас является сокрушительным шаром огня и ярости.
+item_mace_fire_description=По вероисповедании архиепископа Турпина, Альмас является сокрушительным шаром огня и ярости.
 #-------------------------MISC WEAPONS (Разное оружие)-------------------------
 item_torch_olympia=О Л И М П И Я
 item_torch_olympia_description=Какой-то безумец в тоге дал тебе это...
