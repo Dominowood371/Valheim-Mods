@@ -1589,30 +1589,30 @@
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterLabZ MOD
-    // Mobs                      IDS:                                           Health          
+    // Mobs                      IDS:                                          Health    Tier    Location
     //  
-    // Black Spider              BlackSpider                                    40    Mistlands
-    // Brown Spider              BrownSpider                                    90    Mistlands
-    // Forest Spider             ForestSpider                                   90    Mistlands
-    // Frigid Spider             FrigidSpider                                   90    DeepNorth
-    // Frost Spider              FrostSpider                                    90    DeepNorth
-    // Tan Spider                TanSpider                                      90    Mistlands
-    // Tree Spider               TreeSpider                                     90    Mistlands
-    // Green Spider              GreenSpider                                    90    Mistlands
-    // Ghost Warrior             GhostWarrior                                   40    BlackForest
-    // $enemy_goblin             GoblinBase - ExportedGoblinBase                200   Plains
-    // Goblin                    GoblinLoot                                     200   Plains
-    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew      150   Plains
-    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple    40    BlackForest
-    // Molluscan                 Molluscan - ExportedMolluscan                  40    Plains
-    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly  40    Meadows
-    // Silkworm Butterfly        Silkworm_Butterfly
-    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem          800   DeepNorth
-    // Fire Golem                FireGolem                                      800   AshLands
-    // Ice Golem                 IceGolem                                       1500  DeepNorth
-    // Skeleton Warrior          SkeletonWarrior                                40    BlackForest
-    // Burning Skeleton Warrior  SkeletonWarriorFire                            40    AshLands
-    // Frozen Skeleton Warrior   SkeletonWarriorIce                             40    DeepNorth
+    // Black Spider              BlackSpider                                       40    Tier    Mistlands
+    // Brown Spider              BrownSpider                                       90    Tier    Mistlands
+    // Forest Spider             ForestSpider                                      90    Tier    Mistlands
+    // Frigid Spider             FrigidSpider                                      90    Tier    DeepNorth
+    // Frost Spider              FrostSpider                                       90    Tier    DeepNorth 
+    // Tan Spider                TanSpider                                         90    Tier    Mistlands
+    // Tree Spider               TreeSpider                                        90    Tier    Mistlands
+    // Green Spider              GreenSpider                                       90    Tier    Mistlands
+    // Ghost Warrior             GhostWarrior                                      40    Tier    BlackForest
+    // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier    Plains
+    // Goblin                    GoblinLoot                                       200    Tier    Plains
+    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew        150    Tier    Plains
+    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier    BlackForest
+    // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier    Plains
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier    Meadows
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier    
+    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier    DeepNorth
+    // Fire Golem                FireGolem                                        800    Tier    AshLands
+    // Ice Golem                 IceGolem                                        1500    Tier    DeepNorth
+    // Skeleton Warrior          SkeletonWarrior                                   40    Tier    BlackForest
+    // Burning Skeleton Warrior  SkeletonWarriorFire                               40    Tier    AshLands
+    // Frozen Skeleton Warrior   SkeletonWarriorIce                                40    Tier    DeepNorth
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 	  
@@ -1745,24 +1745,24 @@
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
-    // Mobs                      IDS:                     Tier
+    // Mobs - IDS             Health    Tier    Location
     //  
-    // Yeti
-    // CrazyTroll
-    // EarthTroll
-    // Golem2           boss
-    // Wizard
-    // WereWolfBlackArmored
-    // WereWolfDarkGrey
-    // WereWolfBlack
-    // WereWolfBrown
-    // WereWolfWhite
-    // TheNasty
-    // WereBearGray
-    // WereBearBlack
-    // WereBearRed
-    // WendigoForest
-    // WendigoSwamp
+    // Yeti                     1850    Tier    
+    // CrazyTroll               1500    Tier    
+    // EarthTroll               1500    Tier    
+    // Golem2        boss        900    Tier    
+    // Wizard                    100    Tier    
+    // WereWolfBlackArmored     1850    Tier    
+    // WereWolfDarkGrey         1850    Tier    
+    // WereWolfBlack            1850    Tier    
+    // WereWolfBrown            1850    Tier    
+    // WereWolfWhite            1850    Tier    
+    // TheNasty                   50    Tier    
+    // WereBearGray             1850    Tier    
+    // WereBearBlack            1850    Tier    
+    // WereBearRed              1850    Tier    
+    // WendigoForest            1850    Tier    
+    // WendigoSwamp             1850    Tier    
     //  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -1865,16 +1865,48 @@
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Monsternomicon MOD
-    // Mobs                          IDS:                                   Health                    Attacks
+    // Mobs                          IDS:                                     Health    Tier    Location        Attacks
+    // 
+    // Fire-breathing Drake          (AshHatchling - Hatchling)                  750    Tier    
+    // Cinderwings                   (AshMosquito - Deathsquito)                   5    Tier    
+    // Ash-eater Neck                (AshNeck - Neck)                            850    Tier    
+    // Blazing Bones                 (BlazingBones - SkeletonWarrior)            180    Tier    
+    // Burned Bones                  (BurnedBones - SkeletonWarrior)             240    Tier    
+    // Elder Surtling                (ElderSurtling - Surtling)                   80    Tier    
+    // Ash-eater Tadpole             (SmallAshNeck - Neck)                       100    Tier    
+    // Swollen Body                  (SwollenBody - Draugr)                      320    Tier    
+    // Frozen Corpse                 (AngryFrozenCorpse - SkeletonWarriorIce)    320    Tier    
+    // Boreal Spirit                 (AngrySpirit - Ghost)                        55    Tier    
+    // Boreal Spirit                 (CalmSpirit - Ghost)                         55    Tier    
+    // Dvergr                        (Dvergr - RRR_NPC)                          280    Tier    
+    // Dvergr                        (DvergrEvent - RRR_NPC)                     280    Tier    
+    // Frozen Corpse                 (FrozenCorpse - SkeletonWarrior)            280    Tier    
+    // Pale-coat Fenring             (PolarFenring - Fenring)                    800    Tier    
+    // Icebreaker Lox                (PolarLox - Lox)                           2000    Tier    
+    // Silver Golem                  (SilverGolem - StoneGolem)                 2000    Tier    
+    // Icebreaker Calf               (SmallPolarLox - Lox)                       400    Tier    
+    // Frost-brood Serpent           (SmallPolarSerpent - Serpent)               250    Tier    
+    // Moonlit Warden                (DarkProtector - gd_king)                     5    Tier    
+    // Sentinel GloomWeaver          (DarkSpider - TreeSpider)                   140    Tier    
+    // Suffocating GloomWeaver       (PoisonDarkSpider - TreeSpider)             140    Tier    
+    // Brood GloomWeaver             (SmallDarkSpider - TreeSpider)               60    Tier    
+    // Svartalfr                     (Svartalfr - RRR_NPC)                       220    Tier    
+    // Svartalfr                     (SvartalfrArcher - RRR_NPC)                 220    Tier    
+    // Svartalfr                     (SvartalfrBrigade - RRR_NPC)                220    Tier    
+    // Inexorable Svartalfr          (SvartalfrHeavy - RRR_NPC)                  220    Tier    
+    // Duskseeker Svartalfr          (SvartalfrMage - RRR_NPC)                   220    Tier    
+    // Drowned Soul                  (DrownedSoul - Wraith)                      220    Tier    
+    // Storm-herald Wyrven           (StormHatchling - Hatchling)                140    Tier    
+    // Storm-devourer Vargr          (StormWolf - Wolf)                          160    Tier
     //  
-    // The Damned One                (BlazingDamnedOne - SkeletonWarrior)   1500                      Blunt, Poison, Fire
-    // The Damned One                (DammedOne - SkeletonWarrior)          2500                      Blunt, Poison
-    // The One Who is Always Hungry  (DevourerFenring - Fenring)            2800                      Slash, Blunt
-    // The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)  2800                      Pierce, Frost
-    // Jotunn                        (Jotunn - Troll)                       18000                     Blunt, Chop, Pickaxe
-    // BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)       650                       Blunt, Slash
-    // The Mourning Queen            (SvartalfrQueen - RRR_NPC)             1800                      Blunt, Poison
-    // The One Who Hunts in the Rain (StormFenring - Fenring) Boss          1600                      Blunt, Lightning
+    // The Damned One                (BlazingDamnedOne - SkeletonWarrior)       1500    Tier                   Blunt, Poison, Fire
+    // The Damned One                (DammedOne - SkeletonWarrior)              2500    Tier                   Blunt, Poison
+    // The One Who is Always Hungry  (DevourerFenring - Fenring)                2800    Tier                   Slash, Blunt
+    // The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)      2800    Tier                   Pierce, Frost
+    // Jotunn                        (Jotunn - Troll)                          18000    Tier                   Blunt, Chop, Pickaxe
+    // BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)            650    Tier                   Blunt, Slash
+    // The Mourning Queen            (SvartalfrQueen - RRR_NPC)                 1800    Tier                   Blunt, Poison
+    // The One Who Hunts in the Rain (StormFenring - Fenring) Boss              1600    Tier                   Blunt, Lightning
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
