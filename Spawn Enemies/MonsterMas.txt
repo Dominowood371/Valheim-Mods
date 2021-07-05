@@ -11,64 +11,64 @@ https://valheim.fandom.com/wiki/Factions
 7 "PlainsMonsters",      
 8 "Boss"
 
-* Meadows Луга
-* Swamp  Болота
-* Mountain  Горы
-* BlackForest Чёрный лес
-* Plains Равнины
-* AshLands Пепельные земли
-* DeepNorth Дальний север
-* Ocean Океан
-* Mistlands Туманные земли
+* Tier1 Meadows Луга
+* Tier2 BlackForest Чёрный лес
+* Tier3 Swamp  Болота
+* Tier4 Mountain  Горы
+* Tier5 Plains Равнины
+* Tier5 DeepNorth Дальний север
+* Tier5 Ocean Океан
+* Tier6 Mistlands Туманные земли
+* Tier7 AshLands Пепельные земли
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
-    // Mobs                      Drop                                                 Health    Tier    Location      Faction 
+    // Mobs                      Drop                                                 Health    Tier     Location      Faction 
     //
-    // Yeti                      Entrails RawMeat LeatherScraps                        1850                           "m_faction": 5, MountainMonsters
-    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500                           "m_faction": 4, Demon
-    // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500                           "m_faction": 7, PlainsMonsters
-    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900                           "m_faction": 8, Boss
-    // Wizard                    Chain Coal Thistle TrophyWraith                        100                           "m_faction": 3, Undead
-    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 3, Undead
-    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 3, Undead
-    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 2, ForestMonsters
-    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 2, ForestMonsters
-    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850                           "m_faction": 5, MountainMonsters
-    // TheNasty                  Entrails Bloodbag Chitin                                50                           "m_faction": 3, Undead
-    // WereBearGray              Entrails RawMeat LeatherScraps                        1850                           "m_faction": 5, MountainMonsters
-    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850                           "m_faction": 5, MountainMonsters
-    // WereBearRed               Entrails RawMeat LeatherScraps                        1850                           "m_faction": 5, MountainMonsters
-    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850                           "m_faction": 2, ForestMonsters
-    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850                           "m_faction": 3, Undead
+    // Yeti                      Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500     Tier6    Mistlands     "m_faction": 4, Demon
+    // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500     Tier6    Mistlands     "m_faction": 7, PlainsMonsters
+    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900     Tier7    AshLands      "m_faction": 8, Boss
+    // Wizard                    Chain Coal Thistle TrophyWraith                        100     Tier2    BlackForest   "m_faction": 3, Undead
+    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier3    Swamp         "m_faction": 3, Undead
+    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier3    Swamp         "m_faction": 3, Undead
+    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
+    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier2    BlackForest   "m_faction": 2, ForestMonsters
+    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // TheNasty                  Entrails Bloodbag Chitin                                50     Tier3    Swamp         "m_faction": 3, Undead
+    // WereBearGray              Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850     Tier5    Mountain      "m_faction": 5, MountainMonsters
+    // WereBearRed               Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
+    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850     Tier2    BlackForest   "m_faction": 3, Undead
     //  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterLabZ MOD
-    // Mobs                      Drop                                          Health    Tier    Location      Faction               Drop
+    // Mobs                      Drop                                          Health    Tier     Location      Faction               Drop
     //  
-    // Black Spider              BlackSpider                                       40    Tier    Mistlands     ForestMonsters        Guck
-    // Brown Spider              BrownSpider                                       90    Tier    Mistlands     ForestMonsters        Guck
-    // Forest Spider             ForestSpider                                      90    Tier    Mistlands     ForestMonsters        Guck
-    // Frigid Spider             FrigidSpider                                      90    Tier    DeepNorth     ForestMonsters        Guck
-    // Frost Spider              FrostSpider                                       90    Tier    DeepNorth     ForestMonsters        Guck
-    // Tan Spider                TanSpider                                         90    Tier    Mistlands     ForestMonsters        Guck
-    // Tree Spider               TreeSpider                                        90    Tier    Mistlands     ForestMonsters        Guck
-    // Green Spider              GreenSpider                                       90    Tier    Mistlands     ForestMonsters        Guck
-    // Ghost Warrior             GhostWarrior                                      40    Tier    BlackForest   Undead                AmberPearl
-    // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier    Plains        PlainsMonsters        Coins
-    // Goblin                    GoblinLoot                                       200    Tier    Plains        PlainsMonsters        Coins
-    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew        150    Tier    Plains        PlainsMonsters        Coins BlackMetalScrap TrophyGoblinShaman
-    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
-    // Greydwarf                Greydwarf_Purple_Shroom - ExportedGreydwarf_Purple 40    Tier    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
-    // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier    Plains        SeaMonsters           Chitin
-    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier    Meadows       AnimalsVeg            х
-    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier    Meadows       AnimalsVeg            х  
-    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier    DeepNorth     ForestMonsters        TrophySGolem Stone Crystal       
-    // Fire Golem                FireGolem                                        800    Tier    AshLands      Demon                 Stone SurtlingCore
-    // Ice Golem                 IceGolem                                        1500    Tier    DeepNorth     MountainMonsters      Crystal
-    // Skeleton Warrior          SkeletonWarrior                                   40    Tier    BlackForest   Undead                TrophySkeleton BoneFragments
-    // Burning Skeleton Warrior  SkeletonWarriorFire                               40    Tier    AshLands      Undead                TrophySkeleton BoneFragments
-    // Frozen Skeleton Warrior   SkeletonWarriorIce                                40    Tier    DeepNorth     Undead                TrophySkeleton BoneFragments
+    // Black Spider              BlackSpider                                       40    Tier0    Meadows       ForestMonsters        Guck
+    // Brown Spider              BrownSpider                                       90    Tier2    BlackForest   ForestMonsters        Guck
+    // Forest Spider             ForestSpider                                      90    Tier1    Meadows       ForestMonsters        Guck
+    // Frigid Spider             FrigidSpider                                      90    Tier5    DeepNorth     ForestMonsters        Guck
+    // Frost Spider              FrostSpider                                       90    Tier5    DeepNorth     ForestMonsters        Guck
+    // Tan Spider                TanSpider                                         90    Tier2    BlackForest   ForestMonsters        Guck
+    // Tree Spider               TreeSpider                                        90    Tier1    Meadows       ForestMonsters        Guck
+    // Green Spider              GreenSpider                                       90    Tier1    Meadows       ForestMonsters        Guck
+    // Ghost Warrior             GhostWarrior                                      40    Tier2    BlackForest   Undead                AmberPearl
+    // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier5    Plains        PlainsMonsters        Coins
+    // Goblin                    GoblinLoot                                       200    Tier5    Plains        PlainsMonsters        Coins
+    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew        150    Tier5    Plains        PlainsMonsters        Coins BlackMetalScrap TrophyGoblinShaman
+    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier2    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
+    // Greydwarf                Greydwarf_Purple_Shroom - ExportedGreydwarf_Purple 40    Tier2    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
+    // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier5    Ocean         SeaMonsters           Chitin
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows       AnimalsVeg            х
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows       AnimalsVeg            х  
+    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier5    DeepNorth     ForestMonsters        TrophySGolem Stone Crystal       
+    // Fire Golem                FireGolem                                        800    Tier7    AshLands      Demon                 Stone SurtlingCore
+    // Ice Golem                 IceGolem                                        1500    Tier5    DeepNorth     MountainMonsters      Crystal
+    // Skeleton Warrior          SkeletonWarrior                                   40    Tier2    BlackForest   Undead                TrophySkeleton BoneFragments
+    // Burning Skeleton Warrior  SkeletonWarriorFire                               40    Tier7    AshLands      Undead                TrophySkeleton BoneFragments
+    // Frozen Skeleton Warrior   SkeletonWarriorIce                                40    Tier5    DeepNorth     Undead                TrophySkeleton BoneFragments
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Monsternomicon MOD
@@ -85,7 +85,7 @@ https://valheim.fandom.com/wiki/Factions
     // Frozen Corpse                 (AngryFrozenCorpse - SkeletonWarriorIce)    320    Tier5    DeepNorth         Undead            TrophySkeleton BoneFragments
     // Boreal Spirit                 (AngrySpirit - Ghost)                        55    Tier5    DeepNorth         Boss              X
     // Boreal Spirit                 (CalmSpirit - Ghost)                         55    Tier5    DeepNorth         Boss              X
-    // Dvergr                        (Dvergr - RRR_NPC)                          280    Tie5r    DeepNorth         Players           X
+    // Dvergr                        (Dvergr - RRR_NPC)                          280    Tier5    DeepNorth         Players           X
     // Dvergr                        (DvergrEvent - RRR_NPC)                     280    Tier5    DeepNorth         Players           X
     // Frozen Corpse                 (FrozenCorpse - SkeletonWarrior)            280    Tier5    DeepNorth         Undead            TrophySkeleton BoneFragments
     // Pale-coat Fenring             (PolarFenring - Fenring)                    800    Tier5    DeepNorth         MountainMonsters  WolfFang TrophyFenring
@@ -158,7 +158,3 @@ Fuling shaman	   Plains	Plains                  m_faction = 7
 Lox	           Plains	Plains                  m_faction = 7
 Yagluth	           Boss	        Plains                  m_faction = 8
 Serpent	           Sea          Ocean                   m_faction = 6
-    
-    
-    
-    
