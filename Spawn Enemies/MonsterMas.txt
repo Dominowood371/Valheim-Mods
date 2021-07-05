@@ -72,49 +72,49 @@ https://valheim.fandom.com/wiki/Factions
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Monsternomicon MOD
-    // Mobs                          IDS:                                     Health    Tier    Location          Faction           Drop
+    // Mobs                          IDS:                                     Health    Tier     Location          Faction           Drop
     // 
-    // Fire-breathing Drake          (AshHatchling - Hatchling)                  750    Tier    AshLands          MountainMonsters  Coal FlametalOre
-    // Cinderwings                   (AshMosquito - Deathsquito)                   5    Tier    AshLands          Undead            X
-    // Ash-eater Neck                (AshNeck - Neck)                            850    Tier    AshLands          MountainMonsters  SerpentMeat TrophyNeck
-    // Blazing Bones                 (BlazingBones - SkeletonWarrior)            180    Tier    AshLands          Undead            Coal
-    // Burned Bones                  (BurnedBones - SkeletonWarrior)             240    Tier    AshLands          Undead            TrophySkeleton BoneFragments Coal
-    // Elder Surtling                (ElderSurtling - Surtling)                   80    Tier    AshLands          Demon             Coal SurtlingCore TrophySurtling
-    // Ash-eater Tadpole             (SmallAshNeck - Neck)                       100    Tier    AshLands          MountainMonsters  NeckTail TrophyNeck
-    // Swollen Body                  (SwollenBody - Draugr)                      320    Tier    AshLands          Undead            TrophyDraugr Ooze Entrails
-    // Frozen Corpse                 (AngryFrozenCorpse - SkeletonWarriorIce)    320    Tier    DeepNorth         Undead            TrophySkeleton BoneFragments
-    // Boreal Spirit                 (AngrySpirit - Ghost)                        55    Tier    DeepNorth         Boss              X
-    // Boreal Spirit                 (CalmSpirit - Ghost)                         55    Tier    DeepNorth         Boss              X
-    // Dvergr                        (Dvergr - RRR_NPC)                          280    Tier    DeepNorth         Players           X
-    // Dvergr                        (DvergrEvent - RRR_NPC)                     280    Tier    DeepNorth         Players           X
-    // Frozen Corpse                 (FrozenCorpse - SkeletonWarrior)            280    Tier    DeepNorth         Undead            TrophySkeleton BoneFragments
-    // Pale-coat Fenring             (PolarFenring - Fenring)                    800    Tier    DeepNorth         MountainMonsters  WolfFang TrophyFenring
-    // Icebreaker Lox                (PolarLox - Lox)                           2000    Tier    DeepNorth         PlainsMonsters    LoxMeat TrophyLox LoxPelt
-    // Silver Golem                  (SilverGolem - StoneGolem)                 2000    Tier    DeepNorth         MountainMonsters  TrophySGolem Stone Crystal SilverOre
-    // Icebreaker Calf               (SmallPolarLox - Lox)                       400    Tier    DeepNorth         PlainsMonsters    LoxMeat LoxPelt
-    // Frost-brood Serpent           (SmallPolarSerpent - Serpent)               250    Tier    DeepNorth         SeaMonsters       TrophySerpent SerpentMeat SerpentScale FreezeGland
-    // Moonlit Moth                  (DarkMosquito - Deathsquito)                  5    Tier    Mistlands         Boss              х
-    // Moonlit Warden                (DarkProtector - gd_king)                  1800    Tier    Mistlands         Boss              х
-    // Sentinel GloomWeaver          (DarkSpider - TreeSpider)                   140    Tier    Mistlands         ForestMonsters    Ooze
-    // Suffocating GloomWeaver       (PoisonDarkSpider - TreeSpider)             140    Tier    Mistlands         ForestMonsters    Ooze
-    // Brood GloomWeaver             (SmallDarkSpider - TreeSpider)               60    Tier    Mistlands         ForestMonsters    х
-    // Svartalfr                     (Svartalfr - RRR_NPC)                       220    Tier    Mistlands         ForestMonsters    BlackMetalScrap Crystal
-    // Svartalfr                     (SvartalfrArcher - RRR_NPC)                 220    Tier    Mistlands         ForestMonsters    BlackMetalScrap Crystal
-    // Svartalfr                     (SvartalfrBrigade - RRR_NPC)                220    Tier    Mistlands         ForestMonsters    BlackMetalScrap Crystal
-    // Inexorable Svartalfr          (SvartalfrHeavy - RRR_NPC)                  220    Tier    Mistlands         ForestMonsters    BlackMetalScrap Crystal  
-    // Duskseeker Svartalfr          (SvartalfrMage - RRR_NPC)                   220    Tier    Mistlands         ForestMonsters    BlackMetalScrap Crystal
-    // Drowned Soul                  (DrownedSoul - Wraith)                      220    Tier    Ocean             Undead            TrophyWraith    Chain
-    // Storm-herald Wyrven           (StormHatchling - Hatchling)                140    Tier    Ocean             SeaMonsters       TrophyHatchling
-    // Storm-devourer Vargr          (StormWolf - Wolf)                          160    Tier    Mountain          MountainMonsters  TrophyWolf RawMeat WolfPelt WolfFang
+    // Fire-breathing Drake          (AshHatchling - Hatchling)                  750    Tier7    AshLands          MountainMonsters  Coal FlametalOre
+    // Cinderwings                   (AshMosquito - Deathsquito)                   5    Tier7    AshLands          Undead            X
+    // Ash-eater Neck                (AshNeck - Neck)                            850    Tier7    AshLands          MountainMonsters  SerpentMeat TrophyNeck
+    // Blazing Bones                 (BlazingBones - SkeletonWarrior)            180    Tier7    AshLands          Undead            Coal
+    // Burned Bones                  (BurnedBones - SkeletonWarrior)             240    Tier7    AshLands          Undead            TrophySkeleton BoneFragments Coal
+    // Elder Surtling                (ElderSurtling - Surtling)                   80    Tier7    AshLands          Demon             Coal SurtlingCore TrophySurtling
+    // Ash-eater Tadpole             (SmallAshNeck - Neck)                       100    Tier7    AshLands          MountainMonsters  NeckTail TrophyNeck
+    // Swollen Body                  (SwollenBody - Draugr)                      320    Tier7    AshLands          Undead            TrophyDraugr Ooze Entrails
+    // Frozen Corpse                 (AngryFrozenCorpse - SkeletonWarriorIce)    320    Tier5    DeepNorth         Undead            TrophySkeleton BoneFragments
+    // Boreal Spirit                 (AngrySpirit - Ghost)                        55    Tier5    DeepNorth         Boss              X
+    // Boreal Spirit                 (CalmSpirit - Ghost)                         55    Tier5    DeepNorth         Boss              X
+    // Dvergr                        (Dvergr - RRR_NPC)                          280    Tie5r    DeepNorth         Players           X
+    // Dvergr                        (DvergrEvent - RRR_NPC)                     280    Tier5    DeepNorth         Players           X
+    // Frozen Corpse                 (FrozenCorpse - SkeletonWarrior)            280    Tier5    DeepNorth         Undead            TrophySkeleton BoneFragments
+    // Pale-coat Fenring             (PolarFenring - Fenring)                    800    Tier5    DeepNorth         MountainMonsters  WolfFang TrophyFenring
+    // Icebreaker Lox                (PolarLox - Lox)                           2000    Tier5    DeepNorth         PlainsMonsters    LoxMeat TrophyLox LoxPelt
+    // Silver Golem                  (SilverGolem - StoneGolem)                 2000    Tier5    DeepNorth         MountainMonsters  TrophySGolem Stone Crystal SilverOre
+    // Icebreaker Calf               (SmallPolarLox - Lox)                       400    Tier5    DeepNorth         PlainsMonsters    LoxMeat LoxPelt
+    // Frost-brood Serpent           (SmallPolarSerpent - Serpent)               250    Tier5    DeepNorth         SeaMonsters       TrophySerpent SerpentMeat SerpentScale FreezeGland
+    // Moonlit Moth                  (DarkMosquito - Deathsquito)                  5    Tier6    Mistlands         Boss              х
+    // Moonlit Warden                (DarkProtector - gd_king)                  1800    Tier6    Mistlands         Boss              х
+    // Sentinel GloomWeaver          (DarkSpider - TreeSpider)                   140    Tier6    Mistlands         ForestMonsters    Ooze
+    // Suffocating GloomWeaver       (PoisonDarkSpider - TreeSpider)             140    Tier6    Mistlands         ForestMonsters    Ooze
+    // Brood GloomWeaver             (SmallDarkSpider - TreeSpider)               60    Tier6    Mistlands         ForestMonsters    х
+    // Svartalfr                     (Svartalfr - RRR_NPC)                       220    Tier6    Mistlands         ForestMonsters    BlackMetalScrap Crystal
+    // Svartalfr                     (SvartalfrArcher - RRR_NPC)                 220    Tier6    Mistlands         ForestMonsters    BlackMetalScrap Crystal
+    // Svartalfr                     (SvartalfrBrigade - RRR_NPC)                220    Tier6    Mistlands         ForestMonsters    BlackMetalScrap Crystal
+    // Inexorable Svartalfr          (SvartalfrHeavy - RRR_NPC)                  220    Tier6    Mistlands         ForestMonsters    BlackMetalScrap Crystal  
+    // Duskseeker Svartalfr          (SvartalfrMage - RRR_NPC)                   220    Tier6    Mistlands         ForestMonsters    BlackMetalScrap Crystal
+    // Drowned Soul                  (DrownedSoul - Wraith)                      220    Tier5    Ocean             Undead            TrophyWraith    Chain
+    // Storm-herald Wyrven           (StormHatchling - Hatchling)                140    Tier5    Ocean             SeaMonsters       TrophyHatchling
+    // Storm-devourer Vargr          (StormWolf - Wolf)                          160    Tier5    Mountain          MountainMonsters  TrophyWolf RawMeat WolfPelt WolfFang
     //  
-    // The Damned One                (BlazingDamnedOne - SkeletonWarrior)       1500    Tier    AshLands          Undead            Coal FlametalOre
-    // The Damned One                (DammedOne - SkeletonWarrior)              2500    Tier    AshLands          Undead            TrophySkeleton BoneFragments Ooze Coal
-    // The One Who is Always Hungry  (DevourerFenring - Fenring)                2800    Tier    DeepNorth         MountainMonsters  WolfFang TrophyFenring
-    // The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)      2800    Tier    DeepNorth         Undead            TrophySkeleton BoneFragments
-    // Jotunn                        (Jotunn - Troll)                          18000    Tier    DeepNorth         MountainMonsters  x
-    // BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)            650    Tier    Mistlands         ForestMonsters    Ooze    
-    // The Mourning Queen            (SvartalfrQueen - RRR_NPC)                 1800    Tier    Mistlands         ForestMonsters    BlackMetalScrap Crystal
-    // The One Who Hunts in the Rain (StormFenring - Fenring) Boss              1600    Tier    Mountain          MountainMonsters  WolfFang TrophyFenring
+    // The Damned One                (BlazingDamnedOne - SkeletonWarrior)       1500    Tier7    AshLands          Undead            Coal FlametalOre
+    // The Damned One                (DammedOne - SkeletonWarrior)              2500    Tier7    AshLands          Undead            TrophySkeleton BoneFragments Ooze Coal
+    // The One Who is Always Hungry  (DevourerFenring - Fenring)                2800    Tier5    DeepNorth         MountainMonsters  WolfFang TrophyFenring
+    // The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)      2800    Tier5    DeepNorth         Undead            TrophySkeleton BoneFragments
+    // Jotunn                        (Jotunn - Troll)                          18000    Tier5    DeepNorth         MountainMonsters  x
+    // BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)            650    Tier6    Mistlands         ForestMonsters    Ooze    
+    // The Mourning Queen            (SvartalfrQueen - RRR_NPC)                 1800    Tier6    Mistlands         ForestMonsters    BlackMetalScrap Crystal
+    // The One Who Hunts in the Rain (StormFenring - Fenring) Boss              1600    Tier6    Mistlands         MountainMonsters  WolfFang TrophyFenring
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
