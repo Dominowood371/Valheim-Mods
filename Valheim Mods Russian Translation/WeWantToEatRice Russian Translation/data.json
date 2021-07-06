@@ -1,0 +1,22 @@
+﻿{
+  "M150_RicePlant_Seed_Name": "Rice seeds",
+  "M150_RicePlant_Seed_Desc": "Plant the seed on a cultivated soil filled with water without eating it.",
+  
+  "M150_sapling_RicePlant_Name": "Rice plant",
+  "M150_sapling_RicePlant_Desc": "We are able to harvest rice from this plant.",
+  
+  "M150_Rice_Raw_Name": "Bunch of rice",
+  "M150_Rice_Raw_Desc": "This cannot be eaten as it is. Let's dry.",
+
+  "M150_Rice_RawDry_Name": "Bunch of dried rice",
+  "M150_Rice_RawDry_Desc": "This cannot be eaten yet as it is. Let's take out only the seeds.",
+
+  "M150_BrownRice_Name": "Brown rice",
+  "M150_BrownRice_Desc": "More nutritious than white rice. Let's polish rice.",
+
+  "M150_WhiteRice_Name": "White rice",
+  "M150_WhiteRice_Desc": "This is the main food of the far eastern land.",
+
+  "M150_RiceFlour_Name": "Rice flour",
+  "M150_RiceFlour_Desc": "This flour is ground white rice."
+}

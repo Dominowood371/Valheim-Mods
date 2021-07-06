@@ -1,0 +1,25 @@
+﻿{
+  "M150_Bucket_Name": "Bucket",
+  "M150_Bucket_Desc": "You can get seawater by throwing this bucket into the sea.",
+
+  "M150_SaltWaterBucket_Name": "Salt water bucket",
+  "M150_SaltWaterBucket_Desc": "Salt water is heavier than pure water.",
+
+  "M150_RiceDryPole_Name": "Kuigake",
+  "M150_RiceDryPole_Desc": "Hang the harvested rice here and dry it.",
+
+  "M150_RiceThreshingTool_Name": "Senbakoki",
+  "M150_RiceThreshingTool_Desc": "Tool for extracting brown rice from bunch of dried rice.",
+
+  "M150_RiceMillingTool_Name": "Usu and Takegine",
+  "M150_RiceMillingTool_Desc": "Tool for milling rice.",
+
+  "M150_CookedRiceMillingTool_Name": "Usu and Kine",
+  "M150_CookedRiceMillingTool_Desc": "Tools for making omochi.",
+
+  "M150_M150_Well_Name": "Well",
+  "M150_M150_Well_Desc": "You can collect water here regularly.",
+
+  "M150_QuernStones_Name": "Quern stone",
+  "M150_QuernStones_Desc": "You can make rice flour here."
+}
