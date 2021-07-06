@@ -37,7 +37,7 @@ https://valheim.fandom.com/wiki/Factions
     // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
     // TheNasty                  Entrails Bloodbag Chitin                                50     Tier3    Swamp         "m_faction": 3, Undead
     // WereBearGray              Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
-    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850     Tier5    Mountain      "m_faction": 5, MountainMonsters
+    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850     Tier4    Mountain      "m_faction": 5, MountainMonsters
     // WereBearRed               Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
     // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
     // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850     Tier2    BlackForest   "m_faction": 3, Undead
@@ -56,7 +56,7 @@ https://valheim.fandom.com/wiki/Factions
     // Green Spider              GreenSpider                                       90    Tier1    Meadows       ForestMonsters        Guck
     // Ghost Warrior             GhostWarrior                                      40    Tier2    BlackForest   Undead                AmberPearl
     // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier5    Plains        PlainsMonsters        Coins
-    // Goblin                    GoblinLoot                                       200    Tier5    Plains        PlainsMonsters        Coins
+    // Goblin                    GoblinLoot - ExportedGoblinLoot                  200    Tier5    Plains        PlainsMonsters        Coins
     // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew        150    Tier5    Plains        PlainsMonsters        Coins BlackMetalScrap TrophyGoblinShaman
     // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier2    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
     // Greydwarf                Greydwarf_Purple_Shroom - ExportedGreydwarf_Purple 40    Tier2    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
@@ -105,7 +105,7 @@ https://valheim.fandom.com/wiki/Factions
     // Duskseeker Svartalfr          (SvartalfrMage - RRR_NPC)                   220    Tier6    Mistlands         ForestMonsters    BlackMetalScrap Crystal
     // Drowned Soul                  (DrownedSoul - Wraith)                      220    Tier5    Ocean             Undead            TrophyWraith    Chain
     // Storm-herald Wyrven           (StormHatchling - Hatchling)                140    Tier5    Ocean             SeaMonsters       TrophyHatchling
-    // Storm-devourer Vargr          (StormWolf - Wolf)                          160    Tier5    Mountain          MountainMonsters  TrophyWolf RawMeat WolfPelt WolfFang
+    // Storm-devourer Vargr          (StormWolf - Wolf)                          160    Tier4    Mountain          MountainMonsters  TrophyWolf RawMeat WolfPelt WolfFang
     //  
     // The Damned One                (BlazingDamnedOne - SkeletonWarrior)       1500    Tier7    AshLands          Undead            Coal FlametalOre
     // The Damned One                (DammedOne - SkeletonWarrior)              2500    Tier7    AshLands          Undead            TrophySkeleton BoneFragments Ooze Coal
@@ -118,7 +118,7 @@ https://valheim.fandom.com/wiki/Factions
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    
+    RRR_NPC  Tier0
     
     
     
