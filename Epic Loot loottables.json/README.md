@@ -135,7 +135,7 @@ Added item drops for new mobs:
 * Tier 6 - Mistlands, Svartalfr
 * Tier 7 - Ashlands
 
-| Boss | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Tier |
+| Mods | IDS (NewPrefabName) | IDS (OriginalPrefabName) | Health | Tier |
 | ---- | ------------------- | ------------------------ | ------ | ------ |
 | Fire-breathing Drake | AshHatchling | Hatchling       | 750    | Tier 7 |
 | Cinderwings | AshMosquito | Deathsquito               | 5      | Tier 7 |
@@ -168,9 +168,7 @@ Added item drops for new mobs:
 | Duskseeker Svartalfr | SvartalfrMage | RRR_NPC        | 220    | Tier 6 | 
 | Drowned Soul | DrownedSoul | Wraith                   | 120    | Tier 5 | 
 | Storm-herald Wyrven | StormHatchling | Hatchling      | 140    | Tier 5 | 
-| Storm-devourer Vargr | StormWolf | Wolf               | 160    | Tier 5 | 
-
-
+| Storm-devourer Vargr | StormWolf | Wolf               | 160    | Tier 4 | 
 
 * Tier 5-6 - Boss
 
