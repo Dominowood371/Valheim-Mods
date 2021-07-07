@@ -30,10 +30,10 @@ https://valheim.fandom.com/wiki/Factions
     // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500     Tier6    Mistlands     "m_faction": 7, PlainsMonsters
     // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900     Tier7    AshLands      "m_faction": 8, Boss
     // Wizard                    Chain Coal Thistle TrophyWraith                        100     Tier2    BlackForest   "m_faction": 3, Undead
-    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier3    Swamp         "m_faction": 3, Undead
+    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier2    BlackForest   "m_faction": 3, Undead
     // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier3    Swamp         "m_faction": 3, Undead
     // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
-    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier2    BlackForest   "m_faction": 2, ForestMonsters
+    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier1    Meadows       "m_faction": 2, ForestMonsters
     // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
     // TheNasty                  Entrails Bloodbag Chitin                                50     Tier3    Swamp         "m_faction": 3, Undead
     // WereBearGray              Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
@@ -53,13 +53,13 @@ https://valheim.fandom.com/wiki/Factions
     // Frost Spider              FrostSpider                                       90    Tier5    DeepNorth     ForestMonsters        Guck
     // Tan Spider                TanSpider                                         90    Tier2    BlackForest   ForestMonsters        Guck
     // Tree Spider               TreeSpider                                        90    Tier1    Meadows       ForestMonsters        Guck
-    // Green Spider              GreenSpider                                       90    Tier1    Meadows       ForestMonsters        Guck
+    // Green Spider              GreenSpider                                       90    Tier6    Mistlands     ForestMonsters        Guck
     // Ghost Warrior             GhostWarrior                                      40    Tier2    BlackForest   Undead                AmberPearl
     // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier5    Plains        PlainsMonsters        Coins
     // Goblin                    GoblinLoot - ExportedGoblinLoot                  200    Tier5    Plains        PlainsMonsters        Coins
     // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew        150    Tier5    Plains        PlainsMonsters        Coins BlackMetalScrap TrophyGoblinShaman
     // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier2    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
-    // Greydwarf                Greydwarf_Purple_Shroom - ExportedGreydwarf_Purple 40    Tier2    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
+    // Greydwarf                Greydwarf_Purple_Shroom - ExportedGreydwarf_Purple 40    Tier6    Mistlands     ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
     // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier5    Ocean         SeaMonsters           Chitin
     // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows       AnimalsVeg            х
     // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows       AnimalsVeg            х  
