@@ -1,5 +1,6 @@
 https://valheim.fandom.com/wiki/Category:Materials 
 https://valheim.fandom.com/wiki/Factions
+https://valheim.fandom.com/wiki/Creatures
 
 0 "Players", 
 1 "AnimalsVeg", 
@@ -23,24 +24,24 @@ https://valheim.fandom.com/wiki/Factions
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
-    // Mobs                      Drop                                                 Health    Tier     Location      Faction 
+    // Mobs                      Drop                                                Health     Tier     Location      Faction 
     //
-    // Yeti                      Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
-    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll                    1500     Tier7    AshLands      "m_faction": 4, Demon
-    // EarthTroll                TrollHide RawMeat TrophyForestTroll                   1500     Tier5    Plains        "m_faction": 7, PlainsMonsters
-    // Golem2           boss     Stone SurtlingCore FlametalOre Obsidian TrophySGolem   900     Tier7    AshLands      "m_faction": 8, Boss
-    // Wizard                    Chain Coal Thistle TrophyWraith                        100     Tier2    BlackForest   "m_faction": 3, Undead
-    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier2    BlackForest   "m_faction": 3, Undead
-    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier3    Swamp         "m_faction": 3, Undead
-    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
-    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier1    Meadows       "m_faction": 2, ForestMonsters
-    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf         1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
-    // TheNasty                  Entrails Bloodbag Chitin                                50     Tier3    Swamp         "m_faction": 3, Undead
-    // WereBearGray              Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
-    // WereBearBlack             Entrails RawMeat LeatherScraps                        1850     Tier4    Mountain      "m_faction": 5, MountainMonsters
-    // WereBearRed               Entrails RawMeat LeatherScraps                        1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
-    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer             1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
-    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer             1850     Tier2    BlackForest   "m_faction": 3, Undead
+    // Yeti                      Entrails RawMeat LeatherScraps                  (900) 1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // CrazyTroll                TrollHide RawMeat TrophyFrostTroll              (750) 1500     Tier7    AshLands      "m_faction": 4, Demon
+    // EarthTroll                TrollHide RawMeat TrophyForestTroll             (700) 1500     Tier5    Plains        "m_faction": 7, PlainsMonsters
+    // Golem2          boss Stone SurtlingCore FlametalOre Obsidian TrophySGole (4000)  900     Tier7    AshLands      "m_faction": 8, Boss
+    // Wizard                    Chain Coal Thistle TrophyWraith                  (30)  100     Tier2    BlackForest   "m_faction": 3, Undead
+    // WereWolfBlackArmored      WolfPelt WolfFang Entrails RawMeat TrophyWolf   (200) 1850     Tier2    BlackForest   "m_faction": 3, Undead
+    // WereWolfDarkGrey          WolfPelt WolfFang Entrails RawMeat TrophyWolf   (300) 1850     Tier3    Swamp         "m_faction": 3, Undead
+    // WereWolfBlack             WolfPelt WolfFang Entrails RawMeat TrophyWolf   (500) 1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
+    // WereWolfBrown             WolfPelt WolfFang Entrails RawMeat TrophyWolf    (50) 1850     Tier1    Meadows       "m_faction": 2, ForestMonsters
+    // WereWolfWhite             WolfPelt WolfFang Entrails RawMeat TrophyWolf   (400) 1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // TheNasty                  Entrails Bloodbag Chitin                         (80)   50     Tier3    Swamp         "m_faction": 3, Undead
+    // WereBearGray              Entrails RawMeat LeatherScraps                  (400) 1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // WereBearBlack             Entrails RawMeat LeatherScraps                  (300) 1850     Tier4    Mountain      "m_faction": 5, MountainMonsters
+    // WereBearRed               Entrails RawMeat LeatherScraps                  (400) 1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer       (500) 1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
+    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer       (200) 1850     Tier2    BlackForest   "m_faction": 3, Undead
     //  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterLabZ MOD
