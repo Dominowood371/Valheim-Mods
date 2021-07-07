@@ -1589,30 +1589,31 @@
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterLabZ MOD
-    // Mobs                      IDS:                                          Health    Tier    Location
+    // Mobs                      IDS:                                          Health    Tier     Location
     //  
-    // Black Spider              BlackSpider                                       40    Tier    Mistlands
-    // Brown Spider              BrownSpider                                       90    Tier    Mistlands
-    // Forest Spider             ForestSpider                                      90    Tier    Mistlands
-    // Frigid Spider             FrigidSpider                                      90    Tier    DeepNorth
-    // Frost Spider              FrostSpider                                       90    Tier    DeepNorth 
-    // Tan Spider                TanSpider                                         90    Tier    Mistlands
-    // Tree Spider               TreeSpider                                        90    Tier    Mistlands
-    // Green Spider              GreenSpider                                       90    Tier    Mistlands
-    // Ghost Warrior             GhostWarrior                                      40    Tier    BlackForest
-    // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier    Plains
-    // Goblin                    GoblinLoot                                       200    Tier    Plains
-    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew        150    Tier    Plains
-    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier    BlackForest
-    // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier    Plains
-    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier    Meadows
-    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier    
-    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier    DeepNorth
-    // Fire Golem                FireGolem                                        800    Tier    AshLands
-    // Ice Golem                 IceGolem                                        1500    Tier    DeepNorth
-    // Skeleton Warrior          SkeletonWarrior                                   40    Tier    BlackForest
-    // Burning Skeleton Warrior  SkeletonWarriorFire                               40    Tier    AshLands
-    // Frozen Skeleton Warrior   SkeletonWarriorIce                                40    Tier    DeepNorth
+    // Black Spider              BlackSpider                                       40    Tier0    Meadows
+    // Brown Spider              BrownSpider                                       90    Tier2    BlackForest
+    // Forest Spider             ForestSpider                                      90    Tier1    Meadows
+    // Frigid Spider             FrigidSpider                                      90    Tier5    DeepNorth
+    // Frost Spider              FrostSpider                                       90    Tier5    DeepNorth
+    // Tan Spider                TanSpider                                         90    Tier2    BlackForest 
+    // Tree Spider               TreeSpider                                        90    Tier1    Meadows 
+    // Green Spider              GreenSpider                                       90    Tier6    Mistlands
+    // Ghost Warrior             GhostWarrior                                      40    Tier2    BlackForest
+    // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier5    Plains
+    // Goblin                    GoblinLoot                                       200    Tier5    Plains
+    // $enemy_goblinshaman       GoblinShamanNew - ExportedGoblinShamanNew        150    Tier5    Plains
+    // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier2    BlackForest
+    // Greydwarf Shroom         Greydwarf_Purple_Shroom - ExportedGreydwarf_Purple 40    Tier6    Mistlands
+    // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier5    Ocean
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows
+    // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows
+    // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier5    DeepNorth
+    // Fire Golem                FireGolem                                        800    Tier7    AshLands
+    // Ice Golem                 IceGolem                                        1500    Tier5    DeepNorth
+    // Skeleton Warrior          SkeletonWarrior                                   40    Tier2    BlackForest
+    // Burning Skeleton Warrior  SkeletonWarriorFire                               40    Tier7    AshLands
+    // Frozen Skeleton Warrior   SkeletonWarriorIce                                40    Tier5    DeepNorth
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 	  
@@ -1620,127 +1621,221 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "BlackSpider",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier0Mob"
+    },
+    {
+      "Object": "RRRM_BlackSpider",
+      "RefObject": "Tier0Mob"
     },  
     // Brown Spider
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "BrownSpider",
-      "RefObject": "Tier6Mob"
-    },  
-    // Fire Golem
-    ////////////////////////////////////////////////////////////////////////////////////
+      "RefObject": "Tier2Mob"
+    },
     {
-      "Object": "FireGolem",
-      "RefObject": "Tier6Mob"
+      "Object": "RRRM_BrownSpider",
+      "RefObject": "Tier2Mob"
     },  
     // Forest Spider
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "ForestSpider",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier1Mob"
+    },
+    {
+      "Object": "RRRM_ForestSpider",
+      "RefObject": "Tier1Mob"
     },  
     // Frigid Spider
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "FrigidSpider",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_FrigidSpider",
+      "RefObject": "Tier5Mob"
     },  
     // Frost Spider
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "FrostSpider",
-      "RefObject": "Tier6Mob"
-    },  
-    // Ghost Warrior
-    ////////////////////////////////////////////////////////////////////////////////////
+      "RefObject": "Tier5Mob"
+    },
     {
-      "Object": "GhostWarrior",
-      "RefObject": "Tier6Mob"
-    },  
-    // Goblin Base
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "GoblinBase",
-      "RefObject": "Tier6Mob"
-    },  
-    // Goblin Loot
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "GoblinLoot",
-      "RefObject": "Tier6Mob"
-    },  
-    // Goblin Shaman
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "GoblinShamanNew",
-      "RefObject": "Tier6Mob"
-    },  
-    // Green Spider
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "GreenSpider",
-      "RefObject": "Tier6Mob"
-    },  
-    // Greydwarf Purple
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "Greydwarf_Purple",
-      "RefObject": "Tier6Mob"
-    },  
-    // Ice Golem
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "IceGolem",
-      "RefObject": "Tier6Mob"
-    },  
-    // Molluscan
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "Molluscan",
-      "RefObject": "Tier6Mob"
-    },  
-    // Obsidian Golem
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "ObsidianGolem",
-      "RefObject": "Tier6Mob"
-    },  
-    // Rainbow Butterfly
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "Rainbow_Butterfly",
-      "RefObject": "Tier6Mob"
-    },  
-    // Skeleton Warrior
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "SkeletonWarrior",
-      "RefObject": "Tier3Mob"
-    },  
-    // Burning Skeleton Warrior
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "SkeletonWarriorFire",
-      "RefObject": "Tier6Mob"
-    },  
-    // Frozen Skeleton Warrior
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "SkeletonWarriorIce",
-      "RefObject": "Tier6Mob"
-    },  
+      "Object": "RRRM_FrostSpider",
+      "RefObject": "Tier5Mob"
+    },
     // Tan Spider
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "TanSpider",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier2Mob"
+    },  
+    {
+      "Object": "RRRM_TanSpider",
+      "RefObject": "Tier2Mob"
     },  
     // Tree Spider
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "TreeSpider",
+      "RefObject": "Tier1Mob"
+    },
+    {
+      "Object": "RRRM_TreeSpider",
+      "RefObject": "Tier1Mob"
+    },
+    // Green Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "GreenSpider",
       "RefObject": "Tier6Mob"
+    },
+    {
+      "Object": "RRRM_GreenSpider",
+      "RefObject": "Tier6Mob"
+    },
+    // Ghost Warrior
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "GhostWarrior",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "RRRM_GhostWarrior",
+      "RefObject": "Tier2Mob"
+    },
+    // Goblin Base
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "GoblinBase",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_GoblinBase",
+      "RefObject": "Tier5Mob"
+    },
+    // Goblin Loot
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "GoblinLoot",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_GoblinLoot",
+      "RefObject": "Tier5Mob"
+    },
+    // Goblin Shaman
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "GoblinShamanNew",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_GoblinShamanNew",
+      "RefObject": "Tier5Mob"
+    },
+    // Greydwarf Purple
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Greydwarf_Purple",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "RRRM_Greydwarf_Purple",
+      "RefObject": "Tier2Mob"
+    },
+    // Greydwarf Purple Shroom
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Greydwarf_Purple_Shroom",
+      "RefObject": "Tier6Mob"
+    },
+    {
+      "Object": "RRRM_Greydwarf_Purple_Shroom",
+      "RefObject": "Tier6Mob"
+    },
+    // Molluscan
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Molluscan",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_Molluscan",
+      "RefObject": "Tier5Mob"
+    },
+    // Rainbow Butterfly
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Rainbow_Butterfly",
+      "RefObject": "Tier0Mob"
+    },
+    {
+      "Object": "RRRM_Rainbow_Butterfly",
+      "RefObject": "Tier0Mob"
+    },
+    // Ice Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "IceGolem",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_IceGolem",
+      "RefObject": "Tier5Mob"
+    },
+    // Fire Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "FireGolem",
+      "RefObject": "Tier7Mob"
+    },
+    {
+      "Object": "RRRM_FireGolem",
+      "RefObject": "Tier7Mob"
+    },
+    // Obsidian Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "ObsidianGolem",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_ObsidianGolem",
+      "RefObject": "Tier5Mob"
+    },
+    // Skeleton Warrior
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "SkeletonWarrior",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "RRRM_SkeletonWarrior",
+      "RefObject": "Tier2Mob"
+    },
+    // Burning Skeleton Warrior
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "SkeletonWarriorFire",
+      "RefObject": "Tier7Mob"
+    },
+    {
+      "Object": "RRRM_SkeletonWarriorFire",
+      "RefObject": "Tier7Mob"
+    },
+    // Frozen Skeleton Warrior
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "SkeletonWarriorIce",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_SkeletonWarriorIce",
+      "RefObject": "Tier5Mob"
     },
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
