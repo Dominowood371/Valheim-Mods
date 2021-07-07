@@ -1867,46 +1867,47 @@
     // Monsternomicon MOD
     // Mobs                          IDS:                                     Health    Tier    Location        Attacks
     // 
-    // Fire-breathing Drake          (AshHatchling - Hatchling)                  750    Tier    
-    // Cinderwings                   (AshMosquito - Deathsquito)                   5    Tier    
-    // Ash-eater Neck                (AshNeck - Neck)                            850    Tier    
-    // Blazing Bones                 (BlazingBones - SkeletonWarrior)            180    Tier    
-    // Burned Bones                  (BurnedBones - SkeletonWarrior)             240    Tier    
-    // Elder Surtling                (ElderSurtling - Surtling)                   80    Tier    
-    // Ash-eater Tadpole             (SmallAshNeck - Neck)                       100    Tier    
-    // Swollen Body                  (SwollenBody - Draugr)                      320    Tier    
-    // Frozen Corpse                 (AngryFrozenCorpse - SkeletonWarriorIce)    320    Tier    
-    // Boreal Spirit                 (AngrySpirit - Ghost)                        55    Tier    
-    // Boreal Spirit                 (CalmSpirit - Ghost)                         55    Tier    
-    // Dvergr                        (Dvergr - RRR_NPC)                          280    Tier    
-    // Dvergr                        (DvergrEvent - RRR_NPC)                     280    Tier    
-    // Frozen Corpse                 (FrozenCorpse - SkeletonWarrior)            280    Tier    
-    // Pale-coat Fenring             (PolarFenring - Fenring)                    800    Tier    
-    // Icebreaker Lox                (PolarLox - Lox)                           2000    Tier    
-    // Silver Golem                  (SilverGolem - StoneGolem)                 2000    Tier    
-    // Icebreaker Calf               (SmallPolarLox - Lox)                       400    Tier    
-    // Frost-brood Serpent           (SmallPolarSerpent - Serpent)               250    Tier    
-    // Moonlit Warden                (DarkProtector - gd_king)                     5    Tier    
-    // Sentinel GloomWeaver          (DarkSpider - TreeSpider)                   140    Tier    
-    // Suffocating GloomWeaver       (PoisonDarkSpider - TreeSpider)             140    Tier    
-    // Brood GloomWeaver             (SmallDarkSpider - TreeSpider)               60    Tier    
-    // Svartalfr                     (Svartalfr - RRR_NPC)                       220    Tier    
-    // Svartalfr                     (SvartalfrArcher - RRR_NPC)                 220    Tier    
-    // Svartalfr                     (SvartalfrBrigade - RRR_NPC)                220    Tier    
-    // Inexorable Svartalfr          (SvartalfrHeavy - RRR_NPC)                  220    Tier    
-    // Duskseeker Svartalfr          (SvartalfrMage - RRR_NPC)                   220    Tier    
-    // Drowned Soul                  (DrownedSoul - Wraith)                      220    Tier    
-    // Storm-herald Wyrven           (StormHatchling - Hatchling)                140    Tier    
-    // Storm-devourer Vargr          (StormWolf - Wolf)                          160    Tier
+    // Fire-breathing Drake          (AshHatchling - Hatchling)                  750    Tier7    AshLands    
+    // Cinderwings                   (AshMosquito - Deathsquito)                   5    Tier7    AshLands    
+    // Ash-eater Neck                (AshNeck - Neck)                            850    Tier7    AshLands    
+    // Blazing Bones                 (BlazingBones - SkeletonWarrior)            180    Tier7    AshLands    
+    // Burned Bones                  (BurnedBones - SkeletonWarrior)             240    Tier7    AshLands    
+    // Elder Surtling                (ElderSurtling - Surtling)                   80    Tier7    AshLands    
+    // Ash-eater Tadpole             (SmallAshNeck - Neck)                       100    Tier7    AshLands    
+    // Swollen Body                  (SwollenBody - Draugr)                      320    Tier7    AshLands    
+    // Frozen Corpse                 (AngryFrozenCorpse - SkeletonWarriorIce)    320    Tier5    DeepNorth    
+    // Boreal Spirit                 (AngrySpirit - Ghost)                        55    Tier5    DeepNorth    
+    // Boreal Spirit                 (CalmSpirit - Ghost)                         55    Tier5    DeepNorth    
+    // Dvergr                        (Dvergr - RRR_NPC)                          280    Tier5    DeepNorth    
+    // Dvergr                        (DvergrEvent - RRR_NPC)                     280    Tier5    DeepNorth    
+    // Frozen Corpse                 (FrozenCorpse - SkeletonWarrior)            280    Tier5    DeepNorth    
+    // Pale-coat Fenring             (PolarFenring - Fenring)                    800    Tier5    DeepNorth    
+    // Icebreaker Lox                (PolarLox - Lox)                           2000    Tier5    DeepNorth    
+    // Silver Golem                  (SilverGolem - StoneGolem)                 2000    Tier5    DeepNorth    
+    // Icebreaker Calf               (SmallPolarLox - Lox)                       400    Tier5    DeepNorth    
+    // Frost-brood Serpent           (SmallPolarSerpent - Serpent)               250    Tier5    DeepNorth 
+    // Moonlit Moth                  (DarkMosquito - Deathsquito)                  5    Tier6    Mistlands
+    // Moonlit Warden                (DarkProtector - gd_king)                  1800    Tier6    Mistlands    
+    // Sentinel GloomWeaver          (DarkSpider - TreeSpider)                   140    Tier6    Mistlands    
+    // Suffocating GloomWeaver       (PoisonDarkSpider - TreeSpider)             140    Tier6    Mistlands    
+    // Brood GloomWeaver             (SmallDarkSpider - TreeSpider)               60    Tier6    Mistlands    
+    // Svartalfr                     (Svartalfr - RRR_NPC)                       220    Tier6    Mistlands    
+    // Svartalfr                     (SvartalfrArcher - RRR_NPC)                 220    Tier6    Mistlands    
+    // Svartalfr                     (SvartalfrBrigade - RRR_NPC)                220    Tier6    Mistlands    
+    // Inexorable Svartalfr          (SvartalfrHeavy - RRR_NPC)                  220    Tier6    Mistlands    
+    // Duskseeker Svartalfr          (SvartalfrMage - RRR_NPC)                   220    Tier6    Mistlands    
+    // Drowned Soul                  (DrownedSoul - Wraith)                      220    Tier5    Ocean    
+    // Storm-herald Wyrven           (StormHatchling - Hatchling)                140    Tier5    Ocean    
+    // Storm-devourer Vargr          (StormWolf - Wolf)                          160    Tier5    Ocean
     //  
-    // The Damned One                (BlazingDamnedOne - SkeletonWarrior)       1500    Tier                   Blunt, Poison, Fire
-    // The Damned One                (DammedOne - SkeletonWarrior)              2500    Tier                   Blunt, Poison
-    // The One Who is Always Hungry  (DevourerFenring - Fenring)                2800    Tier                   Slash, Blunt
-    // The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)      2800    Tier                   Pierce, Frost
-    // Jotunn                        (Jotunn - Troll)                          18000    Tier                   Blunt, Chop, Pickaxe
-    // BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)            650    Tier                   Blunt, Slash
-    // The Mourning Queen            (SvartalfrQueen - RRR_NPC)                 1800    Tier                   Blunt, Poison
-    // The One Who Hunts in the Rain (StormFenring - Fenring) Boss              1600    Tier                   Blunt, Lightning
+    // The Damned One                (BlazingDamnedOne - SkeletonWarrior)       1500    Tier7    AshLands      Blunt, Poison, Fire
+    // The Damned One                (DammedOne - SkeletonWarrior)              2500    Tier7    AshLands      Blunt, Poison
+    // The One Who is Always Hungry  (DevourerFenring - Fenring)                2800    Tier5    DeepNorth     Slash, Blunt
+    // The Forgotten One             (ForgottenOne - Skeleton Warrior Ice)      2800    Tier5    DeepNorth     Pierce, Frost
+    // Jotunn                        (Jotunn - Troll)                          18000    Tier5    DeepNorth     Blunt, Chop, Pickaxe
+    // BroodMother GloomWeaver       (MotherDarkSpider - Tree Spider)            650    Tier6    Mistlands     Blunt, Slash
+    // The Mourning Queen            (SvartalfrQueen - RRR_NPC)                 1800    Tier6    Mistlands     Blunt, Poison
+    // The One Who Hunts in the Rain (StormFenring - Fenring) Boss              1600    Tier6    Mistlands     Blunt, Lightning
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -2132,7 +2133,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
+          "Drops": [ [2, 20], [3, 40], [4, 30], [5, 10] ],
           "Loot": [
             { "Item": "Tier4Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -2466,7 +2467,7 @@
     // Storm-devourer Vargr (StormWolf - Wolf)
     {
       "Object": "RRRM_StormWolf",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier4Mob"
     },
     // The One Who Hunts in the Rain (StormFenring - Fenring) Boss
     ////////////////////////////////////////////////////////////////////////////////////
@@ -2536,7 +2537,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [1, 55], [2, 30], [3, 10], [4, 5] ],
+          "Drops": [ [1, 65], [2, 30], [3, 5], [4, 0] ],
           "Loot": [
             { "Item": "Tier1Everything",         "Weight": 1, "Rarity": [ 177, 20, 2, 1 ] },
             { "Item": "Tier0Shields",            "Weight": 1, "Rarity": [ 177, 20, 2, 1 ] },
@@ -2552,35 +2553,35 @@
         },
         {
           "Level": 2,
-          "Drops": [ [1, 60], [2, 40], [4, 0] ],
+          "Drops": [ [1, 55], [2, 35], [3, 10], [4, 0] ],
           "Loot": [
             { "Item": "Eikthyr.1", "Weight": 1, "Rarity": [ 79, 17, 3, 1 ] }
           ]
         },
         {
           "Level": 3,
-          "Drops": [ [1, 50], [2, 50], [4, 0] ],
+          "Drops": [ [1, 45], [2, 40], [3, 15], [4, 0] ],
           "Loot": [
             { "Item": "Eikthyr.1", "Weight": 1, "Rarity": [ 69, 24, 5, 2 ] }
           ]
         },
         {
           "Level": 4,
-          "Drops": [ [1, 35], [2, 60], [3, 5], [4, 0] ],
+          "Drops": [ [1, 35], [2, 45], [3, 20], [4, 0] ],
           "Loot": [
             { "Item": "Eikthyr.1", "Weight": 1, "Rarity": [ 53, 32, 10, 5 ] }
           ]
         },
         {
           "Level": 5,
-          "Drops": [ [1, 20], [2, 70], [3, 10], [4, 0] ],
+          "Drops": [ [1, 25], [2, 50], [3, 25], [4, 0] ],
           "Loot": [
             { "Item": "Eikthyr.1", "Weight": 1, "Rarity": [ 35, 40, 15, 10 ] }
           ]
         },
         {
           "Level": 6,
-          "Drops": [ [1, 5], [2, 80], [3, 15], [4, 0] ],
+          "Drops": [ [1, 10], [2, 60], [3, 30], [4, 0] ],
           "Loot": [
             { "Item": "Eikthyr.1", "Weight": 1, "Rarity": [ 20, 45, 20, 15 ] }
           ]
@@ -2594,7 +2595,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [1, 35], [2, 55], [3, 10], [4, 0] ],
+          "Drops": [ [1, 30], [2, 55], [3, 10], [4, 5] ],
           "Loot": [
             { "Item": "Tier2Everything",         "Weight": 1, "Rarity": [ 59, 29, 10, 2 ] },
             { "Item": "v801_SpearSpirit",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -2607,35 +2608,35 @@
         },
         {
           "Level": 2,
-          "Drops": [ [1, 20], [2, 65], [3, 15], [4, 0] ],
+          "Drops": [ [1, 10], [2, 65], [3, 15], [4, 10] ],
           "Loot": [
             { "Item": "gd_king.1", "Weight": 1, "Rarity": [ 43, 37, 15, 5 ] }
           ]
         },
         {
           "Level": 3,
-          "Drops": [ [1, 5], [2, 75], [3, 20], [4, 0] ],
+          "Drops": [ [1, 5], [2, 60], [3, 20], [4, 15] ],
           "Loot": [
             { "Item": "gd_king.1", "Weight": 1, "Rarity": [ 25, 45, 20, 10 ] }
           ]
         },
         {
           "Level": 4,
-          "Drops": [ [1, 0], [2, 70], [3, 30], [4, 0] ],
+          "Drops": [ [1, 0], [2, 50], [3, 30], [4, 20] ],
           "Loot": [
             { "Item": "gd_king.1", "Weight": 1, "Rarity": [ 4, 50, 30, 15 ] }
           ]
         },
         {
           "Level": 5,
-          "Drops": [ [1, 0], [2, 60], [3, 40], [4, 0] ],
+          "Drops": [ [1, 0], [2, 35], [3, 40], [4, 25] ],
           "Loot": [
             { "Item": "gd_king.1", "Weight": 1, "Rarity": [ 0, 40, 40, 20 ] }
           ]
         },
         {
           "Level": 6,
-          "Drops": [ [1, 0], [2, 40], [3, 50], [4, 10] ],
+          "Drops": [ [1, 0], [2, 20], [3, 50], [4, 30] ],
           "Loot": [
             { "Item": "gd_king.1", "Weight": 1, "Rarity": [ 0, 25, 50, 25 ] }
           ]
@@ -2649,7 +2650,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [1, 0], [2, 60], [3, 35], [4, 5] ],
+          "Drops": [ [1, 0], [2, 55], [3, 35], [4, 10] ],	
           "Loot": [
             { "Item": "Tier3Everything",      "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] },
             { "Item": "v801_SledgePoison",    "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
@@ -2662,14 +2663,14 @@
         },
         {
           "Level": 2,
-          "Drops": [ [1, 0], [2, 45], [3, 45], [4, 10] ],
+          "Drops": [ [1, 0], [2, 40], [3, 45], [4, 15] ],
           "Loot": [
             { "Item": "Bonemass.1", "Weight": 1, "Rarity": [ 0, 70, 20, 10 ] }
           ]
         },
         {
           "Level": 3,
-          "Drops": [ [1, 0], [2, 30], [3, 55], [4, 15] ],
+          "Drops": [ [1, 0], [2, 25], [3, 55], [4, 20] ],
           "Loot": [
             { "Item": "Bonemass.1", "Weight": 1, "Rarity": [ 0, 50, 35, 15 ] }
           ]
