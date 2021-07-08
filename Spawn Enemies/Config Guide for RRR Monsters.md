@@ -1,5 +1,5 @@
 # Config Guide for RRR Monsters and RRR Npcs Custom Mob JSON
-#
+
 ### File Management
  - JSON files must be anywhere in your `Valheim\BepInEx\config` folder. Folders inside of that folder will also be loaded, so you can use subfolders for organization.
  - To be loaded, JSON files must follow the format `rrrnpcs.custom.*.json` or `rrrmonsters.custom.*.json`.
