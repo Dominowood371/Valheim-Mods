@@ -1,3 +1,14 @@
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Clutter%20Russian%20Translation/translations.json
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Custom%20Dverger%20Russian%20Translation/translations.json
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Custom%20Hair%20(AKA%20CustomWigs)%20Russian%20Translation/translations.json
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/OdinArchitect%20-%20Custom%20buildings%20Russian%20Translation/translations.json
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/PlanBuild%20-%20Blueprint%20Rune%20Russian%20Translation/translations.json
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/PlantIt%20Russian%20Translation/translations.json
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Seed%20Totem%20Russian%20Translation/translations.json
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Surtling%20Core%20Overclocking%20Russian%20Translation/translations.json
+https://github.com/Dominowood371/Valheim-Mods/tree/main/Valheim%20Mods%20Russian%20Translation/WeWantToEatRice%20Russian%20Translation
+https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/WindLass%20Russian%20Translation/translations.json
+
 Magic Dust - Магическая пыль
 
 Rare Dust - Редкая пыль
