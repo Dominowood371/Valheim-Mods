@@ -35,7 +35,6 @@ Mod Barbarian's Russian Translation Version 1.1.0.
   "ArmorBarbarianCapeJD": "Barbarian's fur cloak",
   "ArmorBarbarianCapeJD_desc": "Thick but short cape made of fur. Covers your back when your drunk raidmates can't."
 }
-
 ```
   
 </details>
