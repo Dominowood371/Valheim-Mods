@@ -26,7 +26,7 @@ Mod Barbarian's Russian Translation Version 1.1.0.
   
 ```
 {
-  "ArmorBarbarianBronzeHelmetJD": "Barbarian's helmet",
+  "ArmorBarbarianBronzeHelmetJD": "Barbarian's bronze helmet",
   "ArmorBarbarianBronzeHelmetJD_desc": "A helmet made from a bronze alloy.",
   "ArmorBarbarianBronzeChestJD": "Barbarian's bronze armor",
   "ArmorBarbarianBronzeChestJD_desc": "A simple piece of metal attached to leather straps, leaves some things to be desired.",
