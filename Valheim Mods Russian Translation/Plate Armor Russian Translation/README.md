@@ -1,4 +1,4 @@
-Mod Plate Armor Russian Translation Version 0.7.1.
+Mod Plate Armor Russian Translation Version 2.0.0.
 
 ### Описание
 
@@ -25,6 +25,7 @@ Mod Plate Armor Russian Translation Version 0.7.1.
   <summary>Посмотреть оригинал</summary>
   
 ```
+Version 0.7.1.
 {
   "ArmorPlateIronHelmetJD": "Iron Plate Helmet", 
   "ArmorPlateIronHelmetJD_desc": "An unusually shaped helmet, you've got a feeling your descendants will love it.",
@@ -33,9 +34,15 @@ Mod Plate Armor Russian Translation Version 0.7.1.
   "ArmorPlateIronLegsJD": "Iron Plate Leggings",
   "ArmorPlateIronLegsJD_desc": "Thick plates of metal, finally something to stop those pesky dwarves from gnawing at your legs."
 }
-      Main.helmetConfig = new ArmorConfig("0 Helmet", "Sturdy helmet", "A sturdy helmet with a leather neckguard.", 3, 14, 2, 1200, 200, 0, 1f, 5);
-      Main.chestConfig = new ArmorConfig("1 Chest", "Plate mail", "Thick plates of metal riveted to a leather harness.", 15, 14, 2, 1200, 200, -5, 1f, 5);
-      Main.legsConfig = new ArmorConfig("2 Legs", "Plate greaves", "Reliable greaves and kneeguards.", 15, 14, 2, 1200, 200, -5, 1f, 5);
+Version 2.0.0.
+{
+  "ArmorPlateIronHelmetJD": "Sturdy helmet", 
+  "ArmorPlateIronHelmetJD_desc": "A sturdy helmet with a leather neckguard.",
+  "ArmorPlateIronChestJD": "Plate mail",
+  "ArmorPlateIronChestJD_desc": "Thick plates of metal riveted to a leather harness.",
+  "ArmorPlateIronLegsJD": "Plate greaves",
+  "ArmorPlateIronLegsJD_desc": "Reliable greaves and kneeguards."
+}
 ```
   
 </details>
