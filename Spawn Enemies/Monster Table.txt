@@ -27,6 +27,7 @@ https://valheim.fandom.com/wiki/Creatures
     // Mobs                      Drop                                                Health     Tier     Location      Faction 
     //
     // Yeti                      Entrails RawMeat LeatherScraps                  (900) 1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // EvilReaper                Entrails RawMeat LeatherScraps                  (300)  500     Tier2    BlackForest   "m_faction": 3, Undead
     // CrazyTroll                TrollHide RawMeat TrophyFrostTroll              (750) 1500     Tier7    AshLands      "m_faction": 4, Demon
     // EarthTroll                TrollHide RawMeat TrophyForestTroll             (700) 1500     Tier5    Plains        "m_faction": 7, PlainsMonsters
     // Golem2          boss Stone SurtlingCore FlametalOre Obsidian TrophySGole (4000)  900     Tier7    AshLands      "m_faction": 8, Boss
@@ -62,6 +63,8 @@ https://valheim.fandom.com/wiki/Creatures
     // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier2    BlackForest   ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
     // Greydwarf                Greydwarf_Purple_Shroom - ExportedGreydwarf_Purple 40    Tier6    Mistlands     ForestMonsters        GreydwarfEye Stone Wood Resin MushroomBlue
     // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier5    Ocean         SeaMonsters           Chitin
+    // Kraken             boss   Kraken                                         10000    Tier5    Ocean         MountainMonsters      SerpentMeat
+    // Kraken             boss   KrakenLD                                       10000    Tier5    Ocean         MountainMonsters      SerpentMeat
     // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows       AnimalsVeg            х
     // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows       AnimalsVeg            х  
     // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier5    DeepNorth     ForestMonsters        TrophySGolem Stone Crystal       
