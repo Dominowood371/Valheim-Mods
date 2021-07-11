@@ -1606,6 +1606,8 @@
     // Greydwarf                 Greydwarf_Purple - ExportedGreydwarf_Purple       40    Tier2    BlackForest
     // Greydwarf Shroom         Greydwarf_Purple_Shroom - ExportedGreydwarf_Purple 40    Tier6    Mistlands
     // Molluscan                 Molluscan - ExportedMolluscan                     40    Tier5    Ocean
+    // Kraken             boss   Kraken                                         10000    Tier5    Ocean              
+    // Kraken             boss   KrakenLD                                       10000    Tier5    Ocean       
     // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows
     // Rainbow Butterfly         Rainbow_Butterfly - ExportedRainbow_Butterfly     40    Tier0    Meadows
     // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier5    DeepNorth
@@ -1837,12 +1839,223 @@
       "Object": "RRRM_SkeletonWarriorIce",
       "RefObject": "Tier5Mob"
     },
+    // Kraken Boss
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Kraken",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [2, 20], [3, 40], [4, 30], [5, 10] ],
+          "Loot": [
+            { "Item": "Tier4Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatSpiritRuneSword",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneDagger",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [2, 20], [3, 50], [4, 30], [5, 15] ],
+          "Loot": [
+            { "Item": "Kraken.1", "Weight": 1, "Rarity": [ 0, 20, 65, 15 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [3, 50], [4, 30], [5, 20] ],
+          "Loot": [
+            { "Item": "Kraken.1", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [3, 20], [4, 55], [5, 25] ],
+          "Loot": [
+            { "Item": "Kraken.1", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [3, 5], [4, 65], [5, 30] ],
+          "Loot": [
+            { "Item": "Kraken.1", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [4, 60], [5, 35], [6, 5] ],
+          "Loot": [
+            { "Item": "Kraken.1", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
+          ]
+        }
+      ]
+    },
+    {
+      "Object": "RRRM_Kraken",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [2, 20], [3, 40], [4, 30], [5, 10] ],
+          "Loot": [
+            { "Item": "Tier4Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatSpiritRuneSword",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneDagger",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [2, 20], [3, 50], [4, 30], [5, 15] ],
+          "Loot": [
+            { "Item": "RRRM_Kraken.1", "Weight": 1, "Rarity": [ 0, 20, 65, 15 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [3, 50], [4, 30], [5, 20] ],
+          "Loot": [
+            { "Item": "RRRM_Kraken.1", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [3, 20], [4, 55], [5, 25] ],
+          "Loot": [
+            { "Item": "RRRM_Kraken.1", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [3, 5], [4, 65], [5, 30] ],
+          "Loot": [
+            { "Item": "RRRM_Kraken.1", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [4, 60], [5, 35], [6, 5] ],
+          "Loot": [
+            { "Item": "RRRM_Kraken.1", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
+          ]
+        }
+      ]
+    },
+    {
+      "Object": "KrakenLD",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [2, 20], [3, 40], [4, 30], [5, 10] ],
+          "Loot": [
+            { "Item": "Tier4Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatSpiritRuneSword",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneDagger",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [2, 20], [3, 50], [4, 30], [5, 15] ],
+          "Loot": [
+            { "Item": "KrakenLD.1", "Weight": 1, "Rarity": [ 0, 20, 65, 15 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [3, 50], [4, 30], [5, 20] ],
+          "Loot": [
+            { "Item": "KrakenLD.1", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [3, 20], [4, 55], [5, 25] ],
+          "Loot": [
+            { "Item": "KrakenLD.1", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [3, 5], [4, 65], [5, 30] ],
+          "Loot": [
+            { "Item": "KrakenLD.1", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [4, 60], [5, 35], [6, 5] ],
+          "Loot": [
+            { "Item": "KrakenLD.1", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
+          ]
+        }
+      ]
+    },
+    {
+      "Object": "RRRM_KrakenLD",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [2, 20], [3, 40], [4, 30], [5, 10] ],
+          "Loot": [
+            { "Item": "Tier4Everything",       "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "v801_SwordFire",        "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "v801_UnarmedFenring",   "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneSword",       "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "GreatSpiritRuneSword",  "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] },
+            { "Item": "SpiritRuneDagger",      "Weight": 1, "Rarity": [ 0, 10, 70, 20 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [2, 20], [3, 50], [4, 30], [5, 15] ],
+          "Loot": [
+            { "Item": "RRRM_KrakenLD.1", "Weight": 1, "Rarity": [ 0, 20, 65, 15 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [3, 50], [4, 30], [5, 20] ],
+          "Loot": [
+            { "Item": "RRRM_KrakenLD.1", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [3, 20], [4, 55], [5, 25] ],
+          "Loot": [
+            { "Item": "RRRM_KrakenLD.1", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [3, 5], [4, 65], [5, 30] ],
+          "Loot": [
+            { "Item": "RRRM_KrakenLD.1", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [4, 60], [5, 35], [6, 5] ],
+          "Loot": [
+            { "Item": "RRRM_KrakenLD.1", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
+          ]
+        }
+      ]
+    },
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterMas MOD
     // Mobs - IDS             Health    Tier    Location
     //  
     // Yeti                     1850    Tier5    DeepNorth 
+    // EvilReaper                500    Tier2    BlackForest
     // CrazyTroll               1500    Tier7    AshLands 
     // EarthTroll               1500    Tier5    Plains    
     // Golem2        boss        900    Tier7    AshLands    
@@ -1870,6 +2083,16 @@
     {
       "Object": "RRRM_Yeti",
       "RefObject": "Tier5Mob"
+    },
+    // Evil Soul Reaper
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "EvilReaper",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "RRRM_EvilReaper",
+      "RefObject": "Tier2Mob"
     },
     // Crazy Troll
     ////////////////////////////////////////////////////////////////////////////////////
