@@ -321,18 +321,35 @@ private void AddSpookyLore()
 			LocalizationManager.Instance.AddToken("$item_legs_t2pchaoslegsdescription", text9, true);
 		}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
 Runic Swords 
 
 
 private void AddTranslations()
 		{
-		  "icerunesword", "Runic Ice Sword", true);
-	LocalizationManager.Instance.AddToken("firerunesword", "Runic Fire Sword", true);
-	LocalizationManager.Instance.AddToken("lightningrunesword", "Runic Lightning Sword", true);
-	LocalizationManager.Instance.AddToken("poisonrunesword", "Runic Poison Sword", true);
-	LocalizationManager.Instance.AddToken("greatlightningrunesword", "Great Runic Lightning Sword", true);
-	LocalizationManager.Instance.AddToken("greatfirerunesword", "Great Runic Fire Sword", true);
+        LocalizationManager.Instance.AddToken("$icerunesword", "Runic Ice Sword", true);	
+        LocalizationManager.Instance.AddToken("$firerunesword", "Runic Fire Sword", true);
+	LocalizationManager.Instance.AddToken("$lightningrunesword", "Runic Lightning Sword", true);
+	LocalizationManager.Instance.AddToken("$poisonrunesword", "Runic Poison Sword", true);
+	LocalizationManager.Instance.AddToken("$greatlightningrunesword", "Great Runic Lightning Sword", true);
+	LocalizationManager.Instance.AddToken("$greatfirerunesword", "Great Runic Fire Sword", true);
 	LocalizationManager.Instance.AddToken("$greaticerunesword", "Great Runic Ice Sword", true);
 	LocalizationManager.Instance.AddToken("$greatpoisonrunesword", "Great Runic Poison Sword", true);
 	LocalizationManager.Instance.AddToken("$firerunedagger", "Runic Fire Dagger", true);
