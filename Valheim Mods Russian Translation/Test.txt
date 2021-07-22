@@ -291,24 +291,74 @@ private void BlueprintRuneLocalizations()
     }
 
 private void AddSpookyLore()
-    {
-      LocalizationManager.get_Instance().AddToken("$item_armor_pchaosbodytwo", "Uncanny plate harness", true);
-      LocalizationManager.get_Instance().AddToken("$item_armor_pchaosbodydescriptiontwo", "A hollow suit of fully enclosing armor. The thick plate is pitted and scarred, but remains incredibly sturdy. The eight-spoked star clasped over the breastplate evokes a hazy, blood-addled nostalgia.", true);
-      LocalizationManager.get_Instance().AddToken("$item_helmet_pchaosplate", "Uncanny plate helm", true);
-      LocalizationManager.get_Instance().AddToken("$item_helmet_pchaosplatedescription", "A vicious-looking casque. The alloy plate that encloses it seems corroded and stained, even though the structure yet holds steady. An uncanny air of familiarity echoes within its confines.", true);
-      LocalizationManager.get_Instance().AddToken("$item_legs_pchaoslegs", "Uncanny plate leggings", true);
-      LocalizationManager.get_Instance().AddToken("$item_legs_pchaoslegsdescription", "Thick leather leggings reinforced with metal. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased. And yet, they do little to burden the wearer.", true);
-      LocalizationManager.get_Instance().AddToken("$item_armor_t1_pchaosbody", "Half plate harness", true);
-      LocalizationManager.get_Instance().AddToken("$item_armor_t1_pchaosbodydescription", "A battered suit of heavy plate. The eight-spoked star clasped over the breastplate is dull and rusted.", true);
-      LocalizationManager.get_Instance().AddToken("$item_helmet_t1pchaosplate", "Tusk plate helm", true);
-      LocalizationManager.get_Instance().AddToken("$item_helmet_t1pchaosplatedescription", "A plate helm, bearing the fierce tusks of a boar. The beast's death throes echo eerily within its hollow confines.", true);
-      LocalizationManager.get_Instance().AddToken("$item_legs_t1pchaoslegs", "Battered plate leggings", true);
-      LocalizationManager.get_Instance().AddToken("$item_legs_t1pchaoslegsdescription", "Thick leather leggings reinforced with metal. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased.", true);
-      LocalizationManager.get_Instance().AddToken("$item_armor_t2_pchaosbody", "Three quarters plate harness", true);
-      LocalizationManager.get_Instance().AddToken("$item_armor_t2_pchaosbodydescription", "A battered suit of heavy plate, cast from cold iron. The eight-spoked star clasped over the breastplate catches the sun's rays with an uncanny, icy glint.", true);
-      LocalizationManager.get_Instance().AddToken("$item_helmet_t2pchaosplate", "Fanged plate helm", true);
-      LocalizationManager.get_Instance().AddToken("$item_helmet_t2pchaosplatedescription", "A plate helm, sporting the razor fangs of a mountain wolf. The metal is ever-cold to the touch, as though the ice has sunk its claws into it.", true);
-      LocalizationManager.get_Instance().AddToken("$item_legs_t2pchaoslegs", "Refurbished plate leggings", true);
-      LocalizationManager.get_Instance().AddToken("$item_legs_t2pchaoslegsdescription", "Thick leather leggings reinforced with cold iron. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased.", true);
-    }
+		{
+			LocalizationManager.Instance.AddToken("$item_armor_pchaosbodytwo", "Uncanny plate harness", true);
+			string text = "A hollow suit of fully enclosing armor. The thick plate is pitted and scarred, but remains incredibly sturdy. The eight-spoked star clasped over the breastplate evokes a hazy, blood-addled nostalgia.";
+			LocalizationManager.Instance.AddToken("$item_armor_pchaosbodydescriptiontwo", text, true);
+			LocalizationManager.Instance.AddToken("$item_helmet_pchaosplate", "Uncanny plate helm", true);
+			string text2 = "A vicious-looking casque. The alloy plate that encloses it seems corroded and stained, even though the structure yet holds steady. An uncanny air of familiarity echoes within its confines.";
+			LocalizationManager.Instance.AddToken("$item_helmet_pchaosplatedescription", text2, true);
+			LocalizationManager.Instance.AddToken("$item_legs_pchaoslegs", "Uncanny plate leggings", true);
+			string text3 = "Thick leather leggings reinforced with metal. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased. And yet, they do little to burden the wearer.";
+			LocalizationManager.Instance.AddToken("$item_legs_pchaoslegsdescription", text3, true);
+			LocalizationManager.Instance.AddToken("$item_armor_t1_pchaosbody", "Half plate harness", true);
+			string text4 = "A battered suit of heavy plate. The eight-spoked star clasped over the breastplate is dull and rusted.";
+			LocalizationManager.Instance.AddToken("$item_armor_t1_pchaosbodydescription", text4, true);
+			LocalizationManager.Instance.AddToken("$item_helmet_t1pchaosplate", "Tusk plate helm", true);
+			string text5 = "A plate helm, bearing the fierce tusks of a boar. The beast's death throes echo eerily within its hollow confines.";
+			LocalizationManager.Instance.AddToken("$item_helmet_t1pchaosplatedescription", text5, true);
+			LocalizationManager.Instance.AddToken("$item_legs_t1pchaoslegs", "Battered plate leggings", true);
+			string text6 = "Thick leather leggings reinforced with metal. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased.";
+			LocalizationManager.Instance.AddToken("$item_legs_t1pchaoslegsdescription", text6, true);
+			LocalizationManager.Instance.AddToken("$item_armor_t2_pchaosbody", "Three quarters plate harness", true);
+			string text7 = "A battered suit of heavy plate, cast from cold iron. The eight-spoked star clasped over the breastplate catches the sun's rays with an uncanny, icy glint.";
+			LocalizationManager.Instance.AddToken("$item_armor_t2_pchaosbodydescription", text7, true);
+			LocalizationManager.Instance.AddToken("$item_helmet_t2pchaosplate", "Fanged plate helm", true);
+			string text8 = "A plate helm, sporting the razor fangs of a mountain wolf. The metal is ever-cold to the touch, as though the ice has sunk its claws into it.";
+			LocalizationManager.Instance.AddToken("$item_helmet_t2pchaosplatedescription", text8, true);
+			LocalizationManager.Instance.AddToken("$item_legs_t2pchaoslegs", "Refurbished plate leggings", true);
+			string text9 = "Thick leather leggings reinforced with cold iron. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased.";
+			LocalizationManager.Instance.AddToken("$item_legs_t2pchaoslegsdescription", text9, true);
+		}
 
+---------------------------------------------------------------------------------------------------------------------------------
+Runic Swords 
+
+
+private void AddTranslations()
+		{
+		  "icerunesword", "Runic Ice Sword", true);
+	LocalizationManager.Instance.AddToken("firerunesword", "Runic Fire Sword", true);
+	LocalizationManager.Instance.AddToken("lightningrunesword", "Runic Lightning Sword", true);
+	LocalizationManager.Instance.AddToken("poisonrunesword", "Runic Poison Sword", true);
+	LocalizationManager.Instance.AddToken("greatlightningrunesword", "Great Runic Lightning Sword", true);
+	LocalizationManager.Instance.AddToken("greatfirerunesword", "Great Runic Fire Sword", true);
+	LocalizationManager.Instance.AddToken("$greaticerunesword", "Great Runic Ice Sword", true);
+	LocalizationManager.Instance.AddToken("$greatpoisonrunesword", "Great Runic Poison Sword", true);
+	LocalizationManager.Instance.AddToken("$firerunedagger", "Runic Fire Dagger", true);
+	LocalizationManager.Instance.AddToken("$icerunedagger", "Runic Ice Dagger", true);
+	LocalizationManager.Instance.AddToken("$lightningrunedagger", "Runic Lightning Dagger", true);
+	LocalizationManager.Instance.AddToken("$poisonrunedagger", "Runic Poison Dagger", true);
+	LocalizationManager.Instance.AddToken("$icerunesworddescrip", "This sword is cold to the touch it has been blessed by Skaoi with ancient runes that give it a mystical frost aura", true);
+	LocalizationManager.Instance.AddToken("$greaticerunesworddescrip", "This sword is cold to the touch it has been blessed by Skaoi with ancient runes that give it a mystical frost aura", true);
+	LocalizationManager.Instance.AddToken("$icerunedaggerdescrip", "This dagger is cold to the touch it has been blessed by Skaoi with ancient runes that give it a mystical frost aura", true);
+	LocalizationManager.Instance.AddToken("$firerunesworddescrip", "This sword almost burn your hand as you touch it burning with Lokis wrath this blade burns those enemies its edge kisses", true);
+	LocalizationManager.Instance.AddToken("$greatfirerunesworddescrip", "This sword almost burn your hand as you touch it burning with Lokis wrath this blade burns those enemies its edge kisses", true);
+	LocalizationManager.Instance.AddToken("$firerunedaggerdescrip", "This dagger almost burn your hand as you touch it burning with Lokis wrath this blade burns those enemies its edge kisses", true);
+	LocalizationManager.Instance.AddToken("$lightningrunesworddescrip", "This sword is truly a gift from Odin himself, it has a quivering yellow aura with sparks flying off the blade. It inflicts lightning damage", true);
+	LocalizationManager.Instance.AddToken("$greatlightningrunesworddescrip", "This sword is truly a gift from Odin himself, it has a quivering yellow aura with sparks flying off the blade. It inflicts lightning damage", true);
+	LocalizationManager.Instance.AddToken("$lightningrunedaggerdescrip", "This dagger is truly a gift from Odin himself, it has a quivering yellow aura with sparks flying off the blade. It inflicts lightning damage", true);
+	LocalizationManager.Instance.AddToken("$poisonrunesworddescrip", "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force", true);
+	LocalizationManager.Instance.AddToken("$greatpoisonrunesworddescrip", "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force", true);
+	LocalizationManager.Instance.AddToken("$poisonrunedaggerdescrip", "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force"
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext1", "Artisan Rune", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext1desrip", "Extension for artisan table", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext2", "Artisan Rune", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext2desrip", "Extension for artisan table", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext3", "Artisan Rune", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext3desrip", "Extension for artisan table", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext4", "Artisan Rune", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext4desrip", "Extension for artisan table", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext5", "Artisan Rune", true);
+	LocalizationManager.Instance.AddToken("$piece_artisan_ext5desrip", "Extension for artisan table", true);
+		}
