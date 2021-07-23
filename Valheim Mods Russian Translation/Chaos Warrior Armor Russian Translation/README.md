@@ -26,10 +26,10 @@ Mod Chaos Warrior Armor Russian Translation Version 6.0.1.
   
 ```
 {
-  "item_armor_pchaosbodytwo": "Uncanny plate harness",
-  "item_armor_pchaosbodydescriptiontwo": "A hollow suit of fully enclosing armor. The thick plate is pitted and scarred, but remains incredibly sturdy. The eight-spoked star clasped over the breastplate evokes a hazy, blood-addled nostalgia.",
   "item_helmet_pchaosplate": "Uncanny plate helm",
   "item_helmet_pchaosplatedescription": "A vicious-looking casque. The alloy plate that encloses it seems corroded and stained, even though the structure yet holds steady. An uncanny air of familiarity echoes within its confines.",
+  "item_armor_pchaosbodytwo": "Uncanny plate harness",
+  "item_armor_pchaosbodydescriptiontwo": "A hollow suit of fully enclosing armor. The thick plate is pitted and scarred, but remains incredibly sturdy. The eight-spoked star clasped over the breastplate evokes a hazy, blood-addled nostalgia.",
   "item_legs_pchaoslegs": "Uncanny plate leggings",
   "item_legs_pchaoslegsdescription": "Thick leather leggings reinforced with metal. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased. And yet, they do little to burden the wearer.",
   "item_armor_t1_pchaosbody": "Half plate harness",
