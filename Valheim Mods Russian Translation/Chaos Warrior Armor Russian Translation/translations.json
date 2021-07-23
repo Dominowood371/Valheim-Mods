@@ -16,5 +16,40 @@
   "item_armor_t2_pchaosbody": "Пластинчатый нагрудник из трех частей",
   "item_armor_t2_pchaosbodydescription": "Потрепанный костюм из тяжелой брони, отлитый из холодного железа. Теперь восьмиконечная звезда, висящая на нагруднике, ловит солнечные лучи с жутким ледяным отблеском.",
   "item_legs_t2pchaoslegs": "Восстановленные пластинчатые наголенники",
-  "item_legs_t2pchaoslegsdescription": "Толстые кожаные наголенники, армированные холодным железом. Тяжелые бронированные пластины, закрепление везде до ботинков к земле, имеют множество пятнен и рубцов, которые невозможно стереть."
+  "item_legs_t2pchaoslegsdescription": "Толстые кожаные наголенники, армированные холодным железом. Тяжелые бронированные пластины, закрепление везде до ботинков к земле, имеют множество пятнен и рубцов, которые невозможно стереть.",
+  "item_reepusdeepusdelmeepus": "For fixing crimes against fashion",
+  "item_helmet_t1reepus": "Reepus",
+  "item_armor_t1deepus": "Deepus",
+  "item_legs_t1delmeepus": "Delmeepus",
+  "item_helmet_t2reepus": "Bronze Reepus",
+  "item_armor_t2deepus": "Bronze Deepus",
+  "item_legs_t2delmeepus": "Bronze Delmeepus",
+  "item_helmet_t3reepus": "Iron Reepus",
+  "item_armor_t3deepus": "Iron Deepus",
+  "item_legs_t3delmeepus": "Iron Delmeepus",
+  "item_helmet_t4reepus": "Silver Reepus",
+  "item_armor_t4deepus": "Silver Deepus",
+  "item_legs_t4delmeepus": "Silver Delmeepus",
+  "item_helmet_t5reepus": "REEPUS",
+  "item_armor_t5deepus": "DEEPUS",
+  "item_legs_t5delmeepus": "DELMEEPUS",
+  "item_effectchest_name": "Hazy Nostalgia",
+  "item_effectchest_tooltip": "Stamina Regen",
+  "item_effectchest_startmessage": "The eight-spoked star clasped over the breastplate evokes a hazy, blood-addled nostalgia",
+  "item_effecthelmet_name": "Uncanny Familiarity",
+  "item_effecthelmet_tooltip": "Health Regen",
+  "item_effecthelmet_startmessage": "An uncanny air of familiarity echoes within the helm's confines",
+  "item_effectlegs_name": "Burdenless Weight",
+  "item_effectlegs_tooltip": "Negates weight and speed penalties of Uncanny plate armor set",
+  "item_effectlegs_startmessage": "The weight of scarred armor plate eases off your shoulders"
 }
+
+
+
+
+
+
+
+
+
+
