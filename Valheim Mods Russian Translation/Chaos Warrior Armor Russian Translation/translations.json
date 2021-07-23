@@ -17,39 +17,29 @@
   "item_armor_t2_pchaosbodydescription": "Потрепанный костюм из тяжелой брони, отлитый из холодного железа. Теперь восьмиконечная звезда, висящая на нагруднике, ловит солнечные лучи с жутким ледяным отблеском.",
   "item_legs_t2pchaoslegs": "Восстановленные пластинчатые наголенники",
   "item_legs_t2pchaoslegsdescription": "Толстые кожаные наголенники, армированные холодным железом. Тяжелые бронированные пластины, закрепление везде до ботинков к земле, имеют множество пятнен и рубцов, которые невозможно стереть.",
-  "item_reepusdeepusdelmeepus": "For fixing crimes against fashion",
-  "item_helmet_t1reepus": "Reepus",
-  "item_armor_t1deepus": "Deepus",
-  "item_legs_t1delmeepus": "Delmeepus",
-  "item_helmet_t2reepus": "Bronze Reepus",
-  "item_armor_t2deepus": "Bronze Deepus",
-  "item_legs_t2delmeepus": "Bronze Delmeepus",
-  "item_helmet_t3reepus": "Iron Reepus",
-  "item_armor_t3deepus": "Iron Deepus",
-  "item_legs_t3delmeepus": "Iron Delmeepus",
-  "item_helmet_t4reepus": "Silver Reepus",
-  "item_armor_t4deepus": "Silver Deepus",
-  "item_legs_t4delmeepus": "Silver Delmeepus",
-  "item_helmet_t5reepus": "REEPUS",
-  "item_armor_t5deepus": "DEEPUS",
-  "item_legs_t5delmeepus": "DELMEEPUS",
-  "item_effectchest_name": "Hazy Nostalgia",
-  "item_effectchest_tooltip": "Stamina Regen",
-  "item_effectchest_startmessage": "The eight-spoked star clasped over the breastplate evokes a hazy, blood-addled nostalgia",
-  "item_effecthelmet_name": "Uncanny Familiarity",
-  "item_effecthelmet_tooltip": "Health Regen",
-  "item_effecthelmet_startmessage": "An uncanny air of familiarity echoes within the helm's confines",
-  "item_effectlegs_name": "Burdenless Weight",
-  "item_effectlegs_tooltip": "Negates weight and speed penalties of Uncanny plate armor set",
-  "item_effectlegs_startmessage": "The weight of scarred armor plate eases off your shoulders"
+  "item_reepusdeepusdelmeepus": "Для исправления преступности против моды.",
+  "item_helmet_t1reepus": "Реепус",
+  "item_armor_t1deepus": "Деепус",
+  "item_legs_t1delmeepus": "Дельмеепус",
+  "item_helmet_t2reepus": "Бронзовый Реепус",
+  "item_armor_t2deepus": "Бронзовый Деепус",
+  "item_legs_t2delmeepus": "Бронзовый Дельмеепус",
+  "item_helmet_t3reepus": "Железный Реепус",
+  "item_armor_t3deepus": "Железный Деепус",
+  "item_legs_t3delmeepus": "Железный Дельмеепус",
+  "item_helmet_t4reepus": "Серебряный Реепус",
+  "item_armor_t4deepus": "Серебряный Деепус",
+  "item_legs_t4delmeepus": "Серебряный Дельмеепус",
+  "item_helmet_t5reepus": "РЕЕПУС",
+  "item_armor_t5deepus": "ДЕЕПУС",
+  "item_legs_t5delmeepus": "ДЕЛЬМЕЕПУС",
+  "item_effectchest_name": "Смутная ностальгия",
+  "item_effectchest_tooltip": "Восстановление выносливости",
+  "item_effectchest_startmessage": "Восьмиконечная звезда, висящая на нагруднике, залитая засохшей кровью, вызывает смутную ностальгию о былых битвах.",
+  "item_effecthelmet_name": "Жуткая фамильярность",
+  "item_effecthelmet_tooltip": "Восстановление здоровья",
+  "item_effecthelmet_startmessage": "Даже жуткая атмосфера фамильярности, эхом отзывается в его пределах.",
+  "item_effectlegs_name": "Безграничный вес",
+  "item_effectlegs_tooltip": "Снижает штраф на вес и скорость экипировки жуткой брони.",
+  "item_effectlegs_startmessage": "Тяжесть покрытая шрамами брони облегчает ваши плечи."
 }
-
-
-
-
-
-
-
-
-
-
