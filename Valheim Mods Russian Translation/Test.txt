@@ -342,7 +342,7 @@ private void AddSpookyLore()
 Runic Swords 
 
 
-private void AddTranslations()
+public void AddTranslations()
 		{
         LocalizationManager.Instance.AddToken("$icerunesword", "Runic Ice Sword", true);	
         LocalizationManager.Instance.AddToken("$firerunesword", "Runic Fire Sword", true);
@@ -367,7 +367,7 @@ private void AddTranslations()
 	LocalizationManager.Instance.AddToken("$lightningrunedaggerdescrip", "This dagger is truly a gift from Odin himself, it has a quivering yellow aura with sparks flying off the blade. It inflicts lightning damage", true);
 	LocalizationManager.Instance.AddToken("$poisonrunesworddescrip", "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force", true);
 	LocalizationManager.Instance.AddToken("$greatpoisonrunesworddescrip", "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force", true);
-	LocalizationManager.Instance.AddToken("$poisonrunedaggerdescrip", "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force"
+	LocalizationManager.Instance.AddToken("$poisonrunedaggerdescrip", "The Goddess Hel has breathed a portion of the underworld into this blade. It holds a powerful poison force", true);
 	LocalizationManager.Instance.AddToken("$piece_artisan_ext1", "Artisan Rune", true);
 	LocalizationManager.Instance.AddToken("$piece_artisan_ext1desrip", "Extension for artisan table", true);
 	LocalizationManager.Instance.AddToken("$piece_artisan_ext2", "Artisan Rune", true);
@@ -378,4 +378,32 @@ private void AddTranslations()
 	LocalizationManager.Instance.AddToken("$piece_artisan_ext4desrip", "Extension for artisan table", true);
 	LocalizationManager.Instance.AddToken("$piece_artisan_ext5", "Artisan Rune", true);
 	LocalizationManager.Instance.AddToken("$piece_artisan_ext5desrip", "Extension for artisan table", true);
+		}
+
+Steel Age
+
+public void AddTranslations()
+		{
+        LocalizationManager.Instance.AddToken("$nordherobow", "Nordic Hero Bow", true);
+        LocalizationManager.Instance.AddToken("$nordherobow_description", "A heroic bow made from iron.", true);
+        LocalizationManager.Instance.AddToken("$steelbar", "An ingot of steel", true);
+        LocalizationManager.Instance.AddToken("$steelbar_description", "A cold bar of steel to craft new items with", true);
+        LocalizationManager.Instance.AddToken("$draugr_sword", "Draugr Sword", true);
+        LocalizationManager.Instance.AddToken("$draugr_sword_description", "A cold steel sword from a draugr", true);
+        LocalizationManager.Instance.AddToken("$steel_battleaxe", "Steel Battle-Axe", true);
+        LocalizationManager.Instance.AddToken("$steel_battleaxe_description", "A large battle axe crafted from steel", true);
+        LocalizationManager.Instance.AddToken("$steel_battlehammer", "Steel Battle Hammer", true);
+        LocalizationManager.Instance.AddToken("$steel_battlehammer_descriptions", "A large war hammer crafted from steel", true);
+        LocalizationManager.Instance.AddToken("$steelmace", "Steel Mace", true);
+        LocalizationManager.Instance.AddToken("$steelmace_description", "A steel mace for smacking your enemies around", true);
+        LocalizationManager.Instance.AddToken("$steel_waraxe", "Steel WarAxe", true);
+        LocalizationManager.Instance.AddToken("$steel_waraxe_description", "A small hand axe made from steel", true);
+        LocalizationManager.Instance.AddToken("$steelarrow", "Steel Arrows", true);
+        LocalizationManager.Instance.AddToken("$steelarrowdescrip", "Arrows tipped with steel and affixed with feathers.", true);
+        LocalizationManager.Instance.AddToken("$steelsword", "Steel Nordic Sword", true);
+        LocalizationManager.Instance.AddToken("$steelsworddescrip", "A Nordic Steel Sword", true);
+        LocalizationManager.Instance.AddToken("$swedishsteelsword", "Swedish Steel Sword", true);
+        LocalizationManager.Instance.AddToken("$swedishsteelsworddescrip", "A Swedish Sword made from steel", true);
+        LocalizationManager.Instance.AddToken("$vikingaxe", "Steel Viking Axe", true);
+        LocalizationManager.Instance.AddToken("$vikingaxedescrip", "A Viking axe crafted from finewood and steel", true);
 		}
