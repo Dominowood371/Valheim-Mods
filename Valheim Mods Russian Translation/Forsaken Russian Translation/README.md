@@ -8,13 +8,18 @@ Mod Forsaken Russian Translation Version 0.7.0.
 
 Скачайте архив `Forsaken-0-7-0-Rus.zip` и распакуйте архив, в архиве будет папка `Forsaken` переместите эту папку со всем содержимым в папку с игрой `Valheim\BepInEx\plugins`.
 
+Требуемие моды для работоспособности мода Forsaken:
+* [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
+* [JotunnLib](https://www.nexusmods.com/valheim/mods/507)
+* [Jotunn the Valheim Library](https://www.nexusmods.com/valheim/mods/1138)
+
 ### Скачивание
 
 1. Найдите архив `Forsaken-0-7-0-Rus.zip`, который вы хотите загрузить.
 2. Нажмите на его, чтобы просмотреть содержимое файла в GitHub.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
-5. 
+
 ### Оригинал 
 
 <details>
