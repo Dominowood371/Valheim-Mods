@@ -442,7 +442,7 @@ public void AddTranslations()
        LocalizationManager.Instance.AddToken("$StaffGoblin_Name", "Goblin Staff", true);
        LocalizationManager.Instance.AddToken("$StaffGoblin_Description", "Strange magics in this 10th world.", true);
        LocalizationManager.Instance.AddToken("$SwordGhost_Name", "Placeholder", true);
-       LocalizationManager.Instance.AddToken("$SwordGhost_Description", "Plac, true);
+       LocalizationManager.Instance.AddToken("$SwordGhost_Description", "Plac", true);
        LocalizationManager.Instance.AddToken("$Effect_SE_LifeLeech_Name", "Life Leech", true);
        LocalizationManager.Instance.AddToken("$Effect_SE_LifeLeech_Tooltip1", "Heal", true);
        LocalizationManager.Instance.AddToken("$Effect_SE_LifeLeech_Tooltip2", "of damage dealt as HP each hit.", true);
