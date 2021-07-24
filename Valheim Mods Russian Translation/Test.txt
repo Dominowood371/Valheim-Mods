@@ -407,3 +407,54 @@ public void AddTranslations()
         LocalizationManager.Instance.AddToken("$vikingaxe", "Steel Viking Axe", true);
         LocalizationManager.Instance.AddToken("$vikingaxedescrip", "A Viking axe crafted from finewood and steel", true);
 		}
+		
+		
+		public void AddTranslations()
+		{
+       LocalizationManager.Instance.AddToken("$BattleaxeLightning_Name", "Static Cleaver",
+       LocalizationManager.Instance.AddToken("$BattleaxeLightning_Description", "Bzzzzzzzt.", true);
+       LocalizationManager.Instance.AddToken("$BowFrost_Name", "Rimefang", true);
+       LocalizationManager.Instance.AddToken("$BowFrost_Description", "They won't be cold until they freeze. They won't speak unless they scream.", true);
+       LocalizationManager.Instance.AddToken("$KnifeFrost_Name", "Icicle", true);
+       LocalizationManager.Instance.AddToken("$KnifeFrost_Description", "Ancient crystalized magic.", true);
+       LocalizationManager.Instance.AddToken("$ShieldFire_Name", "Aegis of the Dead King", true);
+       LocalizationManager.Instance.AddToken("$ShieldFire_Description", "All returns to dust.", true);
+       LocalizationManager.Instance.AddToken("$SledgeFire_Name", "Molten Star", true);
+       LocalizationManager.Instance.AddToken("$SledgeFire_Description", "Smells of sulfur and burning flesh...", true);
+       LocalizationManager.Instance.AddToken("$SledgePoison_Name", "Rotclub", true);
+       LocalizationManager.Instance.AddToken("$SledgePoison_Description", "It reeks... Absolutely disgusting...", true);
+       LocalizationManager.Instance.AddToken("$SpearSpirit_Name", "Spiritine, the Primordial Impaler", true);
+       LocalizationManager.Instance.AddToken("$SpearSpirit_Description", "Even the old ones have forgotten.", true);
+       LocalizationManager.Instance.AddToken("$SpellFire_Name", "Chaotic Hand", true);
+       LocalizationManager.Instance.AddToken("$SpellFire_Description", "The burning essence of a god.", true);
+       LocalizationManager.Instance.AddToken("$SwordFire_Name", "Riftblade", true);
+       LocalizationManager.Instance.AddToken("$SwordFire_Description", "This feeling...", true);
+       LocalizationManager.Instance.AddToken("$SwordLightning_Name", "Bolt's Edge", true);
+       LocalizationManager.Instance.AddToken("$SwordLightning_Description", "In battle there is no law.", true);
+       LocalizationManager.Instance.AddToken("$UnarmedFenring_Name", "Lycanthro", true);
+       LocalizationManager.Instance.AddToken("$UnarmedFenring_Description", "Shadows are our sails of night, and soon they'll take away your light.", true);
+       LocalizationManager.Instance.AddToken("$UnarmedFrostOH_Name", "Wyrmripper", true);
+       LocalizationManager.Instance.AddToken("$UnarmedFrostOH_Description", "Dragon Queen's Underbite", true);
+       LocalizationManager.Instance.AddToken("$UnarmedFrost_Name", "Wyrmfist", true);
+       LocalizationManager.Instance.AddToken("$UnarmedFrost_Description", "Dragon Queen's Overbite", true);
+       LocalizationManager.Instance.AddToken("$LegsFeral_Name", "Feral Treads Coded", true);
+       LocalizationManager.Instance.AddToken("$LegsFeral_Description", "Bzzzzzzzt.", true);
+       LocalizationManager.Instance.AddToken("$StaffGoblin_Name", "Goblin Staff", true);
+       LocalizationManager.Instance.AddToken("$StaffGoblin_Description", "Strange magics in this 10th world.", true);
+       LocalizationManager.Instance.AddToken("$SwordGhost_Name", "Placeholder", true);
+       LocalizationManager.Instance.AddToken("$SwordGhost_Description", "Plac, true);
+       LocalizationManager.Instance.AddToken("$Effect_SE_LifeLeech_Name", "Life Leech", true);
+       LocalizationManager.Instance.AddToken("$Effect_SE_LifeLeech_Tooltip1", "Heal", true);
+       LocalizationManager.Instance.AddToken("$Effect_SE_LifeLeech_Tooltip2", "of damage dealt as HP each hit.", true);
+		}
+
+using System;
+using BepInEx;
+using Jotunn;
+using Jotunn.Configs;
+using Jotunn.Entities;
+using static Jotunn.Managers;
+using Jotunn.Utils;
+using UnityEngine;
+
+this.AddTranslations();
