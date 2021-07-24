@@ -30,5 +30,8 @@
   "StaffGoblin_Name": "Гоблинский посох",
   "StaffGoblin_Description": "В этом 10-м мире такая странная магия...",
   "SwordGhost_Name": "Заполнитель",
-  "SwordGhost_Description": "Заполнитель."
+  "SwordGhost_Description": "Заполнитель.",
+  "Effect_SE_LifeLeech_Name": "Life Leech",
+  "Effect_SE_LifeLeech_Tooltip1": "Heal",
+  "Effect_SE_LifeLeech_Tooltip2": "of damage dealt as HP each hit."
 }
