@@ -14,6 +14,11 @@ Mod Runic Swords Russian Translation Version 1.0.8.
 
 Скачайте архив `Runic Swords-V1-0-9-Rus.zip` и распакуйте архив, в архиве будет папка `RuneSwords` переместите эту папку со всем содержимым в папку с игрой Valheim\BepInEx\plugins.
 
+Требуемие моды для работоспособности мода Forsaken:
+* [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
+* [Jotunn the Valheim Library](https://www.nexusmods.com/valheim/mods/1138)
+* [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
+
 ### Скачивание translations.json
 
 1. Найдите файл, который вы хотите загрузить.
