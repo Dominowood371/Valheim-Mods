@@ -12,7 +12,7 @@ Mod Runic Swords Russian Translation Version 1.0.8.
 #### Архив с исправленим переводом
 После обновления мода Jotunn the Valheim Library до версии Version 2.1.0, у мода Runic Swords имеется баг с отоброжением перевода у названий предметов, поэтому можете использовать мой архив где я исправил этот баг.
 
-Скачайте архив `Runic Swords-V1-0-9-Rus.zip` и распакуйте архив, в архиве будет папка Forsaken переместите эту папку со всем содержимым в папку с игрой Valheim\BepInEx\plugins.
+Скачайте архив `Runic Swords-V1-0-9-Rus.zip` и распакуйте архив, в архиве будет папка `RuneSwords` переместите эту папку со всем содержимым в папку с игрой Valheim\BepInEx\plugins.
 
 ### Скачивание translations.json
 
