@@ -458,3 +458,30 @@ using Jotunn.Utils;
 using UnityEngine;
 
 this.AddTranslations();
+
+
+       LocalizationManager.Instance.AddToken("$item_reepusdeepusdelmeepus", "For fixing crimes against fashion", true);
+       LocalizationManager.Instance.AddToken("$item_helmet_t1reepus", "Reepus", true);
+       LocalizationManager.Instance.AddToken("$item_armor_t1deepus", "Deepus", true);
+       LocalizationManager.Instance.AddToken("$item_legs_t1delmeepus", "Delmeepus", true);
+       LocalizationManager.Instance.AddToken("$item_helmet_t2reepus", "Bronze Reepus", true);
+       LocalizationManager.Instance.AddToken("$item_armor_t2deepus", "Bronze Deepus", true);
+       LocalizationManager.Instance.AddToken("$item_legs_t2delmeepus", "Bronze Delmeepus", true);
+       LocalizationManager.Instance.AddToken("$item_helmet_t3reepus", "Iron Reepus", true);
+       LocalizationManager.Instance.AddToken("$item_armor_t3deepus", "Iron Deepus", true);
+       LocalizationManager.Instance.AddToken("$item_legs_t3delmeepus", "Iron Delmeepus", true);
+       LocalizationManager.Instance.AddToken("$item_helmet_t4reepus", "Silver Reepus", true);
+       LocalizationManager.Instance.AddToken("$item_armor_t4deepus", "Silver Deepus", true);
+       LocalizationManager.Instance.AddToken("$item_legs_t4delmeepus", "Silver Delmeepus", true);
+       LocalizationManager.Instance.AddToken("$item_helmet_t5reepus", "REEPUS", true);
+       LocalizationManager.Instance.AddToken("$item_armor_t5deepus", "DEEPUS", true);
+       LocalizationManager.Instance.AddToken("$item_legs_t5delmeepus", "DELMEEPUS", true);
+       LocalizationManager.Instance.AddToken("$item_effectchest_name", "Hazy Nostalgia", true);
+       LocalizationManager.Instance.AddToken("$item_effectchest_tooltip", "Stamina Regen", true);
+       LocalizationManager.Instance.AddToken("$item_effectchest_startmessage", "The eight-spoked star clasped over the breastplate evokes a hazy, blood-addled nostalgia", true);
+       LocalizationManager.Instance.AddToken("$item_effecthelmet_name", "Uncanny Familiarity", true);
+       LocalizationManager.Instance.AddToken("$item_effecthelmet_tooltip", "Health Regen", true);
+       LocalizationManager.Instance.AddToken("$item_effecthelmet_startmessage", "An uncanny air of familiarity echoes within the helm's confines", true);
+       LocalizationManager.Instance.AddToken("$item_effectlegs_name", "Burdenless Weight", true);
+       LocalizationManager.Instance.AddToken("$item_effectlegs_tooltip", "Negates weight and speed penalties of Uncanny plate armor set", true);
+       LocalizationManager.Instance.AddToken("$item_effectlegs_startmessage", "The weight of scarred armor plate eases off your shoulders", true);
