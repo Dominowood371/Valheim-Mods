@@ -44,6 +44,7 @@ Mod Chaos Warrior Armor Russian Translation Version 6.0.1.
   "item_helmet_t2pchaosplatedescription": "A plate helm, sporting the razor fangs of a mountain wolf. The metal is ever-cold to the touch, as though the ice has sunk its claws into it.",
   "item_legs_t2pchaoslegs": "Refurbished plate leggings",
   "item_legs_t2pchaoslegsdescription": "Thick leather leggings reinforced with cold iron. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased.",
+  "item_reepusdeepusdelmeepus": "For fixing crimes against fashion",
   "item_helmet_t1reepus": "Reepus",
   "item_armor_t1deepus": "Deepus",
   "item_legs_t1delmeepus": "Delmeepus",
