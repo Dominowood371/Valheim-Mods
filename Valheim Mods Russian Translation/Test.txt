@@ -447,6 +447,49 @@ public void AddTranslations()
        LocalizationManager.Instance.AddToken("$Effect_SE_LifeLeech_Tooltip1", "Heal", true);
        LocalizationManager.Instance.AddToken("$Effect_SE_LifeLeech_Tooltip2", "of damage dealt as HP each hit.", true);
 		}
+private void Awake()
+{
+    LocalizationManager.Instance.RegisterTranslation("item_desc", "Item description here");
+    LocalizationManager.Instance.RegisterTranslation("BattleaxeLightning_Name", "Статический топор");
+    LocalizationManager.Instance.RegisterTranslation("BattleaxeLightning_Description", "Бзззззззж, боевой молниеносный топор.");
+    LocalizationManager.Instance.RegisterTranslation("BowFrost_Name", "Заледенелый клык");
+    LocalizationManager.Instance.RegisterTranslation("BowFrost_Description", "Им не будет холодно, пока они не замерзнут. Они не будут говорить, пока не закричат.");
+    LocalizationManager.Instance.RegisterTranslation("KnifeFrost_Name", "Ледяная сосулька");
+    LocalizationManager.Instance.RegisterTranslation("KnifeFrost_Description", "Древняя кристаллизованная магия.");
+    LocalizationManager.Instance.RegisterTranslation("ShieldFire_Name", "Эгида мертвого короля");
+    LocalizationManager.Instance.RegisterTranslation("ShieldFire_Description", "Все вернется в прах...");
+    LocalizationManager.Instance.RegisterTranslation("SledgeFire_Name", "Раскаленная звезда");
+    LocalizationManager.Instance.RegisterTranslation("SledgeFire_Description", "Пахнет серой и горящей плотью...");
+    LocalizationManager.Instance.RegisterTranslation("SledgePoison_Name", "Гниющая дубина");
+    LocalizationManager.Instance.RegisterTranslation("SledgePoison_Description", "Она воняет... Совершенно отвратительно...");
+    LocalizationManager.Instance.RegisterTranslation("SpearSpirit_Name", "Игла духов, первобытный пронзитель");
+    LocalizationManager.Instance.RegisterTranslation("SpearSpirit_Description", "Даже древние боги имеют забвение.");
+    LocalizationManager.Instance.RegisterTranslation("SpellFire_Name", "Рука хаоса");
+    LocalizationManager.Instance.RegisterTranslation("SpellFire_Description", "Пылающая сущность бога.");
+    LocalizationManager.Instance.RegisterTranslation("SwordFire_Name", "Клинок раскола");
+    LocalizationManager.Instance.RegisterTranslation("SwordFire_Description", "Это чувство...");
+    LocalizationManager.Instance.RegisterTranslation("SwordLightning_Name", "Острая Глефа");
+    LocalizationManager.Instance.RegisterTranslation("SwordLightning_Description", "В бою не существует законов.");
+    LocalizationManager.Instance.RegisterTranslation("UnarmedFenring_Name", "Ликантропия");
+    LocalizationManager.Instance.RegisterTranslation("UnarmedFenring_Description", "Тени являются нашими парусами ночи, и скоро они заберут твой свет.");
+    LocalizationManager.Instance.RegisterTranslation("UnarmedFrostOH_Name", "Потрошитель Вирма");
+    LocalizationManager.Instance.RegisterTranslation("UnarmedFrostOH_Description", "Укус королевы драконов");
+    LocalizationManager.Instance.RegisterTranslation("UnarmedFrost_Name", "Оберег Вирма");
+    LocalizationManager.Instance.RegisterTranslation("UnarmedFrost_Description", "Прикус королевы драконов");
+    LocalizationManager.Instance.RegisterTranslation("LegsFeral_Name", "Дикие следы кода");
+    LocalizationManager.Instance.RegisterTranslation("LegsFeral_Description", "Бзззззззж.");
+    LocalizationManager.Instance.RegisterTranslation("StaffGoblin_Name", "Гоблинский посох");
+    LocalizationManager.Instance.RegisterTranslation("StaffGoblin_Description", "В этом 10-м мире такая странная магия...");
+    LocalizationManager.Instance.RegisterTranslation("SwordGhost_Name", "Заполнитель");
+    LocalizationManager.Instance.RegisterTranslation("SwordGhost_Description", "Заполнитель.");
+    LocalizationManager.Instance.RegisterTranslation("Effect_SE_LifeLeech_Name", "Кровопийца жизни");
+    LocalizationManager.Instance.RegisterTranslation("Effect_SE_LifeLeech_Tooltip1", "Восстанавливает");
+    LocalizationManager.Instance.RegisterTranslation("Effect_SE_LifeLeech_Tooltip2", "здоровья от нанесеного урона за каждый удар.");
+}
+}
+
+
+
 
 using System;
 using BepInEx;
