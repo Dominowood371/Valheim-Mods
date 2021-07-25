@@ -11,7 +11,6 @@ Mod Forsaken Russian Translation Version 0.7.0.
 Требуемие моды для работоспособности мода Forsaken:
 * [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
 * [JotunnLib](https://www.nexusmods.com/valheim/mods/507)
-* [Jotunn the Valheim Library](https://www.nexusmods.com/valheim/mods/1138)
 * [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
 
 ### Скачивание
