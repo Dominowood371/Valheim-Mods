@@ -1,11 +1,11 @@
 	.NinjutsuGround.m_name = "<color=cyan>Ниндзюцу: Слияние с землей</color>";
-	.NinjutsuGround.m_description = "<color=magenta>После оборудования: Вы погрузитесь в землю, что позволить вам двигаться быстро, пока монстры не видят вас\n\nСнимает оборудование если нет выносливости и отменяет эффект</color>";
+	.NinjutsuGround.m_description = "<color=magenta>После оборудования: Вы погрузитесь в землю, что позволить вам быстро передвигатся, пока монстры не видят вас\n\nСнимает оборудование если нет выносливости и отменяет эффект</color>";
 	.NinjutsuTeleport.m_name = "<color=cyan>Ниндзюцу: Телепорт</color>";
 	.NinjutsuTeleport.m_description = string.Format("<color=magenta>При использовании: Телепортирует за спину врага\n\nВосстановление: {0} секунд</color>"
 	.NinjutsuHeal.m_name = "<color=cyan>Ниндзюцу: Выздоровление</color>";
 	.NinjutsuHeal.m_description = string.Format("<color=magenta>При использовании: Восстанавливает {0}% от максимального здоровья.\n\nВосстановление: {1} секунд</color>"
 	.NinjutsuExplosion.m_name = "<color=cyan>Ниндзюцу: Темный взрыв</color>";
-	.NinjutsuExplosion.m_description = string.Format("<color=magenta>При использовании: Порождает огромный взрыв, который сжигает врагов вокруг вас\n\nВосстановление: {0} секунд</color>"
+	.NinjutsuExplosion.m_description = string.Format("<color=magenta>При использовании: Порождает огромный взрыв, который сжигает всех врагов вокруг вас\n\nВосстановление: {0} секунд</color>"
 
 	Katana.m_name = "<color=cyan>Пожиратель демонов</color>"; 	
   Katana.m_description = "<color=magenta><i>Катана изготовленная для уничтожения демонов</i></color>\n<color=cyan>Меч богов:\nКаждый удар по врагу или местности дает вам стек, увеличивающий скорость атаки.\nМаксимальный стак: 20\nСтеки пропадут, если вы никого не ударите в течении нескольких секунд.</color>";
