@@ -1,20 +1,33 @@
-	.NinjutsuGround.m_name = "<color=cyan>Ниндзюцу: Слияние с землей</color>";
-	.NinjutsuGround.m_description = "<color=magenta>После оборудования: Вы погрузитесь в землю, что позволить вам быстро передвигатся, пока монстры не видят вас\n\nСнимает оборудование если нет выносливости и отменяет эффект</color>";
-	.NinjutsuTeleport.m_name = "<color=cyan>Ниндзюцу: Телепорт</color>";
-	.NinjutsuTeleport.m_description = string.Format("<color=magenta>При использовании: Телепортирует за спину врага\n\nВосстановление: {0} секунд</color>"
-	.NinjutsuHeal.m_name = "<color=cyan>Ниндзюцу: Выздоровление</color>";
-	.NinjutsuHeal.m_description = string.Format("<color=magenta>При использовании: Восстанавливает {0}% от максимального здоровья.\n\nВосстановление: {1} секунд</color>"
-	.NinjutsuExplosion.m_name = "<color=cyan>Ниндзюцу: Темный взрыв</color>";
-	.NinjutsuExplosion.m_description = string.Format("<color=magenta>При использовании: Порождает огромный взрыв, который сжигает всех врагов вокруг вас\n\nВосстановление: {0} секунд</color>"
-
-	Katana.m_name = "<color=cyan>Пожиратель демонов</color>"; 	
-  Katana.m_description = "<color=magenta><i>Катана изготовленная для уничтожения демонов</i></color>\n<color=cyan>Меч богов:\nКаждый удар по врагу или местности дает вам стек, увеличивающий скорость атаки.\nМаксимальный стак: 20\nСтеки пропадут, если вы никого не ударите в течении нескольких секунд.</color>";
-  
-  NinjaMask.m_name = "<color=cyan>Маска ниндзя</color>";
-	NinjaMask.m_description = "<color=magenta><i>Я тень</i></color>\n<color=cyan>Двойной прыжок:\nПозволяет совершать двойной прыжок</color>";
-
-  NinjaShuriken.m_name = "<color=cyan>Сюрикэн</color>";
-	NinjaShuriken.m_description = "<color=magenta><i>Быстрый и яростный</i></color>";
+	GODSWORD.NinjutsuGround.GetComponent<ItemDrop>().m_itemData.m_shared.m_name = "<color=cyan>Ниндзюцу: Слияние с землей</color>";
+	GODSWORD.NinjutsuGround.GetComponent<ItemDrop>().m_itemData.m_shared.m_description = "<color=magenta>После оборудования: Вы погрузитесь в землю, что позволить вам быстро передвигатся, пока монстры не видят вас\n\nСнимает оборудование если нет выносливости и отменяет эффект</color>";
+	GODSWORD.NinjutsuTeleport.GetComponent<ItemDrop>().m_itemData.m_shared.m_name = "<color=cyan>Ниндзюцу: Телепорт</color>";
+	GODSWORD.NinjutsuTeleport.GetComponent<ItemDrop>().m_itemData.m_shared.m_description = string.Format("<color=magenta>При использовании: Телепортирует за спину врага\n\nВосстановление: {0} секунд</color>", GODSWORD.TeleportCooldown.Value);
+	GODSWORD.NinjutsuHeal.GetComponent<ItemDrop>().m_itemData.m_shared.m_name = "<color=cyan>Ниндзюцу: Выздоровление</color>";
+	GODSWORD.NinjutsuHeal.GetComponent<ItemDrop>().m_itemData.m_shared.m_description = string.Format("<color=magenta>При использовании: Восстанавливает {0}% от максимального здоровья.\n\nВосстановление: {1} секунд</color>", GODSWORD.HealPercentage.Value, GODSWORD.HealCooldown.Value);
+	GODSWORD.NinjutsuExplosion.GetComponent<ItemDrop>().m_itemData.m_shared.m_name = "<color=cyan>Ниндзюцу: Темный взрыв</color>";
+	GODSWORD.NinjutsuExplosion.GetComponent<ItemDrop>().m_itemData.m_shared.m_description = string.Format("<color=magenta>При использовании: Порождает огромный взрыв, который сжигает всех врагов вокруг вас\n\nВосстановление: {0} секунд</color>", GODSWORD.ExplosionCooldown.Value);
+	GODSWORD.Katana = assetBundle.LoadAsset<GameObject>("Assets/WoodSword/Katanakg.prefab");
+	GODSWORD.NinjaMask = assetBundle.LoadAsset<GameObject>("Assets/WoodSword/ArmorNinjaHelmet.prefab");
+	GODSWORD.NinjaShuriken = assetBundle.LoadAsset<GameObject>("Assets/NinjaArmor/NinjaShuriken.prefab");
+	GODSWORD.AlternativeAnimation = base.Config.Bind<bool>("Animation", "Enable_Alternative_Animation", false, "Enable/Disable alternative stand animation");
+	GODSWORD.HideBeard = base.Config.Bind<bool>("Animation", "Hide_Beard_With_Mask", true, "Enable/Disable hide beard with ninja mask equipped");
+	GODSWORD.icon = assetBundle.LoadAsset<Sprite>("Assets/WoodSword/katana_buff_icon.png");
+	GODSWORD.icon2 = assetBundle.LoadAsset<Sprite>("Assets/NinjaArmor/iconscroll1.png");
+	GODSWORD.icon3 = assetBundle.LoadAsset<Sprite>("Assets/NinjaArmor/iconscroll2.png");
+	GODSWORD.icon4 = assetBundle.LoadAsset<Sprite>("Assets/NinjaArmor/iconscroll3.png");
+	GODSWORD.icon5 = assetBundle.LoadAsset<Sprite>("Assets/NinjaArmor/iconscroll4.png");
+	GODSWORD.icon6 = assetBundle.LoadAsset<Sprite>("Assets/NinjaArmor/burningicon.png");
+	ItemDrop.ItemData.SharedData shared = GODSWORD.Katana.GetComponent<ItemDrop>().m_itemData.m_shared;
+	shared.m_damages.m_slash = (float)GODSWORD.GodSwordDamage.Value;
+	shared.m_damagesPerLevel.m_slash = (float)Mathf.FloorToInt((float)GODSWORD.GodSwordDamage.Value * 0.2f);
+	shared.m_name = "<color=cyan>Пожиратель демонов</color>";
+	shared.m_description = "<color=magenta><i>Катана изготовленная для уничтожения демонов</i></color>\n\n<color=cyan>Меч богов:\nКаждый удар по врагу или местности дает вам стек, увеличивающий скорость атаки.\n\nМаксимальный стак: 20\nСтеки пропадут, если вы никого не ударите в течении нескольких секунд.</color>";
+	ItemDrop.ItemData.SharedData shared2 = GODSWORD.NinjaMask.GetComponent<ItemDrop>().m_itemData.m_shared;
+	shared2.m_name = "<color=cyan>Маска ниндзя</color>";
+	shared2.m_description = "<color=magenta><i>Я тень</i></color>\n\n<color=cyan>Двойной прыжок:\nПозволяет совершать двойной прыжок</color>";
+	ItemDrop.ItemData.SharedData shared3 = GODSWORD.NinjaShuriken.GetComponent<ItemDrop>().m_itemData.m_shared;
+	shared3.m_name = "<color=cyan>Сюрикэн</color>";
+	shared3.m_description = "<color=magenta><i>Быстрый и яростный</i></color>";
   
 SE_KatanaBuff     this.m_name = "Меч богов";
 SE_NinjaBurning		this.m_name = "Горение";
