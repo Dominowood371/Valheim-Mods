@@ -21,10 +21,9 @@
 	shared.m_damages.m_slash = (float)GODSWORD.GodSwordDamage.Value;
 	shared.m_damagesPerLevel.m_slash = (float)Mathf.FloorToInt((float)GODSWORD.GodSwordDamage.Value * 0.2f);
 	shared.m_name = "<color=cyan>Пожиратель демонов</color>";
-	shared.m_description = "<color=magenta><i>Катана изготовленная для уничтожения демонов</i></color>\n\n<color=cyan>Меч богов:\nКаждый удар по врагу или местности дает вам стек, увеличивающий скорость атаки.\n\nМаксимальный стак: 20\nСтеки пропадут, если вы никого не ударите в течении нескольких секунд.</color>";
-	ItemDrop.ItemData.SharedData shared2 = GODSWORD.NinjaMask.GetComponent<ItemDrop>().m_itemData.m_shared;
-	shared2.m_name = "<color=cyan>Маска ниндзя</color>";
-	shared2.m_description = "<color=magenta><i>Я тень</i></color>\n\n<color=cyan>Двойной прыжок:\nПозволяет совершать двойной прыжок</color>";
+	shared.m_description = "<color=magenta><i>Катана изготовленная для уничтожения демонов</i></color>\n<color=transparent>God Sword:\n</color><color=cyan>Меч богов:\nКаждый удар по врагу или местности дает вам стек, увеличивающий скорость атаки.\n\nМаксимальный стак: 20\nСтеки пропадут, если вы никого не ударите в течении нескольких секунд.</color>";
+        ItemDrop.ItemData.SharedData shared2 = GODSWORD.NinjaMask.GetComponent<ItemDrop>().m_itemData.m_shared;	
+	shared2.m_description = "<color=magenta><i>Я тень</i></color>\n<color=transparent>Double Jump:\n</color><color=cyan>Двойной прыжок:\nПозволяет совершать двойной прыжок</color>";
 	ItemDrop.ItemData.SharedData shared3 = GODSWORD.NinjaShuriken.GetComponent<ItemDrop>().m_itemData.m_shared;
 	shared3.m_name = "<color=cyan>Сюрикэн</color>";
 	shared3.m_description = "<color=magenta><i>Быстрый и яростный</i></color>";
@@ -36,3 +35,5 @@ SE_NinjaHeal	   	this.m_name = "Исцеление ниндзюцу";
 SE_NinjaScroll1		this.m_name = "Слияние с землей";
 SE_NinjaTeleport	this.m_name = "Телепорт ниндзюцу";
 
+	shared.m_description = "<color=magenta><i>Katana made to destroy demons</i></color>\n<color=cyan>God Sword:\nEvery hit on enemy or terrain gives you a stack that increases attack speed\nMax stacks: 20\nStacks will be gone if you dont hit anything in few seconds</color>";
+	shared2.m_description = "<color=magenta><i>I am shadow</i></color>\n<color=cyan>Double Jump:\nAllows you to perform double jump</color>";
