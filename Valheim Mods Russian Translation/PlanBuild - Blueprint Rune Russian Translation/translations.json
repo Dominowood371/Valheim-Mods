@@ -30,7 +30,7 @@
   "piece_blueprint_centerpoint": "Маркер центральной точки",
   "piece_blueprint_centerpoint_desc": "Этот маркер необходим при создании чертежа и будет использоваться для определения центра вашего чертежа.",
   "piece_blueprint_delete": "Удалить часть планировки",
-  "piece_blueprint_delete_desc": "Удаляет одну или все запланированные части плана из чертежа или из в вибраного радиуса.",
+  "piece_blueprint_delete_desc": "Удаляет одну или все запланированные части плана из чертежа или из вибраного радиуса.",
   "piece_blueprint_terrain": "Инструменты ландшафта",
   "piece_blueprint_terrain_desc": "Выровняйте землю или удалите растительность",
   "hud_bpcapture": "Сохраняет выбранную территорию в чертеж",
@@ -47,9 +47,9 @@
   "hud_bpsnappoint": "Место точки опоры",
   "hud_bpcenterpoint": "Место центральной точки",
   "hud_bpdelete": "Удаляет запланированную часть плана",
-  "hud_bpdelete_all": "Hold to remove the whole blueprint",
-  "hud_bpdelete_radius": "Hold to remove pieces in a radius",
+  "hud_bpdelete_all": "Удерживайте, чтобы удалить весь план",
+  "hud_bpdelete_radius": "Удерживайте, чтобы удалить выделение части плана",
   "msg_removed_plans": "Удалено $1 част(ь/и/ей) планировки",
   "hud_bpterrain": "Выровнять территорию",
-  "hud_bpterrainradius": "Change radius, Ctrl + Alt: Move Y-axis\nShift: Camera distance"
+  "hud_bpterrainradius": "Изменить радиус, Ctrl + Alt: Движение оси X\nShift: Дальность камеры"
 }
