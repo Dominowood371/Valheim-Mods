@@ -39,7 +39,7 @@
   "hud_bpplace": "Place",
   "hud_bpflatten": "Выровнять землю",
   "hud_bpdirect": "Непосредственная сборка (без плана)",
-  "hud_bprotate": "",
+  "hud_bprotate": "4",
   "hud_bprotate1": "Вращение, Ctrl + Alt: Перемещение оси Y\nCtrl: Перемещение оси Z, Alt: Перемещение оси X",
   "hud_bprotate2": "Shift: Дальность камеры",
   "msg_direct_build_disabled": "Direct build disabled",
