@@ -8,9 +8,9 @@
 	"message_seed_totem_seed_generic_plural": "семена",
 	"message_seed_totem_all": "все",
 	"message_seed_totem_not_a_seed": "Нет семян",
-	"message_seed_totem_restricted_to": "Ограниченный",
+	"message_seed_totem_restricted_to": "Ограниченны",
 	"message_seed_totem_restrict": "Ограниченно",
-	"message_seed_totem_unrestricted": "Неограниченный",
+	"message_seed_totem_unrestricted": "Без ограничений",
 	"message_seed_totem_status_looking_for_space": "В поисках доступного пространства",
 	"message_seed_totem_status_planting": "Посадка",
 	"message_seed_totem_status_wrong_biome": "Неправильный биом"
