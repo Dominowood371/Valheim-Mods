@@ -1,42 +1,42 @@
 {
-  "M150_Ricebowl_Name": "Cooked rice",
-  "M150_Ricebowl_Desc": "It is steamed rice. Good taste.",
+  "M150_Ricebowl_Name": "Вареный рис",
+  "M150_Ricebowl_Desc": "Приготовленный на пару рис. Отличный вкус.",
   
-  "M150_RiceBall001_Normal_Name": "Onigiri",
-  "M150_RiceBall001_Normal_Desc": "Onigiri is a Rice ball.",
+  "M150_RiceBall001_Normal_Name": "Онигири",
+  "M150_RiceBall001_Normal_Desc": "Онигири — рис слепленный в шарик.",
 
-  "M150_RiceBall002_Nori_Name": "Nori Onigiri",
-  "M150_RiceBall002_Nori_Desc": "Nori Onigiri is a dried seaweed rice ball.",
+  "M150_RiceBall002_Nori_Name": "Нори Онигири",
+  "M150_RiceBall002_Nori_Desc": "Нори Онигири — рис слепленный в шарик и обёртый сушеными водорослями.",
 
-  "M150_RiceBall003_Ume_Name": "Ume Onigiri",
-  "M150_RiceBall003_Ume_Desc": "Ume Onigiri is a pickled plum rice ball.",
+  "M150_RiceBall003_Ume_Name": "Умэ Онигири",
+  "M150_RiceBall003_Ume_Desc": "Умэ Онигири — рис слепленный в шарик и обёртый в солёную сливу.",
 
-  "M150_RiceBall004_Yaki_Name": "Yaki Onigiri",
-  "M150_RiceBall004_Yaki_Desc": "Yaki Onigiri is a grilled rice ball.",
+  "M150_RiceBall004_Yaki_Name": "Яки Онигири",
+  "M150_RiceBall004_Yaki_Desc": "Яки Онигири — рис слепленный в шарик, обжаренный до хрустящей корочки.",
 
-  "M150_Sushi_Name": "Sushi",
-  "M150_Sushi_Desc": "Sushi is a raw fish on the small rice ball.",
+  "M150_Sushi_Name": "Суши",
+  "M150_Sushi_Desc": "Суши — сырая рыба на маленьком рисовом комочке риса.",
 
-  "M150_Dango_Name": "Dango",
-  "M150_Dango_Desc": "Dango is a roll rice flour into a ball and skewered.",
+  "M150_Dango_Name": "Данго",
+  "M150_Dango_Desc": "Данго — представляет собой клецки, рулет из рисовой муки насаженный на шампур.",
 
-  "M150_Shiratama_Name": "Shiratama",
-  "M150_Shiratama_Desc": "Shiratama is roll rice flour into a ball.",
+  "M150_Shiratama_Name": "Ширатама",
+  "M150_Shiratama_Desc": "Ширатама — клёцки из рисовой муки.",
 
   "M150_Ricebowl_Brown_Name": "Вареный коричневый рис",
   "M150_Ricebowl_Brown_Desc": "Приготовленный на пару коричневый рис.",
 
   "M150_Mochi_Name": "Омочи",
-  "M150_Mochi_Desc": "Омочи - это взбитый и измельченный рис, приготовленный на пару.",
+  "M150_Mochi_Desc": "Омочи — взбитый и измельченный рис, приготовленный на пару.",
 
   "M150_Mochi_Yaki_Name": "Якимочи",
-  "M150_Mochi_Yaki_Desc": "Якимочи  — это жареный омочи.",
+  "M150_Mochi_Yaki_Desc": "Якимочи — жареный омочи.",
 
   "M150_Mochi_Nori_Name": "Изобеяки",
-  "M150_Mochi_Nori_Desc": "Исобеяки - это якимочи, обернутый сушеными водорослями.",
+  "M150_Mochi_Nori_Desc": "Исобеяки — якимочи, обернутый сушеными водорослями.",
 
   "M150_RiceBurger_Name": "Рисовый бургер",
-  "M150_RiceBurger_Desc": "Рисовый бургер - это гамбургер, в котором вместо хлеба используется рис.",
+  "M150_RiceBurger_Desc": "Рисовый бургер — гамбургер, в котором вместо хлеба используется рис.",
 
   "M150_CaliforniaRoll_Name": "Ролл калифорния",
   "M150_CaliforniaRoll_Desc": "Ролл калифорния был создан в Калифорнии, на западе легендарного Винланда."
