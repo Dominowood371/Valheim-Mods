@@ -1,4 +1,4 @@
-﻿{
+{
   "M150_Ricebowl_Name": "Cooked rice",
   "M150_Ricebowl_Desc": "It is steamed rice. Good taste.",
   
@@ -23,21 +23,21 @@
   "M150_Shiratama_Name": "Shiratama",
   "M150_Shiratama_Desc": "Shiratama is roll rice flour into a ball.",
 
-  "M150_Ricebowl_Brown_Name": "Cooked brown rice",
-  "M150_Ricebowl_Brown_Desc": "It is steamed brown rice.",
+  "M150_Ricebowl_Brown_Name": "Вареный коричневый рис",
+  "M150_Ricebowl_Brown_Desc": "Приготовленный на пару коричневый рис.",
 
-  "M150_Mochi_Name": "Omochi",
-  "M150_Mochi_Desc": "Omochi is steamed rice beaten and crushed.",
+  "M150_Mochi_Name": "Омочи",
+  "M150_Mochi_Desc": "Омочи - это взбитый и измельченный рис, приготовленный на пару.",
 
-  "M150_Mochi_Yaki_Name": "Yakimochi",
-  "M150_Mochi_Yaki_Desc": "Yakimochi is a grilled omochi.",
+  "M150_Mochi_Yaki_Name": "Якимочи",
+  "M150_Mochi_Yaki_Desc": "Якимочи  — это жареный омочи.",
 
-  "M150_Mochi_Nori_Name": "Isobeyaki",
-  "M150_Mochi_Nori_Desc": "Isobeyaki is a yakimochi wrapped with dried seaweed.",
+  "M150_Mochi_Nori_Name": "Изобеяки",
+  "M150_Mochi_Nori_Desc": "Исобеяки - это якимочи, обернутый сушеными водорослями.",
 
-  "M150_RiceBurger_Name": "Rice Burger",
-  "M150_RiceBurger_Desc": "Rice Burger is a hamburger uses rice instead of bread.",
+  "M150_RiceBurger_Name": "Рисовый бургер",
+  "M150_RiceBurger_Desc": "Рисовый бургер - это гамбургер, в котором вместо хлеба используется рис.",
 
-  "M150_CaliforniaRoll_Name": "California roll",
-  "M150_CaliforniaRoll_Desc": "California roll came from California at the west end of the legendary Vinland."
+  "M150_CaliforniaRoll_Name": "Ролл калифорния",
+  "M150_CaliforniaRoll_Desc": "Ролл калифорния был создан в Калифорнии, на западе легендарного Винланда."
 }
