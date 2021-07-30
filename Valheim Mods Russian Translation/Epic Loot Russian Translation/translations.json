@@ -437,7 +437,7 @@
   "mod_epicloot_merchant_minutes": "м",
   "mod_epicloot_merchant_noroomtooltip": "Нет места в инвентаре",
   "mod_epicloot_merchant_purchasedtooltip": "Уже куплено",
-  "mod_epicloot_merchant_refreshintervals": "Интервалы обновления",
+  "mod_epicloot_merchant_refreshintervals": "Периоды обновлений",
   "mod_epicloot_merchant_refreshday": "Каждый игровой день",
   "mod_epicloot_merchant_refreshdays": "Каждые $1 игровых дней",
   "mod_epicloot_merchant_rollovertime": "Время обновления: Полночь",
