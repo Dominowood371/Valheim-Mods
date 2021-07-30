@@ -1,7 +1,7 @@
-﻿{
-  "M150_SaltWater_Name": "Seawater",
-  "M150_SaltWater_Desc": "You must not drink seawater.",
+{
+  "M150_SaltWater_Name": "Морская вода",
+  "M150_SaltWater_Desc": "Вы не должны пить морскую воду.",
 
-  "M150_PureWater_Name": "Water",
-  "M150_PureWater_Desc": "Clear water"
+  "M150_PureWater_Name": "Вода",
+  "M150_PureWater_Desc": "Чистая вода."
 }
