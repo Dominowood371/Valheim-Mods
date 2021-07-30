@@ -1,22 +1,22 @@
 {
   "M150_RicePlant_Seed_Name": "Семена риса",
-  "M150_RicePlant_Seed_Desc": "Plant the seed on a cultivated soil filled with water without eating it.",
+  "M150_RicePlant_Seed_Desc": "Посадите семена в обработанную землю, наполненную водой, не употребляйте их в пищу.",
   
   "M150_sapling_RicePlant_Name": "Рис посевной",
-  "M150_sapling_RicePlant_Desc": "We are able to harvest rice from this plant.",
+  "M150_sapling_RicePlant_Desc": "Мы сможем собрать рис из этого растения.",
   
   "M150_Rice_Raw_Name": "Пучок риса",
-  "M150_Rice_Raw_Desc": "This cannot be eaten as it is. Let's dry.",
+  "M150_Rice_Raw_Desc": "Его нельзя есть в таком виде. Давайте осушим его.",
 
   "M150_Rice_RawDry_Name": "Пучок сушеного риса",
-  "M150_Rice_RawDry_Desc": "This cannot be eaten yet as it is. Let's take out only the seeds.",
+  "M150_Rice_RawDry_Desc": "Его пока еще нельзя есть в таком виде. Давайте вынем только семена.",
 
   "M150_BrownRice_Name": "Коричневый рис",
-  "M150_BrownRice_Desc": "More nutritious than white rice. Let's polish rice.",
+  "M150_BrownRice_Desc": "Более питательный, чем белый рис. Можно отполировать в белый рис.",
 
   "M150_WhiteRice_Name": "Белый рис",
-  "M150_WhiteRice_Desc": "This is the main food of the far eastern land.",
+  "M150_WhiteRice_Desc": "Основная еда из дальневосточной земли.",
 
   "M150_RiceFlour_Name": "Рисовая мука",
-  "M150_RiceFlour_Desc": "This flour is ground white rice."
+  "M150_RiceFlour_Desc": "Мука измельчённая из зёрен белого риса."
 }
