@@ -1,10 +1,10 @@
 {
-  "mod_epicloot_craftingmaterial": "crafting material",
+  "mod_epicloot_craftingmaterial": "ремесленный материал",
   "mod_epicloot_set": "Cет",
 
-  "mod_epicloot_circlet": "circlet",
+  "mod_epicloot_circlet": "венец",
   "mod_epicloot_belt": "пояс",
-  "mod_epicloot_remains": "remains",
+  "mod_epicloot_remains": "реликвия",
 
   "mod_epicloot_assets_dust": "пыль",
   "mod_epicloot_assets_dust_introduce": "Остатки из жертвенного алтаря. Используется для зачарования предметов. Добывается путем жертвоприношения, зачарованных предметов.",
@@ -57,9 +57,9 @@
   "mod_epicloot_active_magic_effects": "Активные магические эффекты",
   "mod_epicloot_activebounties_classification": "Классификации",
   "mod_epicloot_activebounties_biome": "Биом",
-  "mod_epicloot_activebounties": "Активная охота за добычей",
-  "mod_epicloot_adventure_title": "Сундуки с сокровищами и охота за добычей",
-  "mod_epicloot_currentlyequipped": "Currently Equipped", 
+  "mod_epicloot_activebounties": "Охота за добычей",
+  "mod_epicloot_adventure_title": "Сокровища и охота",
+  "mod_epicloot_currentlyequipped": "Оборудовано сейчас", 
   
   "mod_epicloot_item_andvaranaut": "Андваранаут",
   "mod_epicloot_item_andvaranaut_tooltip": "Поможет вам находить сундуки с сокровищами на картах Хальдора. Двигайтесь в направлении усиленного сигнала.",
@@ -451,7 +451,7 @@
   "mod_epicloot_treasuremap_name": "Карта сокровищ: $1 #$2",
   "mod_epicloot_treasuremap_tooltip": "На этом сложенном куске рваного пергамента содержится большой красный крестик <color=#f03232>X</color>, отмеченный где-то в области где <color=#31eb41>$1</color>...",
 
-  "mod_epicloot_me_explaintitle": "Описание: Магических эффектов",
+  "mod_epicloot_me_explaintitle": "Описание магических эффектов",
   "mod_epicloot_me_dvergercirclet_display": "Постоянный источник света",
   "mod_epicloot_me_megingjord_display": "Переносимый вес +150",
   "mod_epicloot_me_wishbone_display": "Находит секрет",
