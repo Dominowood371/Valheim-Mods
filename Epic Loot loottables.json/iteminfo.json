@@ -6,7 +6,7 @@
     // Hugos More Two Handers MOD ✔
     // Forsaken MOD ✔
     // Terraheim - Weapons Tools and Armor MOD ✔
-    // выдает ошибку
+    // If you add two identical items, it throws an error
 {
   "ItemInfo": [
     {
