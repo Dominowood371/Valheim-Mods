@@ -83,7 +83,7 @@
   "log_teleportnotag" : "непомеченный",
   "log_upgrade" : "Вы улучшили уровень качества «<color=white>$1</color>» до уровня <color=#1B9B37>$2</color>",
   "log_craft" : "Вы создали предмет: <color=white>$1</color>",
-  "log_skillup" : "Вы улучшили свой навык <color=white>$1</color> до уровня <color=yellow>$2</color>",
+  "log_skillup" : "Вы улучшили свой навык «<color=white>$1</color>» до уровня <color=yellow>$2</color>",
   "log_pickup_one" : "Вы взяли $1 предмет",
   "log_pickup" : "Вы взяли $1 предмета(а/ов)",
   "compendium" : "Компендиум", 
