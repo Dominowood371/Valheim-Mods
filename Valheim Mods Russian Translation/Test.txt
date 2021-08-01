@@ -1,5 +1,4 @@
 https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Clutter%20Russian%20Translation/translations.json
-https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Custom%20Dverger%20Russian%20Translation/translations.json
 https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Custom%20Hair%20(AKA%20CustomWigs)%20Russian%20Translation/translations.json
 https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/OdinArchitect%20-%20Custom%20buildings%20Russian%20Translation/translations.json
 https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/PlantIt%20Russian%20Translation/translations.json
