@@ -81,7 +81,7 @@
   "log_newpieces" : "Вы открыли $1 новых строения",
   "log_teleport" : "Вы путешествовали через <color=#F76B30>$1 портал(а/ов)</color>.",
   "log_teleportnotag" : "непомеченный",
-  "log_upgrade" : "Вы улучшили уровень качества — <color=white>$1</color> до уровня <color=#1B9B37>$2</color>",
+  "log_upgrade" : "Вы улучшили уровень качества «<color=white>$1</color>» до уровня <color=#1B9B37>$2</color>",
   "log_craft" : "Вы создали предмет: <color=white>$1</color>",
   "log_skillup" : "Вы улучшили свой навык <color=white>$1</color> до уровня <color=yellow>$2</color>",
   "log_pickup_one" : "Вы взяли $1 предмет",
