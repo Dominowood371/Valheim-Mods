@@ -2,7 +2,7 @@ Mod Atos Arrows JVL Russian Translation Version 0.7.4.
 
 ### Описание
 
-Перевод мода [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1242) на русский язык для игры Valheim. 
+Перевод мода [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301) на русский язык для игры Valheim. 
 
 ### Установка
 
