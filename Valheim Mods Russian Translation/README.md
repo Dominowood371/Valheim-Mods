@@ -14,6 +14,9 @@
  - [X] [Seed Totem](https://www.nexusmods.com/valheim/mods/876) ✔
  - [X] [Spud's Forsaken Totems](https://www.nexusmods.com/valheim/mods/715) ✔
  - [X] [Surtling Core Overclocking](https://www.nexusmods.com/valheim/mods/909) ✔
+ - [ ] [Valweed](https://www.nexusmods.com/valheim/mods/1023) ✔
+ - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌
+ - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌ возможно
 
 **Construction**
  - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653) ✔
@@ -22,6 +25,10 @@
  - [ ] [OdinArchitect - Custom buildings](https://www.nexusmods.com/valheim/mods/1174) ✔
  - [ ] [PlantIt](https://www.nexusmods.com/valheim/mods/1251) ✔
  - [ ] [Build It](https://www.nexusmods.com/valheim/mods/1385) ❌
+ - [ ] [More Gates](https://www.nexusmods.com/valheim/mods/1087) ❌
+ - [ ] [Candles Lanterns and Beeswax](https://www.nexusmods.com/valheim/mods/1226) ❌
+ - [ ] [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/1335) ❌
+ - [ ] [More Lighting](https://www.nexusmods.com/valheim/mods/1214) ❌
 
 **Weapons**
  - [X] [Forsaken](https://www.nexusmods.com/valheim/mods/799) ❌
@@ -33,6 +40,7 @@
  - [X] [Terraheim - Weapons Tools and Armor](https://www.nexusmods.com/valheim/mods/803) ✔
  - [X] [WindLass](https://www.nexusmods.com/valheim/mods/1209) ✔
  - [X] [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301) ✔
+ - [X] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288) ✔
 
 **Armour**
  - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
