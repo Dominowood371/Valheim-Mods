@@ -40,7 +40,7 @@
  - [X] [Terraheim - Weapons Tools and Armor](https://www.nexusmods.com/valheim/mods/803) ✔
  - [X] [WindLass](https://www.nexusmods.com/valheim/mods/1209) ✔
  - [X] [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301) ✔
- - [X] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288) ✔
+ - [ ] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288) ✔
 
 **Armour**
  - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
