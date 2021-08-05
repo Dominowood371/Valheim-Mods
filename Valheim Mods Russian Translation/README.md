@@ -37,7 +37,7 @@
  - [X] [Hugos More Two Handers](https://www.nexusmods.com/valheim/mods/1189) ✔
  - [X] [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) ✔
  - [X] [Steel Age](https://www.nexusmods.com/valheim/mods/1143) ✔
- - [X] [Terraheim - Weapons Tools and Armor](https://www.nexusmods.com/valheim/mods/803) ✔
+ - [X] [Terraheim - Weapons Tools and Armor](https://www.nexusmods.com/valheim/mods/803) ✔ без перевода эффектов
  - [X] [WindLass](https://www.nexusmods.com/valheim/mods/1209) ✔
  - [X] [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301) ✔
  - [X] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288) ✔
