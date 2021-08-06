@@ -6,7 +6,7 @@ Mod More Green Fire Russian Translation Version 0.0.1.
 
 ### Установка
 
-Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\MoreGreenFire\Assets\Translations\Russian`.
+Скачайте файл `MoreGreenFire_russian.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\MoreGreenFire\Assets\Translations\Russian`.
 
 ### Скачивание
 
@@ -18,18 +18,3 @@ Mod More Green Fire Russian Translation Version 0.0.1.
 Помните, что вы должны одновременно нажать Alt и щелкнуть левой кнопкой мыши. Просто нажав кнопку "Raw", вы откроете CSV в браузере.
 
 Другие [способы](https://coderoad.ru/4604663/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B-%D1%81-GitHub) скачать файлы на GitHub.
-
-### Оригинал 
-
-<details>
-  <summary>Посмотреть оригинал</summary>
-  
-```
-{
-  "custompiece_brazierceiling01_green":"Green-burning hanging brazier",
-  "custompiece_groundtorch_wood_green":"Standing green-burning wood torch",
-  "custompiece_walltorch_green":"Green-burning sconce"
-}
-```
-  
-</details>
