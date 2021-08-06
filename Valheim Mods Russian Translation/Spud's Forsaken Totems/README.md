@@ -6,7 +6,7 @@ Mod Spud's Forsaken Totems Russian Translation Version 2.2.1.
 
 ### Установка
 
-Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\SpudsForsakenTotems\Assets\Translations\Russian`.
+Скачайте файл `SpudsForsakenTotems_russian.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\SpudsForsakenTotems\Assets\Translations\Russian`.
 
 ### Скачивание
 
@@ -18,25 +18,3 @@ Mod Spud's Forsaken Totems Russian Translation Version 2.2.1.
 Помните, что вы должны одновременно нажать Alt и щелкнуть левой кнопкой мыши. Просто нажав кнопку "Raw", вы откроете CSV в браузере.
 
 Другие [способы](https://coderoad.ru/4604663/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B-%D1%81-GitHub) скачать файлы на GitHub.
-
-### Оригинал 
-
-<details>
-  <summary>Посмотреть оригинал</summary>
-  
-```
-{
-  "custom_item_Etotem": "Eikthyr Totem",
-  "custom_item_etotem_description": "Eikthyr Totem gives you Eikthyr's abilty as a passive",
-  "custom_item_Ttotem": "The Elder Totem",
-  "custom_item_ttotem_description": "The Elder Totem gives you The Elder's abilty as a passive",
-  "custom_item_Btotem": "Bonemass Totem",
-  "custom_item_Btotem_description": "Bonemass Totem gives you bonemass's abilty as a passive",
-  "custom_item_Mtotem": "Moder Totem",
-  "custom_item_mtotem_description": "Moder Totem gives you Moder's abilty as a passive",
-  "custom_item_Ytotem": "Yagluth Totem",
-  "custom_item_ytotem_description": "Yagluth Totem gives you Yagluth's abilty as a passive"
-}
-```
-  
-</details>
