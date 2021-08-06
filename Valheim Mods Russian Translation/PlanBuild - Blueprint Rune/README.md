@@ -6,7 +6,7 @@ Mod PlanBuild - Blueprint Rune Russian Translation Version 0.3.4.
 
 ### Установка
 
-Скачайте файл `PlanBuild_russian.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\PlantIt\Assets\Translations\Russian`.
+Скачайте файл `PlanBuild_russian.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\PlanBuild\Assets\Translations\Russian`.
 
 ### Скачивание
 
