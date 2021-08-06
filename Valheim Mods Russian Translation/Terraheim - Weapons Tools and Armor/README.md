@@ -6,7 +6,7 @@ Mod Terraheim - Weapons Tools and Armor Russian Translation Version 2.1.0.
 
 ### Установка
 
-Скачайте файл `english.lang` и с заменой переместите файл в папку `Valheim\BepInEx\plugins` или в `Valheim\BepInEx\plugins\DasSauerkraut-Terraheim` если там есть такая папка.
+Скачайте файл `russian.lang` и с заменой переместите файл в папку `Valheim\BepInEx\plugins` или в `Valheim\BepInEx\plugins\DasSauerkraut-Terraheim` если там есть такая папка.
 
 ### Скачивание
 
