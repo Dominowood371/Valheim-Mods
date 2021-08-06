@@ -49,7 +49,6 @@
  - [ ] [Custom Hair (AKA CustomWigs)](https://www.nexusmods.com/valheim/mods/1236) ✔
 
 **Food**
- - [X] [Bone Appetit](https://www.nexusmods.com/valheim/mods/1250)
  - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
  - [X] [ZethPack](https://www.nexusmods.com/valheim/mods/1242) ✔
  - [ ] [Bone Appetit](https://www.nexusmods.com/valheim/mods/1250) ❌
