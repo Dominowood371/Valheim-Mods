@@ -1,0 +1,43 @@
+{
+  "M150_Ricebowl_Name": "Cooked rice",
+  "M150_Ricebowl_Desc": "It is steamed rice. Good taste.",
+  
+  "M150_RiceBall001_Normal_Name": "Onigiri",
+  "M150_RiceBall001_Normal_Desc": "Onigiri is a Rice ball.",
+
+  "M150_RiceBall002_Nori_Name": "Nori Onigiri",
+  "M150_RiceBall002_Nori_Desc": "Nori Onigiri is a dried seaweed rice ball.",
+
+  "M150_RiceBall003_Ume_Name": "Ume Onigiri",
+  "M150_RiceBall003_Ume_Desc": "Ume Onigiri is a pickled plum rice ball.",
+
+  "M150_RiceBall004_Yaki_Name": "Yaki Onigiri",
+  "M150_RiceBall004_Yaki_Desc": "Yaki Onigiri is a grilled rice ball.",
+
+  "M150_Sushi_Name": "Sushi",
+  "M150_Sushi_Desc": "Sushi is a raw fish on the small rice ball.",
+
+  "M150_Dango_Name": "Dango",
+  "M150_Dango_Desc": "Dango is a roll rice flour into a ball and skewered.",
+
+  "M150_Shiratama_Name": "Shiratama",
+  "M150_Shiratama_Desc": "Shiratama is roll rice flour into a ball.",
+
+  "M150_Ricebowl_Brown_Name": "Cooked brown rice",
+  "M150_Ricebowl_Brown_Desc": "It is steamed brown rice.",
+
+  "M150_Mochi_Name": "Omochi",
+  "M150_Mochi_Desc": "Omochi is steamed rice beaten and crushed.",
+
+  "M150_Mochi_Yaki_Name": "Yakimochi",
+  "M150_Mochi_Yaki_Desc": "Yakimochi is a grilled omochi.",
+
+  "M150_Mochi_Nori_Name": "Isobeyaki",
+  "M150_Mochi_Nori_Desc": "Isobeyaki is a yakimochi wrapped with dried seaweed.",
+
+  "M150_RiceBurger_Name": "Rice Burger",
+  "M150_RiceBurger_Desc": "Rice Burger is a hamburger uses rice instead of bread.",
+
+  "M150_CaliforniaRoll_Name": "California roll",
+  "M150_CaliforniaRoll_Desc": "California roll came from California at the west end of the legendary Vinland."
+}
