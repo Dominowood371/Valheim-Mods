@@ -6,7 +6,7 @@ Mod Better Clubs Russian Translation Version 1.0.1.
 
 ### Установка
 
-Скачайте файл `translations.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\Digitalroot.Valheim.BetterClubs\Assets\Translations\Russian`.
+Скачайте файл `BetterClubs_russian.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\Digitalroot.Valheim.BetterClubs\Assets\Translations\Russian`.
 
 ### Скачивание
 
