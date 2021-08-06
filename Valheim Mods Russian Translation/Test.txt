@@ -420,3 +420,16 @@ this.AddTranslations();
        LocalizationManager.Instance.AddToken("$item_effectlegs_name", "Burdenless Weight", true);
        LocalizationManager.Instance.AddToken("$item_effectlegs_tooltip", "Negates weight and speed penalties of Uncanny plate armor set", true);
        LocalizationManager.Instance.AddToken("$item_effectlegs_startmessage", "The weight of scarred armor plate eases off your shoulders", true);
+
+
+ItemManager.Instance.AddRecipe(customRecipe3);
+CustomRecipe customRecipe4 = new CustomRecipe(new RecipeConfig
+			{
+			
+			this.FrostSword = this.runeassets.LoadAsset<GameObject>("IceRuneSword");
+			this.Frost_Sword = new CustomItem(this.FrostSword, true, new ItemConfig
+			
+			
+			       var Coolpot_Thing = plants3.LoadAsset<GameObject>("custompiece_coolpot");
+            var Coolpot = new CustomPiece(Coolpot_Thing,
+                new PieceConfig
