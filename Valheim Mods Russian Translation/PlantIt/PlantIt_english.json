@@ -76,5 +76,23 @@
 	"custompiece_dirtblock_small":"Dirt Block - Small",
 	"custompiece_grassblock_large":"Grass Block - Large",
 	"custompiece_grassblock_medium":"Grass Block - Medium",
-	"custompiece_grassblock_small":"Grass Block - Small"
+	"custompiece_grassblock_small":"Grass Block - Small",
+	
+	
+	"custompiece_s1_roundcactuspinkflowers":"Round Potted Cactus",
+	"custompiece_s2_tallcactusredflower":"Tall Potted Cactus",
+	"custompiece_s3_pottedpricklypear":"Potted Prickly Pear",
+	"custompiece_s4_snakeplant":"Snake Plant",
+	"custompiece_s5_aloe":"Potted Aloe",
+	"custompiece_s6_pachy":"Pink Moonstones",
+	"custompiece_s7_calisunset":"California Sunset",
+	"custompiece_s8_towercactus":"Tall Potted Cactus",
+	"custompiece_s9_whiteflowers":"Potted White Flowers",
+	"custompiece_s10_fatboi":"Round Potted Cactus",
+	"custompiece_s11_cLehmannii":"Corpuscularia lehmannii",
+	"custompiece_s12_splitrocks":"Split Rocks Succulent",
+	"custompiece_s13_roundcactusyellowflowers":"Round Potted Cactus",
+	"custompiece_s14_roseaeonium":"Aeonium dodrantale",
+	"custompiece_s15_euphorbia":"Euphorbia acruensis"
+	
 }
