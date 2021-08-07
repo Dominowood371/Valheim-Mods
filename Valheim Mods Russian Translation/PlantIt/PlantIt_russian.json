@@ -44,8 +44,8 @@
 	"custompiece_miscplant1":"Большое растение в горшке",
 	"custompiece_miscplant2":"Большое растение в горшке",
 	"custompiece_orchid2":"Орхидея",
-	"custompiece_pottedcactus1":"Кактус в горшке",
-	"custompiece_pottedcactus2":"Кактус в горшке",
+	"custompiece_pottedcactus1":"Перескиевый кактус в горшке",
+	"custompiece_pottedcactus2":"Опунция мелковолосистая в горшке",
 	"custompiece_rosevine":"Лоза роз",
 	"custompiece_smallpottedplant":"Маленькое растение в горшке",
 	"custompiece_tallflowerbush":"Цветочный куст",
@@ -59,7 +59,7 @@
 	"custompiece_stump4":"Маленький стул из пня бука",
 	"custompiece_stump5":"Средний стул из пня бука",
 	"custompiece_stump6":"Стул из старого пня",
-	"custompiece_stump7":"Стул из старого пня",
+	"custompiece_stump7":"Стул из болотного пня",
 	
 	"custompiece_log1":"Скамейка из букового бревна 4 м",
 	"custompiece_log2":"Скамейка из березового бревна",
@@ -79,19 +79,19 @@
 	"custompiece_grassblock_small":"Маленькая плитка с травой",
 	
 	
-	"custompiece_s1_roundcactuspinkflowers":"Круглый кактус в горшке",
-	"custompiece_s2_tallcactusredflower":"Высокий кактус в горшке",
+	"custompiece_s1_roundcactuspinkflowers":"Кактус с розовыми цветами в горшке",
+	"custompiece_s2_tallcactusredflower":"Кактус с цветным цветком в горшке",
 	"custompiece_s3_pottedpricklypear":"Опунция в горшке",
 	"custompiece_s4_snakeplant":"Сансевиерия трёхполосная",
 	"custompiece_s5_aloe":"Алоэ в горшке",
 	"custompiece_s6_pachy":"Пахифитум яйценосный",
 	"custompiece_s7_calisunset":"Граптоседум",
-	"custompiece_s8_towercactus":"Средний кактус в горшке",
+	"custompiece_s8_towercactus":"Кактусы в горшке",
 	"custompiece_s9_whiteflowers":"Белые цветы в горшке",
 	"custompiece_s10_fatboi":"Круглый кактус в горшке",
 	"custompiece_s11_cLehmannii":"Корпускулярия Лемана",
 	"custompiece_s12_splitrocks":"Плейоспилос Неля",
-	"custompiece_s13_roundcactusyellowflowers":"Круглый кактус в горшке",
+	"custompiece_s13_roundcactusyellowflowers":"Кактусы с желтыми цветами в горшке",
 	"custompiece_s14_roseaeonium":"Эониум додрантале",
 	"custompiece_s15_euphorbia":"Молочай абиссинский"	
 }
