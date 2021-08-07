@@ -55,6 +55,7 @@
 	"custompiece_dunmr_bookred":"Red Book - Vertical",
 	"custompiece_dunmr_bookred_horiz":"Red Book - Horizontal",
 	"custompiece_dunmr_bowl":"Wooden Bowl",
+	"custompiece_dunmr_bowlbig":"Large Wooden Bowl",
 	"custompiece_dunmr_candle":"Candle - Unlit",
 	"custompiece_dunmr_candlelit":"Candle",
 	
@@ -67,6 +68,7 @@
 	"custompiece_dunmr_mug1":"Mug",
 	"custompiece_dunmr_mug2":"Mug",
 	"custompiece_dunmr_plate":"Wooden Plate",
+	"custompiece_dunmr_platebig":"Large Wooden Plate",
 	"custompiece_dunmr_shelf":"Shelf",
 	"custompiece_dunmr_shelfwithbooks":"Bookshelf",
 	"custompiece_dunmr_spoon":"Wooden Spoon",
@@ -110,11 +112,11 @@
 	
 	"custompiece_coolchair":"Fancy Wood Chair",
 	"custompiece_stool":"Round Stool",
-	"custompiece_swing":"Swing"
+	"custompiece_swing":"Swing",
 	
 	"custompiece_statuecorgi":"Corgi Statue",
 	"custompiece_statuedeer":"Deer Statue",
-	"custompiece_statueevil_large":"Evil Statue - Large"
+	"custompiece_statueevil_large":"Evil Statue - Large",
 	"custompiece_statueevil_small":"Evil Statue - Small",
 	"custompiece_statuehare":"Hare Statue",
 	"custompiece_statueseed":"Seed Statue",
