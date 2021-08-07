@@ -53,21 +53,21 @@
 	"custompiece_weirdflowers":"Цветы в горшке",
 	
 	
-	"custompiece_stump1":"Stump Chair",
-	"custompiece_stump2":"Stump Chair",
-	"custompiece_stump3":"Stump Chair",
-	"custompiece_stump4":"Stump Chair",
-	"custompiece_stump5":"Stump Chair",
-	"custompiece_stump6":"Stump Chair",
-	"custompiece_stump7":"Stump Chair",
+	"custompiece_stump1":"Стул из пня с мухоморами",
+	"custompiece_stump2":"Стул из пня сосны",
+	"custompiece_stump3":"Большой стул из пня бука",
+	"custompiece_stump4":"Маленький стул из пня бука",
+	"custompiece_stump5":"Средний стул из пня бука",
+	"custompiece_stump6":"Стул из старого пня",
+	"custompiece_stump7":"Стул из старого пня",
 	
-	"custompiece_log1":"Log Bench",
-	"custompiece_log2":"Log Bench",
-	"custompiece_log3":"Log Bench",
-	"custompiece_log4":"Log Bench",
-	"custompiece_log5":"Log Bench",
+	"custompiece_log1":"Скамейка из букового бревна 4 м",
+	"custompiece_log2":"Скамейка из березового бревна",
+	"custompiece_log3":"Скамейка из букового бревна 2 м ",
+	"custompiece_log4":"Скамейка из соснового дерева 2 м",
+	"custompiece_log5":"Скамейка из соснового дерева 4 м",
 	
-	"custompiece_stumptable":"Стол из пня",
+	"custompiece_stumptable":"Стол из пня дуба",
 	
 	"custompiece_blackpine":"Сосна Тунберга",
 	
@@ -79,20 +79,19 @@
 	"custompiece_grassblock_small":"Маленькая плитка с травой",
 	
 	
-	"custompiece_s1_roundcactuspinkflowers":"Round Potted Cactus",
-	"custompiece_s2_tallcactusredflower":"Tall Potted Cactus",
-	"custompiece_s3_pottedpricklypear":"Potted Prickly Pear",
-	"custompiece_s4_snakeplant":"Snake Plant",
-	"custompiece_s5_aloe":"Potted Aloe",
-	"custompiece_s6_pachy":"Pink Moonstones",
-	"custompiece_s7_calisunset":"California Sunset",
-	"custompiece_s8_towercactus":"Tall Potted Cactus",
-	"custompiece_s9_whiteflowers":"Potted White Flowers",
-	"custompiece_s10_fatboi":"Round Potted Cactus",
-	"custompiece_s11_cLehmannii":"Corpuscularia lehmannii",
-	"custompiece_s12_splitrocks":"Split Rocks Succulent",
-	"custompiece_s13_roundcactusyellowflowers":"Round Potted Cactus",
-	"custompiece_s14_roseaeonium":"Aeonium dodrantale",
-	"custompiece_s15_euphorbia":"Euphorbia acruensis"
-	
+	"custompiece_s1_roundcactuspinkflowers":"Круглый кактус в горшке",
+	"custompiece_s2_tallcactusredflower":"Высокий кактус в горшке",
+	"custompiece_s3_pottedpricklypear":"Опунция в горшке",
+	"custompiece_s4_snakeplant":"Сансевиерия трёхполосная",
+	"custompiece_s5_aloe":"Алоэ в горшке",
+	"custompiece_s6_pachy":"Пахифитум яйценосный",
+	"custompiece_s7_calisunset":"Граптоседум",
+	"custompiece_s8_towercactus":"Средний кактус в горшке",
+	"custompiece_s9_whiteflowers":"Белые цветы в горшке",
+	"custompiece_s10_fatboi":"Круглый кактус в горшке",
+	"custompiece_s11_cLehmannii":"Корпускулярия Лемана",
+	"custompiece_s12_splitrocks":"Плейоспилос Неля",
+	"custompiece_s13_roundcactusyellowflowers":"Круглый кактус в горшке",
+	"custompiece_s14_roseaeonium":"Эониум додрантале",
+	"custompiece_s15_euphorbia":"Молочай абиссинский"	
 }
