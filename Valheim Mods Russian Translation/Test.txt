@@ -421,6 +421,7 @@ this.AddTranslations();
        LocalizationManager.Instance.AddToken("$item_effectlegs_tooltip", "Negates weight and speed penalties of Uncanny plate armor set", true);
        LocalizationManager.Instance.AddToken("$item_effectlegs_startmessage", "The weight of scarred armor plate eases off your shoulders", true);
 
+                ItemManager.Instance.AddItem(CI);
 
 ItemManager.Instance.AddRecipe(customRecipe3);
 CustomRecipe customRecipe4 = new CustomRecipe(new RecipeConfig
@@ -433,3 +434,24 @@ CustomRecipe customRecipe4 = new CustomRecipe(new RecipeConfig
 			       var Coolpot_Thing = plants3.LoadAsset<GameObject>("custompiece_coolpot");
             var Coolpot = new CustomPiece(Coolpot_Thing,
                 new PieceConfig
+
+        var buildFab = assetBundle.LoadAsset<GameObject>("rk_blackpine");
+        var build = new CustomPiece(buildFab,
+            new PieceConfig
+	    
+        var prepFab = assetBundle.LoadAsset<GameObject>("rk_prep");
+        var prep = new CustomPiece(prepFab,
+            new PieceConfig
+	    
+	    assetBundle = AssetUtils.LoadAssetBundleFromResources("buildit", Assembly.GetExecutingAssembly());
+            assetBundle = AssetUtils.LoadAssetBundleFromResources("grill", Assembly.GetExecutingAssembly());
+            runeassets = AssetUtils.LoadAssetBundleFromResources("runeswords", typeof(RuneSwords).Assembly);
+        private AssetBundle runeassets;
+
+            firefab = runeassets.LoadAsset<GameObject>("FireRuneSword");
+            firerune = new CustomItem(firefab, fixReference: true,
+                new ItemConfig
+		
+             poisonfab = runeassets.LoadAsset<GameObject>("PoisonRuneSword");
+             poison = new CustomItem(poisonfab, fixReference: true,
+                new ItemConfig
