@@ -31,6 +31,8 @@
   "piece_blueprint_centerpoint_desc": "Маркер необходим при создании чертежа и будет использоваться для определения центра вашего чертежа.",
   "piece_blueprint_delete": "Удалить часть планировки",
   "piece_blueprint_delete_desc": "Удаляет одну или все запланированные части плана из чертежа или из выбранного радиуса.",
+   "piece_blueprint_objects": "Инструменты удаления",
+  "piece_blueprint_objects_desc": "Удалите растительность и объекты",
   "piece_blueprint_terrain": "Инструменты ландшафта",
   "piece_blueprint_terrain_desc": "Выровняйте землю или удалите растительность",
   "hud_bpcapture": "Сохраняет выбранную планировку в чертеж",
@@ -51,5 +53,14 @@
   "hud_bpdelete_radius": "Удерживайте, чтобы удалить выделение части плана",
   "msg_removed_plans": "Удалено $1 част(ь/и/ей) планировки",
   "hud_bpterrain": "Выровнять территорию",
-  "hud_bpterrainradius": "Изменить радиус, Ctrl + Alt: Движение оси X\nShift: Дальность камеры"
+  
+  "hud_bpobjects_deleteveg": "Удаляет растительность",
+  "hud_bpobjectsradius": "Изменить радиус\nShift: Дальность камеры",
+  "hud_bpterrain_flatten": "Выровнять территорию",
+  "hud_bpterrain_delete": "Удаляет определитель ландшафта",
+  "hud_bpterrain_reset": "Сбросить окрашеный ландшафт",
+  "hud_bpterrain_marker": "Переключает на круглый или квадратный маркер",
+  "hud_bpterrainradius": "Изменить радиус, Ctrl + Alt: Движение оси X\nCtrl: Повернуть маркер, Shift: Дальность камеры",
+  "msg_terrain_disabled": "Инструменты ландшафта отключены"
+  
 }
