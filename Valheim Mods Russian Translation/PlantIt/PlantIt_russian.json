@@ -58,8 +58,8 @@
 	"custompiece_stump3":"Большой стул из пня бука",
 	"custompiece_stump4":"Маленький стул из пня бука",
 	"custompiece_stump5":"Средний стул из пня бука",
-	"custompiece_stump6":"Стул из старого пня",
-	"custompiece_stump7":"Стул из болотного пня",
+	"custompiece_stump6":"Стул из болотного пня",
+	"custompiece_stump7":"Стул из старого пня",
 	
 	"custompiece_log1":"Скамейка из букового бревна 4 м",
 	"custompiece_log2":"Скамейка из березового бревна",
@@ -71,11 +71,11 @@
 	
 	"custompiece_blackpine":"Сосна Тунберга",
 	
-	"custompiece_dirtblock_large":"Большая плитка с гразю",
-	"custompiece_dirtblock_medium":"Средная плитка с гразю",
-	"custompiece_dirtblock_small":"Маленькая плитка с гразю",
+	"custompiece_dirtblock_large":"Большая плитка с грязью",
+	"custompiece_dirtblock_medium":"Средняя плитка с грязью",
+	"custompiece_dirtblock_small":"Маленькая плитка с грязью",
 	"custompiece_grassblock_large":"Большая плитка с травой",
-	"custompiece_grassblock_medium":"Средная плитка с травой",
+	"custompiece_grassblock_medium":"Средняя плитка с травой",
 	"custompiece_grassblock_small":"Маленькая плитка с травой",
 	
 	"custompiece_s1_roundcactuspinkflowers":"Кактус с розовыми цветами в горшке",
