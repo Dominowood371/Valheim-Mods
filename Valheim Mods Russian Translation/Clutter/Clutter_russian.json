@@ -1,27 +1,27 @@
 {
-	"PlumgaClutterTool":"Clutter Bucket",
-	"PlumgaClutterTool_description":"A bucket full of clutter. Use this to clutter up your place!",
+	"PlumgaClutterTool":"Ведро с барахлом",
+	"PlumgaClutterTool_description":"Ведро с полным барахлом. Используйте его, чтобы захламить свое место!",
 	
-	"custompiece_itemstand_horizontal_reduced":"Item Stand - Horizontal",
-	"custompiece_itemstand_horizontal_reduced_description":"A smaller, less visible item stand.",
+	"custompiece_itemstand_horizontal_reduced":"Горизонтальная стойка для предмета",
+	"custompiece_itemstand_horizontal_reduced_description":"Маленькая, менее заметная подставка для предметов.",
 	
-	"custompiece_itemstand_vertical_reduced":"Item Stand - Vertical",
-	"custompiece_itemstand_vertical_reduced_description":"A smaller, less visible item stand.",
+	"custompiece_itemstand_vertical_reduced":"Вертикальная стойка для предмета",
+	"custompiece_itemstand_vertical_reduced_description":"Маленькая, менее заметная подставка для предметов.",
 	
-	"custompiece_itemstand_spear":"Item Stand - Spear",
-	"custompiece_itemstand_spear_description":"A great way to show off the severed heads of your enemies.",
+	"custompiece_itemstand_spear":"Копье с подставкой для трофеев",
+	"custompiece_itemstand_spear_description":"Отличный способ показать отрубленные головы ваших врагов.",
 	
-	"custompiece_itemstand_stake":"Item Stand - Stake",
-	"custompiece_itemstand_stake_description":"A great way to show off the severed heads of your enemies.",
+	"custompiece_itemstand_stake":"Кол с подставкой для трофеев",
+	"custompiece_itemstand_stake_description":"Отличный способ показать отрубленные головы ваших врагов.",
 	
-	"custompiece_barnowl":"Owl Sculpture",
-	"custompiece_brownpelican":"Pelican Sculpture",
-	"custompiece_deer":"Deer Sculpture",
-	"custompiece_elk":"Elk Sculpture",
-	"custompiece_flyingcrow":"Flying Crow Sculpture",
-	"custompiece_heron":"Heron Sculpture",
-	"custompiece_wildhorse":"Horse Sculpture",
-	"custompiece_wolf":"Wolf Sculpture",
+	"custompiece_barnowl":"Скульптура совы",
+	"custompiece_brownpelican":"Скульптура пеликана",
+	"custompiece_deer":"Скульптура оленя",
+	"custompiece_elk":"Скульптура лося",
+	"custompiece_flyingcrow":"Скульптура летящей вороны",
+	"custompiece_heron":"Скульптура цапли",
+	"custompiece_wildhorse":"Скульптура лошади",
+	"custompiece_wolf":"Скульптура волка",
 	
 	"custompiece_birdhouse":"Birdhouse",
 	"custompiece_bucket":"Small Bucket",
@@ -114,12 +114,12 @@
 	"custompiece_stool":"Round Stool",
 	"custompiece_swing":"Swing",
 	
-	"custompiece_statuecorgi":"Corgi Statue",
-	"custompiece_statuedeer":"Deer Statue",
-	"custompiece_statueevil_large":"Evil Statue - Large",
-	"custompiece_statueevil_small":"Evil Statue - Small",
-	"custompiece_statuehare":"Hare Statue",
-	"custompiece_statueseed":"Seed Statue",
+	"custompiece_statuecorgi":"Статуя корги",
+	"custompiece_statuedeer":"Статуя оленя",
+	"custompiece_statueevil_large":"Большая Статуя злой сущности",
+	"custompiece_statueevil_small":"Маленькая статуя злой сущности",
+	"custompiece_statuehare":"Статуя зайца",
+	"custompiece_statueseed":"Статуя семени",
 	
 	"custompiece_barberpole":"Barber Shop Pole"
 	
