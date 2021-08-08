@@ -23,7 +23,7 @@
  - [ ] [Clutter](https://www.nexusmods.com/valheim/mods/1350) ✔
  - [X] [More Green Fire](https://www.nexusmods.com/valheim/mods/1352) ✔
  - [ ] [OdinArchitect - Custom buildings](https://www.nexusmods.com/valheim/mods/1174) ✔
- - [ ] [PlantIt](https://www.nexusmods.com/valheim/mods/1251) ✔
+ - [X] [PlantIt](https://www.nexusmods.com/valheim/mods/1251) ✔
  - [ ] [Build It](https://www.nexusmods.com/valheim/mods/1385) ❌
  - [ ] [More Gates](https://www.nexusmods.com/valheim/mods/1087) ❌
  - [ ] [Candles Lanterns and Beeswax](https://www.nexusmods.com/valheim/mods/1226) ❌
