@@ -14,7 +14,7 @@
  - [X] [Seed Totem](https://www.nexusmods.com/valheim/mods/876) ✔
  - [X] [Spud's Forsaken Totems](https://www.nexusmods.com/valheim/mods/715) ✔
  - [X] [Surtling Core Overclocking](https://www.nexusmods.com/valheim/mods/909) ✔
- - [ ] [Valweed](https://www.nexusmods.com/valheim/mods/1023) ✔
+ - [X] [Valweed](https://www.nexusmods.com/valheim/mods/1023) ✔
  - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌
  - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌ возможно
 
