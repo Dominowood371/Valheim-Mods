@@ -15,7 +15,7 @@
  - [X] [Spud's Forsaken Totems](https://www.nexusmods.com/valheim/mods/715) ✔
  - [X] [Surtling Core Overclocking](https://www.nexusmods.com/valheim/mods/909) ✔
  - [X] [Valweed](https://www.nexusmods.com/valheim/mods/1023) ✔
- - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌
+ - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌ возможно но там очень много текста
  - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌ возможно
 
 **Construction**
