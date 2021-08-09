@@ -1,13 +1,12 @@
 {
-	"custompiece_loom":"Loom",
-	"custompiece_loom_description":"Used to craft wigs.",
-	"custompiece_loom_ext1":"Spool",
-	"custompiece_loom_ext1_description":"An extension for the loom.",
-	"custompiece_loom_ext2":"Scissors",
-	"custompiece_loom_ext2_description":"An extension for the loom.",
-	"custompiece_loom_ext3":"Yarn",
-	"custompiece_loom_ext3_description":"An extension for the loom.",
-	
+	"custompiece_loom":"Ткацкий станок",
+	"custompiece_loom_description":"Используется для изготовления париков.",
+	"custompiece_loom_ext1":"Катушка ниток",
+	"custompiece_loom_ext1_description":"Улучшенные для ткацкого станка",
+	"custompiece_loom_ext2":"Ножницы",
+	"custompiece_loom_ext2_description":"Улучшенные для ткацкого станка",
+	"custompiece_loom_ext3":"Пряжа",
+	"custompiece_loom_ext3_description":"Улучшенные для ткацкого станка",
 	
 	"dverger_eris_sassy_black":"Bangs Black and Purple Dverger",
 	"customitem_dverger_eris_sassy_black_description":"Upgraded to include dverger circlet and horns.",
@@ -164,6 +163,5 @@
 	"customitem_zahara_nords_brown2_description":"Two high buns.",
 	"zahara_nords_red":"Buns Red",
 	"customitem_zahara_nords_red_description":"Two high buns."	
-	
-	
+
 }
