@@ -1,4 +1,4 @@
-Mod EpicLoot Russian Translation Version 0.8.0 - 0.8.1.
+Mod EpicLoot Russian Translation Version 0.8.0 - 0.8.4.
 
 ## Описание
 Перевод мода [EpicLoot](https://www.nexusmods.com/valheim/mods/387) на русский язык для игры Valheim.
