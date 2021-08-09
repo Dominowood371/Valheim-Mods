@@ -1,4 +1,4 @@
-Mod IronBarInValheim Russian Translation Version 0.0.1.
+Mod IronBarInValheim Russian Translation Version 1.0.1.
 
 ### Описание
 
