@@ -1,4 +1,4 @@
-Mod Barbarian's Russian Translation Version 2.0.0.
+Mod Barbarian's Russian Translation Version 2.0.1.
 
 ### Описание
 
