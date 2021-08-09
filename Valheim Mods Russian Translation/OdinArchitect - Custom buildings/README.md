@@ -1,4 +1,4 @@
-Mod OdinArchitect - Custom buildings Russian Translation Version 1.1.0.
+Mod OdinArchitect - Custom buildings Russian Translation Version 0.0.4.
 
 ### Описание
 
