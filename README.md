@@ -1,6 +1,9 @@
 # Valheim-Mods
-Customization mods for the game Valheim.
+Сonfiguration mods for the game Valheim.
 
+<details>
+  <summary>Cheat Commands</summary>
+  
 ## Cheat Commands
 To activate cheat commands, type `devcommands` and press enter. You'll be able to use the cheat commands below in singleplayer mode. They won't work on a multiplayer server.
 
@@ -114,3 +117,5 @@ players [число] — регулировка шкалы сложности. �
 - **K** - Kills all monsters
 
 Using "No Placement Cost" mode (B) you can **repair all equipment** from your inventory, **place buildings for free** with a hammer, and **craft items for free** from your inventory.
+  
+</details>
