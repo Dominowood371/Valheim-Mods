@@ -1,4 +1,4 @@
-Mod Plate Armor Russian Translation Version 2.0.0.
+Mod Plate Armor Russian Translation Version 2.0.1.
 
 ### Описание
 
