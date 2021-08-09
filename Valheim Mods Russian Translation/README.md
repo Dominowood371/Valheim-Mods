@@ -20,7 +20,7 @@
 
 **Construction**
  - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653) ✔
- - [ ] [Clutter](https://www.nexusmods.com/valheim/mods/1350) ✔
+ - [X] [Clutter](https://www.nexusmods.com/valheim/mods/1350) ✔
  - [X] [More Green Fire](https://www.nexusmods.com/valheim/mods/1352) ✔
  - [ ] [OdinArchitect - Custom buildings](https://www.nexusmods.com/valheim/mods/1174) ✔
  - [X] [PlantIt](https://www.nexusmods.com/valheim/mods/1251) ✔
