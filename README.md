@@ -1,5 +1,5 @@
 # Valheim-Mods
-Сonfiguration mods for the game Valheim.
+Сonfigurations for mods of the game Valheim.
 
 <details>
   <summary>Cheat Commands</summary>
