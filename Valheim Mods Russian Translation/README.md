@@ -46,7 +46,7 @@
  - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
  - [X] [Plate Armor](https://www.nexusmods.com/valheim/mods/567) ✔
  - [X] [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) ✔
- - [ ] [Custom Hair (AKA CustomWigs)](https://www.nexusmods.com/valheim/mods/1236) ✔
+ - [X] [Custom Hair (AKA CustomWigs)](https://www.nexusmods.com/valheim/mods/1236) ✔
 
 **Food**
  - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
