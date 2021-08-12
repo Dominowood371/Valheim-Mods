@@ -1,11 +1,11 @@
 {
-  "op_buy": "Buy",
-  "op_crd": "Credits",
-  "op_god": "Odin",
-  "op_talk": "Talk",
-  "op_odin_emissary": "Odin's Emissary",
-  "op_human_quest_take": "Accept Quest",
-  "op_human_message_hand": "Complete Quest",
+  "op_buy": "Купить",
+  "op_crd": "Заслуга",
+  "op_god": "Один",
+  "op_talk": "Поговорить",
+  "op_odin_emissary": "Посланник Одина",
+  "op_human_quest_take": "Взять квест",
+  "op_human_message_hand": "Завершить квест",
   "op_god_nocrd": "Hard work is the only way to get rewarded.",
   "op_god_randomitem": "I need something useful... like ",
   "op_god_takeoffer": "Nice, bring back more",
@@ -187,8 +187,8 @@
   "op_npc_name48": "Yrsa",
   "op_npc_name49": "Ulfhild",
   "op_npc_name50": "Åse",
-  "op_healthcheck_command_help": "Prints the current health of OdinPlus managers for Debugging.",
-  "op_whereami_command_help": "Shows your current position.",
-  "op_forceload_command_help": "Force Load Debugging.",
-  "op_odinhere_command_help": "Spawn Odin close to you."
+  "op_healthcheck_command_help": "Выводит текущее состояние менеджеров Odin Plus для отладки.",
+  "op_whereami_command_help": "Показывает ваше текущее местоположение.",
+  "op_forceload_command_help": "Отладка принудительной загрузки.",
+  "op_odinhere_command_help": "Cпавнит Одина рядом с вами."
 }
