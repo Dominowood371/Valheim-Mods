@@ -17,6 +17,7 @@
  - [X] [Valweed](https://www.nexusmods.com/valheim/mods/1023) ✔
  - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌ возможно но там очень много текста
  - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌ возможно
+ - [ ] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL) ✔
 
 **Construction**
  - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653) ✔
