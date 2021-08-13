@@ -455,3 +455,30 @@ CustomRecipe customRecipe4 = new CustomRecipe(new RecipeConfig
              poisonfab = runeassets.LoadAsset<GameObject>("PoisonRuneSword");
              poison = new CustomItem(poisonfab, fixReference: true,
                 new ItemConfig
+		
+		
+		
+		
+			CustomItem customItem = new CustomItem("T1Reepus", "ChaosPlateHelm");
+			ItemDrop itemDrop = customItem.ItemDrop;
+			itemDrop.m_itemData.m_shared.m_name = "$item_helmet_t1reepus";
+			itemDrop.m_itemData.m_shared.m_description = "$item_reepusdeepusdelmeepus";
+
+      CustomItem customItem = new CustomItem(ItemDropNames.OdinLegacy, ItemDropNames.TrophyGoblinShaman);
+      Jotunn.Managers.ItemManager.Instance.AddItem(customItem);
+
+      var itemDrop = customItem.ItemDrop;
+      itemDrop.m_itemData.m_shared.m_name = $"$op_{ItemDropNames.OdinLegacy}_name";
+      itemDrop.m_itemData.m_shared.m_description = $"$op_{ItemDropNames.OdinLegacy}_desc";
+      
+      ItemDrop component = base.Prefab.GetComponent<ItemDrop>();
+			component.m_itemData.m_shared.m_name = "$SwordFire_Description";
+			component.m_itemData.m_shared.m_description = "$SwordGhost_Description";
+			
+			
+        ItemManager.Instance.AddItem(customItem);
+	GameObject gameObject2 = this.assetBundle.LoadAsset<GameObject>("FlametalEssence");
+	ItemDrop component2 = gameObject2.GetComponent<ItemDrop>();
+	component2.m_itemData.m_dropPrefab = gameObject2;
+	component2.m_itemData.m_shared.m_name = "Flametal Essence";
+	component2.m_itemData.m_shared.m_description = "A fiery Essence for alchemizing Flametal";
