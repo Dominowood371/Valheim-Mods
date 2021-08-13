@@ -162,3 +162,26 @@ Fuling shaman	   Plains	Plains                  m_faction = 7
 Lox	           Plains	Plains                  m_faction = 7
 Yagluth	           Boss	        Plains                  m_faction = 8
 Serpent	           Sea          Ocean                   m_faction = 6
+
+
+
+
+		// 0 Normal,
+		// 1 Resistant,
+		// 2 Weak,
+		// 3 Immune,
+		// 4 Ignore,
+		// 6 VeryResistant,
+		// 5 VeryWeak
+		
+  m_damageModifiers:
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 3
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
