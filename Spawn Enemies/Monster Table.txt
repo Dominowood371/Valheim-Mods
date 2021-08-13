@@ -171,17 +171,16 @@ Serpent	           Sea          Ocean                   m_faction = 6
 		// 2 Weak,
 		// 3 Immune,
 		// 4 Ignore,
-		// 6 VeryResistant,
-		// 5 VeryWeak
+		// 5 VeryResistant,
+		// 6 VeryWeak
 		
-  m_damageModifiers:
-    m_blunt: 0
+   m_blunt: 0
     m_slash: 0
     m_pierce: 0
     m_chop: 4
     m_pickaxe: 4
-    m_fire: 2
-    m_frost: 3
+    m_fire: 6
+    m_frost: 0
     m_lightning: 0
-    m_poison: 0
+    m_poison: 3
     m_spirit: 3
