@@ -167,14 +167,24 @@ Serpent	           Sea          Ocean                   m_faction = 6
 
 
 		// 0 Normal,
-		// 1 Resistant,
-		// 2 Weak,
-		// 3 Immune,
-		// 4 Ignore,
-		// 5 VeryResistant,
-		// 6 VeryWeak
-		
-   m_blunt: 0
+		// 1 Resistant,       Сопротивление  Стойкий
+		// 2 Weak,            Уязвим  Слабый
+		// 3 Immune,          Иммунитет Невосприимчивый
+		// 4 Ignore,          Иммунитет 
+		// 5 VeryResistant,   Повышенное сопротивление  Очень стойкий
+		// 6 VeryWeak         Крайне уязвим  Очень слабый
+	Яд 
+	Холод Лед
+	Молния
+	Огонь
+	Дух
+	Blunt Оглушающий Дробящий
+	Slash Режущий Рассекающий
+	Pierce Колющий Колющий
+	Chop Рубящий
+        Pickaxe Кирка
+	
+    m_blunt: 0
     m_slash: 0
     m_pierce: 0
     m_chop: 4
