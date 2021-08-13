@@ -19,7 +19,7 @@
  - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌ возможно
  - [ ] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL) ✔
  - [ ] [Magic Overhaul](https://www.nexusmods.com/valheim/mods/1418) ✔
- - [ ] [Better Wards](https://www.nexusmods.com/valheim/mods/402) ✔
+ - [X] [Better Wards](https://www.nexusmods.com/valheim/mods/402) ✔
 
 **Construction**
  - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653) ✔
