@@ -1,5 +1,5 @@
 using System;
-using System.Runtime.CompilerServices;
+using System.Collections.Generic;
 using BepInEx;
 using BepInEx.Configuration;
 using Jotunn;
@@ -14,7 +14,7 @@ namespace RuneSwords
 	// Token: 0x02000002 RID: 2
 	[BepInPlugin("com.zarboz.runicswords", "RuneSwords", "0.0.9")]
 	[BepInDependency("com.jotunn.jotunn", BepInDependency.DependencyFlags.HardDependency)]
-	[NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.Major)]
+	[NetworkCompatibility(CompatibilityLevel.OnlySyncWhenInstalled, VersionStrictness.Minor)]
 	internal class RuneSwords : BaseUnityPlugin
 	{
 		// Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
@@ -32,6 +32,7 @@ namespace RuneSwords
 					return;
 				}
 				Jotunn.Logger.LogMessage("Config sync event received");
+				this.LoadSwords();
 			};
 			ItemManager.OnVanillaItemsAvailable += this.LoadgameFabs;
 		}
@@ -42,9 +43,11 @@ namespace RuneSwords
 			this.runeassets = AssetUtils.LoadAssetBundleFromResources("runeswords", typeof(RuneSwords).Assembly);
 		}
 
-		// Token: 0x06000003 RID: 3 RVA: 0x000020D4 File Offset: 0x000002D4
+		// Token: 0x06000003 RID: 3 RVA: 0x000020DC File Offset: 0x000002DC
 		private void LoadSwords()
 		{
+			List<GameObject> items = ObjectDB.instance.m_items;
+			items.Remove(this.FrostSword);
 			this.Frost_Sword.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.damagefrost.Value;
 			this.Frost_Sword.ItemDrop.m_itemData.m_shared.m_toolTier = this.bluntfrost.Value;
 			this.Frost_Sword.ItemDrop.m_itemData.m_shared.m_damages.m_slash = (float)this.slashvalfrost.Value;
@@ -68,81 +71,85 @@ namespace RuneSwords
 			this.Frost_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.poisonperfrost.Value;
 			this.Frost_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.spiritperfrost.Value;
 			this.Frost_Sword.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.attackforcefrost.Value;
-			ItemDrop component = PrefabManager.Instance.GetPrefab("FireRuneSword").GetComponent<ItemDrop>();
-			component.m_itemData.m_shared.m_damages.m_damage = (float)this.damagefire.Value;
-			component.m_itemData.m_shared.m_damages.m_blunt = (float)this.bluntfire.Value;
-			component.m_itemData.m_shared.m_toolTier = this.tierfire.Value;
-			component.m_itemData.m_shared.m_damages.m_slash = (float)this.slashvalfire.Value;
-			component.m_itemData.m_shared.m_damages.m_pierce = (float)this.piercefire.Value;
-			component.m_itemData.m_shared.m_damages.m_chop = (float)this.chopfire.Value;
-			component.m_itemData.m_shared.m_damages.m_pickaxe = (float)this.pickaxefire.Value;
-			component.m_itemData.m_shared.m_damages.m_fire = (float)this.firefire.Value;
-			component.m_itemData.m_shared.m_damages.m_frost = (float)this.frostfire.Value;
-			component.m_itemData.m_shared.m_damages.m_lightning = (float)this.lightningfire.Value;
-			component.m_itemData.m_shared.m_damages.m_poison = (float)this.poisonfire.Value;
-			component.m_itemData.m_shared.m_damages.m_spirit = (float)this.spiritfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_damage = (float)this.damageperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_blunt = (float)this.bluntperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_slash = (float)this.slashperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_pierce = (float)this.pierceperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_chop = (float)this.chopperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_pickaxe = (float)this.pickaxeperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_fire = (float)this.fireperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_frost = (float)this.frostperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_lightning = (float)this.lightningperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.poisonperfire.Value;
-			component.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.spiritperfire.Value;
-			component.m_itemData.m_shared.m_attackForce = (float)this.attackforcefire.Value;
-			ItemDrop component2 = PrefabManager.Instance.GetPrefab("PoisonRuneSword").GetComponent<ItemDrop>();
-			component2.m_itemData.m_shared.m_damages.m_damage = (float)this.damageposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_blunt = (float)this.bluntposion.Value;
-			component2.m_itemData.m_shared.m_toolTier = this.tierposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_slash = (float)this.slashvalposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_pierce = (float)this.pierceposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_chop = (float)this.chopposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_pickaxe = (float)this.pickaxeposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_fire = (float)this.fireposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_frost = (float)this.frostposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_lightning = (float)this.lightningposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_poison = (float)this.poisonposion.Value;
-			component2.m_itemData.m_shared.m_damages.m_spirit = (float)this.spiritposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_damage = (float)this.damageperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_blunt = (float)this.bluntperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_slash = (float)this.slashperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_pierce = (float)this.pierceperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_chop = (float)this.chopperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_pickaxe = (float)this.pickaxeperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_fire = (float)this.fireperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_frost = (float)this.frostperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_lightning = (float)this.lightningperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.poisonperposion.Value;
-			component2.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.spiritperposion.Value;
-			component2.m_itemData.m_shared.m_attackForce = (float)this.attackforceposion.Value;
-			ItemDrop component3 = PrefabManager.Instance.GetPrefab("LightningRuneSword").GetComponent<ItemDrop>();
-			component3.m_itemData.m_shared.m_damages.m_damage = (float)this.damagelight.Value;
-			component3.m_itemData.m_shared.m_damages.m_blunt = (float)this.bluntlight.Value;
-			component3.m_itemData.m_shared.m_toolTier = this.tierlight.Value;
-			component3.m_itemData.m_shared.m_damages.m_slash = (float)this.slashvallight.Value;
-			component3.m_itemData.m_shared.m_damages.m_pierce = (float)this.piercelight.Value;
-			component3.m_itemData.m_shared.m_damages.m_chop = (float)this.choplight.Value;
-			component3.m_itemData.m_shared.m_damages.m_pickaxe = (float)this.pickaxelight.Value;
-			component3.m_itemData.m_shared.m_damages.m_fire = (float)this.firelight.Value;
-			component3.m_itemData.m_shared.m_damages.m_frost = (float)this.frostlight.Value;
-			component3.m_itemData.m_shared.m_damages.m_lightning = (float)this.lightninglight.Value;
-			component3.m_itemData.m_shared.m_damages.m_poison = (float)this.poisonlight.Value;
-			component3.m_itemData.m_shared.m_damages.m_spirit = (float)this.spiritlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_damage = (float)this.damageperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_blunt = (float)this.bluntperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_slash = (float)this.slashperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_pierce = (float)this.pierceperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_chop = (float)this.chopperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_pickaxe = (float)this.pickaxeperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_fire = (float)this.fireperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_frost = (float)this.frostperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_lightning = (float)this.lightningperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.poisonperlight.Value;
-			component3.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.spiritperlight.Value;
-			component3.m_itemData.m_shared.m_attackForce = (float)this.attackforcelight.Value;
+			items.Add(this.FrostSword);
+			items.Remove(this.firefab);
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.damagefire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.bluntfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_toolTier = this.tierfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_slash = (float)this.slashvalfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_pierce = (float)this.piercefire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_chop = (float)this.chopfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_pickaxe = (float)this.pickaxefire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_fire = (float)this.firefire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_frost = (float)this.frostfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_lightning = (float)this.lightningfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_poison = (float)this.poisonfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damages.m_spirit = (float)this.spiritfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_damage = (float)this.damageperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_blunt = (float)this.bluntperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_slash = (float)this.slashperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_pierce = (float)this.pierceperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_chop = (float)this.chopperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_pickaxe = (float)this.pickaxeperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_fire = (float)this.fireperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_frost = (float)this.frostperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_lightning = (float)this.lightningperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.poisonperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.spiritperfire.Value;
+			this.firerune.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.attackforcefire.Value;
+			items.Add(this.firefab);
+			items.Remove(this.poisonfab);
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.damageposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.bluntposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_toolTier = this.tierposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_slash = (float)this.slashvalposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_pierce = (float)this.pierceposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_chop = (float)this.chopposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_pickaxe = (float)this.pickaxeposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_fire = (float)this.fireposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_frost = (float)this.frostposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_lightning = (float)this.lightningposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_poison = (float)this.poisonposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damages.m_spirit = (float)this.spiritposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_damage = (float)this.damageperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_blunt = (float)this.bluntperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_slash = (float)this.slashperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_pierce = (float)this.pierceperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_chop = (float)this.chopperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_pickaxe = (float)this.pickaxeperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_fire = (float)this.fireperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_frost = (float)this.frostperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_lightning = (float)this.lightningperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.poisonperposion.Value;
+			this.poison.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.spiritperposion.Value;
+			items.Add(this.poisonfab);
+			items.Remove(this.lightningfab);
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.damagelight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.bluntlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_toolTier = this.tierlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_slash = (float)this.slashvallight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_pierce = (float)this.piercelight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_chop = (float)this.choplight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_pickaxe = (float)this.pickaxelight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_fire = (float)this.firelight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_frost = (float)this.frostlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_lightning = (float)this.lightninglight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_poison = (float)this.poisonlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damages.m_spirit = (float)this.spiritlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_damage = (float)this.damageperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_blunt = (float)this.bluntperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_slash = (float)this.slashperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_pierce = (float)this.pierceperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_chop = (float)this.chopperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_pickaxe = (float)this.pickaxeperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_fire = (float)this.fireperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_frost = (float)this.frostperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_lightning = (float)this.lightningperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.poisonperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.spiritperlight.Value;
+			this.llightrune.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.attackforcelight.Value;
+			items.Add(this.lightningfab);
+			items.Remove(this.Ice_GreatSword);
 			this.IceGreat_Sword.ItemDrop.m_itemData.m_shared.m_maxQuality = 10;
 			this.IceGreat_Sword.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.greatdamagefrost.Value;
 			this.IceGreat_Sword.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.greatbluntfrost.Value;
@@ -168,6 +175,8 @@ namespace RuneSwords
 			this.IceGreat_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.greatpoisonperfrost.Value;
 			this.IceGreat_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.greatspiritperfrost.Value;
 			this.IceGreat_Sword.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.greatattackforcefrost.Value;
+			items.Add(this.Ice_GreatSword);
+			items.Remove(this.Fire_GreatSword);
 			this.FireGreat_Sword.ItemDrop.m_itemData.m_shared.m_maxQuality = 10;
 			this.FireGreat_Sword.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.greatdamagefire.Value;
 			this.FireGreat_Sword.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.greatbluntfire.Value;
@@ -192,7 +201,8 @@ namespace RuneSwords
 			this.FireGreat_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_lightning = (float)this.greatlightningperfire.Value;
 			this.FireGreat_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.greatpoisonperfire.Value;
 			this.FireGreat_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.greatspiritperfire.Value;
-			this.PoisonGreat_Sword.ItemDrop.m_itemData.m_shared.m_maxQuality = 10;
+			items.Add(this.Fire_GreatSword);
+			items.Add(this.Poison_GreatSword);
 			this.PoisonGreat_Sword.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.greatdamageposion.Value;
 			this.PoisonGreat_Sword.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.greatbluntposion.Value;
 			this.PoisonGreat_Sword.ItemDrop.m_itemData.m_shared.m_toolTier = this.greattierposion.Value;
@@ -217,7 +227,8 @@ namespace RuneSwords
 			this.PoisonGreat_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.greatpoisonperposion.Value;
 			this.PoisonGreat_Sword.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.greatspiritperposion.Value;
 			this.PoisonGreat_Sword.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.greatattackforceposion.Value;
-			this.YlwGreatSwrd.ItemDrop.m_itemData.m_shared.m_maxQuality = 10;
+			items.Remove(this.Poison_GreatSword);
+			items.Remove(this.Lgntng_GreatSword);
 			this.YlwGreatSwrd.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.greatdamagelight.Value;
 			this.YlwGreatSwrd.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.greatbluntlight.Value;
 			this.YlwGreatSwrd.ItemDrop.m_itemData.m_shared.m_toolTier = this.greattierlight.Value;
@@ -242,6 +253,8 @@ namespace RuneSwords
 			this.YlwGreatSwrd.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.greatpoisonperlight.Value;
 			this.YlwGreatSwrd.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.greatspiritperlight.Value;
 			this.YlwGreatSwrd.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.greatattackforcelight.Value;
+			items.Add(this.Lgntng_GreatSword);
+			items.Remove(this.FrostDagger);
 			this.Frost_Dagger.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.daggerdamagefrost.Value;
 			this.Frost_Dagger.ItemDrop.m_itemData.m_shared.m_toolTier = this.daggerbluntfrost.Value;
 			this.Frost_Dagger.ItemDrop.m_itemData.m_shared.m_damages.m_slash = (float)this.daggerslashvalfrost.Value;
@@ -265,6 +278,8 @@ namespace RuneSwords
 			this.Frost_Dagger.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.daggerpoisonperfrost.Value;
 			this.Frost_Dagger.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.daggerspiritperfrost.Value;
 			this.Frost_Dagger.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.daggerattackforcefrost.Value;
+			items.Add(this.FrostDagger);
+			items.Remove(this.firedagger);
 			this.fire_dagger.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.daggerdamagefire.Value;
 			this.fire_dagger.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.daggerbluntfire.Value;
 			this.fire_dagger.ItemDrop.m_itemData.m_shared.m_toolTier = this.daggertierfire.Value;
@@ -289,6 +304,8 @@ namespace RuneSwords
 			this.fire_dagger.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.daggerpoisonperfire.Value;
 			this.fire_dagger.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.daggerspiritperfire.Value;
 			this.fire_dagger.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.daggerattackforcefire.Value;
+			items.Add(this.firedagger);
+			items.Remove(this.poisondagger);
 			this.poison_dagger.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.daggerdamageposion.Value;
 			this.poison_dagger.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.daggerbluntposion.Value;
 			this.poison_dagger.ItemDrop.m_itemData.m_shared.m_toolTier = this.daggertierposion.Value;
@@ -313,6 +330,8 @@ namespace RuneSwords
 			this.poison_dagger.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.daggerpoisonperposion.Value;
 			this.poison_dagger.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.daggerspiritperposion.Value;
 			this.poison_dagger.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.daggerattackforceposion.Value;
+			items.Add(this.poisondagger);
+			items.Remove(this.lightningdagger);
 			this.lightning_dagger.ItemDrop.m_itemData.m_shared.m_damages.m_damage = (float)this.daggerdamagelight.Value;
 			this.lightning_dagger.ItemDrop.m_itemData.m_shared.m_damages.m_blunt = (float)this.daggerbluntlight.Value;
 			this.lightning_dagger.ItemDrop.m_itemData.m_shared.m_toolTier = this.daggertierlight.Value;
@@ -337,9 +356,10 @@ namespace RuneSwords
 			this.lightning_dagger.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_poison = (float)this.daggerpoisonperlight.Value;
 			this.lightning_dagger.ItemDrop.m_itemData.m_shared.m_damagesPerLevel.m_spirit = (float)this.daggerspiritperlight.Value;
 			this.lightning_dagger.ItemDrop.m_itemData.m_shared.m_attackForce = (float)this.daggerattackforcelight.Value;
+			items.Add(this.lightningdagger);
 		}
 
-		// Token: 0x06000004 RID: 4 RVA: 0x00004E1C File Offset: 0x0000301C
+		// Token: 0x06000004 RID: 4 RVA: 0x00005190 File Offset: 0x00003390
 		public void LoadgameFabs()
 		{
 			try
@@ -464,7 +484,7 @@ namespace RuneSwords
 			}
 		}
 
-		// Token: 0x06000005 RID: 5 RVA: 0x000050EC File Offset: 0x000032EC
+		// Token: 0x06000005 RID: 5 RVA: 0x00005460 File Offset: 0x00003660
 		public void IceSword()
 		{
 			this.FrostSword = this.runeassets.LoadAsset<GameObject>("IceRuneSword");
@@ -536,7 +556,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.Frost_Sword);
 		}
 
-		// Token: 0x06000006 RID: 6 RVA: 0x000056CC File Offset: 0x000038CC
+		// Token: 0x06000006 RID: 6 RVA: 0x00005A40 File Offset: 0x00003C40
 		public void FireSword()
 		{
 			this.firefab = this.runeassets.LoadAsset<GameObject>("FireRuneSword");
@@ -608,7 +628,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.firerune);
 		}
 
-		// Token: 0x06000007 RID: 7 RVA: 0x00005CB0 File Offset: 0x00003EB0
+		// Token: 0x06000007 RID: 7 RVA: 0x00006024 File Offset: 0x00004224
 		public void PoisonSword()
 		{
 			this.poisonfab = this.runeassets.LoadAsset<GameObject>("PoisonRuneSword");
@@ -680,7 +700,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.poison);
 		}
 
-		// Token: 0x06000008 RID: 8 RVA: 0x00006294 File Offset: 0x00004494
+		// Token: 0x06000008 RID: 8 RVA: 0x00006608 File Offset: 0x00004808
 		public void LightningSword()
 		{
 			this.lightningfab = this.runeassets.LoadAsset<GameObject>("LightningRuneSword");
@@ -752,7 +772,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.llightrune);
 		}
 
-		// Token: 0x06000009 RID: 9 RVA: 0x00006874 File Offset: 0x00004A74
+		// Token: 0x06000009 RID: 9 RVA: 0x00006BE8 File Offset: 0x00004DE8
 		public void IceGreatSword()
 		{
 			this.Ice_GreatSword = this.runeassets.LoadAsset<GameObject>("GreatIceRuneSword");
@@ -824,7 +844,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.IceGreat_Sword);
 		}
 
-		// Token: 0x0600000A RID: 10 RVA: 0x00006E54 File Offset: 0x00005054
+		// Token: 0x0600000A RID: 10 RVA: 0x000071C8 File Offset: 0x000053C8
 		public void FireGreatSword()
 		{
 			this.Fire_GreatSword = this.runeassets.LoadAsset<GameObject>("GreatFireRuneSword");
@@ -896,7 +916,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.FireGreat_Sword);
 		}
 
-		// Token: 0x0600000B RID: 11 RVA: 0x00007438 File Offset: 0x00005638
+		// Token: 0x0600000B RID: 11 RVA: 0x000077AC File Offset: 0x000059AC
 		public void PoisonGreatSword()
 		{
 			this.Poison_GreatSword = this.runeassets.LoadAsset<GameObject>("GreatPoisonRuneSword");
@@ -968,7 +988,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.PoisonGreat_Sword);
 		}
 
-		// Token: 0x0600000C RID: 12 RVA: 0x00007A1C File Offset: 0x00005C1C
+		// Token: 0x0600000C RID: 12 RVA: 0x00007D90 File Offset: 0x00005F90
 		public void LightningGreatSword()
 		{
 			this.Lgntng_GreatSword = this.runeassets.LoadAsset<GameObject>("GreatLightningRuneSword");
@@ -1040,7 +1060,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.YlwGreatSwrd);
 		}
 
-		// Token: 0x0600000D RID: 13 RVA: 0x00007FFC File Offset: 0x000061FC
+		// Token: 0x0600000D RID: 13 RVA: 0x00008370 File Offset: 0x00006570
 		public void IceDagger()
 		{
 			this.FrostDagger = this.runeassets.LoadAsset<GameObject>("IceRuneDagger");
@@ -1112,7 +1132,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.Frost_Dagger);
 		}
 
-		// Token: 0x0600000E RID: 14 RVA: 0x000085DC File Offset: 0x000067DC
+		// Token: 0x0600000E RID: 14 RVA: 0x00008950 File Offset: 0x00006B50
 		public void FireDagger()
 		{
 			this.firedagger = this.runeassets.LoadAsset<GameObject>("FireRuneDagger");
@@ -1184,7 +1204,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.fire_dagger);
 		}
 
-		// Token: 0x0600000F RID: 15 RVA: 0x00008BC0 File Offset: 0x00006DC0
+		// Token: 0x0600000F RID: 15 RVA: 0x00008F34 File Offset: 0x00007134
 		public void PoisonDagger()
 		{
 			this.poisondagger = this.runeassets.LoadAsset<GameObject>("PoisonRuneDagger");
@@ -1256,7 +1276,7 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.poison_dagger);
 		}
 
-		// Token: 0x06000010 RID: 16 RVA: 0x000091A4 File Offset: 0x000073A4
+		// Token: 0x06000010 RID: 16 RVA: 0x00009518 File Offset: 0x00007718
 		public void LightningDagger()
 		{
 			this.lightningdagger = this.runeassets.LoadAsset<GameObject>("LightningRuneDagger");
@@ -1328,13 +1348,13 @@ namespace RuneSwords
 			ItemManager.Instance.AddItem(this.lightning_dagger);
 		}
 
-		// Token: 0x06000011 RID: 17 RVA: 0x00009784 File Offset: 0x00007984
+		// Token: 0x06000011 RID: 17 RVA: 0x00009AF8 File Offset: 0x00007CF8
 		public void piece_exentension()
 		{
 			CustomPiece customPiece = new CustomPiece(this.runeassets.LoadAsset<GameObject>("piece_artisanice"), new PieceConfig
 			{
 				CraftingStation = "piece_artisanstation",
-				Description = "$piece_artisan_ext1",
+				Description = "$piece_artisan_ext1desrip",
 				PieceTable = "Hammer",
 				Enabled = true,
 				ExtendStation = "piece_artisanstation",
@@ -1353,13 +1373,13 @@ namespace RuneSwords
 			PieceManager.Instance.AddPiece(customPiece);
 		}
 
-		// Token: 0x06000012 RID: 18 RVA: 0x00009834 File Offset: 0x00007A34
+		// Token: 0x06000012 RID: 18 RVA: 0x00009BA8 File Offset: 0x00007DA8
 		public void piece_exentension1()
 		{
 			CustomPiece customPiece = new CustomPiece(this.runeassets.LoadAsset<GameObject>("piece_artisanpurp"), new PieceConfig
 			{
 				CraftingStation = "piece_artisanstation",
-				Description = "$piece_artisan_ext1",
+				Description = "$piece_artisan_ext3desrip",
 				PieceTable = "Hammer",
 				Enabled = true,
 				ExtendStation = "piece_artisanstation",
@@ -1378,13 +1398,13 @@ namespace RuneSwords
 			PieceManager.Instance.AddPiece(customPiece);
 		}
 
-		// Token: 0x06000013 RID: 19 RVA: 0x000098E4 File Offset: 0x00007AE4
+		// Token: 0x06000013 RID: 19 RVA: 0x00009C58 File Offset: 0x00007E58
 		public void piece_exentension2()
 		{
 			CustomPiece customPiece = new CustomPiece(this.runeassets.LoadAsset<GameObject>("piece_artisanpoison"), new PieceConfig
 			{
 				CraftingStation = "piece_artisanstation",
-				Description = "$piece_artisan_ext1",
+				Description = "$piece_artisan_ext2desrip",
 				PieceTable = "Hammer",
 				Enabled = true,
 				ExtendStation = "piece_artisanstation",
@@ -1403,13 +1423,13 @@ namespace RuneSwords
 			PieceManager.Instance.AddPiece(customPiece);
 		}
 
-		// Token: 0x06000014 RID: 20 RVA: 0x00009994 File Offset: 0x00007B94
+		// Token: 0x06000014 RID: 20 RVA: 0x00009D08 File Offset: 0x00007F08
 		private void piece_exentension3()
 		{
 			CustomPiece customPiece = new CustomPiece(this.runeassets.LoadAsset<GameObject>("piece_artisanlight"), new PieceConfig
 			{
 				CraftingStation = "piece_artisanstation",
-				Description = "$piece_artisan_ext1",
+				Description = "$piece_artisan_ext4desrip",
 				PieceTable = "Hammer",
 				Enabled = true,
 				ExtendStation = "piece_artisanstation",
@@ -1428,13 +1448,13 @@ namespace RuneSwords
 			PieceManager.Instance.AddPiece(customPiece);
 		}
 
-		// Token: 0x06000015 RID: 21 RVA: 0x00009A44 File Offset: 0x00007C44
+		// Token: 0x06000015 RID: 21 RVA: 0x00009DB8 File Offset: 0x00007FB8
 		private void piece_exentension4()
 		{
 			CustomPiece customPiece = new CustomPiece(this.runeassets.LoadAsset<GameObject>("piece_artisanround1"), new PieceConfig
 			{
 				CraftingStation = "piece_artisanstation",
-				Description = "$piece_artisan_ext1",
+				Description = "$piece_artisan_ext5desrip",
 				PieceTable = "Hammer",
 				Enabled = true,
 				ExtendStation = "piece_artisanstation",
@@ -1453,13 +1473,13 @@ namespace RuneSwords
 			PieceManager.Instance.AddPiece(customPiece);
 		}
 
-		// Token: 0x06000016 RID: 22 RVA: 0x00009AF4 File Offset: 0x00007CF4
+		// Token: 0x06000016 RID: 22 RVA: 0x00009E68 File Offset: 0x00008068
 		private void piece_exentension5()
 		{
 			CustomPiece customPiece = new CustomPiece(this.runeassets.LoadAsset<GameObject>("piece_artisanround2"), new PieceConfig
 			{
 				CraftingStation = "piece_artisanstation",
-				Description = "$piece_artisan_ext1",
+				Description = "$piece_artisan_ext6desrip",
 				PieceTable = "Hammer",
 				Enabled = true,
 				ExtendStation = "piece_artisanstation",
@@ -1478,7 +1498,7 @@ namespace RuneSwords
 			PieceManager.Instance.AddPiece(customPiece);
 		}
 
-		// Token: 0x06000017 RID: 23 RVA: 0x00009BA4 File Offset: 0x00007DA4
+		// Token: 0x06000017 RID: 23 RVA: 0x00009F18 File Offset: 0x00008118
 		private void ConfigDeploy()
 		{
 			base.Config.SaveOnConfigSet = true;
@@ -3933,7 +3953,7 @@ namespace RuneSwords
 		{
 		}
 
-		// Token: 0x06000019 RID: 25 RVA: 0x0000F0C0 File Offset: 0x0000D2C0
+		// Token: 0x06000019 RID: 25 RVA: 0x0000F434 File Offset: 0x0000D634
 		private void AddTranslations()
 		{
 			LocalizationManager.Instance.AddToken("$icerunesword", "Runic Ice Sword", true);
@@ -3970,19 +3990,6 @@ namespace RuneSwords
 			LocalizationManager.Instance.AddToken("$piece_artisan_ext4desrip", "Extension for artisan table", true);
 			LocalizationManager.Instance.AddToken("$piece_artisan_ext5", "Artisan Rune", true);
 			LocalizationManager.Instance.AddToken("$piece_artisan_ext5desrip", "Extension for artisan table", true);
-		}
-
-		// Token: 0x0600001A RID: 26 RVA: 0x000020AF File Offset: 0x000002AF
-		[CompilerGenerated]
-		private void <Awake>b__0_0(object obj, ConfigurationSynchronizationEventArgs attr)
-		{
-			if (attr.InitialSynchronization)
-			{
-				Jotunn.Logger.LogMessage("Initial Config sync event received");
-				this.LoadSwords();
-				return;
-			}
-			Jotunn.Logger.LogMessage("Config sync event received");
 		}
 
 		// Token: 0x04000001 RID: 1
