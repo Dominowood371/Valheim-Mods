@@ -29,6 +29,7 @@
 	"custompiece_mortarandpestle":"Mortar and Pestle",
 	"custompiece_pan":"Pan",
 	"custompiece_picnicbasket":"Picnic Basket",
+	"custompiece_picnicbasketchest":"Picnic Basket",
 	"custompiece_pot":"Pot",
 	"custompiece_rollingpin":"Rolling Pin",
 	"custompiece_soap":"Soap",
@@ -121,6 +122,50 @@
 	"custompiece_statuehare":"Hare Statue",
 	"custompiece_statueseed":"Seed Statue",
 	
-	"custompiece_barberpole":"Barber Shop Pole"
+	"custompiece_barberpole":"Barber Shop Pole",
+	
+	
+	"custompiece_booksecretstorage":"Stash Book",
+	"custompiece_booksecretstorage_description":"A book with a real secret.",
+	"custompiece_booksecretstoragechest":"Stash Book",
+	
+	"custompiece_booksecretstorage_public":"Stash Book - Public",
+	"custompiece_booksecretstorage_public_description":"A book with a real secret. This version can be opened by anyone, even in a ward.",
+	"custompiece_booksecretstorage_publicchest":"Loot Book",
+	
+	"custompiece_fancychest_public":"Fancy Wood Chest - Public",
+	"custompiece_fancychest_public_description":"This chest can be opened by anyone, even in a ward.",
+	"custompiece_fancychest_publicchest":"Loot Box",
+	
+	"custompiece_stonechest_public":"Stone Chest - Public",
+	"custompiece_stonechest_public_description":"This chest can be opened by anyone, even in a ward.",
+	"custompiece_stonechest_publicchest":"Loot Box",
+	
+	"custompiece_horizontalweb":"Horizontal Spider Web",
+	"custompiece_tunnelweb":"Tunnel Spider Web",
+	"custompiece_verticalweb":"Vertical Spider Web",
+	
+	"custompiece_journal":"Journal",
+	"custompiece_journal_description":"Like a book, but you can write in it!",
+	
+	"custompiece_openbook":"Open Book",
+	"custompiece_poetrybook1H":"Red Poetry Book - Horizontal",
+	"custompiece_poetrybook1V":"Red Poetry Book - Vertical",
+	"custompiece_poetrybook2H":"Green Poetry Book - Horizontal",
+	"custompiece_poetrybook2V":"Green Poetry Book - Vertical",
+	"custompiece_stackedpoetrybooks1":"Stacked Poetry Books - Red",
+	"custompiece_stackedpoetrybooks2":"Stacked Poetry Books - Green",
+	"custompiece_globe1":"Globe",
+	"custompiece_globe2":"Globe",
+	"custompiece_map1":"Old Map",
+	"custompiece_map2":"Rolled Up Map",
+	"custompiece_map3":"Open Map",
+	"custompiece_dragonstatuesmall":"Golden Dragon Statue - Small",
+	"custompiece_dragonstatuelarge":"Golden Dragon Statue - Large",
+	"custompiece_blackdragonstatuesmall":"Black Dragon Statue - Small",
+	"custompiece_blackdragonstatuelarge":"Black Dragon Statue - Large",
+	
+	"custompiece_dunmr_shelfwithbooksdouble":"Double Bookshelf",
+	"custompiece_swingingswing":"Swinging Swing"
 	
 }
