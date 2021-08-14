@@ -3990,6 +3990,8 @@ namespace RuneSwords
 			LocalizationManager.Instance.AddToken("$piece_artisan_ext4desrip", "Extension for artisan table", true);
 			LocalizationManager.Instance.AddToken("$piece_artisan_ext5", "Artisan Rune", true);
 			LocalizationManager.Instance.AddToken("$piece_artisan_ext5desrip", "Extension for artisan table", true);
+			LocalizationManager.Instance.AddToken("$piece_artisan_ext6", "Artisan Rune", true);
+			LocalizationManager.Instance.AddToken("$piece_artisan_ext6desrip", "Extension for artisan table", true);
 		}
 
 		// Token: 0x04000001 RID: 1
