@@ -32,6 +32,8 @@
  - [ ] [Candles Lanterns and Beeswax](https://www.nexusmods.com/valheim/mods/1226) ❌
  - [ ] [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/1335) ❌
  - [ ] [More Lighting](https://www.nexusmods.com/valheim/mods/1214) ❌
+ - [ ] [MoArBuIlDs](https://valheim.thunderstore.io/package/OdinPlus/MoArBuIlDs/) ❌
+ - [ ] [CustomBuildingItems](https://https://valheim.thunderstore.io/package/Smallo/CustomBuildingItems/) ❌
 
 **Weapons**
  - [X] [Forsaken](https://www.nexusmods.com/valheim/mods/799) ❌
@@ -54,7 +56,10 @@
 **Food**
  - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
  - [X] [ZethPack](https://www.nexusmods.com/valheim/mods/1242) ✔
+ - [ ] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
  - [ ] [Bone Appetit](https://www.nexusmods.com/valheim/mods/1250) ❌
+ - [ ] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
+ - [ ] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
 
 **User Interface**
  - [X] [Project Auga](https://www.nexusmods.com/valheim/mods/1413) ✔
