@@ -56,6 +56,7 @@
   "hud_bpobjects_deleteveg": "Удалить растительность",
   "hud_bpobjects_deleteall": "Удалить все",
   "hud_bpobjectsradius": "Изменить радиус\nShift: Дальность камеры",
+  "hud_bpterrain_flatten": "Выровнять территорию",
   "hud_bpterrain_delete": "Удалить определитель ландшафта",
   "hud_bpterrain_marker": "Переключить на круглый или квадратный маркер",
   "hud_bpterrainradius": "Изменить радиус, Ctrl + Alt: Движение оси X\nCtrl: Повернуть маркер, Shift: Дальность камеры",
