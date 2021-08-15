@@ -59,7 +59,7 @@
   "hud_bpterrain_flatten": "Выровнять территорию",
   "hud_bpterrain_delete": "Удалить определитель ландшафта",
   "hud_bpterrain_marker": "Переключить на круглый или квадратный маркер",
-  "hud_bpterrainradius": "Изменить радиус, Ctrl + Alt: Движение оси X\nCtrl: Повернуть маркер, Shift: Дальность камеры",
+  "hud_bpterrainradius": "Изменить радиус, Ctrl + Alt: Движение оси X\nShift: Дальность камеры",
   "hud_bppaint_reset": "Сбросить краску",
   "hud_bppaint_dirt": "Окрасить грязь",
   "hud_bppaint_paved": "Окрасить мощеную дорогу",
