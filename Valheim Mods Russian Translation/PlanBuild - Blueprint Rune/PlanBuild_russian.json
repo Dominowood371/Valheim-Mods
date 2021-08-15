@@ -41,7 +41,6 @@
   "hud_bpcapture_highlight": "Удерживайте, чтобы выделить захваченные части",
   "hud_bpradius": "Изменить радиус\nShift: Дальность камеры",
   "hud_bpplace": "Разместить",
-  "hud_bpflatten": "Выровнять землю",
   "hud_bpdirect": "Непосредственная сборка (без материалов)",
   "hud_bprotate": "Вращение маркера",
   "hud_bprotate1": "Вращение, Ctrl + Alt: Движение оси Y\nCtrl: Движение оси Z, Alt: Движение оси X",
@@ -54,13 +53,10 @@
   "hud_bpdelete_all": "Удерживайте, чтобы удалить план чертежа",
   "hud_bpdelete_radius": "Удерживайте, чтобы удалить выделение части плана",
   "msg_removed_plans": "Удалено $1 част(ь/и/ей) планировки",
-  "hud_bpterrain": "Выровнять территорию",
-  
   "hud_bpobjects_deleteveg": "Удалить растительность",
+  "hud_bpobjects_deleteall": "Удалить все",
   "hud_bpobjectsradius": "Изменить радиус\nShift: Дальность камеры",
-  "hud_bpterrain_flatten": "Выровнять территорию",
   "hud_bpterrain_delete": "Удалить определитель ландшафта",
-  "hud_bpterrain_reset": "Сбросить окрашенный ландшафт",
   "hud_bpterrain_marker": "Переключить на круглый или квадратный маркер",
   "hud_bpterrainradius": "Изменить радиус, Ctrl + Alt: Движение оси X\nCtrl: Повернуть маркер, Shift: Дальность камеры",
   "hud_bppaint_reset": "Сбросить краску",
@@ -68,5 +64,4 @@
   "hud_bppaint_paved": "Окрасить мощеную дорогу",
   "hud_bppaintradius": "Изменить радиус\nShift: Дальность камеры",
   "msg_terrain_disabled": "Инструменты ландшафта отключены"
-  
 }
