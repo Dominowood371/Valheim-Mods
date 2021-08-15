@@ -1,4 +1,4 @@
-Mod PlanBuild - Blueprint Rune Russian Translation Version 0.3.5.
+Mod PlanBuild - Blueprint Rune Russian Translation Version 0.4.0.
 
 ### Описание
 
