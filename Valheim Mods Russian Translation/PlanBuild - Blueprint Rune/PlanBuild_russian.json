@@ -64,5 +64,5 @@
   "hud_bppaint_dirt": "Окрасить грязью",
   "hud_bppaint_paved": "Окрасить мощеной дорогой",
   "hud_bppaintradius": "Изменить радиус\nShift: Дальность камеры",
-  "msg_terrain_disabled": "Инструменты ландшафта отключены"
+  "msg_terrain_disabled": "Инструменты для ландшафта отключены"
 }
