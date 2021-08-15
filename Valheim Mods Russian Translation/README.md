@@ -59,7 +59,7 @@
  - [ ] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
  - [ ] [Bone Appetit](https://www.nexusmods.com/valheim/mods/1250) ❌
  - [ ] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
- - [ ] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
+ - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
 
 **User Interface**
  - [X] [Project Auga](https://www.nexusmods.com/valheim/mods/1413) ✔
