@@ -7,16 +7,17 @@ List of mods to be added to the table:
 
 | Mods | Version | Categories |
 | -- | -- | -- |
-| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) | 0.8.2 | Оriginal items Game |
+| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) | 0.8.4 | Оriginal items Game |
 | [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.1.4 | Weapons, Armor |
+| [ValheimExpanded](http://www.nexusmods.com/valheim/mods/1154) | 0.4.1 | Weapons, Armor |
 | [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons |
 | [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) | 4.2.2 | Weapons |
-| [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.0.9 | Weapons |
+| [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.1.0 | Weapons |
 | [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
-| [Plate Armor](https://www.nexusmods.com/valheim/mods/567) | 1.0.2 | Armor |
-| [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 2.0.0 | Armor |
+| [Plate Armor](https://www.nexusmods.com/valheim/mods/567) | 2.0.1 | Armor |
+| [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 2.0.1 | Armor |
 | [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.1 | Armor |
-| [MonsterLabZ](https://www.nexusmods.com/valheim/mods/1264) | 1.6.1 | Enemies, Monsters |
+| [MonsterLabZ](https://www.nexusmods.com/valheim/mods/1264) | 1.7.0 | Enemies, Monsters |
 | [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters |
 | [MonsterMash](https://www.nexusmods.com/valheim/mods/1284) | 0.0.9 | Enemies, Monsters |
  
@@ -182,6 +183,30 @@ Added item drops for new mobs:
 | The Forgotten One             | ForgottenOne     | Skeleton Warrior Ice | 2800  | Pierce, Frost        | Tier 5 | Wyrmfist, Wyrmripper, Rimefang, Icicle, Riftblade, Lycanthro, Runic Ice Sword, Great Runic Ice Sword, Runic Ice Dagger
 | The Mourning Queen            | SvartalfrQueen   | RRR_NPC              | 1800  | Blunt, Poison        | Tier 6 | Rotclub, Riftblade, Lycanthro, Poison Rune Sword, Great Poison Rune Sword, Poison Rune Dagger
 | Jotunn                        | Jotunn           | Troll                | 18000 | Blunt, Chop, Pickaxe | Tier 5 | Static Cleaver, Bolts Edge, Spiritine, Rotclub, Wyrmfist, Wyrmripper, Rimefang, Icicle, Chaotic Hand, Molten Star, Aegis of the Dead King, Riftblade, Lycanthro, Runic Lightning Sword, Runic Spirit Sword, Runic Poison Sword, Runic Ice Sword, Runic Fire Sword, Great Runic Lightning Sword, Great Runic Spirit Sword, Great Runic Poison Sword, Great Runic Ice Sword, Great Runic Fire Sword, Runic Lightning Dagger, Runic Spirit Dagger, Runic Poison Dagger, Runic Ice Dagger, Runic Fire Dagger
+
+**MonsterMas**
+
+Added item drops for new mobs:
+
+| Mods | Location | Tier |
+| ---- | ------------------------ | ------ |
+| Yeti | DeepNorth | Tier5 |
+| EvilReaper                 | BlackForest   | Tier2     |
+| CrazyTroll                 | AshLands      | Tier7     |
+| EarthTroll                 | Plains        | Tier5     |
+| Golem2                     | AshLands      | Tier7     |
+| Wizard                     | BlackForest   | Tier2     |
+| WereWolfBlackArmored       | BlackForest   | Tier2     |
+| WereWolfDarkGrey           | Swamp         | Tier3     |
+| WereWolfBlack              | Mistlands     | Tier6     |
+| WereWolfBrown              | Meadows       | Tier1     |
+| WereWolfWhite              | DeepNorth     | Tier5     |
+| TheNasty                   | Swamp         | Tier3     |
+| WereBearGray               | DeepNorth     | Tier5     |
+| WereBearBlack              | Mountain      | Tier4     |
+| WereBearRed                | DeepNorth     | Tier5     |
+| WendigoForest              | Mistlands     | Tier6     |
+| WendigoSwamp               | BlackForest   | Tier2     |
 
 ### Install
 To install, just copy the text from the `loottable.json` file and paste into your `loottable.json` file or download the `loottable.json` file with replacement, move the file to the folder `\Valheim\BepInEx\plugins`
