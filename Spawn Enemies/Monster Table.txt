@@ -124,66 +124,141 @@ https://valheim.fandom.com/wiki/Creatures
 
     RRR_NPC  Tier0
     
-    
-    
-    
+
 ---------------------------------------------------------------------
 Boar	           Forest	Meadows                 m_faction = 2
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
 Deer	           Forest	Meadows                 m_faction = 2
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
 Greyling	   Forest	Meadows                 m_faction = 2
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 6
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 1
+    m_spirit: 3
 Neck	           Forest	Meadows                 m_faction = 2
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 1
+    m_spirit: 3
 Eikthyr	           Boss	        Meadows                 m_faction = 8
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 0
 Ghost	           Undead	Black Forest            m_faction = 3
+    m_blunt: 1
+    m_slash: 1
+    m_pierce: 1
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 2
 Greydwarf	   Forest	Black Forest            m_faction = 2
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 6
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 1
+    m_spirit: 3
 Greydwarf brute	   Forest	Black Forest            m_faction = 2
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 6
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 1
+    m_spirit: 3
 Greydwarf shaman   Forest	Black Forest            m_faction = 2
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 6
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 1
+    m_spirit: 3
 Rancid remains	   Undead	Black Forest            m_faction = 3
+    m_blunt: 2
+    m_slash: 0
+    m_pierce: 1
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 1
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 0
 Skeleton	   Undead	Black Forest Swamp      m_faction = 3
+    m_blunt: 2
+    m_slash: 0
+    m_pierce: 1
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 1
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 0
 Troll	           Forest	Black Forest            m_faction = 2
+    m_blunt: 1
+    m_slash: 0
+    m_pierce: 2
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
 The Elder	   Boss	        Black Forest            m_faction = 8
-Root	           Boss	        Black Forest            m_faction = 8
-Blob	           Undead	Swamp                   m_faction = 3
-Draugr	           Undead	Swamp                   m_faction = 3
-Draugr elite       Undead	Swamp                   m_faction = 3
-Leech	           Undead	Swamp                   m_faction = 3
-Oozer	           Undead	Swamp                   m_faction = 3
-Surtling	   Demon	Swamp Ashlands          m_faction = 4
-Wraith	           Undead	Swamp                   m_faction = 3
-Bonemass	   Boss	        Swamp                   m_faction = 8
-Drake	           Mountain	Mountain                m_faction = 5
-Fenring	           Mountain	Mountain                m_faction = 5
-Stone Golem	   Forest	Mountain                m_faction = 2
-Wolf	           Mountain     Mountain                m_faction = 5
-Moder	           Boss	        Mountain                m_faction = 8
-Deathsquito	   Plains	Plains                  m_faction = 7
-Fuling	           Plains	Plains                  m_faction = 7
-Fuling Berserker   Plains	Plains                  m_faction = 7
-Fuling shaman	   Plains	Plains                  m_faction = 7
-Lox	           Plains	Plains                  m_faction = 7
-Yagluth	           Boss	        Plains                  m_faction = 8
-Serpent	           Sea          Ocean                   m_faction = 6
-
-
-
-
-		// 0 Normal,
-		// 1 Resistant,       Сопротивление  Стойкий
-		// 2 Weak,            Уязвим  Слабый
-		// 3 Immune,          Иммунитет Невосприимчивый
-		// 4 Ignore,          Иммунитет 
-		// 5 VeryResistant,   Повышенное сопротивление  Очень стойкий
-		// 6 VeryWeak         Крайне уязвим  Очень слабый
-	Яд 
-	Холод Лед
-	Молния
-	Огонь
-	Дух
-	Blunt Оглушающий Дробящий
-	Slash Режущий Рассекающий
-	Pierce Колющий Колющий
-	Chop Рубящий
-        Pickaxe Кирка
-	
     m_blunt: 0
     m_slash: 0
     m_pierce: 0
@@ -194,3 +269,263 @@ Serpent	           Sea          Ocean                   m_faction = 6
     m_lightning: 0
     m_poison: 3
     m_spirit: 3
+Root	           Boss	        Black Forest            m_faction = 8
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 1
+    m_chop: 0
+    m_pickaxe: 0
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 3
+Blob	           Undead	Swamp                   m_faction = 3
+    m_blunt: 2
+    m_slash: 1
+    m_pierce: 1
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 1
+    m_frost: 2
+    m_lightning: 2
+    m_poison: 3
+    m_spirit: 0
+Draugr	           Undead	Swamp                   m_faction = 3
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 1
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 0
+Draugr elite       Undead	Swamp                   m_faction = 3
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 1
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 0
+Leech	           Undead	Swamp                   m_faction = 3
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 3
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 1
+    m_spirit: 3
+Oozer	           Undead	Swamp                   m_faction = 3
+    m_blunt: 2
+    m_slash: 1
+    m_pierce: 1
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 1
+    m_frost: 2
+    m_lightning: 2
+    m_poison: 3
+    m_spirit: 0
+Surtling	   Demon	Swamp Ashlands          m_faction = 4
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 3
+    m_frost: 2
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 3
+Wraith	           Undead	Swamp                   m_faction = 3
+    m_blunt: 1
+    m_slash: 1
+    m_pierce: 1
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 3
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 2
+Bonemass	   Boss	        Swamp                   m_faction = 8
+    m_blunt: 2
+    m_slash: 1
+    m_pierce: 5
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 5
+    m_frost: 2
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 0
+Drake	           Mountain	Mountain                m_faction = 5
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 3
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
+Fenring	           Mountain	Mountain                m_faction = 5
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 1
+    m_spirit: 0
+Stone Golem	   Forest	Mountain                m_faction = 2
+    m_blunt: 0
+    m_slash: 1
+    m_pierce: 1
+    m_chop: 4
+    m_pickaxe: 6
+    m_fire: 3
+    m_frost: 3
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 3
+Wolf	           Mountain     Mountain                m_faction = 5
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
+Moder	           Boss	        Mountain                m_faction = 8
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 3
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
+Deathsquito	   Plains	Plains                  m_faction = 7
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
+Fuling	           Plains	Plains                  m_faction = 7
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
+Fuling Berserker   Plains	Plains                  m_faction = 7
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
+Fuling shaman	   Plains	Plains                  m_faction = 7
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
+Lox	           Plains	Plains                  m_faction = 7
+    m_blunt: 1
+    m_slash: 1
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 2
+    m_frost: 1
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 3
+Yagluth	           Boss	        Plains                  m_faction = 8
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 5
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 1
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 3
+    m_spirit: 0
+Serpent	           Sea          Ocean                   m_faction = 6
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 4
+    m_pickaxe: 4
+    m_fire: 3
+    m_frost: 2
+    m_lightning: 0
+    m_poison: 1
+    m_spirit: 3
+
+		// 0 Normal,
+		// 1 Resistant,       Сопротивление  Стойкий
+		// 2 Weak,            Уязвим  Слабый
+		// 3 Immune,          Иммунитет Невосприимчивый
+		// 4 Ignore,          Иммунитет 
+		// 5 VeryResistant,   Повышенное сопротивление  Очень стойкий
+		// 6 VeryWeak         Крайне уязвим  Очень слабый
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	Яд 
+	Холод Лед
+	Молния
+	Огонь
+	Дух
+	Blunt Оглушающий Дробящий
+	Slash Режущий Рассекающий
+	Pierce Колющий Колющий
+	Chop Рубящий
+        Pickaxe Кирка
