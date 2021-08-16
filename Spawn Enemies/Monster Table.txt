@@ -529,3 +529,27 @@ Serpent	           Sea          Ocean                   m_faction = 6
 	Pierce Колющий Колющий
 	Chop Рубящий
         Pickaxe Кирка
+
+
+		// Token: 0x04000FD2 RID: 4050
+		None,
+		// Token: 0x04000FD3 RID: 4051
+		Meadows,
+		// Token: 0x04000FD4 RID: 4052
+		Swamp,
+		// Token: 0x04000FD5 RID: 4053
+		Mountain = 4,
+		// Token: 0x04000FD6 RID: 4054
+		BlackForest = 8,
+		// Token: 0x04000FD7 RID: 4055
+		Plains = 16,
+		// Token: 0x04000FD8 RID: 4056
+		AshLands = 32,
+		// Token: 0x04000FD9 RID: 4057
+		DeepNorth = 64,
+		// Token: 0x04000FDA RID: 4058
+		Ocean = 256,
+		// Token: 0x04000FDB RID: 4059
+		Mistlands = 512,
+		// Token: 0x04000FDC RID: 4060
+		BiomesMax
