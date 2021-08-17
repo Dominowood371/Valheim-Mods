@@ -6,7 +6,7 @@
       "Enabled": true,
       "MeadPrefabName": "WeightMeadBase",
       "PotionPrefabName": "WeightPotion",
-      "ItemName": "Megingjord's extract",
+      "ItemName": "Экстракт Мегингъёрда",
       "Requirements": [
         {
           "Item": "TrophyFrostTroll",
@@ -28,9 +28,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 600,
-      "EffectTooltip": "Increased max carry weight, slower health regeneration.",
-      "PotionDescription": "Gives the drinker a god's strength",
-      "ConsumptionMessage": "You feel strong like a god",
+      "EffectTooltip": "Увеличивает максимальный переносимый вес, но медленнее восстанавливается здоровье.",
+      "PotionDescription": "Придает пьющему силу бога",
+      "ConsumptionMessage": "Вы чувствуете себя сильнее бога",
       "PotionEffectsConfig": {
         "Effects": {
           "Weight": 250,
@@ -42,7 +42,7 @@
       "Enabled": true,
       "MeadPrefabName": "PortalMeadBase",
       "PotionPrefabName": "PortalPotion",
-      "ItemName": "Bifröst's apozem",
+      "ItemName": "Отвар Бифрёста",
       "Requirements": [
         {
           "Item": "GreydwarfEye",
@@ -64,9 +64,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 450,
-      "EffectTooltip": "Portal usage without any restrictions, slower health and stamina regeneration",
-      "PotionDescription": "Allows unrestricted Portal use",
-      "ConsumptionMessage": "You feel transcendent",
+      "EffectTooltip": "Использование портала без ограничений, но медленнее восстанавливается здоровье и выносливость",
+      "PotionDescription": "Позволяет использовать порталы без ограничений",
+      "ConsumptionMessage": "Вы чувствуете себя превосходно",
       "PotionEffectsConfig": {
         "Effects": {
           "Portal": 0.0,
@@ -80,7 +80,7 @@
       "Enabled": true,
       "MeadPrefabName": "FlyMeadBase",
       "PotionPrefabName": "FlyPotion",
-      "ItemName": "Tyr's decantation",
+      "ItemName": "Декантация Тюра",
       "Requirements": [
         {
           "Item": "Feathers",
@@ -102,10 +102,10 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 210,
-      "EffectTooltip": "You can fly but can carry less weight",
-      "PotionDescription": "Gives the power of flight",
-      "ConsumptionMessage": "You feel lighter",
-      "Instructions": "Double-tap `JUMP` to activate/deactivate it. Press `JUMP` to go up and `CROUCH` to go down.",
+      "EffectTooltip": "Вы сможете летать, но будите меньше имеет переносимый вес",
+      "PotionDescription": "Дает силу полета",
+      "ConsumptionMessage": "Вы чувствуете себя легче",
+      "Instructions": "Двойное нажатие `ПРЫЖКА` включает/отключает полет. Нажмите `ПРЫЖОК`, чтобы подняться вверх, и `ПРИСЕСТЬ`, чтобы спуститься вниз.",
       "PotionEffectsConfig": {
         "Effects": {
           "Fly": 0.0,
@@ -117,7 +117,7 @@
       "Enabled": true,
       "MeadPrefabName": "WaterSinkMeadBase",
       "PotionPrefabName": "WaterSinkPotion",
-      "ItemName": "Hrungnir's effusion",
+      "ItemName": "Эффузия Грунгнира",
       "Requirements": [
         {
           "Item": "SerpentScale",
@@ -139,10 +139,10 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 600,
-      "EffectTooltip": "You can breathe and walk underwater, stamina regeneration is slower.",
-      "PotionDescription": "Gives the power of breathing and walking underwater",
-      "ConsumptionMessage": "You feel your body heavy and your lungs expanded",
-      "Instructions": "You can recover stamina by staying put.",
+      "EffectTooltip": "Вы можете дышать и ходить под водой, но медленнее восстанавливается выносливость",
+      "PotionDescription": "Дает возможность дышать и ходить под водой",
+      "ConsumptionMessage": "Вы чувствуете, как ваше тело тяжелеет, а легкие расширяются",
+      "Instructions": "Перестав двигаться вы можете восстановить выносливость.",
       "PotionEffectsConfig": {
         "Effects": {
           "WaterSink": 0.0,
@@ -154,7 +154,7 @@
       "Enabled": true,
       "MeadPrefabName": "PukeMeadBase",
       "PotionPrefabName": "PukePotion",
-      "ItemName": "Spyja solution",
+      "ItemName": "Раствор Спайя",
       "Requirements": [
         {
           "Item": "Guck",
@@ -176,10 +176,10 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 10,
       "Duration": 20,
-      "EffectTooltip": "You feel sick, health and stamina regeneration is slower",
-      "PotionDescription": "Smelling horrible and tasting even worse, it will make you vomit",
-      "ConsumptionMessage": "You feel sick and won't be able to ingest anything",
-      "Instructions": "Clears the effects of all the consumed goods (food, potion and mead) while in effect and slows stats regeneration.",
+      "EffectTooltip": "Вы чувствуете себя больным, медленнее восстанавливается здоровье и выносливость",
+      "PotionDescription": "Ужасно пахнет и еще хуже на вкус, он вызовет у вас рвоту",
+      "ConsumptionMessage": "Вы чувствуете себя плохо и не можете ничего проглотить",
+      "Instructions": "Снимает эффекты всех потребленных предметов (еды, зелья и меда), пока действует эффект.",
       "PotionEffectsConfig": {
         "Effects": {
           "Puke": 0.0,
