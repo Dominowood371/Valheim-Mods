@@ -42,7 +42,7 @@
       "Enabled": true,
       "MeadPrefabName": "PortalMeadBase",
       "PotionPrefabName": "PortalPotion",
-      "ItemName": "Отвар Бифрёста",
+      "ItemName": "Взвар Бифрёста",
       "Requirements": [
         {
           "Item": "GreydwarfEye",
@@ -192,7 +192,7 @@
       "Enabled": true,
       "MeadPrefabName": "GreaterStaminaMeadBase",
       "PotionPrefabName": "GreaterStaminaPotion",
-      "ItemName": "Greater Stamina solution",
+      "ItemName": "Раствор большой выносливости",
       "Requirements": [
         {
           "Item": "Honey",
@@ -214,9 +214,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 300,
-      "EffectTooltip": "Stamina over time and increased stamina and health regeneration",
-      "PotionDescription": "Restores stamina",
-      "ConsumptionMessage": "You feel your heart beating faster and stronger",
+      "EffectTooltip": "Временая выносливость, увеличивает выносливость и восстановление здоровья",
+      "PotionDescription": "Восстанавливает выносливость",
+      "ConsumptionMessage": "Вы чувствуете, как ваше сердце бьется быстрее и сильнее",
       "PotionEffectsConfig": {
         "Effects": {
           "StaminaRegenMultiplier": 0.25,
@@ -230,7 +230,7 @@
       "Enabled": true,
       "MeadPrefabName": "GreaterHealthMeadBase",
       "PotionPrefabName": "GreaterHealthPotion",
-      "ItemName": "Greater Health solution",
+      "ItemName": "Раствор большого здоровья",
       "Requirements": [
         {
           "Item": "Honey",
@@ -252,9 +252,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 300,
-      "EffectTooltip": "Health over time and increased health and stamina regeneration",
-      "PotionDescription": "Restores health",
-      "ConsumptionMessage": "You feel your blood pumping through your whole body",
+      "EffectTooltip": "Временая здоровье, увеличивает здоровье и восстановление выносливости",
+      "PotionDescription": "Восстанавливает здоровье",
+      "ConsumptionMessage": "Вы чувствуете, как течет кровь по всему телу",
       "PotionEffectsConfig": {
         "Effects": {
           "StaminaRegenMultiplier": 0.05,
@@ -269,7 +269,7 @@
       "Enabled": true,
       "MeadPrefabName": "EikthyrMeadBase",
       "PotionPrefabName": "EikthyrPotion",
-      "ItemName": "Eikthyr's elixir",
+      "ItemName": "Эликсир Эйктюра",
       "Requirements": [
         {
           "Item": "TrophyEikthyr",
@@ -305,7 +305,7 @@
       "Enabled": true,
       "MeadPrefabName": "ElderMeadBase",
       "PotionPrefabName": "ElderPotion",
-      "ItemName": "Elder's elixir",
+      "ItemName": "Эликсир Древнего",
       "Requirements": [
         {
           "Item": "TrophyTheElder",
@@ -340,7 +340,7 @@
       "Enabled": true,
       "MeadPrefabName": "BonemassMeadBase",
       "PotionPrefabName": "BonemassPotion",
-      "ItemName": "Bonemass' elixir",
+      "ItemName": "Эликсир Массы костей",
       "Requirements": [
         {
           "Item": "TrophyBonemass",
@@ -386,7 +386,7 @@
       "Enabled": true,
       "MeadPrefabName": "ModerMeadBase",
       "PotionPrefabName": "ModerPotion",
-      "ItemName": "Moder's elixir",
+      "ItemName": "Эликсир Матери",
       "Requirements": [
         {
           "Item": "TrophyDragonQueen",
@@ -421,7 +421,7 @@
       "Enabled": true,
       "MeadPrefabName": "YagluthMeadBase",
       "PotionPrefabName": "YagluthPotion",
-      "ItemName": "Yagluth's elixir",
+      "ItemName": "Эликсир Яглута",
       "Requirements": [
         {
           "Item": "TrophyGoblinKing",
@@ -467,7 +467,7 @@
       "Enabled": true,
       "MeadPrefabName": "WaterproofMeadBase",
       "PotionPrefabName": "WaterproofPotion",
-      "ItemName": "Rán's blessing",
+      "ItemName": "Благословение Рана",
       "Requirements": [
         {
           "Item": "SerpentScale",
@@ -504,7 +504,7 @@
       "Enabled": true,
       "MeadPrefabName": "AttackPowerMeadBase",
       "PotionPrefabName": "AttackPowerPotion",
-      "ItemName": "Ymir's decoction",
+      "ItemName": "Отвар Имира",
       "Requirements": [
         {
           "Item": "YmirRemains",
@@ -550,7 +550,7 @@
       "Enabled": true,
       "MeadPrefabName": "SwimmingTrainMeadBase",
       "PotionPrefabName": "SwimmingTrainPotion",
-      "ItemName": "Mimir's swimming stimulant",
+      "ItemName": "Стимулятор плавания Мимира",
       "Requirements": [
         {
           "Item": "Dandelion",
@@ -589,7 +589,7 @@
       "Enabled": true,
       "MeadPrefabName": "RestedMeadBase",
       "PotionPrefabName": "RestedPotion",
-      "ItemName": "Freya's concoction",
+      "ItemName": "Варево Фрейи",
       "Requirements": [
         {
           "Item": "Mushroom",
@@ -625,7 +625,7 @@
       "Enabled": true,
       "MeadPrefabName": "SwimmingMeadBase",
       "PotionPrefabName": "SwimmingPotion",
-      "ItemName": "Njord's infusion",
+      "ItemName": "Настойка Ньёрда",
       "Requirements": [
         {
           "Item": "SerpentMeat",
@@ -660,7 +660,7 @@
       "Enabled": true,
       "MeadPrefabName": "SpeedMeadBase",
       "PotionPrefabName": "SpeedPotion",
-      "ItemName": "Hermod's infusion",
+      "ItemName": "Настойка Хермода",
       "Requirements": [
         {
           "Item": "MushroomYellow",
@@ -697,7 +697,7 @@
       "Enabled": true,
       "MeadPrefabName": "StealthMeadBase",
       "PotionPrefabName": "StealthPotion",
-      "ItemName": "Fjodr's essence",
+      "ItemName": "Эссенция Фьорда",
       "Requirements": [
         {
           "Item": "Feathers",
