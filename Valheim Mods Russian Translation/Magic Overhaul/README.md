@@ -1,4 +1,4 @@
-Mod Magic Overhaul Russian Translation Version 0.6.
+Mod Magic Overhaul Russian Translation Version 1.1.0.
 
 ### Описание
 
