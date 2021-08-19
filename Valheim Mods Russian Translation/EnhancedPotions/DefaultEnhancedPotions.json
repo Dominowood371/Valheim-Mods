@@ -573,7 +573,7 @@
       "PotionOutputQuantity": 5,
       "Duration": 300,
       "EffectTooltip": "Получение навыка плавания становится быстрее, но вы будите медленей на суше",
-      "PotionDescription": "Дает ускореное обучение плаванию,
+      "PotionDescription": "Дает ускореное обучение плаванию",
       "ConsumptionMessage": "Ваш разум един с рыбой",
       "PotionEffectsConfig": {
         "RaiseSkillModifiers": {
