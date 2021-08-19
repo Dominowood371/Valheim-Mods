@@ -252,7 +252,7 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 300,
-      "EffectTooltip": "Временая здоровье, увеличивает здоровье и восстановление выносливости",
+      "EffectTooltip": "Временое здоровье, увеличивает здоровье и восстановление выносливости",
       "PotionDescription": "Восстанавливает здоровье",
       "ConsumptionMessage": "Вы чувствуете, как течет кровь по всему телу",
       "PotionEffectsConfig": {
@@ -291,9 +291,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 300,
-      "EffectTooltip": "Your ability to run and jump is improved",
-      "PotionDescription": "Drinkable Eikthyr's power",
-      "ConsumptionMessage": "You activate the power of Eikthyr",
+      "EffectTooltip": "Ваша способность бегать и прыгать улучшается",
+      "PotionDescription": "Питьевая сила Эйктюра",
+      "ConsumptionMessage": "Вы активируете силу Эйктюра",
       "PotionEffectsConfig": {
         "Effects": {
           "RunStaminaDrainModifier": -0.6,
@@ -327,9 +327,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 300,
-      "EffectTooltip": "Faster wood cutting",
-      "PotionDescription": "Drinkable Elder's power",
-      "ConsumptionMessage": "The Elder's power surges through you",
+      "EffectTooltip": "Вы быстрее рубите древесину",
+      "PotionDescription": "Питьевая сила Древнего",
+      "ConsumptionMessage": "Сила Древнего пронизывает вас",
       "PotionEffectsConfig": {
         "AttackModifiers": {
           "WoodCutting": 1.6
@@ -362,9 +362,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 300,
-      "EffectTooltip": "Resistance VS physical damage.",
-      "PotionDescription": "Drinkable Bonemass' power",
-      "ConsumptionMessage": "Bonemass spirit lives in you now",
+      "EffectTooltip": "Сопротивление к физическому урону.",
+      "PotionDescription": "Питьевая сила Массы костей",
+      "ConsumptionMessage": "Дух массы костей теперь живет в вас",
       "PotionEffectsConfig": {
         "DamageModifiers": [
           {
@@ -408,9 +408,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 300,
-      "EffectTooltip": "Always tailwind when sailing",
-      "PotionDescription": "Drinkable Moder's power",
-      "ConsumptionMessage": "Even in death Moder still cries",
+      "EffectTooltip": "На воде вас всегда ждет попутный ветер.",
+      "PotionDescription": "Питьевая сила Матери",
+      "ConsumptionMessage": "Даже после смерти Матерь все еще плачет",
       "PotionEffectsConfig": {
         "Effects": {
           "Moder": 0.0
@@ -443,9 +443,9 @@
       "MeadOutputQuantity": 1,
       "PotionOutputQuantity": 5,
       "Duration": 300,
-      "EffectTooltip": "Resistance VS magic damage and lightning damage",
-      "PotionDescription": "Drinkable Yagluth's power",
-      "ConsumptionMessage": "The cosmic powers of Yagluth.",
+      "EffectTooltip": "Сопротивление к магическому урону и урону от молнии",
+      "PotionDescription": "Питьевая сила Яглута",
+      "ConsumptionMessage": "Космические силы Яглута.",
       "PotionEffectsConfig": {
         "DamageModifiers": [
           {
