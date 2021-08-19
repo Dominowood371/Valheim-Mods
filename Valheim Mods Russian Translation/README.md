@@ -56,7 +56,7 @@
 **Food**
  - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
  - [X] [ZethPack](https://www.nexusmods.com/valheim/mods/1242) ✔
- - [ ] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
+ - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
  - [ ] [Bone Appetit](https://www.nexusmods.com/valheim/mods/1250) ❌
  - [ ] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
