@@ -36,3 +36,5 @@ Mod Runic Swords Russian Translation Version 1.0.8.
 2. Нажмите на его, чтобы просмотреть содержимое файла в GitHub.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
+
+Скачать по [ссылке](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/Runic%20Swords/Runic%20Swords-V1-1-0-Rus.zip)
