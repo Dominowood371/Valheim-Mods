@@ -38,9 +38,10 @@
 **Weapons**
  - [X] [Forsaken](https://www.nexusmods.com/valheim/mods/799) ❌
  - [X] [Ninja Pack](https://www.nexusmods.com/valheim/mods/1182) ❌
+ - [] [Fisticuffs]https://valheim.thunderstore.io/package/OdinPlus/Fisticuffs/) ❌
  - [X] [IronBarInValheim](https://www.nexusmods.com/valheim/mods/1196) ✔
  - [X] [Hugos More Two Handers](https://www.nexusmods.com/valheim/mods/1189) ✔
- - [X] [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) ✔
+ - [X] [Runic Swords](https://valheim.thunderstore.io/package/OdinPlus/RunicSwords/) ✔
  - [X] [Steel Age](https://www.nexusmods.com/valheim/mods/1143) ✔
  - [X] [Terraheim - Weapons Tools and Armor](https://www.nexusmods.com/valheim/mods/803) ✔ без перевода эффектов
  - [X] [WindLass](https://www.nexusmods.com/valheim/mods/1209) ✔
