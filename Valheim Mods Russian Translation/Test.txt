@@ -1,9 +1,3 @@
-https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Clutter%20Russian%20Translation/translations.json
-https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/Custom%20Hair%20(AKA%20CustomWigs)%20Russian%20Translation/translations.json
-https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/OdinArchitect%20-%20Custom%20buildings%20Russian%20Translation/translations.json
-https://github.com/Dominowood371/Valheim-Mods/blob/main/Valheim%20Mods%20Russian%20Translation/PlantIt%20Russian%20Translation/translations.json
-
----------------------------
 
 Heimdall (tank) - Хеймдалль
 
@@ -482,3 +476,12 @@ CustomRecipe customRecipe4 = new CustomRecipe(new RecipeConfig
 	component2.m_itemData.m_dropPrefab = gameObject2;
 	component2.m_itemData.m_shared.m_name = "Flametal Essence";
 	component2.m_itemData.m_shared.m_description = "A fiery Essence for alchemizing Flametal";
+
+  "item_1_name": "",
+  "item_1_desc": ""
+  "custompiece_1_name": "",
+  "custompiece_1_desc": ""
+  "piece_1_name": "",
+  "piece_1_desc": ""
+  "category_1": "",
+  "piece_1_desc": ""
