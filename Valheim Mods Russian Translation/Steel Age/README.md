@@ -35,3 +35,5 @@ Mod Steel Age Russian Translation Version 1.0.11.
 2. Нажмите на его, чтобы просмотреть содержимое файла в GitHub.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
+
+Скачать по [ссылке](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/Steel%20Age/Steel%20Age-V1-0-11-Rus.zip)
