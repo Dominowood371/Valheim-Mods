@@ -1,8 +1,8 @@
 {
-  "gold_bar": "Gold Ingot",
-  "gold_bar_desc": "All that glitters is gold. A bar of pure gold ready to be worked.",
-  "coin_pile": "Coin Pile",
-  "coin_pile_desc": "A pile of coins.",
-  "piece_goldstack": "Gold Ingots",
-  "piece_goldstack_desc": "A pile of gold ingots."
+  "gold_bar": "Золотой слиток",
+  "gold_bar_desc": "Все, что блестит, - это золото. Слиток чистого золота, готовый к обработке.",
+  "coin_pile": "Куча монет",
+  "coin_pile_desc": "Куча золотых монет.",
+  "piece_goldstack": "Золотые слитки",
+  "piece_goldstack_desc": "Стопка золотых слитков."
 }
