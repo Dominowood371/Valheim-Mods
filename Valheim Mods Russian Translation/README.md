@@ -22,6 +22,7 @@
  - [X] [Better Wards](https://www.nexusmods.com/valheim/mods/402) ✔
 
 **Construction**
+ - [X] [Digitalroot's Gold Bars](https://www.nexusmods.com/valheim/mods/1448) ✔
  - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653) ✔
  - [X] [Clutter](https://www.nexusmods.com/valheim/mods/1350) ✔
  - [X] [More Green Fire](https://www.nexusmods.com/valheim/mods/1352) ✔
