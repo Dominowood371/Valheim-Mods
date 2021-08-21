@@ -25,8 +25,8 @@
   "piece_blueprint_desc": "Создает сооружение, прилагаемое к этому чертежу.",
   "piece_blueprint_capture": "Создать новый чертеж",
   "piece_blueprint_capture_desc": "Создает чертеж для новых строений",
-  "piece_blueprint_snappoint": "Маркер точки опоры",
-  "piece_blueprint_snappoint_desc": "Маркеры необходимы при создании чертежа и сохраняются в чертеже как точки опоры вместо обычных частей плана.",
+  "piece_blueprint_snappoint": "Маркер точки соеденения",
+  "piece_blueprint_snappoint_desc": "Маркеры необходимы при создании чертежа и сохраняются в чертеже как точки соеденения вместо обычных частей плана.",
   "piece_blueprint_centerpoint": "Маркер точки центра",
   "piece_blueprint_centerpoint_desc": "Маркер необходим при создании чертежа и будет использоваться для определения центра вашего чертежа.",
   "piece_blueprint_delete": "Удалить часть планировки",
@@ -67,7 +67,7 @@
   "msg_terrain_disabled": "Инструменты для ландшафта отключены",
   "gui_bpmarket_myblueprints": "Мои чертежи",
   "gui_bpmarket_serverblueprints": "Чертежи на сервере",
-  "gui_bpmarket_creator": "Создано:",
+  "gui_bpmarket_creator": "Автор:",
   "gui_bpmarket_name": "Название",
   "gui_bpmarket_name_placeholder": "Введите название...",
   "gui_bpmarket_description": "Описание",
@@ -89,3 +89,18 @@
   "msg_bpmarket_admin_restricted": "Только администраторы могут редактировать чертежи для серверов",
   "msg_bpmarket_save_failed": "Не удалось сохранить чертеж"
 }
+
+Open 
+Открыть
+
+Missing crafting stations:
+Отсутствующие ремесленные стойки:
+
+{m_connectedPieces.Count} connected plans ({m_supportedPieces} supported)
+запланированано частей $1 (имеют опору $2)
+
+Required materials:
+Необходимые материалы:
+
+Open Blueprint Marketplace
+Открыть площадку с чертежами
