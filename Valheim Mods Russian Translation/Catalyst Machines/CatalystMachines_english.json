@@ -1,20 +1,20 @@
 {
 assets/catalystmachines/woodfarmt2.prefab
-  "item__name": "Ancient Harvester",
-  "item__desc": "I really don't understand how this would work",
+  "item_ancientharvester_name": "Ancient Harvester",
+  "item_ancientharvester_desc": "I really don't understand how this would work",
 assets/catalystmachines/stonefarmt1.prefab
-  "item__name": "Gravel Spot",
-  "item__desc": "A simple place to harvest stone",
+  "item_gravelspot_name": "Gravel Spot",
+  "item_gravelspot_desc": "A simple place to harvest stone",
 assets/catalystmachines/resinfarmt2.prefab
-  "item__name": "Resin Fermenter",
-  "item__desc": "Fermenting Bark and Dirt into resin",
+  "item_resinfermenter_name": "Resin Fermenter",
+  "item_resinfermenter_desc": "Fermenting Bark and Dirt into resin",
 assets/catalystmachines/woodfarmt1.prefab
-  "item__name": "Greydwarf Harvester",
-  "item__desc": "A small contraction to keep greydwarf from spawning and harvesting their wood",
+  "item_greydwarfharvester_name": "Greydwarf Harvester",
+  "item_greydwarfharvester_desc": "A small contraction to keep greydwarf from spawning and harvesting their wood",
 assets/catalystmachines/resinfarmt1.prefab
-  "item__name": "Treetap",
-  "item__desc": "A basic treetap to collect resin",
+  "item_treetap_name": "Treetap",
+  "item_treetap_desc": "A basic treetap to collect resin",
 assets/catalystmachines/stonefarmt2.prefab
-  "item__name": "Stone Harvester",
-  "item__desc": "Using water is just basic automation."
+  "item_stoneharveste_name": "Stone Harvester",
+  "item_stoneharveste_desc": "Using water is just basic automation."
 }
