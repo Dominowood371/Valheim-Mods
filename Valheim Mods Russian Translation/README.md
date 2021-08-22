@@ -33,8 +33,8 @@
  - [ ] [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/1335) ❌
  - [ ] [More Lighting](https://www.nexusmods.com/valheim/mods/1214) ❌
  - [ ] [MoArBuIlDs](https://valheim.thunderstore.io/package/OdinPlus/MoArBuIlDs/) ❌
- - [ ] [CustomBuildingItems](https://https://valheim.thunderstore.io/package/Smallo/CustomBuildingItems/) ❌
- - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌
+ - [ ] [CustomBuildingItems](https://valheim.thunderstore.io/package/Smallo/CustomBuildingItems/) ❌
+ - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌ возможно
 
 **Weapons**
  - [X] [Forsaken](https://www.nexusmods.com/valheim/mods/799) ❌
