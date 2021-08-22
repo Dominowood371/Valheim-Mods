@@ -16,7 +16,6 @@
  - [X] [Surtling Core Overclocking](https://www.nexusmods.com/valheim/mods/909) ✔
  - [X] [Valweed](https://www.nexusmods.com/valheim/mods/1023) ✔
  - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌ возможно но там очень много текста
- - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌ возможно
  - [X] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL) ✔
  - [X] [Magic Overhaul](https://www.nexusmods.com/valheim/mods/1418) ✔
  - [X] [Better Wards](https://www.nexusmods.com/valheim/mods/402) ✔
@@ -35,6 +34,7 @@
  - [ ] [More Lighting](https://www.nexusmods.com/valheim/mods/1214) ❌
  - [ ] [MoArBuIlDs](https://valheim.thunderstore.io/package/OdinPlus/MoArBuIlDs/) ❌
  - [ ] [CustomBuildingItems](https://https://valheim.thunderstore.io/package/Smallo/CustomBuildingItems/) ❌
+ - [ ] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌
 
 **Weapons**
  - [X] [Forsaken](https://www.nexusmods.com/valheim/mods/799) ❌
@@ -55,7 +55,7 @@
  - [X] [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) ✔
  - [X] [Custom Hair (AKA CustomWigs)](https://www.nexusmods.com/valheim/mods/1236) ✔
 
-**Food**
+**Food/Potion**
  - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
  - [X] [ZethPack](https://www.nexusmods.com/valheim/mods/1242) ✔
  - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
