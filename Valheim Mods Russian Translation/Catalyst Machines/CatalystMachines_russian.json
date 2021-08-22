@@ -1,0 +1,14 @@
+{
+  "item_ancientharvester_name": "Ancient Harvester",
+  "item_ancientharvester_desc": "I really don't understand how this would work",
+  "item_gravelspot_name": "Gravel Spot",
+  "item_gravelspot_desc": "A simple place to harvest stone",
+  "item_resinfermenter_name": "Resin Fermenter",
+  "item_resinfermenter_desc": "Fermenting Bark and Dirt into resin",
+  "item_greydwarfharvester_name": "Greydwarf Harvester",
+  "item_greydwarfharvester_desc": "A small contraction to keep greydwarf from spawning and harvesting their wood",
+  "item_treetap_name": "Treetap",
+  "item_treetap_desc": "A basic treetap to collect resin",
+  "item_stoneharveste_name": "Stone Harvester",
+  "item_stoneharveste_desc": "Using water is just basic automation."
+}
