@@ -1,4 +1,4 @@
-Mod Catalyst Machines Russian Translation Version 0.7.1.
+Mod Catalyst Machines Russian Translation Version 0.0.5.
 
 ### Описание
 
