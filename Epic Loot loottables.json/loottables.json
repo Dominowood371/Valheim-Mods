@@ -188,6 +188,56 @@
     },
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Fisticuffs MOD
+    // Item                      IDS:                     Tier   Handed Weapon    Type Weapon
+    // 
+    // Twig                      WoodKnuckles             Tier4  OneHandedWeapon  Unarmed
+    // Bone Fisticuffs           StuddedKnuckles          Tier4  OneHandedWeapon  Unarmed
+    // Bronze Fisticuffs         BronzeCestus             Tier4  OneHandedWeapon  Unarmed
+    // Iron Fisticuffs           IronCestus               Tier4  OneHandedWeapon  Unarmed	
+    // Silver Fisticuffs         SilverCestus             Tier4  OneHandedWeapon  Unarmed
+    // Black Metal Fisticuffs    BlackMetalCestus         Tier4  OneHandedWeapon  Unarmed
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	  
+    {
+      "Name": "Tier0Fisticuffs",
+      "Loot": [
+        { "Item": "WoodKnuckles", "Rarity": [ 97, 2, 1, 0 ] }
+      ]
+    },
+    {
+      "Name": "Tier1Fisticuffs",
+      "Loot": [
+        { "Item": "StuddedKnuckles", "Rarity": [ 94, 3, 2, 1 ] }
+      ]
+    },
+    {
+      "Name": "Tier2Fisticuffs",
+      "Loot": [
+        { "Item": "BronzeCestus", "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] }
+      ]
+    },
+    {
+      "Name": "Tier3Fisticuffs",
+      "Loot": [
+        { "Item": "IronCestus", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    },  
+    {
+      "Name": "Tier4Fisticuffs",
+      "Loot": [
+        { "Item": "SilverCestus", "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] }
+      ]
+    },
+    {
+      "Name": "Tier5Fisticuffs",
+      "Loot": [
+        { "Item": "BlackMetalCestus", "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+      ]
+    },
+	  
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Steel Age MOD
     // Item                      IDS:                     Tier   Handed Weapon    Type Weapon
     // 
@@ -685,7 +735,8 @@
         { "Item": "Tier0Armor"   },
         { "Item": "Tier0Shields" },
         { "Item": "Tier0TerraheimWeapons" },
-        { "Item": "Tier1TerraheimArmor"   }
+        { "Item": "Tier1TerraheimArmor"   },
+        { "Item": "Tier0Fisticuffs"       }
       ]
     },
 
@@ -722,7 +773,8 @@
         { "Item": "Tier1Armor"   },
         { "Item": "Tier1Tools"   },
         { "Item": "Tier1TerraheimWeapons" },
-        { "Item": "Tier1TerraheimArmor"   }
+        { "Item": "Tier1TerraheimArmor"   },
+        { "Item": "Tier1Fisticuffs"       }
       ]
     },
 
@@ -783,7 +835,8 @@
         { "Item": "Tier2Tools"   },
         { "Item": "Tier2ChaosWarriorArmor" },
         { "Item": "Tier2TerraheimWeapons"  },
-        { "Item": "Tier2TerraheimArmor"    }
+        { "Item": "Tier2TerraheimArmor"    },
+        { "Item": "Tier2Fisticuffs"        }
       ]
     },
 
@@ -834,7 +887,8 @@
         { "Item": "Tier3ChaosWarriorArmor"   },
         { "Item": "Tier3HugosMoreTwoHanders" },
         { "Item": "Tier3TerraheimWeapons"    },
-        { "Item": "Tier3TerraheimArmor"      }
+        { "Item": "Tier3TerraheimArmor"      },
+        { "Item": "Tier3Fisticuffs"          }
       ]
     },
 
@@ -873,9 +927,10 @@
         { "Item": "Tier4Shields" },
         { "Item": "TierSteelAge" },
         { "Item": "Tier4HugosMoreTwoHanders" },
-        { "Item": "Tier4TerraheimWeapons" },
-        { "Item": "Tier4TerraheimShields" },
-        { "Item": "Tier4TerraheimArmor"   }
+        { "Item": "Tier4TerraheimWeapons"    },
+        { "Item": "Tier4TerraheimShields"    },
+        { "Item": "Tier4TerraheimArmor"      },
+        { "Item": "Tier4Fisticuffs"          }
       ]
     },
 
@@ -915,9 +970,10 @@
         { "Item": "Tier5Armor"   },
         { "Item": "Tier5Shields" },
         { "Item": "Tier5HugosMoreTwoHanders" },
-        { "Item": "Tier5TerraheimWeapons" },
-        { "Item": "Tier5TerraheimTools"   },
-        { "Item": "Tier5TerraheimArmor"   }
+        { "Item": "Tier5TerraheimWeapons"    },
+        { "Item": "Tier5TerraheimTools"      },
+        { "Item": "Tier5TerraheimArmor"      },
+        { "Item": "Tier5Fisticuffs"          }
       ]
     },
 	  
