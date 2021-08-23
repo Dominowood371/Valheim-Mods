@@ -2,7 +2,7 @@ Mod Catalyst Buildables Russian Translation Version 0.0.2.
 
 ### Описание
 
-Перевод мода [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/653) на русский язык для игры Valheim. 
+Перевод мода [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/1335) на русский язык для игры Valheim. 
 
 ### Установка
 
