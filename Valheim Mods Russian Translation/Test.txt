@@ -1,5 +1,8 @@
   "m_description": "$piece_reforger $piece_upgrade",
-  
+  			var electriccreameffect = electriccream_prefab.GetComponent<SE_Stats>();
+	        electriccreameffect.m_name = "11111111111";
+	        electriccreameffect.m_tooltip = "22222222222";
+	        electriccreameffect.m_startMessage = "3333333333333333";
 Heimdall (tank) - Хеймдалль
 
 Tower Shield (Guardian of the Gods) - Хранитель богов 
