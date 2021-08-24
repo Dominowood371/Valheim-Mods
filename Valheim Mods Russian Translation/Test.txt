@@ -1,4 +1,5 @@
-
+  "m_description": "$piece_reforger $piece_upgrade",
+  
 Heimdall (tank) - Хеймдалль
 
 Tower Shield (Guardian of the Gods) - Хранитель богов 
