@@ -1,7 +1,9 @@
       assets/000customfood/rk_icecream.prefab
       "m_name": "Ice Cream",
       "m_description": "So cold you feel like you could walk through fire.",
-      
+      "m_tooltip": "You feel are cold, walking through fire acutaly sound good.",
+      "m_startMessage": "Your lips have turned blue.",
+ 
       assets/000customfood/masterchef/rk_burger.prefab
       "m_name": "Burger",
       "m_description": "Little bit of this and a little bit of that, throw it on a bun and call it done!",
@@ -13,7 +15,9 @@
       assets/000customfood/rk_electriccream.prefab
       "m_name": "Electric Cream Cone",
       "m_description": "That will wake you up, put pep in your step, and zap that poision's strength.",
-      
+      "m_tooltip": "You feel shockingly resistant to poison.",
+      "m_startMessage": "You feel shocked",
+
       assets/000customfood/rk_friedloxmeat.prefab
       "m_name": "Chicken Fried Lox",
       "m_description": "You know I like my chicken fried... Chicken Fried Lox that is.",
@@ -61,7 +65,9 @@
       assets/000customfood/rk_acidcream.prefab
       "m_name": "Acid Cream",
       "m_description": "Wait, this has WHAT in it?",
-      
+      "m_tooltip": "You just ate Guck, you don't think much could Shock you now.",
+      "m_startMessage": "You feel green",
+  
       assets/000customfood/rk_porridge.prefab
       "m_name": "Porridge",
       "m_description": "Not too hot, not too cold, this porridge is just right!",
@@ -97,7 +103,9 @@
       assets/000customfood/rk_firecream.prefab
       "m_name": "Fire Cream",
       "m_description": "Ghost peppers got nothin' on this. You ready to be the burn?",
-      
+      "m_tooltip": "What's that smell? Are you on fire!?!?",
+      "m_startMessage": "It burns!",
+
       assets/000customfood/masterchef/rk_broth.prefab
       "m_name": "Broth",
       "m_description": "Bone... broth, a great start to soups or stews.",
@@ -157,3 +165,4 @@
       
       assets/000grill/rk_prep.prefab
       "m_name": "Prep Table",
+
