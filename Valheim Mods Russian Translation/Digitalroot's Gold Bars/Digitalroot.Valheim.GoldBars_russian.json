@@ -1,8 +1,10 @@
 {
-  "gold_bar": "Золотой слиток",
+  "gold_bar": "Золото",
   "gold_bar_desc": "Все, что блестит, - это золото. Слиток чистого золота, готовый к обработке.",
   "coin_pile": "Куча монет",
   "coin_pile_desc": "Куча золотых монет.",
   "piece_goldstack": "Золотые слитки",
-  "piece_goldstack_desc": "Стопка золотых слитков."
+  "piece_goldstack_desc": "Стопка золотых слитков.",
+  "piece_coinpile": "Куча монет",
+  "piece_coinpile_desc": "Куча золотых монет."
 }
