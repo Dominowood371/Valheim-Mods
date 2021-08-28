@@ -13,11 +13,11 @@ using UnityEngine;
 
 namespace CatalystMachines
 {
-	[BepInPlugin("com.redridingwolf.catalystmachines", "Catalyst Machines", "0.0.5")]
+        [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
 	[BepInDependency("com.jotunn.jotunn", BepInDependency.DependencyFlags.HardDependency)]
 	internal class CatalystMachines : BaseUnityPlugin
 	{
-		private void Awake()
+	private void Awake()
 		{
 			base.Config.Bind<int>("Main Section", "This Will change the amount of seconds it takes to produce 1 resource, for now it does nothing", 1, new ConfigDescription("This is an example config, using a range limitation for ConfigurationManager", new AcceptableValueRange<int>(0, 100), Array.Empty<object>()));
 			Jotunn.Logger.LogInfo("The princess and the firefly ready for the harvest!");
@@ -30,6 +30,9 @@ namespace CatalystMachines
             assetBundle = AssetUtils.LoadAssetBundleFromResources("catalystmachines", Assembly.GetExecutingAssembly());
         }
 	
+	public const string PluginGUID = "com.redridingwolf.catalystmachines";
+        public const string PluginName = "Catalyst Machines";
+        public const string PluginVersion = "0.0.5";
 	public AssetBundle assetBundle;
         public EffectList buildStone;
         public EffectList breakStone;
