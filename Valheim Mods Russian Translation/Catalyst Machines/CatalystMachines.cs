@@ -105,6 +105,10 @@ namespace CatalystMachines
 								}
 							}
                 });
+
+			var buildfhive = buildFab.GetComponent<Beehive>();
+            buildfhive.m_name = "$item_treetap_name";
+
             var buildfx = buildFab.GetComponent<Piece>();
             buildfx.m_placeEffect = buildStone;
 
@@ -147,6 +151,10 @@ namespace CatalystMachines
 							}
 
                 });
+
+			var buildfhive = buildFab.GetComponent<Beehive>();
+            buildfhive.m_name = "$item_resinfermenter_name";
+
             var fxBuild = buildFab.GetComponent<Piece>();
             fxBuild.m_placeEffect = buildWood;
 
@@ -195,6 +203,10 @@ namespace CatalystMachines
 							}
 
                 });
+
+			var buildfhive = buildFab.GetComponent<Beehive>();
+            buildfhive.m_name = "$item_gravelspot_name";
+
             var buildfx = buildFab.GetComponent<Piece>();
             buildfx.m_placeEffect = buildStone;
 
@@ -244,6 +256,11 @@ namespace CatalystMachines
 							}
 
                 });
+
+
+			var buildfhive = buildFab.GetComponent<Beehive>();
+            buildfhive.m_name = "$item_stoneharveste_name";
+
             var fxBuild = buildFab.GetComponent<Piece>();
             fxBuild.m_placeEffect = buildWood;
 
@@ -292,6 +309,10 @@ namespace CatalystMachines
 							}
 
                 });
+
+			var buildfhive = buildFab.GetComponent<Beehive>();
+            buildfhive.m_name = "$item_greydwarfharvester_name";
+
             var buildfx = buildFab.GetComponent<Piece>();
             buildfx.m_placeEffect = buildStone;
 
@@ -334,6 +355,10 @@ namespace CatalystMachines
 							}
 
                 });
+
+			var buildfhive = buildFab.GetComponent<Beehive>();
+            buildfhive.m_name = "$item_ancientharvester_name";
+
             var fxBuild = buildFab.GetComponent<Piece>();
             fxBuild.m_placeEffect = buildWood;
 
