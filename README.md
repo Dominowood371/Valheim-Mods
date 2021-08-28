@@ -9,6 +9,7 @@ To activate cheat commands, type `devcommands` and press enter. You'll be able t
 
 To deactivate cheat commands, type `devcommands` and press enter again.
 
+Type `debugmode` into the console without quotes
  **How to Read this List:**
 
 - Anything between parentheses ( ) is a comment describing the command. (don't type these)
