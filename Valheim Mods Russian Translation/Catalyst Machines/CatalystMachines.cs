@@ -23,7 +23,6 @@ namespace CatalystMachines
 		{
 			base.Config.Bind<int>("Main Section", "This Will change the amount of seconds it takes to produce 1 resource, for now it does nothing", 1, new ConfigDescription("This is an example config, using a range limitation for ConfigurationManager", new AcceptableValueRange<int>(0, 100), Array.Empty<object>()));
 			Jotunn.Logger.LogInfo("The princess and the firefly ready for the harvest!");
-			SetupConfig();     
                         LoadAssets();
                         ItemManager.OnVanillaItemsAvailable += LoadSounds;
 		}
@@ -56,13 +55,7 @@ namespace CatalystMachines
         public EffectList breakWood;
         public EffectList hitWood;
         public EffectList buildWood;
-        public static ConfigEntry<bool> hidePlaceMarkerConfig;
-
-		private void SetupConfig()
-		{
-			CatalystMachines.hidePlaceMarkerConfig = base.Config.Bind<bool>("Placement", "Hide placement marker", true, new ConfigDescription("Hide the yellow placement marker while using the Improved Hammer", null, Array.Empty<object>()));
-		}
-
+	
 		private void LoadSounds()
         {
                 var sfxStoneBuild = PrefabManager.Cache.GetPrefab<GameObject>("sfx_build_hammer_stone");
