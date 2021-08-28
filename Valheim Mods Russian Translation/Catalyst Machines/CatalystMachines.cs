@@ -1,22 +1,55 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
 using BepInEx;
 using BepInEx.Configuration;
 using Jotunn;
+using Jotunn.Utils;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
 using Jotunn.Configs;
 using Jotunn.Entities;
 using Jotunn.Managers;
-using Jotunn.Utils;
 using UnityEngine;
 
-namespace CatalystMachines.Manager
+namespace CatalystMachines
 {
-    internal class BuildIt : BaseUnityPlugin
-  {
+	// Token: 0x02000002 RID: 2
+	[BepInPlugin("com.redridingwolf.catalystmachines", "Catalyst Machines", "0.0.5")]
+	[BepInDependency("com.jotunn.jotunn", BepInDependency.DependencyFlags.HardDependency)]
+	internal class CatalystMachines : BaseUnityPlugin
+	{
+		// Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
+		private void Awake()
+		{
+			base.Config.Bind<int>("Main Section", "This Will change the amount of seconds it takes to produce 1 resource, for now it does nothing", 1, new ConfigDescription("This is an example config, using a range limitation for ConfigurationManager", new AcceptableValueRange<int>(0, 100), Array.Empty<object>()));
+			Jotunn.Logger.LogInfo("The princess and the firefly ready for the harvest!");
+			SetupConfig();     
+                        LoadAssets();
+                        ItemManager.OnVanillaItemsAvailable += LoadSounds;
+		}
 
-	    public AssetBundle assetBundle;
+		// Token: 0x06000002 RID: 2 RVA: 0x00002130 File Offset: 0x00000330
+
+		        public void LoadAssets()
+        {
+            assetBundle = AssetUtils.LoadAssetBundleFromResources("catalystmachines", Assembly.GetExecutingAssembly());
+        }
+
+		// Token: 0x06000003 RID: 3 RVA: 0x0000208F File Offset: 0x0000028F
+		public CatalystMachines()
+		{
+		}
+
+		// Token: 0x04000001 RID: 1
+		public const string PluginGUID = "com.redridingwolf.catalystmachines";
+
+		// Token: 0x04000002 RID: 2
+		public const string PluginName = "Catalyst Machines";
+
+		// Token: 0x04000003 RID: 3
+		public const string PluginVersion = "0.0.5";
+
+	public AssetBundle assetBundle;
         public EffectList buildStone;
         public EffectList breakStone;
         public EffectList hitStone;
@@ -25,30 +58,13 @@ namespace CatalystMachines.Manager
         public EffectList buildWood;
         public static ConfigEntry<bool> hidePlaceMarkerConfig;
 
-
-		private void Awake()
-        {       
-			SetupConfig();     
-            LoadAssets();
-            ItemManager.OnVanillaItemsAvailable += LoadSounds;
-            
-            
-        }
-
 		private void SetupConfig()
 		{
-			BuildIt.hidePlaceMarkerConfig = base.Config.Bind<bool>("Placement", "Hide placement marker", true, new ConfigDescription("Hide the yellow placement marker while using the Improved Hammer", null, Array.Empty<object>()));
+			CatalystMachines.hidePlaceMarkerConfig = base.Config.Bind<bool>("Placement", "Hide placement marker", true, new ConfigDescription("Hide the yellow placement marker while using the Improved Hammer", null, Array.Empty<object>()));
 		}
 
-        public void LoadAssets()
+		private void LoadSounds()
         {
-            assetBundle = AssetUtils.LoadAssetBundleFromResources("catalystmachines", Assembly.GetExecutingAssembly());
-        }
-
-		        private void LoadSounds()
-        {
-            // try
-            // {
                 var sfxStoneBuild = PrefabManager.Cache.GetPrefab<GameObject>("sfx_build_hammer_stone");
                 var vfxStoneBuild = PrefabManager.Cache.GetPrefab<GameObject>("vfx_Place_stone_wall_2x1");
                 var sfxWoodBuild = PrefabManager.Cache.GetPrefab<GameObject>("sfx_build_hammer_wood");
@@ -72,14 +88,7 @@ namespace CatalystMachines.Manager
                 WoodFarmT1();
                 WoodFarmT2();
 
-            Jotunn.Logger.LogMessage("Loaded Game VFX and SFX");
-            /*}
-            catch (Exception ex)
-            {
-                Jotunn.Logger.LogError($"Error while running OnVanillaLoad: {ex.Message}");
-            }
-            finally
-            {*/
+                Jotunn.Logger.LogMessage("Loaded Game VFX and SFX");
                 Jotunn.Logger.LogMessage("Load Complete.");
 
                 ItemManager.OnVanillaItemsAvailable -= LoadSounds;
@@ -160,12 +169,12 @@ namespace CatalystMachines.Manager
 							}
 
                 });
-             var buildfx = buildFab.GetComponent<Piece>();
-            buildfx.m_placeEffect = buildStone;
+            var fxBuild = buildFab.GetComponent<Piece>();
+            fxBuild.m_placeEffect = buildWood;
 
-            var breakfx = buildFab.GetComponent<WearNTear>();
-            breakfx.m_destroyedEffect = breakStone;
-            breakfx.m_hitEffect = hitStone;
+            var fxHit = buildFab.GetComponent<WearNTear>();
+            fxHit.m_hitEffect = hitWood;
+            fxHit.m_destroyedEffect = breakWood;
             PieceManager.Instance.AddPiece(build);
         }
 
@@ -305,12 +314,12 @@ namespace CatalystMachines.Manager
 							}
 
                 });
-            var fxBuild = buildFab.GetComponent<Piece>();
-            fxBuild.m_placeEffect = buildWood;
+            var buildfx = buildFab.GetComponent<Piece>();
+            buildfx.m_placeEffect = buildStone;
 
-            var fxHit = buildFab.GetComponent<WearNTear>();
-            fxHit.m_hitEffect = hitWood;
-            fxHit.m_destroyedEffect = breakWood;
+            var breakfx = buildFab.GetComponent<WearNTear>();
+            breakfx.m_destroyedEffect = breakStone;
+            breakfx.m_hitEffect = hitStone;
             PieceManager.Instance.AddPiece(build);
         }
 
@@ -354,7 +363,6 @@ namespace CatalystMachines.Manager
             fxHit.m_hitEffect = hitWood;
             fxHit.m_destroyedEffect = breakWood;
             PieceManager.Instance.AddPiece(build);
-        }
-
+}
 	}
 }
