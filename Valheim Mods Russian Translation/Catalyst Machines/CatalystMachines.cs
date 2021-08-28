@@ -13,41 +13,23 @@ using UnityEngine;
 
 namespace CatalystMachines
 {
-	// Token: 0x02000002 RID: 2
 	[BepInPlugin("com.redridingwolf.catalystmachines", "Catalyst Machines", "0.0.5")]
 	[BepInDependency("com.jotunn.jotunn", BepInDependency.DependencyFlags.HardDependency)]
 	internal class CatalystMachines : BaseUnityPlugin
 	{
-		// Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
 		private void Awake()
 		{
 			base.Config.Bind<int>("Main Section", "This Will change the amount of seconds it takes to produce 1 resource, for now it does nothing", 1, new ConfigDescription("This is an example config, using a range limitation for ConfigurationManager", new AcceptableValueRange<int>(0, 100), Array.Empty<object>()));
 			Jotunn.Logger.LogInfo("The princess and the firefly ready for the harvest!");
                         LoadAssets();
-                        ItemManager.OnVanillaItemsAvailable += LoadSounds;
+                        ItemManager.OnVanillaItemsAvailable += LoadFab;
 		}
-
-		// Token: 0x06000002 RID: 2 RVA: 0x00002130 File Offset: 0x00000330
-
-		        public void LoadAssets()
+		
+	public void LoadAssets()
         {
             assetBundle = AssetUtils.LoadAssetBundleFromResources("catalystmachines", Assembly.GetExecutingAssembly());
         }
-
-		// Token: 0x06000003 RID: 3 RVA: 0x0000208F File Offset: 0x0000028F
-		public CatalystMachines()
-		{
-		}
-
-		// Token: 0x04000001 RID: 1
-		public const string PluginGUID = "com.redridingwolf.catalystmachines";
-
-		// Token: 0x04000002 RID: 2
-		public const string PluginName = "Catalyst Machines";
-
-		// Token: 0x04000003 RID: 3
-		public const string PluginVersion = "0.0.5";
-
+	
 	public AssetBundle assetBundle;
         public EffectList buildStone;
         public EffectList breakStone;
@@ -56,7 +38,7 @@ namespace CatalystMachines
         public EffectList hitWood;
         public EffectList buildWood;
 	
-		private void LoadSounds()
+		private void LoadFab()
         {
                 var sfxStoneBuild = PrefabManager.Cache.GetPrefab<GameObject>("sfx_build_hammer_stone");
                 var vfxStoneBuild = PrefabManager.Cache.GetPrefab<GameObject>("vfx_Place_stone_wall_2x1");
@@ -84,7 +66,7 @@ namespace CatalystMachines
                 Jotunn.Logger.LogMessage("Loaded Game VFX and SFX");
                 Jotunn.Logger.LogMessage("Load Complete.");
 
-                ItemManager.OnVanillaItemsAvailable -= LoadSounds;
+                ItemManager.OnVanillaItemsAvailable -= LoadFab;
             //}
         }
 
