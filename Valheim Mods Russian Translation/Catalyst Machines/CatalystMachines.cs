@@ -56,12 +56,12 @@ namespace CatalystMachines
                 breakWood = new EffectList { m_effectPrefabs = new EffectList.EffectData[2] { new EffectList.EffectData { m_prefab = sfxWoodBreak }, new EffectList.EffectData { m_prefab = vfxWoodHit } } };
                 hitWood = new EffectList { m_effectPrefabs = new EffectList.EffectData[1] { new EffectList.EffectData { m_prefab = vfxWoodHit} } };
 
-                ResinFarmT1();
-                ResinFarmT2();
-                StoneFarmT1();
-                StoneFarmT2();
-                WoodFarmT1();
-                WoodFarmT2();
+                PieceResinFarmT1();
+                PieceResinFarmT2();
+                PieceStoneFarmT1();
+                PieceStoneFarmT2();
+                PieceWoodFarmT1();
+                PieceWoodFarmT2();
 
                 Jotunn.Logger.LogMessage("Loaded Game VFX and SFX");
                 Jotunn.Logger.LogMessage("Load Complete.");
@@ -70,7 +70,7 @@ namespace CatalystMachines
             //}
         }
 
-		private void ResinFarmT1()
+		private void PieceResinFarmT1()
         {
 
             var buildFab = assetBundle.LoadAsset<GameObject>("ResinFarmT1");
@@ -111,7 +111,7 @@ namespace CatalystMachines
             PieceManager.Instance.AddPiece(build);
         }
 
-		private void ResinFarmT2()
+		private void PieceResinFarmT2()
         {
 
             var buildFab = assetBundle.LoadAsset<GameObject>("ResinFarmT2");
@@ -153,7 +153,7 @@ namespace CatalystMachines
             PieceManager.Instance.AddPiece(build);
         }
 
-		private void StoneFarmT1()
+		private void PieceStoneFarmT1()
         {
 
             var buildFab = assetBundle.LoadAsset<GameObject>("StoneFarmT1");
@@ -202,7 +202,7 @@ namespace CatalystMachines
 
         }
 
-		private void StoneFarmT2()
+		private void PieceStoneFarmT2()
         {
 
             var buildFab = assetBundle.LoadAsset<GameObject>("StoneFarmT2");
@@ -250,7 +250,7 @@ namespace CatalystMachines
             PieceManager.Instance.AddPiece(build);
         }
 
-		private void WoodFarmT1()
+		private void PieceWoodFarmT1()
         {
 
             var buildFab = assetBundle.LoadAsset<GameObject>("WoodFarmT1");
@@ -298,7 +298,7 @@ namespace CatalystMachines
             PieceManager.Instance.AddPiece(build);
         }
 
-		private void WoodFarmT2()
+		private void PieceWoodFarmT2()
         {
 
             var buildFab = assetBundle.LoadAsset<GameObject>("WoodFarmT2");
