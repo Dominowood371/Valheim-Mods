@@ -1643,6 +1643,27 @@
       "RefObject": "Tier7Mob"
     },
 
+	  
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // ValheimExpanded
+    // Mobs                          IDS:                                     Health    Tier     Location          
+    // 
+    // Flaming Lox                   FlamingLox                               1000      Tier7    AshLands          
+    // Polar Lox                     PolarLox                                 1000      Tier5    DeepNorth         
+    // Misty Lox                     MistyLox                                 1000      Tier3    Swamp             
+    // Pygmy Lox                     PygmyLox                                 1000      Tier0    Meadows          
+    // Night Lox                     NightLox                                 1000      Tier6    Mistlands         
+    // Mossy Lox                     MossyLox                                 1000      Tier2    BlackForest       
+    // Ancient Spiderling            AncientSpiderling                        1000      Tier1    Meadows          
+    // Flaming Spiderling            FlamingSpiderling                        1000      Tier7    AshLands          
+    // Frozen Spiderling             FrozenSpiderling                         1000      Tier5    DeepNorth        
+    // Widow Spiderling              WidowSpiderling                          1000      Tier6    Mistlands        
+    // Misty Spiderling              MistySpiderling                          1000      Tier3    Swamp             
+    // Pygmy Spiderling              PygmySpiderling                          1000      Tier5    Plains           
+    // Radioactive Spiderling        RadioSpiderling 4                        1000      Tier2    BlackForest      
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
+	 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterLabZ MOD
     // Mobs                      IDS:                                          Health    Tier     Location
