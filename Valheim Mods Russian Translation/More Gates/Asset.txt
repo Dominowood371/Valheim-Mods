@@ -26,7 +26,7 @@
         "m_name": "$piece_wooddoor",
 			"Assets/CustomItems/h_siegemod/gates/h_shutter_01.prefab",
         "m_name": "Shutter",
-      "Assets/CustomItems/h_siegemod/gates/h_trapdoor.prefab",
+                        "Assets/CustomItems/h_siegemod/gates/h_trapdoor.prefab",
         "m_name": "Small Hatch",
 			"Assets/CustomItems/h_siegemod/gates/h_trapdoorbig.prefab",
         "m_name": "Large Hatch",
