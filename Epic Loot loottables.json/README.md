@@ -208,6 +208,25 @@ Added item drops for new mobs:
 | WendigoForest              | Mistlands     | Tier6     |
 | WendigoSwamp               | BlackForest   | Tier2     |
 
+**ValheimExpanded**
+
+Added item drops for new mobs:
+
+| Mods | Health  | Location | Tier |
+| ---- | -------- | ---------------- | ------ |
+| Flaming Lox               | 1000 | AshLands     | Tier7 |
+| Polar Lox                 | 1000 | DeepNorth    | Tier5 |
+| Misty Lox                 | 1000 | Swamp        | Tier3 |
+| Pygmy Lox                 | 1000 | Meadows      | Tier0 |
+| Night Lox                 | 1000 | Mistlands    | Tier6 |
+| Mossy Lox                 | 1000 |  BlackForest | Tier2 |
+| Ancient Spiderling        | 1000 | Meadows      | Tier1 |
+| Flaming Spiderling        | 1000 | AshLands     | Tier7 |
+| Frozen Spiderling         | 1000 | DeepNorth    | Tier5 |
+| Widow Spiderling          | 1000 | Mistlands    | Tier6 |
+| Misty Spiderling          | 1000 | Swamp        | Tier3 |
+| Pygmy Spiderling          | 1000 | Plains       | Tier5 |
+| Radioactive Spiderling    | 1000 | BlackForest  | Tier2 |
 ### Install
 To install, just copy the text from the `loottable.json` file and paste into your `loottable.json` file or download the `loottable.json` file with replacement, move the file to the folder `\Valheim\BepInEx\plugins`
 
