@@ -124,19 +124,19 @@ https://valheim.fandom.com/wiki/Creatures
     // ValheimExpanded
     // Mobs                          IDS:                                     Health    Tier     Location          Faction           Drop
     // 
-    // Flaming Lox                   FlamingLox                               1000     "m_faction": 4,
-    // Polar Lox                     PolarLox                                 1000     "m_faction": 5,
-    // Misty Lox                     MistyLox                                 1000     "m_faction": 3,
-    // Pygmy Lox                     PygmyLox                                 1000     "m_faction": 1,
-    // Night Lox                     NightLox                                 1000     "m_faction": 2,
-    // Mossy Lox                     MossyLox                                 1000     "m_faction": 2,
-    // Ancient Spiderling            AncientSpiderling                        1000     "m_faction": 2,
-    // Flaming Spiderling            FlamingSpiderling                        1000     "m_faction": 4,
-    // Frozen Spiderling             FrozenSpiderling                         1000     "m_faction": 5,
-    // Widow Spiderling              WidowSpiderling                          1000     "m_faction": 2,
-    // Misty Spiderling              MistySpiderling                          1000     "m_faction": 3,
-    // Pygmy Spiderling              PygmySpiderling                          1000     "m_faction": 7,
-    // Radioactive Spiderling        RadioSpiderling 4                        1000     "m_faction": 2,
+    // Flaming Lox                   FlamingLox                               1000      Tier7    AshLands          "m_faction": 4,
+    // Polar Lox                     PolarLox                                 1000      Tier5    DeepNorth         "m_faction": 5,            
+    // Misty Lox                     MistyLox                                 1000      Tier3    Swamp             "m_faction": 3,
+    // Pygmy Lox                     PygmyLox                                 1000      Tier0    Meadows           "m_faction": 1,
+    // Night Lox                     NightLox                                 1000      Tier6    Mistlands         "m_faction": 2,
+    // Mossy Lox                     MossyLox                                 1000      Tier2    BlackForest       "m_faction": 2,
+    // Ancient Spiderling            AncientSpiderling                        1000      Tier1    Meadows           "m_faction": 2,
+    // Flaming Spiderling            FlamingSpiderling                        1000      Tier7    AshLands          "m_faction": 4,
+    // Frozen Spiderling             FrozenSpiderling                         1000      Tier5    DeepNorth         "m_faction": 5,
+    // Widow Spiderling              WidowSpiderling                          1000      Tier6    Mistlands         "m_faction": 2,
+    // Misty Spiderling              MistySpiderling                          1000      Tier3    Swamp             "m_faction": 3,
+    // Pygmy Spiderling              PygmySpiderling                          1000      Tier5    Plains            "m_faction": 7,
+    // Radioactive Spiderling        RadioSpiderling 4                        1000      Tier2    BlackForest       "m_faction": 2,
 
 
     RRR_NPC  Tier0
