@@ -1663,7 +1663,150 @@
     // Radioactive Spiderling        RadioSpiderling 4                        1000      Tier2    BlackForest      
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
-	 
+	
+    // Flaming Lox
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "FlamingLox",
+      "RefObject": "Tier7Mob"
+    },
+    {
+      "Object": "RRRM_FlamingLox",
+      "RefObject": "Tier7Mob"
+    }, 
+	  
+    // Polar Lox
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "PolarLox",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_PolarLox",
+      "RefObject": "Tier5Mob"
+    },  
+	  
+    // Misty Lox
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "MistyLox",
+      "RefObject": "Tier3Mob"
+    },
+    {
+      "Object": "RRRM_MistyLox",
+      "RefObject": "Tier3Mob"
+    },  
+	  
+    // Pygmy Lox
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "PygmyLox",
+      "RefObject": "Tier0Mob"
+    },
+    {
+      "Object": "RRRM_PygmyLox",
+      "RefObject": "Tier0Mob"
+    },  
+	  
+    // Night Lox
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "NightLox",
+      "RefObject": "Tier6Mob"
+    },
+    {
+      "Object": "RRRM_NightLox",
+      "RefObject": "Tier6Mob"
+    },  
+	  
+    // Mossy Lox
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "MossyLox",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "RRRM_MossyLox",
+      "RefObject": "Tier2Mob"
+    },  
+	  
+    // Ancient Spiderling
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "AncientSpiderling",
+      "RefObject": "Tier1Mob"
+    },
+    {
+      "Object": "RRRM_AncientSpiderling",
+      "RefObject": "Tier1Mob"
+    },  
+	  
+    // Flaming Spiderling
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "FlamingSpiderling",
+      "RefObject": "Tier7Mob"
+    },
+    {
+      "Object": "RRRM_FlamingSpiderling",
+      "RefObject": "Tier7Mob"
+    },  
+	  
+    // Frozen Spiderling
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "FrozenSpiderling",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_FrozenSpiderling",
+      "RefObject": "Tier5Mob"
+    },  
+	  
+    // Widow Spiderling
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "WidowSpiderling",
+      "RefObject": "Tier6Mob"
+    },
+    {
+      "Object": "RRRM_WidowSpiderling",
+      "RefObject": "Tier6Mob"
+    },   
+	  
+    // Misty Spiderling
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "MistySpiderling",
+      "RefObject": "Tier3Mob"
+    },
+    {
+      "Object": "RRRM_MistySpiderling",
+      "RefObject": "Tier3Mob"
+    },   
+	  
+    // Pygmy Spiderling
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "PygmySpiderling",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRRM_PygmySpiderling",
+      "RefObject": "Tier5Mob"
+    },   
+	  
+    // Radioactive Spiderlin
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RadioSpiderling_4",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "RRRM_RadioSpiderling_4",
+      "RefObject": "Tier2Mob"
+    },   
+
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterLabZ MOD
     // Mobs                      IDS:                                          Health    Tier     Location
