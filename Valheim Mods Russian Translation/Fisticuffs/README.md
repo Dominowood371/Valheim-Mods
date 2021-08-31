@@ -10,8 +10,11 @@ Mod Fisticuffs Russian Translation Version 1.1.6.
 
 Требуемие моды для работоспособности мода:
 * [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
-* [Jotunn the Valheim Library](https://www.nexusmods.com/valheim/mods/1138)
-* [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
+* [Jotunn the Valheim Library](https://valheim.thunderstore.io/package/ValheimModding/Jotunn/)
+* [ValheimLib](https://valheim.thunderstore.io/package/ValheimModding/ValheimLib/)
+* [HookGenPatcher](https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/)
+* [BuildExpansion](https://valheim.thunderstore.io/package/MixoneFinallyHere/BuildExpansion/)
+
 
 ### Скачивание
 1. Найдите архив `Fisticuffs-1-1-6-Rus.zip`, который вы хотите загрузить.
