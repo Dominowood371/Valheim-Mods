@@ -8,7 +8,7 @@ Mod Fisticuffs Russian Translation Version 1.1.6.
 
 Скачайте архив `Fisticuffs-1-1-6-Rus.zip` и распакуйте архив, в архиве будет папка `Fisticuffs` переместите эту папку со всем содержимым в папку с игрой `Valheim\BepInEx\plugins`.
 
-Требуемие моды для работоспособности мода Forsaken:
+Требуемие моды для работоспособности мода:
 * [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
 * [Jotunn the Valheim Library](https://www.nexusmods.com/valheim/mods/1138)
 * [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
