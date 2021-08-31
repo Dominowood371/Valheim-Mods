@@ -8,6 +8,13 @@ Mod CustomBuildingItems Russian Translation Version 2.0.4.
 
 Скачайте файл `CustomBuildingItems_russian.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\CustomBuildingItems\Assets\Translations\Russian`.
 
+Требуемие моды для работоспособности мода:
+* [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
+* [Jotunn the Valheim Library](https://valheim.thunderstore.io/package/ValheimModding/Jotunn/)
+* [ValheimLib](https://valheim.thunderstore.io/package/ValheimModding/ValheimLib/)
+* [HookGenPatcher](https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/)
+* [BuildExpansion](https://valheim.thunderstore.io/package/MixoneFinallyHere/BuildExpansion/)
+
 ### Скачивание
 
 1. Найдите файл, который вы хотите загрузить.
