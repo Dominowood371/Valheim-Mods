@@ -167,6 +167,12 @@
 	"custompiece_blackdragonstatuelarge":"Большая статуя черного дракона",
 
 	"custompiece_dunmr_shelfwithbooksdouble":"Двойная книжная полка",
-	"custompiece_swingingswing":"Качающийся качели"
+	"custompiece_swingingswing":"Качающийся качели",
+	
+	"jotunn_modsettings": "Настройки модов",
+	"jotunn_cat_Sculptures": "Скульптуры",
+	"jotunn_cat_Kitchen": "Кухонные",
+	"jotunn_cat_Decor": "Декорации",
+	"jotunn_cat_Amenities": "Удобства"
 
 }
