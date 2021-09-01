@@ -2,7 +2,7 @@ Mod More Lighting Russian Translation Version 1.0.3.
 
 ### Описание
 
-Перевод мода [More Lighting](https://www.nexusmods.com/valheim/mods/653) на русский язык для игры Valheim. 
+Перевод мода [More Lighting](https://www.nexusmods.com/valheim/mods/1214) на русский язык для игры Valheim. 
 
 ### Установка
 
