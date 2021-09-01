@@ -494,3 +494,6 @@ CustomRecipe customRecipe4 = new CustomRecipe(new RecipeConfig
   "piece_1_desc": ""
   "category_1": "",
   "piece_1_desc": ""
+
+				Name = "",
+				Description = "",
