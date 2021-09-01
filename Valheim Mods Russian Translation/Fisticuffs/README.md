@@ -1,4 +1,4 @@
-Mod Fisticuffs Russian Translation Version 1.1.6.
+Mod Fisticuffs Russian Translation Version 1.1.8.
 
 ### Описание
 
