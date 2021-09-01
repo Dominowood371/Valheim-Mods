@@ -8,7 +8,7 @@ Mod Catalyst Machines Russian Translation Version 0.0.5.
 
 Скачайте архив `Catalyst Machines-0-0-5-Rus.rar` и распакуйте архив, в архиве будет папка `Fisticuffs` переместите эту папку со всем содержимым в папку с игрой `Valheim\BepInEx\plugins`.
 
-Требуемие моды для работоспособности мода Forsaken:
+Требуемие моды для работоспособности мода:
 * [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
 * [Jotunn the Valheim Library](https://www.nexusmods.com/valheim/mods/1138) Version 2.2.5+
 * [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
