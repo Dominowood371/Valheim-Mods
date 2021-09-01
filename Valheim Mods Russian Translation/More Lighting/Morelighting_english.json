@@ -1,0 +1,23 @@
+{
+  "piece_cyanwoodtorch_name": "Cyan Wood Torch",
+  "piece_greenwoodtorch_name": "Green Wood Torch",
+  "piece_purplewoodtorch_name": "Purple Wood Torch",
+  "piece_redwoodtorch_name": "Red Wood Torch",
+  "piece_whitewoodtorch_name": "White Wood Torch",
+  "piece_cyanirontorch_name": "Cyan Iron Torch",
+  "piece_greenirontorch_name": "Green Iron Torch",
+  "piece_purpleirontorch_name": "Purple Iron Torch",
+  "piece_redirontorch_name": "Red Iron Torch",
+  "piece_whiteirontorch_name": "White Iron Torch",
+  "piece_cyansconce_name": "Cyan Sconce",
+  "piece_greensconce_name": "Green Sconce",
+  "piece_purplesconce_name": "Purple Sconce",
+  "piece_redsconce_name": "Red Sconce",
+  "piece_whitesconce_name": "White Sconce",
+  "piece_cyanbrazier_name": "Cyan Brazier",
+  "piece_greenbrazier_name": "Green Brazier",
+  "piece_purplebrazier_name": "Purple Brazier",
+  "piece_redbrazier_name": "Red Brazier",
+  "piece_whitebrazier_name": "White Brazier",
+  "cat_morelights_name": "MoreLights"
+}
