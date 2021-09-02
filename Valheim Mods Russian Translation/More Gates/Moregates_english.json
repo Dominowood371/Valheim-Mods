@@ -1,6 +1,6 @@
 {
-        "piece_drawbridge1_name": "Drawbridge",
-        "piece_drawbridge2_name": "Drawbridge",
+        "piece_drawbridge_01_name": "Drawbridge",
+        "piece_drawbridge_02_name": "Drawbridge",
         "piece_ironportcullis_name": "Iron Portcullis",
         "piece_woodportcullis_name": "Wood Portcullis",
         "piece_fancygate_name": "Fancy Gate",
