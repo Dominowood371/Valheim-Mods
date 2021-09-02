@@ -28,7 +28,7 @@
  - [X] [OdinArchitect - Custom buildings](https://www.nexusmods.com/valheim/mods/1174) ✔
  - [X] [PlantIt](https://www.nexusmods.com/valheim/mods/1251) ✔
  - [ ] [Build It](https://www.nexusmods.com/valheim/mods/1385) ❌
- - [ ] [More Gates](https://www.nexusmods.com/valheim/mods/1087) ❌
+ - [X] [More Gates](https://www.nexusmods.com/valheim/mods/1087) ❌
  - [ ] [Candles Lanterns and Beeswax](https://www.nexusmods.com/valheim/mods/1226) ❌
  - [ ] [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/1335) ❌
  - [X] [More Lighting](https://www.nexusmods.com/valheim/mods/1214) ❌
