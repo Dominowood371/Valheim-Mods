@@ -137,10 +137,28 @@ https://valheim.fandom.com/wiki/Creatures
     // Misty Spiderling              MistySpiderling                          1000      Tier3    Swamp             "m_faction": 3,   Guck
     // Pygmy Spiderling              PygmySpiderling                          1000      Tier5    Plains            "m_faction": 7,   Guck
     // Radioactive Spiderling        RadioSpiderling 4                        1000      Tier2    BlackForest       "m_faction": 2,   Guck
-
-
-    RRR_NPC  Tier0
-
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // 
+    // RRRMonsters MOD
+    // RRR_GDThornweaver  Tier3
+    // RRR_GhostVengeful  Tier3
+    // RRR_TrollTosser    Tier3
+    // RRR_Grig           Tier4
+    // RRR_GrigHorn       Tier4
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // RRRNpcs MOD
+    // 
+    // RRR_NPC            Tier0
+    // RRR_Hostile_T1     Tier1
+    // RRR_Hostile_T2     Tier2
+    // RRR_Hostile_T3     Tier3
+    // RRR_Hostile_T4     Tier4
+    // RRR_Hostile_T5     Tier5
+    // RRR_Hostile_T6     Tier6
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ---------------------------------------------------------------------
 Boar	           Forest	Meadows                 m_faction = 2
     m_blunt: 0
