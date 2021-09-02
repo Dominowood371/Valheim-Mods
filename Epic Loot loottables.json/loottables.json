@@ -1643,6 +1643,76 @@
       "RefObject": "Tier7Mob"
     },
 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // 
+    // RRRMonsters MOD
+    // RRR_GDThornweaver  Tier3
+    // RRR_GhostVengeful  Tier3
+    // RRR_TrollTosser    Tier3
+    // RRR_Grig           Tier4
+    // RRR_GrigHorn       Tier4
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // RRRNpcs MOD
+    // 
+    // RRR_NPC            Tier0
+    // RRR_Hostile_T1     Tier1
+    // RRR_Hostile_T2     Tier2
+    // RRR_Hostile_T3     Tier3
+    // RRR_Hostile_T4     Tier4
+    // RRR_Hostile_T5     Tier5
+    // RRR_Hostile_T6     Tier6
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	  
+    {
+      "Object": "RRR_GDThornweaver",
+      "RefObject": "Tier3Mob"
+    },
+    {
+      "Object": "RRR_GhostVengeful",
+      "RefObject": "Tier3Mob"
+    },
+    {
+      "Object": "RRR_TrollTosser",
+      "RefObject": "Tier3Mob"
+    },
+    {
+      "Object": "RRR_Grig",
+      "RefObject": "Tier4Mob"
+    },
+    {
+      "Object": "RRR_GrigHorn",
+      "RefObject": "Tier4Mob"
+    },
+    {
+      "Object": "RRR_Hostile_T1",
+      "RefObject": "Tier1Mob"
+    },
+    {
+      "Object": "RRR_Hostile_T2",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "RRR_Hostile_T3",
+      "RefObject": "Tier3Mob"
+    },
+    {
+      "Object": "RRR_Hostile_T4",
+      "RefObject": "Tier4Mob"
+    },
+    {
+      "Object": "RRR_Hostile_T5",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "RRR_Hostile_T6",
+      "RefObject": "Tier6Mob"
+    },
+    {
+      "Object": "RRR_NPC",
+      "RefObject": "Tier0Mob"
+    },
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // ValheimExpanded
@@ -2573,17 +2643,6 @@
     {
       "Object": "RRRM_WendigoSwamp",
       "RefObject": "Tier2Mob"
-    },
-	  
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // RRRNpcs MOD
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-    // NPC
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "RRR_NPC",
-      "RefObject": "Tier0Mob"
     },
 	    
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
