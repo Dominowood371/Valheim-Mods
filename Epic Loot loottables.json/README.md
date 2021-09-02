@@ -20,7 +20,9 @@ List of mods to be added to the table:
 | [MonsterLabZ](https://www.nexusmods.com/valheim/mods/1264) | 1.7.0 | Enemies, Monsters |
 | [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters |
 | [MonsterMash](https://www.nexusmods.com/valheim/mods/1284) | 0.0.9 | Enemies, Monsters |
- 
+| [RRRNpcs](https://valheim.thunderstore.io/package/neurodr0me/RRRNpcs/) | 0.2.3 | Npc, Enemies, Monsters |
+| [RRRMonsters](https://valheim.thunderstore.io/package/neurodr0me/RRRMonsters/) | 2.2.1 | Enemies, Monsters |
+
 ### Loot table
 Distribution of mods in the table.
 
