@@ -1,4 +1,4 @@
-Mod PlantIt Russian Translation Version 0.1.1.
+Mod PlantIt Russian Translation Version 0.1.2.
 
 ### Описание
 
