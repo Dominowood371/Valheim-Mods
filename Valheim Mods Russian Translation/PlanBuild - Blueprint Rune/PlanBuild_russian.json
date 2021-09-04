@@ -13,10 +13,15 @@
   "item_plan_piece_description": "$1 запланированное строительство",
   "piece_plan_totem": "Тотем плана",
   "piece_plan_totem_desc": "Строит запланированные части постройки в области вокруг него",
+  "piece_plan_totem_container": "Хранилище",
+  "piece_plan_totem_missing": "Отсутствующие ремесленные стойки:",
+  "piece_plan_totem_connected": "Запланированано частей $1 (имеют опору $2)",
+  "piece_plan_totem_required": "Необходимые материалы:",
   "piece_world_standing_blueprint_rune": "Постоянная руна с чертежами",
   "piece_world_standing_blueprint_rune_desc": "Большая руна с чертежами, которыми можно поделиться с другими игроками.",
   "piece_world_blueprint_rune_stack": "Библиотека рун с чертежами",
   "piece_world_blueprint_rune_stack_desc": "Коллекция рун с чертежами, которыми можно поделиться с другими игроками.",
+  "piece_world_blueprint_rune_open": "Открыть площадку с чертежами",
   "hud_bp_switch_to_blueprint_mode": "Перейти в режим чертежа",
   "hud_bp_switch_to_plan_mode": "Перейти в режим постройки",
   "item_blueprintrune": "Рунический чертеж",
@@ -84,31 +89,11 @@
   "gui_bpmarket_savebp": "Сохранить $1 чертеж $2",
   "gui_bpmarket_transferbp": "Перемеcтить $1 чертеж $2",
   "gui_bpmarket_deletebp": "Удалить $1 чертеж $2",
+  "gui_bpmarket_pieces": "Частей $1",
   "msg_bpmarket_server_disabled": "Чертежи для сервера отключены",
   "msg_bpmarket_notconnected": "Нет соединения",
   "msg_bpmarket_admin_restricted": "Только администраторы могут редактировать чертежи для серверов",
-  "msg_bpmarket_save_failed": "Не удалось сохранить чертеж"
+  "msg_bpmarket_save_failed": "Не удалось сохранить чертеж",
+  "jotunn_cat_Sculptures": "Инструменты",
+  "jotunn_cat_Sculptures": "Чертежи"
 }
-
-Open 
-Открыть
-
-Missing crafting stations:
-Отсутствующие ремесленные стойки:
-
-{m_connectedPieces.Count} connected plans ({m_supportedPieces} supported)
-запланированано частей $1 (имеют опору $2)
-
-Required materials:
-Необходимые материалы:
-
-Open Blueprint Marketplace
-Открыть площадку с чертежами
-
-Container Хранилище Ящик вместилище
-
-Pieces Частей
-
-Tools  Инструменты
-
-Blueprint Чертежи
