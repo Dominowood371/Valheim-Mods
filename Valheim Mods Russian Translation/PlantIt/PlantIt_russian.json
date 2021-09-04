@@ -12,7 +12,7 @@
 	"custompiece_umbrellapalm":"Сыть зонтичная",
 	"custompiece_barrelcactus":"Эхинокактус",
 	"custompiece_cactus1":"Маленький высокий кактус",
-	"custompiece_cactus1.2":"Большой высокий кактус",
+	"custompiece_cactus1L":"Большой высокий кактус",
 	"custompiece_cactus2":"Кактус с цветком",
 	"custompiece_desertlily":"Пустынная лилия",
 	"custompiece_desertmarigold":"Бархатцы пустынные",
@@ -27,10 +27,10 @@
 	"custompiece_aloe":"Алоэ",
 	"custompiece_bromeliad":"Бромелиевые",
 	"custompiece_ivy1":"Маленький плющ",
-	"custompiece_ivy1.2":"Большой плющ",
+	"custompiece_ivy1L":"Большой плющ",
 	"custompiece_rubberfig":"Фикус каучуконосный",
 	"custompiece_tallhouseplant":"Высокое комнатное растение",
-	"custompiece_vines1.2":"Маленькие лозы",
+	"custompiece_vines1L":"Маленькие лозы",
 	"custompiece_vines1":"Большие лозы",
 	
 	"custompiece_aeoniums":"Эониум в горшке",
@@ -38,7 +38,7 @@
 	"custompiece_cattail":"Рогоз",
 	"custompiece_coolpot":"Причудливый горшок с травой",
 	"custompiece_hangingplant":"Маленькое подвесное растение",
-	"custompiece_hangingplant1.2":"Большое подвесное растение",
+	"custompiece_hangingplant1L":"Большое подвесное растение",
 	"custompiece_kelp":"Маленькая ламинария",
 	"custompiece_kelpbig":"Большая ламинария",
 	"custompiece_miscplant1":"Большое растение в горшке",
@@ -51,7 +51,6 @@
 	"custompiece_tallflowerbush":"Цветочный куст",
 	"custompiece_vines2":"Лоза",
 	"custompiece_weirdflowers":"Цветы в горшке",
-	
 	
 	"custompiece_stump1":"Стул из пня с мухоморами",
 	"custompiece_stump2":"Стул из пня сосны",
@@ -92,5 +91,47 @@
 	"custompiece_s12_splitrocks":"Плейоспилос Неля",
 	"custompiece_s13_roundcactusyellowflowers":"Кактусы с желтыми цветами в горшке",
 	"custompiece_s14_roseaeonium":"Эониум додрантале",
-	"custompiece_s15_euphorbia":"Молочай абиссинский"	
+	"custompiece_s15_euphorbia":"Молочай абиссинский",
+
+	"custompiece_fancypot":"Fancy Pot - Small",
+	"custompiece_fancypotL":"Fancy Pot - Large",
+	"custompiece_hangingpot_large":"Hanging Pot - Large",
+	"custompiece_hangingpot_small":"Hanging Pot - Small",
+
+	"custompiece_TCpot1":"Terra Cotta Pot - Small",
+	"custompiece_TCpot1_desc":"With lower soil and a plate underneath.",
+
+	"custompiece_TCpot1L":"Terra Cotta Pot - Large",
+	"custompiece_TCpot1L_desc":"With lower soil and a plate underneath.",
+
+	"custompiece_TCpot2":"Terra Cotta Pot - Small",
+	"custompiece_TCpot2_desc":"With higher soil and a plate underneath.",
+
+	"custompiece_TCpot2L":"Terra Cotta Pot - Large",
+	"custompiece_TCpot2L_desc":"With higher soil and a plate underneath.",
+
+	"custompiece_TCpot3":"Terra Cotta Pot - Small",
+	"custompiece_TCpot3_desc":"With higher soil and no plate",
+
+	"custompiece_TCpot3L":"Terra Cotta Pot - Large",
+	"custompiece_TCpot3L_desc":"With higher soil and no plate.",
+
+	"custompiece_TCpotrectangle":"Rectangular Terra Cotta Pot - Small",
+	"custompiece_TCpotrectangleL":"Rectangular Terra Cotta Pot - Large",
+	"custompiece_TCpotsquare":"Square Terra Cotta Pot - Small",
+	"custompiece_TCpotsquareL":"Square Terra Cotta Pot - Large",
+
+	"custompiece_vines3":"Vines",
+	"custompiece_vines4":"Vines",
+	"custompiece_vines5":"Vines",
+	"custompiece_vines6":"Vines",
+	"custompiece_vines7":"Vines",
+	"custompiece_vines8":"Vines",
+	"custompiece_vines9":"Vines",
+	"custompiece_vines10":"Vines",
+	"custompiece_vines11":"Vines",
+	"custompiece_vines12":"Vines",
+	"custompiece_vinesvanilla":"Vines",
+	"custompiece_vinesvanillabig":"Vines",
+	"custompiece_vinesvanillastretched":"Vines"	
 }
