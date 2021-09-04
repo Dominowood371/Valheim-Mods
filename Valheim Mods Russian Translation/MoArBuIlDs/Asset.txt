@@ -22,8 +22,8 @@ CustomPiece customPiece2 = new CustomPiece(PrefabManager.Instance.CreateClonedPr
 
 
 GameObject gameObject = PrefabManager.Instance.CreateClonedPrefab("goblin_woodwall_2m_ribs1", "goblin_woodwall_2m_ribs");
-				piece2.m_name = "Goblin Fence";
-				piece2.m_description = "Portions of fence from that last village you raided";
+				piece.m_name = "Goblin RibWall";
+				piece.m_description = "A cage of Lox ribs to use as a fence";
 GameObject gameObject2 = PrefabManager.Instance.CreateClonedPrefab("goblin_fence1", "goblin_fence");
 				piece2.m_name = "Goblin Fence";
 				piece2.m_description = "Portions of fence from that last village you raided";
