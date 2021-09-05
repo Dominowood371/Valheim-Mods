@@ -33,5 +33,6 @@
   "SwordGhost_Description": "Заполнитель.",
   "Effect_SE_LifeLeech_Name": "Кровопийца жизни",
   "Effect_SE_LifeLeech_Tooltip1": "Восстанавливает",
-  "Effect_SE_LifeLeech_Tooltip2": "здоровья от нанесеного урона за каждый удар."
+  "Effect_SE_LifeLeech_Tooltip2": "здоровья от нанесеного урона за каждый удар.",
+  "jotunn_modsettings": "Настройки модов"
 }
