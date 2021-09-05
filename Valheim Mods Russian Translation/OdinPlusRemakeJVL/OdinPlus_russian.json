@@ -190,5 +190,6 @@
   "op_healthcheck_command_help": "Выводит текущее состояние менеджеров Odin Plus для отладки.",
   "op_whereami_command_help": "Показывает ваше текущее местоположение.",
   "op_forceload_command_help": "Отладка принудительной загрузки.",
-  "op_odinhere_command_help": "Cпавнит Одина рядом с вами."
+  "op_odinhere_command_help": "Cпавнит Одина рядом с вами.",
+  "jotunn_modsettings": "Настройки модов"
 }
