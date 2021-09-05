@@ -170,9 +170,9 @@
 	"custompiece_swingingswing":"Качающийся качели",
 	
 	"jotunn_modsettings": "Настройки модов",
-	"jotunn_cat_Sculptures": "Скульптуры",
-	"jotunn_cat_Kitchen": "Кухонные",
-	"jotunn_cat_Decor": "Декорации",
-	"jotunn_cat_Amenities": "Удобства"
+	"jotunn_cat_sculptures": "Скульптуры",
+	"jotunn_cat_kitchen": "Кухонные",
+	"jotunn_cat_decor": "Декорации",
+	"jotunn_cat_amenities": "Удобства"
 
 }
