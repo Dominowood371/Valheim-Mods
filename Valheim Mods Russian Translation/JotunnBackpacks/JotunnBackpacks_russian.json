@@ -7,5 +7,7 @@
   "item_cape_silverbackpack_description": "Рюкзак c утепленной спинкой, отлично подходит для длительных походов в горы.",
   "se_arcticbackpackeffects_start": "Рюкзак экипирован",
   
-  "ui_backpack_inventoryname": "Рюкзак"
+  "ui_backpack_inventoryname": "Рюкзак",
+  
+  "jotunn_modsettings": "Настройки модов"
 }
