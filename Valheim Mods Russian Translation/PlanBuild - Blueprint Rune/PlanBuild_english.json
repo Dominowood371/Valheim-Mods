@@ -95,5 +95,5 @@
   "msg_bpmarket_admin_restricted": "Only admins can edit server blueprints",
   "msg_bpmarket_save_failed": "Could not save blueprint",
   "jotunn_cat_tools": "Tools",
-  "jotunn_cat_blueprint": "Blueprint"
+  "jotunn_cat_blueprints": "Blueprint"
 }
