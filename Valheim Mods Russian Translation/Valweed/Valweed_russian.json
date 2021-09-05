@@ -26,5 +26,6 @@
     "indica_joint_effectname":"Кайф (Индика)",
     "sativa_joint_effectname":"Кайф (Сатива)",
     "joint_effectstart":"Вы чувствуете себя под кайфом.",
-    "joint_effectstop":"Вас отпускает."
+    "joint_effectstop":"Вас отпускает.",
+    "jotunn_modsettings": "Настройки модов"
 }
