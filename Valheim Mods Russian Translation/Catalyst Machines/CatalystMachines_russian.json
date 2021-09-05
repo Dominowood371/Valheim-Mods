@@ -10,5 +10,6 @@
   "item_treetap_name": "Краник",
   "item_treetap_desc": "Обычный кран для сбора древесной смолы",
   "item_stoneharveste_name": "Горный комбайн",
-  "item_stoneharveste_desc": "Использует воду для обычного механизма автоматизации"
+  "item_stoneharveste_desc": "Использует воду для обычного механизма автоматизации",
+  "jotunn_modsettings": "Настройки модов"
 }
