@@ -41,5 +41,6 @@
   "item_effecthelmet_startmessage": "Даже жуткая атмосфера фамильярности, эхом отзывается в его пределах.",
   "item_effectlegs_name": "Безграничный вес",
   "item_effectlegs_tooltip": "Снижает штраф на вес и скорость экипировки жуткой брони.",
-  "item_effectlegs_startmessage": "Тяжесть покрытая шрамами брони облегчает ваши плечи."
+  "item_effectlegs_startmessage": "Тяжесть покрытая шрамами брони облегчает ваши плечи.",
+  "jotunn_modsettings": "Настройки модов"
 }
