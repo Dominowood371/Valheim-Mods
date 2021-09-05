@@ -94,6 +94,7 @@
   "msg_bpmarket_notconnected": "Нет соединения",
   "msg_bpmarket_admin_restricted": "Только администраторы могут редактировать чертежи для серверов",
   "msg_bpmarket_save_failed": "Не удалось сохранить чертеж",
+  "jotunn_modsettings": "Настройки модов"
   "jotunn_cat_tools": "Инструменты",
   "jotunn_cat_blueprint": "Чертежи"
 }
