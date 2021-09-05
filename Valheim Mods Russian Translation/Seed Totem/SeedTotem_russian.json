@@ -13,5 +13,6 @@
 	"message_seed_totem_unrestricted": "Без ограничений",
 	"message_seed_totem_status_looking_for_space": "Ищет свободное место",
 	"message_seed_totem_status_planting": "Посадка",
-	"message_seed_totem_status_wrong_biome": "Неправильный биом"
+	"message_seed_totem_status_wrong_biome": "Неправильный биом",
+	"jotunn_modsettings": "Настройки модов"
 }
