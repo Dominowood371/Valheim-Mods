@@ -19,4 +19,6 @@ Mod Catalyst Machines Russian Translation Version 0.0.5.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
 
-Скачать по [ссылке](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/Catalyst%20Machines/Catalyst%20Machines-0-0-5-Rus.rar)
+<br>
+
+[![Скачать](https://img.shields.io/badge/Скачать-0.5.5-blue?style=for-the-badge)](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/Catalyst%20Machines/Catalyst%20Machines-0-0-5-Rus.rar)
