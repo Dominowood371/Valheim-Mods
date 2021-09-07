@@ -1,4 +1,4 @@
-Mod Chest Reloaded Russian Translation Version 1.3.1.
+Mod Build It Russian Translation Version 1.3.1.
 
 ### Описание
 
