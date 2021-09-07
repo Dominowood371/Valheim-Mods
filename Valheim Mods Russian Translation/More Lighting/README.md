@@ -20,5 +20,6 @@ Mod More Lighting Russian Translation Version 1.0.3.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
 
-Скачать по [ссылке](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/More%20Lighting/More%20Lighting-1-0-3-Rus.zip)
+<br>
 
+[![Скачать](https://img.shields.io/badge/Скачать-1.0.3-blue?style=for-the-badge)](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/More%20Lighting/More%20Lighting-1-0-3-Rus.zip)
