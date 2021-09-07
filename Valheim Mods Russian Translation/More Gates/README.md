@@ -20,4 +20,6 @@ Mod More Gates Russian Translation Version 1.0.10.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
 
-Скачать по [ссылке](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/More%20Gates/More%20gates-1-0-10-Rus.zip)
+<br>
+
+[![Скачать](https://img.shields.io/badge/Скачать-1.0.10-blue?style=for-the-badge)](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/More%20Gates/More%20gates-1-0-10-Rus.zip)
