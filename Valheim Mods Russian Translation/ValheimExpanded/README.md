@@ -19,4 +19,6 @@ Mod ValheimExpanded Russian Translation Version 0.4.1.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
 
-Скачать по [ссылке]()
+<br>
+
+[![Скачать](https://img.shields.io/badge/Скачать-0.4.1-blue?style=for-the-badge)]()
