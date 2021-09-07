@@ -30,7 +30,7 @@ Mod Runic Swords Russian Translation Version 1.1.0.
 
 Другие [способы](https://coderoad.ru/4604663/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B-%D1%81-GitHub) скачать файлы на GitHub.
 
-### Скачивание Runic Swords-Rus.zip
+### Скачивание Runic Swords Rus.zip
 
 1. Найдите архив `Runic Swords-V1-1-0-Rus.zip`, который вы хотите загрузить.
 2. Нажмите на его, чтобы просмотреть содержимое файла в GitHub.
