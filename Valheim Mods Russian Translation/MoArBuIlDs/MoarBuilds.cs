@@ -252,7 +252,7 @@ namespace MaorBuilds
             ctn = chest1.AddComponent<Container>();
             ctn.m_width = (int)chestwidth.Value;
             ctn.m_height = (int)chestheight.Value;
-            ctn.m_name = "Trader Chest";
+            ctn.m_name = "$piece_traderchest_name";
             ctn.m_checkGuardStone = true;
             ctn.m_bkg = PrefabManager.Cache.GetPrefab<GameObject>("piece_chest").GetComponent<Container>().m_bkg;
             var chestbox = new CustomPiece(chest1,
@@ -267,8 +267,8 @@ namespace MaorBuilds
                     }
                 });
 
-            chestbox.Piece.m_name = "Trader Chest";
-            chestbox.Piece.m_description = "Traders Chest for holding things";
+            chestbox.Piece.m_name = "$piece_traderchest_name";
+            chestbox.Piece.m_description = "$piece_traderchest_desc";
             chestbox.Piece.m_canBeRemoved = true;
             chestbox.Piece.m_icon = chestsprite;
             chestbox.Piece.m_primaryTarget = false;
@@ -314,7 +314,7 @@ namespace MaorBuilds
             basket.transform.localPosition = new Vector3(0f, 0f, 0f);
             basketchest.m_width = (int)basketwidth.Value;
             basketchest.m_height = (int)basketheight.Value;
-            basketchest.m_name = "Traders Basket";
+            basketchest.m_name = "$piece_tradersbasket_name";
             basketchest.m_checkGuardStone = true;
             basketchest.m_bkg = PrefabManager.Cache.GetPrefab<GameObject>("piece_chest").GetComponent<Container>().m_bkg;
             var BasketRecipe = new CustomPiece(basket,
@@ -329,8 +329,8 @@ namespace MaorBuilds
                              new RequirementConfig { Item = "Wood", Amount = 10, Recover = true}
                     }
                 });
-            BasketRecipe.Piece.m_name = "Traders Basket";
-            BasketRecipe.Piece.m_description = "Traders Basket for holding things";
+            BasketRecipe.Piece.m_name = "$piece_tradersbasket_name";
+            BasketRecipe.Piece.m_description = "$piece_tradersbasket_desc";
             BasketRecipe.Piece.m_canBeRemoved = true;
             BasketRecipe.Piece.m_icon = basketsprite;
             BasketRecipe.Piece.m_primaryTarget = false;
@@ -372,7 +372,7 @@ namespace MaorBuilds
 
             barrell3chest.m_width = (int)altbarrelwidth.Value;
             barrell3chest.m_height = (int)altbarrelheight.Value;
-            barrell3chest.m_name = "Trader round barrel";
+            barrell3chest.m_name = "$piece_traderroundbarrel_name";
             barrell3chest.m_checkGuardStone = true;
             barrell3chest.m_bkg = PrefabManager.Cache.GetPrefab<GameObject>("piece_chest").GetComponent<Container>().m_bkg;
             var barrelrecip3 = new CustomPiece(barrell3,
@@ -387,8 +387,8 @@ namespace MaorBuilds
                              new RequirementConfig { Item = "Wood", Amount = 10, Recover = true}
                     }
                 });
-            barrelrecip3.Piece.m_name = "Trader round barrel";
-            barrelrecip3.Piece.m_description = "Trader round barrel for holding things";
+            barrelrecip3.Piece.m_name = "$piece_traderroundbarrel_name";
+            barrelrecip3.Piece.m_description = "$piece_traderroundbarrel_desc";
             barrelrecip3.Piece.m_canBeRemoved = true;
             barrelrecip3.Piece.m_icon = barrelaltsprite;
             barrelrecip3.Piece.m_primaryTarget = false;
@@ -449,8 +449,8 @@ namespace MaorBuilds
                              new RequirementConfig { Item = "Wood", Amount = 10, Recover = true}
                     }
                 });
-            roundchestrecipe.Piece.m_name = "Trader round2 barrel";
-            roundchestrecipe.Piece.m_description = "A Barrel for holding things";
+            roundchestrecipe.Piece.m_name = "$piece_traderroundbarrel2_name";
+            roundchestrecipe.Piece.m_description = "piece_traderroundbarrel2_desc";
             roundchestrecipe.Piece.m_canBeRemoved = true;
             roundchestrecipe.Piece.m_icon = barrelsprite;
             roundchestrecipe.Piece.m_primaryTarget = false;
@@ -497,7 +497,7 @@ namespace MaorBuilds
             cratechest.m_width = 8;
             cratechest.m_height = 4;
             cratechest.m_bkg = PrefabManager.Cache.GetPrefab<GameObject>("piece_chest").GetComponent<Container>().m_bkg;
-            cratechest.m_name = "Crates";
+            cratechest.m_name = "$piece_crates_name";
             cratechest.m_checkGuardStone = true;
 
             var craterecipe = new CustomPiece(crate,
@@ -512,8 +512,8 @@ namespace MaorBuilds
                              new RequirementConfig { Item = CrateCraftingMat2.Value, Amount = 10, Recover = true}
                     }
                 });
-            craterecipe.Piece.m_name = "Crates";
-            craterecipe.Piece.m_description = "Crates for holding things";
+            craterecipe.Piece.m_name = "$piece_crates_name";
+            craterecipe.Piece.m_description = "$piece_crates_desc";
             craterecipe.Piece.m_canBeRemoved = true;
             craterecipe.Piece.m_icon = boxsprite;
             craterecipe.Piece.m_primaryTarget = false;
@@ -575,8 +575,8 @@ namespace MaorBuilds
                 test.transform.localPosition = new Vector3(0f, 0f, 0f);
                 test.transform.position = new Vector3(0f, 0f, 0f);
                 var piece = CP.Piece;
-                piece.m_name = "Goblin RibWall";
-                piece.m_description = "A cage of Lox ribs to use as a fence";
+                piece.m_name = "$piece_goblinribwall_name";
+                piece.m_description = "$piece_goblinribwall_desc";
                 piece.m_canBeRemoved = true;
                 piece.m_icon = goblinribwall2m;
                 piece.m_primaryTarget = false;
@@ -632,8 +632,8 @@ namespace MaorBuilds
                 fence.transform.localPosition = new Vector3(0f, 0f, 0f);
                 fence.transform.position = new Vector3(0f, 0f, 0f);
                 var fencepiece = fencecustom.Piece;
-                fencepiece.m_name = "Goblin Fence";
-                fencepiece.m_description = "Portions of fence from that last village you raided";
+                fencepiece.m_name = "$piece_goblinfence_name";
+                fencepiece.m_description = "$piece_goblinfence_desc";
                 fencepiece.m_canBeRemoved = true;
                 fencepiece.m_icon = goblinfence;
                 fencepiece.m_primaryTarget = false;
@@ -674,8 +674,8 @@ namespace MaorBuilds
                 goblinroof1.transform.localPosition = new Vector3(0f, 0f, 0f);
                 goblinroof1.transform.position = new Vector3(0f, 0f, 0f);
                 var goblinroofer = goblinroof_1.Piece;
-                goblinroofer.m_name = "Goblin Roof 45";
-                goblinroofer.m_description = "45 Degree Roof from a goblin hut";
+                goblinroofer.m_name = "$piece_goblinroof45_name";
+                goblinroofer.m_description = "$piece_goblinroof45_desc";
                 goblinroofer.m_canBeRemoved = true;
                 goblinroofer.m_icon = roof45;
                 goblinroofer.m_primaryTarget = false;
@@ -716,8 +716,8 @@ namespace MaorBuilds
                 goblinroof2.transform.localPosition = new Vector3(0f, 0f, 0f);
                 goblinroof2.transform.position = new Vector3(0f, 0f, 0f);
                 var goblinroofer2 = goblinroof_2.Piece;
-                goblinroofer2.m_name = "Goblin Roof Corner";
-                goblinroofer2.m_description = "Corner piece for a Goblin roof";
+                goblinroofer2.m_name = "$piece_goblinroofcorner_name";
+                goblinroofer2.m_description = "$piece_goblinroofcorner_desc";
                 goblinroofer2.m_canBeRemoved = true;
                 goblinroofer2.m_icon = roof45corner;
                 goblinroofer2.m_primaryTarget = false;
@@ -758,8 +758,8 @@ namespace MaorBuilds
                 goblinroof2.transform.localPosition = new Vector3(0f, 0f, 0f);
                 goblinroof2.transform.position = new Vector3(0f, 0f, 0f);
                 var goblinwallm2 = goblinwall_2m.Piece;
-                goblinwallm2.m_name = "Goblin Wall 2m";
-                goblinwallm2.m_description = "A 2m long section of wall recovered from the last village you raided";
+                goblinwallm2.m_name = "$piece_goblinwall2m_name";
+                goblinwallm2.m_description = "$piece_goblinwall2m_desc";
                 goblinwallm2.m_canBeRemoved = true;
                 goblinwallm2.m_icon = woodwall2m;
                 goblinwallm2.m_primaryTarget = false;
@@ -800,8 +800,8 @@ namespace MaorBuilds
                 goblinwall1m.transform.localPosition = new Vector3(0f, 0f, 0f);
                 goblinwall1m.transform.position = new Vector3(0f, 0f, 0f);
                 var goblinwallm1 = goblinwall_1m.Piece;
-                goblinwallm1.m_name = "Goblin Wall 1M";
-                goblinwallm1.m_description = "A 1m section of goblin wall from the last village you raided...";
+                goblinwallm1.m_name = "$piece_goblinwall1m_name";
+                goblinwallm1.m_description = "$piece_goblinwall1m_desc";
                 goblinwallm1.m_canBeRemoved = true;
                 goblinwallm1.m_icon = woodwall1m;
                 goblinwallm1.m_primaryTarget = false;
@@ -842,8 +842,8 @@ namespace MaorBuilds
                 goblinpole.transform.localPosition = new Vector3(0f, 0f, 0f);
                 goblinpole.transform.position = new Vector3(0f, 0f, 0f);
                 var GoblinPole = goblin_pole.Piece;
-                GoblinPole.m_name = "Goblin Spike";
-                GoblinPole.m_description = "A long spike recovered from that shamans hut";
+                GoblinPole.m_name = "$piece_goblinspike_name";
+                GoblinPole.m_description = "$piece_goblinspike_desc";
                 GoblinPole.m_canBeRemoved = true;
                 GoblinPole.m_icon = goblinspike;
                 GoblinPole.m_primaryTarget = false;
@@ -884,8 +884,8 @@ namespace MaorBuilds
                 goblinbanner.transform.localPosition = new Vector3(0f, 0f, 0f);
                 goblinbanner.transform.position = new Vector3(0f, 0f, 0f);
                 var GoblinBanner = goblin_banner.Piece;
-                GoblinBanner.m_name = "Goblin Banner";
-                GoblinBanner.m_description = "Hang their flag on your base....";
+                GoblinBanner.m_name = "$piece_goblinbanner_name";
+                GoblinBanner.m_description = "$piece_goblinbanner_desc";
                 GoblinBanner.m_canBeRemoved = true;
                 GoblinBanner.m_icon = goblinbanner1;
                 GoblinBanner.m_primaryTarget = false;
@@ -926,8 +926,8 @@ namespace MaorBuilds
                 dungeongate.transform.localPosition = new Vector3(0f, 0f, 0f);
                 dungeongate.transform.position = new Vector3(0f, 0f, 0f);
                 var DungeonGate = dungeon_gate.Piece;
-                DungeonGate.m_name = "Dungeon Gate";
-                DungeonGate.m_description = "Another metal gate";
+                DungeonGate.m_name = "$piece_dungeongate_name";
+                DungeonGate.m_description = "$piece_dungeongate_desc";
                 DungeonGate.m_canBeRemoved = true;
                 DungeonGate.m_icon = dungeongate1;
                 DungeonGate.m_primaryTarget = false;
@@ -969,8 +969,8 @@ namespace MaorBuilds
                 var zeropos = new Vector3(0f, 0f, 0f);
                 Goblinroof.transform.localPosition = zeropos;
                 Goblinroof.transform.position = zeropos;
-                Goblin_roof.Piece.m_name = "Goblin Roof Cap";
-                Goblin_roof.Piece.m_description = "A nice round roof cap from a Goblin camp";
+                Goblin_roof.Piece.m_name = "$piece_goblinroofcap_name";
+                Goblin_roof.Piece.m_description = "$piece_goblinroofcap_desc";
                 Goblin_roof.Piece.m_canBeRemoved = true;
                 Goblin_roof.Piece.m_icon = capsprite;
                 Goblin_roof.Piece.m_primaryTarget = false;
@@ -1007,7 +1007,7 @@ namespace MaorBuilds
                 var ctn = Barrel.AddComponent<Container>();
                 ctn.m_width = BarrelWidth.Value;
                 ctn.m_height = BarrelHeight.Value;
-                ctn.m_name = "Barrell";
+                ctn.m_name = "$piece_barrel_name";
                 ctn.m_checkGuardStone = true;
 
                 DestroyImmediate(Barrel.GetComponent<DropOnDestroyed>());
@@ -1024,8 +1024,8 @@ namespace MaorBuilds
                     });
                 var wera = Barrel.AddComponent<WearNTear>();
                 wera.m_health = 1000f;
-                BarrelBox.Piece.m_name = "Barrel";
-                BarrelBox.Piece.m_description = "A Barrel for holding things";
+                BarrelBox.Piece.m_name = "$piece_barrel_name";
+                BarrelBox.Piece.m_description = "$piece_barrel_desc";
                 BarrelBox.Piece.m_canBeRemoved = true;
                 BarrelBox.Piece.m_icon = barrelsprite;
                 BarrelBox.Piece.m_primaryTarget = false;
@@ -1099,8 +1099,8 @@ namespace MaorBuilds
                 var itemDrop = smacker.ItemDrop;
                 itemDrop.m_itemData.m_shared.m_icons = new Sprite[]
                     { goblinsmacker1 };
-                itemDrop.m_itemData.m_shared.m_name = "Goblin Smacker";
-                itemDrop.m_itemData.m_shared.m_description = "A brute dropped this in the plains.. Its heavy.. but man does it feel good to give them a taste of their own medicine";
+                itemDrop.m_itemData.m_shared.m_name = "$piece_goblinsmacker_name";
+                itemDrop.m_itemData.m_shared.m_description = "$piece_goblinsmacker_desc";
                 itemDrop.m_itemData.m_shared.m_itemType = ItemDrop.ItemData.ItemType.OneHandedWeapon;
                 itemDrop.m_itemData.m_shared.m_animationState = ItemDrop.ItemData.AnimationState.OneHanded;
                 itemDrop.m_itemData.m_shared.m_attack.m_attackType = Attack.AttackType.Horizontal;
