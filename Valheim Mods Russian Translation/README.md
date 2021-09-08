@@ -32,7 +32,7 @@
  - [X] [Candles Lanterns and Beeswax](https://www.nexusmods.com/valheim/mods/1226) ❌
  - [X] [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/1335) ❌
  - [X] [More Lighting](https://www.nexusmods.com/valheim/mods/1214) ❌
- - [ ] [MoArBuIlDs](https://valheim.thunderstore.io/package/OdinPlus/MoArBuIlDs/) ❌
+ - [X] [MoArBuIlDs](https://valheim.thunderstore.io/package/OdinPlus/MoArBuIlDs/) ❌
  - [X] [CustomBuildingItems](https://valheim.thunderstore.io/package/Smallo/CustomBuildingItems/) ✔
  - [X] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌
 
