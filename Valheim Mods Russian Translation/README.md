@@ -59,7 +59,7 @@
  - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
  - [X] [ZethPack](https://www.nexusmods.com/valheim/mods/1242) ✔
  - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
- - [ ] [Bone Appetit](https://www.nexusmods.com/valheim/mods/1250) ❌
+ - [ ] [Bone Appetit](https://www.nexusmods.com/valheim/mods/1250) ❌ без перевода эффектов
  - [ ] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
 
