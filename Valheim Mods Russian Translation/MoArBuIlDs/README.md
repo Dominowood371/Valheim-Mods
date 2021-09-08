@@ -6,7 +6,7 @@ Mod MoArBuIlDs Russian Translation Version 1.1.4.
 
 ### Установка
 
-Скачайте архив `MoArBuIlDs-1.1.4-Rus.rar` и распакуйте архив, в архиве будет папка `MoArBuIlDs` переместите эту папку со всем содержимым в папку с игрой `Valheim\BepInEx\plugins`.
+Скачайте архив `MoArBuIlDs-1-1-4-Rus.zip` и распакуйте архив, в архиве будет папка `MoArBuIlDs` переместите эту папку со всем содержимым в папку с игрой `Valheim\BepInEx\plugins`.
 
 Требуемие моды для работоспособности мода:
 * [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
@@ -14,11 +14,11 @@ Mod MoArBuIlDs Russian Translation Version 1.1.4.
 * [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
 
 ### Скачивание
-1. Найдите архив `MoArBuIlDs-1.1.4-Rus.rar`, который вы хотите загрузить.
+1. Найдите архив `MoArBuIlDs-1-1-4-Rus.zip`, который вы хотите загрузить.
 2. Нажмите на его, чтобы просмотреть содержимое файла в GitHub.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
 
 <br>
 
-[![Скачать](https://img.shields.io/badge/Скачать-1.1.4-blue?style=for-the-badge)]()
+[![Скачать](https://img.shields.io/badge/Скачать-1.1.4-blue?style=for-the-badge)](https://github.com/Dominowood371/Valheim-Mods/raw/main/Valheim%20Mods%20Russian%20Translation/MoArBuIlDs/MoArBuIlDs-1-1-4-Rus.zip)
