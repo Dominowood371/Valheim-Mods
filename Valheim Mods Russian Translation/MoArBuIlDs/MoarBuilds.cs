@@ -433,7 +433,7 @@ namespace MaorBuilds
             roundbarrel.transform.localPosition = new Vector3(0f, 3f, 0f);
             roundchest.m_width = (int)BarrelWidth.Value;
             roundchest.m_height = (int)BarrelHeight.Value;
-            roundchest.m_name = "Trader round2 barrel";
+            roundchest.m_name = "$piece_traderroundbarrel2_name";
             roundchest.m_checkGuardStone = true;
             roundchest.m_bkg = PrefabManager.Cache.GetPrefab<GameObject>("piece_chest").GetComponent<Container>().m_bkg;
 
@@ -450,7 +450,7 @@ namespace MaorBuilds
                     }
                 });
             roundchestrecipe.Piece.m_name = "$piece_traderroundbarrel2_name";
-            roundchestrecipe.Piece.m_description = "piece_traderroundbarrel2_desc";
+            roundchestrecipe.Piece.m_description = "$piece_traderroundbarrel2_desc";
             roundchestrecipe.Piece.m_canBeRemoved = true;
             roundchestrecipe.Piece.m_icon = barrelsprite;
             roundchestrecipe.Piece.m_primaryTarget = false;
