@@ -8,6 +8,18 @@
 			component.m_name = "11111111111";
 			component.m_tooltip = "22222222222";
 			component.m_startMessage = "3333333333333333";
+			
+			
+			    StatusEffect statusEffect = ScriptableObject.CreateInstance(typeof(StatusEffect)) as StatusEffect;
+			    statusEffect.m_name = "1тест1тест1тест1тест1тест1тест1тест";
+                statusEffect.m_category = "1тест1тест1тест1тест1тест1тест1тест";
+                statusEffect.m_tooltip = "11тест1тест1тест1тест1тест1тест1тест";
+                statusEffect.m_startMessage = "11тест1тест1тест1тест1тест1тест1тест";
+                statusEffect.m_stopMessage = "11тест1тест1тест1тест1тест1тест1тест";
+
+			 ItemDrop.ItemData.SharedData sharedData = acidcream.ItemDrop.m_itemData.m_shared;
+             sharedData.m_consumeStatusEffect = statusEffect;
+	     
 Heimdall (tank) - Хеймдалль
 
 Tower Shield (Guardian of the Gods) - Хранитель богов 
