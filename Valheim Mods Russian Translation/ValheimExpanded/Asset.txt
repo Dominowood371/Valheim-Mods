@@ -212,15 +212,277 @@
 
 2Armor.dll
 
+				CustomItem customItem = new CustomItem("HelmetRag", "HelmetLeather");
+				itemDrop.m_itemData.m_shared.m_name = "Rag Hat";
+				itemDrop.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Leather Helmet",
+					Environment.NewLine,
+					"> Workbench"
+				});
+				itemDrop.m_itemData.m_shared.m_setName = "Rag Armor";
+				
+				GameObject gameObject = GameObject.Find("ArmorRagsChest");
+				CustomItem customItem2 = new CustomItem("ArmorRagsChes", "ArmorRagsChest");
+				itemDrop2.m_itemData.m_shared.m_name = "Rag Tunic";
+				itemDrop2.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Leather Tunic",
+					Environment.NewLine,
+					"> Workbench"
+				});
+				itemDrop2.m_itemData.m_shared.m_setName = "Rag Armor";
 
+				gameObject = GameObject.Find("ArmorRagsLegs");
+				CustomItem customItem3 = new CustomItem("ArmorRagsLeg", "ArmorRagsLegs");
+				itemDrop3.m_itemData.m_shared.m_name = "Rag Pants";
+				itemDrop3.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Leather Pants",
+					Environment.NewLine,
+					"> Workbench"
+				});
+				itemDrop3.m_itemData.m_shared.m_setName = "Rag Armor";
 
+				CustomItem customItem4 = new CustomItem("CapeRag", "CapeDeerHide");
+				ItemDrop itemDrop4 = customItem4.ItemDrop;
+				itemDrop4.m_itemData.m_shared.m_name = "Rag Cape";
+				itemDrop4.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Deerskin Cape",
+					Environment.NewLine,
+					"> Workbench"
+				});
+				itemDrop4.m_itemData.m_shared.m_armorPerLevel = 1f;
+				itemDrop4.m_itemData.m_shared.m_maxDurability = 100f;
+				itemDrop4.m_itemData.m_shared.m_durabilityPerLevel = 25f;
+				itemDrop4.m_itemData.m_shared.m_movementModifier = 0f;
+				itemDrop4.m_itemData.m_shared.m_setStatusEffect = null;
+				itemDrop4.m_itemData.m_shared.m_equipStatusEffect = null;
+				itemDrop4.m_itemData.m_shared.m_canBeReparied = true;
+				itemDrop4.m_itemData.m_shared.m_destroyBroken = false;
+				itemDrop4.m_itemData.m_shared.m_armor = 1f;
+				itemDrop4.m_itemData.m_shared.m_setName = "Rag Gear";
 
+CustomItem customItem5 = new CustomItem("BeltRag", "BeltStrength");
+				ItemDrop itemDrop5 = customItem5.ItemDrop;
+				itemDrop5.m_itemData.m_shared.m_name = "Rag Belt";
+				itemDrop5.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Leather Belt",
+					Environment.NewLine,
+					"> Workbench"
+				});
+				itemDrop5.m_itemData.m_shared.m_armorPerLevel = 1f;
+				itemDrop5.m_itemData.m_shared.m_maxDurability = 100f;
+				itemDrop5.m_itemData.m_shared.m_durabilityPerLevel = 25f;
+				itemDrop5.m_itemData.m_shared.m_movementModifier = 0f;
+				itemDrop5.m_itemData.m_shared.m_setStatusEffect = null;
+				itemDrop5.m_itemData.m_shared.m_equipStatusEffect = null;
+				itemDrop5.m_itemData.m_shared.m_canBeReparied = true;
+				itemDrop5.m_itemData.m_shared.m_destroyBroken = false;
+				itemDrop5.m_itemData.m_shared.m_armor = 1f;
+				itemDrop5.m_itemData.m_shared.m_setName = "Rag Gear";
+				itemDrop5.m_itemData.m_shared.m_setSize = 2;
+				ItemManager.Instance.AddItem(customItem5);
+				CustomRecipe customRecipe5 = new CustomRecipe(new RecipeConfig
+				{
+					Item = "BeltRag",
+					CraftingStation = "piece_workbench",
+					MinStationLevel = 2,
+					Amount = 1,
+					Requirements = new RequirementConfig[]
+					{
+						new RequirementConfig
+						{
+							Item = "LeatherScraps",
+							Amount = 5,
+							AmountPerLevel = 0
+						}
+					}
+				});
+				ItemManager.Instance.AddRecipe(customRecipe5);
+			}
+			catch (Exception ex)
+			{
+				Logger.LogError("Error while adding Rag items: " + ex.Message);
+			}
+			finally
+			{
+				ItemManager.OnVanillaItemsAvailable -= this.AddRagItems;
+			}
+		}
 
+		// Token: 0x06000004 RID: 4 RVA: 0x00002BD4 File Offset: 0x00000DD4
+		private void AddLeatherItems()
+		{
+			try
+			{
+				GameObject gameObject = GameObject.Find("HelmetLeather");
+				CustomItem customItem = new CustomItem("HelmetLeathe", "HelmetLeather");
+				ItemDrop itemDrop = customItem.ItemDrop;
+				itemDrop.m_itemData.m_shared.m_name = "Leather Helmet";
+				itemDrop.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Bone Helmet",
+					Environment.NewLine,
+					"> Workbench",
+					Environment.NewLine,
+					"or",
+					Environment.NewLine,
+					" - Trollskin Hood",
+					Environment.NewLine,
+					" > Workbench"
+				});
+				itemDrop.m_itemData.m_shared.m_armorPerLevel = 2f;
+				itemDrop.m_itemData.m_shared.m_maxDurability = 400f;
+				itemDrop.m_itemData.m_shared.m_durabilityPerLevel = 50f;
+				itemDrop.m_itemData.m_shared.m_movementModifier = 0f;
+				itemDrop.m_itemData.m_shared.m_setStatusEffect = null;
+				itemDrop.m_itemData.m_shared.m_equipStatusEffect = null;
+				itemDrop.m_itemData.m_shared.m_canBeReparied = true;
+				itemDrop.m_itemData.m_shared.m_destroyBroken = false;
+				itemDrop.m_itemData.m_shared.m_armor = 5f;
+				itemDrop.m_itemData.m_shared.m_setName = "Leather Armor";
+				itemDrop.m_itemData.m_shared.m_setSize = 3;
+				ItemManager.Instance.AddItem(customItem);
+				CustomRecipe customRecipe = new CustomRecipe(new RecipeConfig
+				{
+					Item = "HelmetLeathe",
+					CraftingStation = "piece_workbench",
+					RepairStation = "piece_workbench",
+					MinStationLevel = 2,
+					Amount = 1,
+					Requirements = new RequirementConfig[]
+					{
+						new RequirementConfig
+						{
+							Item = "DeerHide",
+							Amount = 6,
+							AmountPerLevel = 3
+						},
+						new RequirementConfig
+						{
+							Item = "HelmetRag",
+							Amount = 1,
+							AmountPerLevel = 0
+						}
+					}
+				});
+				ItemManager.Instance.AddRecipe(customRecipe);
+				gameObject = GameObject.Find("ArmorLeatherChest");
+				CustomItem customItem2 = new CustomItem("ArmorLeatherChes", "ArmorLeatherChest");
+				ItemDrop itemDrop2 = customItem.ItemDrop;
+				itemDrop2.m_itemData.m_shared.m_name = "Leather Tunic";
+				itemDrop2.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Bone Chestplate",
+					Environment.NewLine,
+					"> Workbench",
+					Environment.NewLine,
+					"or",
+					Environment.NewLine,
+					" - Trollskin Tunic",
+					Environment.NewLine,
+					" > Forge"
+				});
+				itemDrop2.m_itemData.m_shared.m_setName = "Leather Armor";
 
+				ItemManager.Instance.AddRecipe(customRecipe2);
+				gameObject = GameObject.Find("ArmorLeatherLegs");
+				CustomItem customItem3 = new CustomItem("ArmorLeatherLeg", "ArmorLeatherLegs");
+				itemDrop3.m_itemData.m_shared.m_name = "Leather Pants";
+				itemDrop3.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Bone Chestplate",
+					Environment.NewLine,
+					"> Workbench",
+					Environment.NewLine,
+					"or",
+					Environment.NewLine,
+					" - Trollskin Pants",
+					Environment.NewLine,
+					" > Forge"
+				});
+				itemDrop3.m_itemData.m_shared.m_setName = "Leather Armor";
+				
+				gameObject = GameObject.Find("CapeDeerHide");
+				CustomItem customItem4 = new CustomItem("CapeDeerHid", "CapeDeerHide");
+				itemDrop4.m_itemData.m_shared.m_name = "Deerskin Cape";
+				itemDrop4.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Bone Cape",
+					Environment.NewLine,
+					"> Workbench",
+					Environment.NewLine,
+					"or",
+					Environment.NewLine,
+					" - Trollskin Cape",
+					Environment.NewLine,
+					" > Forge"
+				});
+				itemDrop4.m_itemData.m_shared.m_setName = "Leather Gear";
 
+				CustomItem customItem5 = new CustomItem("BeltLeather", "BeltStrength");
+				itemDrop5.m_itemData.m_shared.m_name = "Leather Belt";
+				itemDrop5.m_itemData.m_shared.m_description = string.Concat(new string[]
+				{
+					"This item can be reforged into the following;",
+					Environment.NewLine,
+					"- Bone Belt",
+					Environment.NewLine,
+					"> Workbench",
+					Environment.NewLine,
+					"or",
+					Environment.NewLine,
+					" - Trollskin Belt",
+					Environment.NewLine,
+					" > Forge"
+				});
+				itemDrop5.m_itemData.m_shared.m_setName = "Leather Gear";
 
+				GameObject gameObject = this.assetBundle.LoadAsset<GameObject>("HelmetBone");
+				component.m_itemData.m_shared.m_name = "Bone Helmet";
+				component.m_itemData.m_shared.m_description = "This item cannot be repaired and will break eventually.";
+				component.m_itemData.m_shared.m_setName = "Bone Armor";
 
+				GameObject gameObject2 = this.assetBundle.LoadAsset<GameObject>("ArmorBoneChest");
+				component2.m_itemData.m_shared.m_name = "Bone Chestplate";
+				component2.m_itemData.m_shared.m_description = "This item cannot be repaired and will break eventually.";
+				component2.m_itemData.m_shared.m_setName = "Bone Armor";
 
+				GameObject gameObject3 = this.assetBundle.LoadAsset<GameObject>("ArmorBoneLegs");
+				component3.m_itemData.m_shared.m_name = "Bone Greaves";
+				component3.m_itemData.m_shared.m_description = "This item cannot be repaired and will break eventually.";
+				component3.m_itemData.m_shared.m_setName = "Bone Armor";
+				
+				GameObject gameObject4 = this.assetBundle.LoadAsset<GameObject>("CapeBone");
+				component4.m_itemData.m_shared.m_name = "Bone Cape";
+				component4.m_itemData.m_shared.m_description = "This item cannot be repaired and will break eventually.";
+				component4.m_itemData.m_shared.m_setName = "Bone Gear";
+
+				GameObject gameObject5 = this.assetBundle.LoadAsset<GameObject>("BeltBone");
+				component5.m_itemData.m_shared.m_name = "Bone Belt";
+				component5.m_itemData.m_shared.m_description = "This item cannot be repaired and will break eventually.";
+				component5.m_itemData.m_shared.m_setName = "Bone Gear";
 
 4Fauna.dll
 
