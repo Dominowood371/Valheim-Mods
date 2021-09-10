@@ -3,4 +3,17 @@
   "item__desc": "",
   "piece__name": "",
   "piece__desc": ""
+  
+  "mob_polarlox_name": "Polar Lox",
+  "mob_pygmylox_name": "Pygmy Lox",
+  "mob_nightlox_name": "Night Lox",
+  "mob_mossylox_name": "Mossy Lox",
+  "mob_flaminglox_name": "Flaming Lox",
+  "mob_frozenspiderling_name": "Frozen Spiderling",
+  "mob_pygmyspiderling_name": "Pygmy Spiderling",
+  "mob_widowspiderling_name": "Widow Spiderling",
+  "mob_ancientspiderling_name": "Ancient Spiderling",
+  "mob_mistyspiderling_name": "Misty Spiderling",
+  "mob_flamingspiderling_name": "Flaming Spiderling",
+  "mob_radioactivespiderling_name": "Radioactive Spiderling"
 }
