@@ -8,9 +8,9 @@ Mod Hugos More Two Handers Russian Translation Version 5.0.0.
 
 Скачайте файл `htd.armory_localization.tsv` и с заменой переместите файл в папку `Valheim\BepInEx\config\`
 
-Файл `htd.moretwohanders_localization.tsv` для версии 4.2.2.
+* Файл `htd.moretwohanders_localization.tsv` для версии 4.2.2.
 
-Файл `htd.armory_localization.tsv` для версии 5.0.0.
+* Файл `htd.armory_localization.tsv` для версии 5.0.0.
 
 ### Скачивание
 
