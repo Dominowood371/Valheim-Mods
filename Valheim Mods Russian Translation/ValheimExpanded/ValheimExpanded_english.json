@@ -10,68 +10,68 @@
   "item__setname": "Rag Armor",
   "item__name": "Rag Cape",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Deerskin Cape",
-					Environment.NewLine,
+					
 					"> Workbench",
   "item__setname": "Rag Gear",
   "item__name": "Rag Belt",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Leather Belt",
-					Environment.NewLine,
+					
 					"> Workbench",
   "item__setname": "Rag Gear",
   "item__name": "Leather Helmet",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Bone Helmet",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Trollskin Hood",
-					Environment.NewLine,
+					
 					" > Workbench",
   "item__setname": "Leather Armor",
   "item__name": "Leather Pants",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Bone Chestplate",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Trollskin Pants",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Leather Armor",
   "item__name": "Deerskin Cape",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Bone Cape",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Trollskin Cape",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Leather Gear",
   "item__name": "Leather Belt",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Bone Belt",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Trollskin Belt",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Leather Gear",
   "item__name": "Bone Helmet",
@@ -94,102 +94,102 @@
   "item__setname": "Bone Gear",
   "item__name": "Trollskin Hood",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					" - Bronze Helmet",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Trollskin Armor",
   "item__name": "Trollskin Tunic",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					" - Bronze Cuirass",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Trollskin Armor",
   "item__name": "Trollskin Pants",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					" - Bronze Greaves",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Trollskin Armor",
   "item__name": "Trollskin Cape",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					" - Bronze Cape",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Trollskin Gear",
   "item__name": "Trollskin Belt",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					" - Bronze Belt",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Trollskin Gear",
   "item__name": "Bronze Helmet",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Ancient Helmet",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Iron Helmet",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Bronze Armor",
   "item__name": "Bronze Cuirass",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Ancient Chestplate",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Iron Cuirass",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Bronze Armor",
   "item__name": "Bronze Greaves",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Ancient Greaves",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Iron Greaves",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Bronze Armor",
   "item__name": "Bronze Cape",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Ancient Cape",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Iron Cape",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Bronze Gear",
   "item__name": "Bronze Belt",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Ancient Belt",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Iron Belt",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Bronze Gear",
   "item__name": "Ancient Helmet",
@@ -209,67 +209,67 @@
   "item__setname": "Ancient Bark Gear",
   "item__name": "Iron Helmet",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Abyssal Helmet",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Silver Helmet",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Iron Armor",
   "item__name": "Iron Plate Cuirass",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Abyssal Chestplate",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Silver Cuirass",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Iron Armor",
   "item__name": "Iron Plate Greaves",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Abyssal Greaves",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Silver Greaves",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "",
   "item__name": "Iron Cape",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Abyssal Cape",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Silver Cape",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Iron Gear",
   "item__name": "Iron Belt",
   "item__desc": "This item can be reforged into the following;",
-					Environment.NewLine,
+					
 					"- Abyssal Belt",
-					Environment.NewLine,
+					
 					"> Workbench",
-					Environment.NewLine,
+					
 					"or",
-					Environment.NewLine,
+					
 					" - Silver Belt",
-					Environment.NewLine,
+					
 					" > Forge",
   "item__setname": "Iron Gear",
   "item__name": "Abyssal Helmet",
