@@ -3,7 +3,7 @@
     // Chaos Warrior Armor MOD ✔
     // Steel Age MOD ✔
     // Runic Swords MOD ✔
-    // Hugos More Two Handers MOD ✔
+    // Hugos Armory MOD ✔
     // Forsaken MOD ✔
     // Terraheim - Weapons Tools and Armor MOD ✔
     // If you add two identical items, it throws an error
@@ -34,9 +34,11 @@
         "SwordFlametalGreatIron", 
         "SwordSilverGreat", 
         "SwordBlackMetalGreat", 
+        "SwordIronGreatBlack", 
         "SwordObsidianGreat", 
         "SwordFlametalGreat", 
         "SwordDragonSlayer", 
+        "SwordBoneGreat",
         "v801_SwordLightning", 
         "v801_SwordFire", 
         "GreatswordIron", 
