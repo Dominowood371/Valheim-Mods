@@ -11,7 +11,7 @@ List of mods to be added to the table:
 | [ValheimExpanded](http://www.nexusmods.com/valheim/mods/1154) | 0.4.1 | Weapons, Armor, Enemies, Monsters |
 | [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.1.4 | Weapons, Armor |
 | [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons |
-| [Two Handed Weapons](https://www.nexusmods.com/valheim/mods/1189) | 4.2.2 | Weapons |
+| [Hugo's Armory](https://www.nexusmods.com/valheim/mods/1189) | 5.0.0 | Weapons |
 | [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.1.0 | Weapons |
 | [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
 | [Plate Armor](https://www.nexusmods.com/valheim/mods/567) | 2.0.1 | Armor |
@@ -93,10 +93,16 @@ Adds two-handed weapon drop:
 * Tier4 - Great Silver Mace
 * Tier4 - Silver Battleaxe
 * Tier5 - Black Metal Great Sword
+* Tier5 - Black Metal Great Sword Foreign
 * Tier5 - Moder's Sorrow
 * Tier5 - Flametal Great Sword
 * Tier5 - Black Metal Battleaxe
 * Tier5 - Dragon Slayer
+* 
+* Tier5 - Body of the Devoted
+* Tier5 - Buck and Doe
+* Tier2 - Bronze Knuckles 
+* Tier3 - Iron Knuckles
 
 **Steel Age**
 
