@@ -353,48 +353,69 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // Hugos More Two Handers MOD
-    // Item                      IDS:                     Tier   Handed Weapon    Type Weapon  
+    // Hugos Armory MOD
+    // Item                            IDS:                     Tier   Handed Weapon    Type Weapon  
     // 
-    // Iron Great Sword          SwordIronGreat           Tier3  TwoHandedWeapon  Swords
-    // Heavy Iron Great Sword    SwordFlametalGreatIron   Tier3  TwoHandedWeapon  Swords
-    // Great Core Mace           MaceCoreGreat            Tier3  TwoHandedWeapon  Clubs
-    // Great Core Mace (Green)   MaceCoreGreatGreen       Tier3  TwoHandedWeapon  Clubs
+    // Iron Great Sword                SwordIronGreat           Tier3  TwoHandedWeapon  Swords
+    // Heavy Iron Great Sword          SwordFlametalGreatIron   Tier3  TwoHandedWeapon  Swords
+    // Great Core Mace                 MaceCoreGreat            Tier3  TwoHandedWeapon  Clubs
+    // Great Core Mace (Green)         MaceCoreGreatGreen       Tier3  TwoHandedWeapon  Clubs
     // 
-    // Grasp of Undying          MaceGraspUndying         Tier4  TwoHandedWeapon  Clubs
-    // Silver Great Sword        SwordSilverGreat         Tier4  TwoHandedWeapon  Swords
-    // Great Silver Mace         MaceSilverGreat          Tier4  TwoHandedWeapon  Clubs
-    // Silver Battleaxe          AxeSilverBattle          Tier4  TwoHandedWeapon  TwoHandAxes
+    // Grasp of Undying                MaceGraspUndying         Tier4  TwoHandedWeapon  Clubs
+    // Silver Great Sword              SwordSilverGreat         Tier4  TwoHandedWeapon  Swords
+    // Great Silver Mace               MaceSilverGreat          Tier4  TwoHandedWeapon  Clubs
+    // Silver Battleaxe                AxeSilverBattle          Tier4  TwoHandedWeapon  TwoHandAxes
     // 
-    // Black Metal Great Sword   SwordBlackMetalGreat     Tier5  TwoHandedWeapon  Swords
-    // Moder's Sorrow            SwordObsidianGreat       Tier5  TwoHandedWeapon  Swords
-    // Flametal Great Sword      SwordFlametalGreat       Tier5  TwoHandedWeapon  Swords
-    // Black Metal Battleaxe     AxeBlackMetalBattle      Tier5  TwoHandedWeapon  TwoHandAxes
-    // Dragon Slayer             SwordDragonSlayer        Tier5  TwoHandedWeapon  Swords
+    // Black Metal Great Sword         SwordBlackMetalGreat     Tier5  TwoHandedWeapon  Swords
+    // Black Metal Great Sword Foreign SwordIronGreatBlack      Tier5  TwoHandedWeapon  Swords
+    // Moder's Sorrow                  SwordObsidianGreat       Tier5  TwoHandedWeapon  Swords
+    // Flametal Great Sword            SwordFlametalGreat       Tier5  TwoHandedWeapon  Swords
+    // Black Metal Battleaxe           AxeBlackMetalBattle      Tier5  TwoHandedWeapon  TwoHandAxes
+    // Dragon Slayer                   SwordDragonSlayer        Tier5  TwoHandedWeapon  Swords
     // 
+    // Body of the Devoted             SwordBoneGreat           Tier4  TwoHandedWeapon  Swords
+    // Buck and Doe                    FistBuckAndDoe           Tier1  TwoHandedWeapon  Knuckles
+    // Bronze Knuckles                 FistBronze               Tier2  TwoHandedWeapon  Knuckles
+    // Iron Knuckles                   FistIron                 Tier3  TwoHandedWeapon  Knuckles
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
-      "Name": "Tier3HugosMoreTwoHanders",
+      "Name": "Tier1HugosArmory",
+      "Loot": [
+	{ "Item": "FistBuckAndDoe",         "Weight": 1, "Rarity": [ 94, 3, 2, 1 ] }
+      ]
+    },
+    {
+      "Name": "Tier2HugosArmory",
+      "Loot": [
+	{ "Item": "FistBronze",             "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] }
+      ]
+    },
+	  
+    {
+      "Name": "Tier3HugosArmory",
       "Loot": [
 	{ "Item": "SwordIronGreat",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
 	{ "Item": "SwordFlametalGreatIron", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
 	{ "Item": "MaceCoreGreat",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-	{ "Item": "MaceCoreGreatGreen",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+	{ "Item": "MaceCoreGreatGreen",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+	{ "Item": "FistIron",               "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
     {
-      "Name": "Tier4HugosMoreTwoHanders",
+      "Name": "Tier4HugosArmory",
       "Loot": [
 	{ "Item": "MaceGraspUndying", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
 	{ "Item": "SwordSilverGreat", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
 	{ "Item": "MaceSilverGreat",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "AxeSilverBattle",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
+        { "Item": "AxeSilverBattle",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "SwordBoneGreat",   "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
       ]
     },
     {
-      "Name": "Tier5HugosMoreTwoHanders",
+      "Name": "Tier5HugosArmory",
       "Loot": [
 	{ "Item": "SwordBlackMetalGreat", "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "SwordIronGreatBlack",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
 	{ "Item": "SwordObsidianGreat",   "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
 	{ "Item": "SwordFlametalGreat",   "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
 	{ "Item": "AxeBlackMetalBattle",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
@@ -772,6 +793,7 @@
         { "Item": "Tier1Weapons" },
         { "Item": "Tier1Armor"   },
         { "Item": "Tier1Tools"   },
+        { "Item": "Tier1HugosArmory"      },
         { "Item": "Tier1TerraheimWeapons" },
         { "Item": "Tier1TerraheimArmor"   },
         { "Item": "Tier1Fisticuffs"       }
@@ -834,6 +856,7 @@
         { "Item": "Tier2Shields" },
         { "Item": "Tier2Tools"   },
         { "Item": "Tier2ChaosWarriorArmor" },
+        { "Item": "Tier2HugosArmory"       },
         { "Item": "Tier2TerraheimWeapons"  },
         { "Item": "Tier2TerraheimArmor"    },
         { "Item": "Tier2Fisticuffs"        }
@@ -882,13 +905,13 @@
         { "Item": "Tier3Armor"   },
         { "Item": "Tier3Shields" },
         { "Item": "Tier3Tools"   },
-        { "Item": "Tier3PlateArmor"          },
-        { "Item": "Tier3BarbariansArmor"     },
-        { "Item": "Tier3ChaosWarriorArmor"   },
-        { "Item": "Tier3HugosMoreTwoHanders" },
-        { "Item": "Tier3TerraheimWeapons"    },
-        { "Item": "Tier3TerraheimArmor"      },
-        { "Item": "Tier3Fisticuffs"          }
+        { "Item": "Tier3PlateArmor"        },
+        { "Item": "Tier3BarbariansArmor"   },
+        { "Item": "Tier3ChaosWarriorArmor" },
+        { "Item": "Tier3HugosArmory"       },
+        { "Item": "Tier3TerraheimWeapons"  },
+        { "Item": "Tier3TerraheimArmor"    },
+        { "Item": "Tier3Fisticuffs"        }
       ]
     },
 
@@ -926,11 +949,11 @@
         { "Item": "Tier4Armor"   },
         { "Item": "Tier4Shields" },
         { "Item": "TierSteelAge" },
-        { "Item": "Tier4HugosMoreTwoHanders" },
-        { "Item": "Tier4TerraheimWeapons"    },
-        { "Item": "Tier4TerraheimShields"    },
-        { "Item": "Tier4TerraheimArmor"      },
-        { "Item": "Tier4Fisticuffs"          }
+        { "Item": "Tier4HugosArmory"       },
+        { "Item": "Tier4TerraheimWeapons"  },
+        { "Item": "Tier4TerraheimShields"  },
+        { "Item": "Tier4TerraheimArmor"    },
+        { "Item": "Tier4Fisticuffs"        }
       ]
     },
 
@@ -969,11 +992,11 @@
         { "Item": "Tier5Weapons" },
         { "Item": "Tier5Armor"   },
         { "Item": "Tier5Shields" },
-        { "Item": "Tier5HugosMoreTwoHanders" },
-        { "Item": "Tier5TerraheimWeapons"    },
-        { "Item": "Tier5TerraheimTools"      },
-        { "Item": "Tier5TerraheimArmor"      },
-        { "Item": "Tier5Fisticuffs"          }
+        { "Item": "Tier5HugosArmory"      },
+        { "Item": "Tier5TerraheimWeapons" },
+        { "Item": "Tier5TerraheimTools"   },
+        { "Item": "Tier5TerraheimArmor"   },
+        { "Item": "Tier5Fisticuffs"       }
       ]
     },
 	  
