@@ -54,7 +54,7 @@ https://valheim.fandom.com/wiki/Creatures
     // Frigid Spider             FrigidSpider                                      90    Tier5    DeepNorth     ForestMonsters        Guck
     // Frost Spider              FrostSpider                                       90    Tier5    DeepNorth     ForestMonsters        Guck
     // Tan Spider                TanSpider                                         90    Tier2    BlackForest   ForestMonsters        Guck
-    // Tree Spider               TreeSpider                                        90    Tier1    Meadows       ForestMonsters        Guck
+    // Tree Spider               -TreeSpider                                        90    Tier1    Meadows       ForestMonsters        Guck
     // Green Spider              GreenSpider                                       90    Tier6    Mistlands     ForestMonsters        Guck
     // Ghost Warrior             GhostWarrior                                      40    Tier2    BlackForest   Undead                AmberPearl
     // $enemy_goblin             GoblinBase - ExportedGoblinBase                  200    Tier5    Plains        PlainsMonsters        Coins
@@ -70,9 +70,9 @@ https://valheim.fandom.com/wiki/Creatures
     // $enemy_stonegolem         ObsidianGolem - ExportedObsidianGolem            800    Tier5    DeepNorth     ForestMonsters        TrophySGolem Stone Crystal       
     // Fire Golem                FireGolem                                        800    Tier7    AshLands      Demon                 Stone SurtlingCore
     // Ice Golem                 IceGolem                                        1500    Tier5    DeepNorth     MountainMonsters      Crystal
-    // Skeleton Warrior          SkeletonWarrior                                   40    Tier2    BlackForest   Undead                TrophySkeleton BoneFragments
+    // Skeleton Warrior          -SkeletonWarrior                                   40    Tier2    BlackForest   Undead                TrophySkeleton BoneFragments
     // Burning Skeleton Warrior  SkeletonWarriorFire                               40    Tier7    AshLands      Undead                TrophySkeleton BoneFragments
-    // Frozen Skeleton Warrior   SkeletonWarriorIce                                40    Tier5    DeepNorth     Undead                TrophySkeleton BoneFragments
+    // Frozen Skeleton Warrior   -SkeletonWarriorIce                                40    Tier5    DeepNorth     Undead                TrophySkeleton BoneFragments
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Monsternomicon MOD
