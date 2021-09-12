@@ -1,8 +1,8 @@
-Mod Hugos More Two Handers Russian Translation Version 5.0.0.
+Mod Hugos Armory Russian Translation Version 5.0.0.
 
 ### Описание
 
-Перевод мода [Hugos More Two Handers](https://www.nexusmods.com/valheim/mods/1189) на русский язык для игры Valheim. 
+Перевод мода [Hugos Armory](https://www.nexusmods.com/valheim/mods/1189) на русский язык для игры Valheim. 
 
 ### Установка
 
