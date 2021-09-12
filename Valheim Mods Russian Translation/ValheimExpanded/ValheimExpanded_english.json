@@ -9,70 +9,22 @@
   "item__desc": "This item can be reforged into the following;\n- Leather Pants\n> Workbench",
   "item__setname": "Rag Armor",
   "item__name": "Rag Cape",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Deerskin Cape",
-					
-					"> Workbench",
+  "item__desc": "This item can be reforged into the following;\n- Deerskin Cape\n> Workbench",
   "item__setname": "Rag Gear",
   "item__name": "Rag Belt",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Leather Belt",
-					
-					"> Workbench",
+  "item__desc": "This item can be reforged into the following;\n- Leather Belt\n> Workbench",
   "item__setname": "Rag Gear",
   "item__name": "Leather Helmet",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Bone Helmet",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Trollskin Hood",
-					
-					" > Workbench",
+  "item__desc": "This item can be reforged into the following;\n- Bone Helmet\n> Workbench\nor\n- Trollskin Hood\n> Workbench",
   "item__setname": "Leather Armor",
   "item__name": "Leather Pants",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Bone Chestplate",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Trollskin Pants",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Bone Chestplate\n> Workbench\nor\n- Trollskin Pants\n> Forge",
   "item__setname": "Leather Armor",
   "item__name": "Deerskin Cape",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Bone Cape",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Trollskin Cape",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Bone Cape\n> Workbench\nor\n- Trollskin Cape\n> Forge",
   "item__setname": "Leather Gear",
   "item__name": "Leather Belt",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Bone Belt",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Trollskin Belt",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Bone Belt\n> Workbench\nor\n- Trollskin Belt\n> Forge",
   "item__setname": "Leather Gear",
   "item__name": "Bone Helmet",
   "item__desc": "This item cannot be repaired and will break eventually.",
@@ -93,104 +45,34 @@
   "item__desc": "This item cannot be repaired and will break eventually.",
   "item__setname": "Bone Gear",
   "item__name": "Trollskin Hood",
-  "item__desc": "This item can be reforged into the following;",
-					
-					" - Bronze Helmet",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Bronze Helmet\n> Forge",
   "item__setname": "Trollskin Armor",
   "item__name": "Trollskin Tunic",
-  "item__desc": "This item can be reforged into the following;",
-					
-					" - Bronze Cuirass",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Bronze Cuirass\n> Forge",
   "item__setname": "Trollskin Armor",
   "item__name": "Trollskin Pants",
-  "item__desc": "This item can be reforged into the following;",
-					
-					" - Bronze Greaves",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Bronze Greaves\n> Forge",
   "item__setname": "Trollskin Armor",
   "item__name": "Trollskin Cape",
-  "item__desc": "This item can be reforged into the following;",
-					
-					" - Bronze Cape",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Bronze Cape\n> Forge",
   "item__setname": "Trollskin Gear",
   "item__name": "Trollskin Belt",
-  "item__desc": "This item can be reforged into the following;",
-					
-					" - Bronze Belt",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Bronze Belt\n> Forge",
   "item__setname": "Trollskin Gear",
   "item__name": "Bronze Helmet",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Ancient Helmet",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Iron Helmet",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Ancient Helmet\n> Workbench\nor\n- Iron Helmet\n> Forge",
   "item__setname": "Bronze Armor",
   "item__name": "Bronze Cuirass",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Ancient Chestplate",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Iron Cuirass",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Ancient Chestplate\n> Workbench\nor\n- Iron Cuirass\n> Forge",
   "item__setname": "Bronze Armor",
   "item__name": "Bronze Greaves",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Ancient Greaves",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Iron Greaves",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Ancient Greaves\n> Workbench\nor\n- Iron Greaves\n> Forge",
   "item__setname": "Bronze Armor",
   "item__name": "Bronze Cape",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Ancient Cape",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Iron Cape",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Ancient Cape\n> Workbench\nor\n- Iron Cape\n> Forge",
   "item__setname": "Bronze Gear",
   "item__name": "Bronze Belt",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Ancient Belt",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Iron Belt",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Ancient Belt\n> Workbench\nor\n- Iron Belt\n> Forge",
   "item__setname": "Bronze Gear",
   "item__name": "Ancient Helmet",
   "item__desc": "This item cannot be repaired and will break eventually.",
@@ -208,69 +90,19 @@
   "item__desc": "This item cannot be repaired and will break eventually.",
   "item__setname": "Ancient Bark Gear",
   "item__name": "Iron Helmet",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Abyssal Helmet",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Silver Helmet",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Abyssal Helmet\n> Workbench\nor\n- Silver Helmet\n> Forge",
   "item__setname": "Iron Armor",
   "item__name": "Iron Plate Cuirass",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Abyssal Chestplate",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Silver Cuirass",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Abyssal Chestplate\n> Workbench\nor\n- Silver Cuirass\n> Forge",
   "item__setname": "Iron Armor",
   "item__name": "Iron Plate Greaves",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Abyssal Greaves",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Silver Greaves",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Abyssal Greaves\n> Workbench\nor\n- Silver Greaves\n> Forge",
   "item__setname": "",
   "item__name": "Iron Cape",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Abyssal Cape",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Silver Cape",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Abyssal Cape\n> Workbench\nor\n- Silver Cape\n> Forge",
   "item__setname": "Iron Gear",
   "item__name": "Iron Belt",
-  "item__desc": "This item can be reforged into the following;",
-					
-					"- Abyssal Belt",
-					
-					"> Workbench",
-					
-					"or",
-					
-					" - Silver Belt",
-					
-					" > Forge",
+  "item__desc": "This item can be reforged into the following;\n- Abyssal Belt\n> Workbench\nor\n- Silver Belt\n> Forge",
   "item__setname": "Iron Gear",
   "item__name": "Abyssal Helmet",
   "item__desc": "This item cannot be repaired and will break eventually.",
