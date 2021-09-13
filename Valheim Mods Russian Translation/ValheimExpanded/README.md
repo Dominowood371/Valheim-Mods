@@ -2,7 +2,7 @@ Mod ValheimExpanded Russian Translation Version 0.4.1.
 
 ### Описание
 
-Перевод мода [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1306) на русский язык для игры Valheim. 
+Перевод мода [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) на русский язык для игры Valheim. 
 
 ### Установка
 
