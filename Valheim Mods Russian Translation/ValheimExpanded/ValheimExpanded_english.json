@@ -345,6 +345,7 @@
   "item_bronzebattleaxe_desc": "A Battleaxe made out of Bronze.",
   "item_bronzeknife_name": "Bronze Knife",
   "item_bronzeknife_desc": "A Knife made out of Bronze.",
+  
   "item_ancientbow_name": "Ancient Bow",
   "item_ancientbow_desc": "A Bow made out of Ancient bark. It can't be repaired and will break eventually.",
   "item_ancientatgeir_name": "Ancient Atgeir",
@@ -368,6 +369,7 @@
   "item_ironspear_desc": "A made out of Iron.",
   "item_ironknife_name": "Iron Knife",
   "item_ironknife_desc": "A made out of Iron",
+  
   "item_abyssalbow_name": "Abyssal Bow",
   "item_abyssalbow_desc": "A Bow made out of Chitin. It can't be repaired and will break eventually.",
   "item_abyssalatgeir_name": "Abyssal Atgeir",
