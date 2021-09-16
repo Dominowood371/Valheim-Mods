@@ -14,6 +14,7 @@
   "item_ragbelt_name": "Rag Belt",
   "item_ragbelt_desc": "This item can be reforged into the following;\n- $item_leatherbelt_name\n> $piece_workbench",
   "item_ragbelt_setname": "Rag Gear",
+  
   "item_leatherhelmet_name": "Leather Helmet",
   "item_leatherhelmet_desc": "This item can be reforged into the following;\n- $item_bonehelmet_name\n> $piece_workbench\n or\n- $item_trollskinhood_name\n> $piece_workbench",
   "item_leatherhelmet_setname": "Leather Armor",
@@ -29,6 +30,7 @@
   "item_leatherbelt_name": "Leather Belt",
   "item_leatherbelt_desc": "This item can be reforged into the following;\n- $item_bonebelt_name\n> $piece_workbench\n or\n- $item_trollskinbelt_name\n> $piece_forge",
   "item_leatherbelt_setname": "Leather Gear",
+  
   "item_bonehelmet_name": "Bone Helmet",
   "item_bonehelmet_desc": "This item cannot be repaired and will break eventually.",
   "item_bonehelmet_setname": "Bone Armor",
@@ -44,6 +46,7 @@
   "item_bonebelt_name": "Bone Belt",
   "item_bonebelt_desc": "This item cannot be repaired and will break eventually.",
   "item_bonebelt_setname": "Bone Gear",
+  
   "item_trollskinhood_name": "Trollskin Hood",
   "item_trollskinhood_desc": "This item can be reforged into the following;\n- $item_bronzehelmet_name\n> $piece_forge",
   "item_trollskinhood_setname": "Trollskin Armor",
@@ -59,6 +62,7 @@
   "item_trollskinbelt_name": "Trollskin Belt",
   "item_trollskinbelt_desc": "This item can be reforged into the following;\n- $item_bronzebelt_name\n> $piece_forge",
   "item_trollskinbelt_setname": "Trollskin Gear",
+  
   "item_bronzehelmet_name": "Bronze Helmet",
   "item_bronzehelmet_desc": "This item can be reforged into the following;\n- $item_ancienthelmet_name\n> $piece_workbench\n or\n- $item_helmet_iron\n> $piece_forge",
   "item_bronzehelmet_setname": "Bronze Armor",
@@ -74,6 +78,7 @@
   "item_bronzebelt_name": "Bronze Belt",
   "item_bronzebelt_desc": "This item can be reforged into the following;\n- $item_ancientbelt_name\n> $piece_workbench\n or\n- $item_ironbelt_name\n> $piece_forge",
   "item_bronzebelt_setname": "Bronze Gear",
+  
   "item_ancienthelmet_name": "Ancient Helmet",
   "item_ancienthelmet_desc": "This item cannot be repaired and will break eventually.",
   "item_ancienthelmet_setname": "Ancient Bark Armor",
@@ -89,6 +94,7 @@
   "item_ancientbelt_name": "Ancient Belt",
   "item_ancientbelt_desc": "This item cannot be repaired and will break eventually.",
   "item_ancientbelt_setname": "Ancient Bark Gear",
+  
   "item_ironhelmet_name": "Iron Helmet",
   "item_ironhelmet_desc": "This item can be reforged into the following;\n- $item_abyssalhelmet_name\n> $piece_workbench\n or\n- $item_silverhelmet_name\n> $piece_forge",
   "item_ironhelmet_setname": "Iron Armor",
@@ -104,6 +110,7 @@
   "item_ironbelt_name": "Iron Belt",
   "item_ironbelt_desc": "This item can be reforged into the following;\n- $item_abyssalbelt_name\n> $piece_workbench\n or\n- $item_silverbelt_name\n> $piece_forge",
   "item_ironbelt_setname": "Iron Gear",
+  
   "item_abyssalhelmet_name": "Abyssal Helmet",
   "item_abyssalhelmet_desc": "This item cannot be repaired and will break eventually.",
   "item_abyssalhelmet_setname": "Abyssal Armor",
@@ -119,6 +126,7 @@
   "item_abyssalbelt_name": "Abyssal Belt",
   "item_abyssalbelt_desc": "This item cannot be repaired and will break eventually.",
   "item_abyssalbelt_setname": "Abyssal Gear",
+  
   "item_silverhelmet_name": "Silver Helmet",
   "item_silverhelmet_desc": "This item can be reforged into the following;\n- $item_wolfskinhelmet_name\n> $piece_workbench\n or\n- $item_blackmetalhelmet_name\n> $piece_forge",
   "item_silverhelmet_setname": "Silver Armor",
@@ -134,6 +142,7 @@
   "item_silverbelt_name": "Silver Belt",
   "item_silverbelt_desc": "This item can be reforged into the following;\n- $item_wolfPeltbelt_name\n> $piece_workbench\n or\n- $item_blackmetalbelt_name\n> $piece_forge",
   "item_silverbelt_setname": "Silver Gear",
+  
   "item_wolfskinhelmet_name": "Wolfskin Helmet",
   "item_wolfskinhelmet_desc": "This item cannot be repaired and will break eventually.",
   "item_wolfskinhelmet_setname": "Wolfskin Armor",
@@ -149,6 +158,7 @@
   "item_wolfpeltbelt_name": "WolfPelt Belt",
   "item_wolfpeltbelt_desc": "This item cannot be repaired and will break eventually.",
   "item_wolfpeltbelt_setname": "Wolfskin Gear",
+  
   "item_blackmetalhelmet_name": "BlackMetal Helmet",
   "item_blackmetalhelmet_desc": "This item can be reforged into the following;\n- $item_paddedcombathelmet_name\n> $piece_workbench\n or\n- $item_heavymetalhelmet_name\n> $piece_forge",
   "item_blackmetalhelmet_setname": "BlackMetal Armor",
@@ -164,6 +174,7 @@
   "item_blackmetalbelt_name": "BlackMetal Belt",
   "item_blackmetalbelt_desc": "This item can be reforged into the following;\n- $item_paddedcombatbelt_name\n> $piece_workbench\n or\n- $item_heavymetalbelt_name\n> $piece_forge",
   "item_blackmetalbelt_setname": "BlackMetal Gear",
+  
   "item_paddedcombathelmet_name": "Padded Combat Helmet",
   "item_paddedcombathelmet_desc": "This is the end of this item's Forging path.",
   "item_paddedcombathelmet_setname": "Padded Armor",
@@ -179,6 +190,7 @@
   "item_paddedcombatbelt_name": "Padded Combat Belt",
   "item_paddedcombatbelt_desc": "This is the end of this item's Forging path",
   "item_paddedcombatbelt_setname": "Padded Gear",
+  
   "item_heavymetalhelmet_name": "Heavymetal Helmet",
   "item_heavymetalhelmet_desc": "This item can be reforged into the following;\n- $item_frometalhelmet_name\n> $piece_forge\n or\n- $item_heavyscalehelmet_name\n> $piece_forge",
   "item_heavymetalhelmet_setname": "Heavymetal Armor",
@@ -194,6 +206,7 @@
   "item_heavymetalbelt_name": "Heavymetal Belt",
   "item_heavymetalbelt_desc": "This item can be reforged into the following;\n- $item_frometalbelt_name\n> $piece_forge\n or\n- $item_heavyscalebelt_name\n> $piece_forge",
   "item_heavymetalbelt_setname": "Heavymetal Gear",
+  
   "item_heavyscalehelmet_name": "Heavyscale Helmet",
   "item_heavyscalehelmet_desc": "This item can be reforged into the following;\n- $item_drakescalehelmet_name\n> $piece_forge\n or\n- $item_forgescalehelmet_name\n> $piece_forge",
   "item_heavyscalehelmet_setname": "Heavyscale Armor",
@@ -209,6 +222,7 @@
   "item_heavyscalebelt_name": "Heavyscale Belt",
   "item_heavyscalebelt_desc": "This item can be reforged into the following;\n- $item_drakescalebelt_name\n> $piece_forge\n or\n- $item_forgescalebelt_name\n> $piece_forge",
   "item_heavyscalebelt_setname": "Heavyscale Gear",
+  
   "item_frometalhelmet_name": "Frometal Helmet",
   "item_frometalhelmet_desc": "This is the end of this item's Forging path.",
   "item_frometalhelmet_setname": "Frometal Armor",
@@ -224,6 +238,7 @@
   "item_frometalbelt_name": "Frometal Belt",
   "item_frometalbelt_desc": "This is the end of this item's Forging path.",
   "item_frometalbelt_setname": "Frometal Gear",
+  
   "item_drakescalehelmet_name": "Drakescale Helmet",
   "item_drakescalehelmet_desc": "This is the end of this item's Forging path.",
   "item_drakescalehelmet_setname": "Drakescale Armor",
@@ -239,6 +254,7 @@
   "item_drakescalebelt_name": "Drakescale Belt",
   "item_drakescalebelt_desc": "This is the end of this item's Forging path.",
   "item_drakescalebelt_setname": "Drakescale Gear",
+  
   "item_flametalhelmet_name": "Flametal Helmet",
   "item_flametalhelmet_desc": "This is the end of this item's Forging path.",
   "item_flametalhelmet_setname": "Flametal Armor",
@@ -254,6 +270,7 @@
   "item_flametalbelt_name": "Flametal Belt",
   "item_flametalbelt_desc": "This is the end of this item's Forging path.",
   "item_flametalbelt_setname": "Flametal Gear",
+  
   "item_forgescalehelmet_name": "Forgescale Helmet",
   "item_forgescalehelmet_desc": "This is the end of this item's Forging path.",
   "item_forgescalehelmet_setname": "Forgescale Armor",
@@ -598,6 +615,7 @@
   "piece_cargocrate_desc": "Stackable storage container.",
   "piece_heavymetalsafe_name": "Heavymetal Safe",
   "piece_heavymetalsafe_desc": "The most secure container.",
+  
   "mob_polarlox_name": "Polar Lox",
   "mob_pygmylox_name": "Pygmy Lox",
   "mob_nightlox_name": "Night Lox",
