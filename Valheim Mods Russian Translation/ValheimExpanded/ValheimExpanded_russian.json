@@ -14,6 +14,7 @@
   "item_ragbelt_name": "Холщовый пояс",
   "item_ragbelt_desc": "Этот предмет можно перековать в следующее;\n- $item_leatherbelt_name\n> $piece_workbench",
   "item_ragbelt_setname": "Холщовое снаряжение",
+  
   "item_leatherhelmet_name": "Кожаный шлем",
   "item_leatherhelmet_desc": "Этот предмет можно перековать в следующее;\n- $item_bonehelmet_name\n> $piece_workbench\n или\n- $item_trollskinhood_name\n> $piece_workbench",
   "item_leatherhelmet_setname": "Кожаная броня",
@@ -29,6 +30,7 @@
   "item_leatherbelt_name": "Кожаный пояс",
   "item_leatherbelt_desc": "Этот предмет можно перековать в следующее;\n- $item_bonebelt_name\n> $piece_workbench\n или\n- $item_trollskinbelt_name\n> $piece_forge",
   "item_leatherbelt_setname": "Кожаное снаряжение",
+  
   "item_bonehelmet_name": "Костяной шлем",
   "item_bonehelmet_desc": "Этот предмет не подлежит ремонту и в конечном итоге сломается.",
   "item_bonehelmet_setname": "Костяная броня",
@@ -44,6 +46,7 @@
   "item_bonebelt_name": "Костяной пояс",
   "item_bonebelt_desc": "Этот предмет не подлежит ремонту и в конечном итоге сломается.",
   "item_bonebelt_setname": "Костяное снаряжение",
+  
   "item_trollskinhood_name": "Шлем из кожи тролля",
   "item_trollskinhood_desc": "Этот предмет можно перековать в следующее;\n- $item_bronzehelmet_name\n> $piece_forge",
   "item_trollskinhood_setname": "Троллиная броня",
@@ -59,6 +62,7 @@
   "item_trollskinbelt_name": "Пояс из шкуры тролля",
   "item_trollskinbelt_desc": "Этот предмет можно перековать в следующее;\n- $item_bronzebelt_name\n> $piece_forge",
   "item_trollskinbelt_setname": "Троллиное снаряжение",
+  
   "item_bronzehelmet_name": "Бронзовый шлем",
   "item_bronzehelmet_desc": "Этот предмет можно перековать в следующее;\n- $item_ancienthelmet_name\n> $piece_workbench\n или\n- $item_helmet_iron\n> $piece_forge",
   "item_bronzehelmet_setname": "Бронзовая броня",
@@ -74,6 +78,7 @@
   "item_bronzebelt_name": "Бронзовый пояс",
   "item_bronzebelt_desc": "Этот предмет можно перековать в следующее;\n- $item_ancientbelt_name\n> $piece_workbench\n или\n- $item_ironbelt_name\n> $piece_forge",
   "item_bronzebelt_setname": "Бронзовое снаряжение",
+  
   "item_ancienthelmet_name": "Шлем из древней коры",
   "item_ancienthelmet_desc": "Этот предмет не подлежит ремонту и в конечном итоге сломается.",
   "item_ancienthelmet_setname": "Броня из древней коры",
@@ -89,6 +94,7 @@
   "item_ancientbelt_name": "Пояс из древней коры",
   "item_ancientbelt_desc": "Этот предмет не подлежит ремонту и в конечном итоге сломается.",
   "item_ancientbelt_setname": "Снаряжение из древней коры",
+  
   "item_ironhelmet_name": "Железный латный шлем",
   "item_ironhelmet_desc": "Этот предмет можно перековать в следующее;\n- $item_abyssalhelmet_name\n> $piece_workbench\n или\n- $item_silverhelmet_name\n> $piece_forge",
   "item_ironhelmet_setname": "Железная броня",
@@ -104,6 +110,7 @@
   "item_ironbelt_name": "Железный пояс",
   "item_ironbelt_desc": "Этот предмет можно перековать в следующее;\n- $item_abyssalbelt_name\n> $piece_workbench\n или\n- $item_silverbelt_name\n> $piece_forge",
   "item_ironbelt_setname": "Железное снаряжение",
+  
   "item_abyssalhelmet_name": "Шлем из глубин",
   "item_abyssalhelmet_desc": "Этот предмет не подлежит ремонту и в конечном итоге сломается.",
   "item_abyssalhelmet_setname": "Броня из глубин",
@@ -119,6 +126,7 @@
   "item_abyssalbelt_name": "Пояс из глубин",
   "item_abyssalbelt_desc": "Этот предмет не подлежит ремонту и в конечном итоге сломается.",
   "item_abyssalbelt_setname": "Снаряжение из глубин",
+  
   "item_silverhelmet_name": "Серебряный шлем",
   "item_silverhelmet_desc": "Этот предмет можно перековать в следующее;\n- $item_wolfskinhelmet_name\n> $piece_workbench\n или\n- $item_blackmetalhelmet_name\n> $piece_forge",
   "item_silverhelmet_setname": "Серебряная броня",
@@ -128,12 +136,13 @@
   "item_silvergreaves_name": "Серебряные наголенники",
   "item_silvergreaves_desc": "Этот предмет можно перековать в следующее;\n- $item_wolfskingreaves_name\n> $piece_workbench\n или\n- $item_blackmetalgreaves_name\n> $piece_forge",
   "item_silvergreaves_setname": "Серебряная броня",
-  "item_silvercape_name": "Серебряный плящ",
+  "item_silvercape_name": "Серебряный плащ",
   "item_silvercape_desc": "Этот предмет можно перековать в следующее;\n- $item_wolfPeltcape_name\n> $piece_workbench\n или\n- $item_blackmetalcape_name\n> $piece_forge",
   "item_silvercape_setname": "Серебряное снаряжение",
   "item_silverbelt_name": "Серебряный пояс",
   "item_silverbelt_desc": "Этот предмет можно перековать в следующее;\n- $item_wolfPeltbelt_name\n> $piece_workbench\n или\n- $item_blackmetalbelt_name\n> $piece_forge",
   "item_silverbelt_setname": "Серебряное снаряжение",
+  
   "item_wolfskinhelmet_name": "Шлем из шкуры волка",
   "item_wolfskinhelmet_desc": "Этот предмет не подлежит ремонту и в конечном итоге сломается.",
   "item_wolfskinhelmet_setname": "Броня из шкуры волка",
@@ -149,6 +158,7 @@
   "item_wolfpeltbelt_name": "Пояс из шкуры волка",
   "item_wolfpeltbelt_desc": "Этот предмет не подлежит ремонту и в конечном итоге сломается.",
   "item_wolfpeltbelt_setname": "Снаряжение из шкуры волка",
+  
   "item_blackmetalhelmet_name": "Шлем из черного металла",
   "item_blackmetalhelmet_desc": "Этот предмет можно перековать в следующее;\n- $item_paddedcombathelmet_name\n> $piece_workbench\n или\n- $item_heavymetalhelmet_name\n> $piece_forge",
   "item_blackmetalhelmet_setname": "Броня из черного металла",
@@ -164,6 +174,7 @@
   "item_blackmetalbelt_name": "Пояс из черного металла",
   "item_blackmetalbelt_desc": "Этот предмет можно перековать в следующее;\n- $item_paddedcombatbelt_name\n> $piece_workbench\n или\n- $item_heavymetalbelt_name\n> $piece_forge",
   "item_blackmetalbelt_setname": "Снаряжение из черного металла",
+  
   "item_paddedcombathelmet_name": "Обитый боевой шлем",
   "item_paddedcombathelmet_desc": "Это окончательный путь перековки для этого предмета.",
   "item_paddedcombathelmet_setname": "Обитая броня",
@@ -173,12 +184,13 @@
   "item_paddedcombatgreaves_name": "Обитые боевые наголенники",
   "item_paddedcombatgreaves_desc": "Это окончательный путь перековки для этого предмета.",
   "item_paddedcombatgreaves_setname": "Обитая броня",
-  "item_paddedcombatcape_name": "Обитый боевой плящ",
+  "item_paddedcombatcape_name": "Обитый боевой плащ",
   "item_paddedcombatcape_desc": "TЭто окончательный путь перековки для этого предмета.",
   "item_paddedcombatcape_setname": "Обитое снаряжение",
   "item_paddedcombatbelt_name": "Обитый боевой пояс",
   "item_paddedcombatbelt_desc": "Это окончательный путь перековки для этого предмета.",
   "item_paddedcombatbelt_setname": "Обитое снаряжение",
+  
   "item_heavymetalhelmet_name": "Шлем из тяжелого металла",
   "item_heavymetalhelmet_desc": "Этот предмет можно перековать в следующее;\n- $item_frometalhelmet_name\n> $piece_forge\n или\n- $item_heavyscalehelmet_name\n> $piece_forge",
   "item_heavymetalhelmet_setname": "Броня из тяжелого металла",
@@ -194,6 +206,7 @@
   "item_heavymetalbelt_name": "Пояс из тяжелого металла",
   "item_heavymetalbelt_desc": "Этот предмет можно перековать в следующее;\n- $item_frometalbelt_name\n> $piece_forge\n или\n- $item_heavyscalebelt_name\n> $piece_forge",
   "item_heavymetalbelt_setname": "Снаряжение из тяжелого металла",
+  
   "item_heavyscalehelmet_name": "Шлем из тяжелой чешуи",
   "item_heavyscalehelmet_desc": "Этот предмет можно перековать в следующее;\n- $item_drakescalehelmet_name\n> $piece_forge\n или\n- $item_forgescalehelmet_name\n> $piece_forge",
   "item_heavyscalehelmet_setname": "Броня из тяжелой чешуи",
@@ -209,6 +222,7 @@
   "item_heavyscalebelt_name": "Пояс из тяжелой чешуи",
   "item_heavyscalebelt_desc": "Этот предмет можно перековать в следующее;\n- $item_drakescalebelt_name\n> $piece_forge\n или\n- $item_forgescalebelt_name\n> $piece_forge",
   "item_heavyscalebelt_setname": "Снаряжение из тяжелой чешуи",
+  
   "item_frometalhelmet_name": "Шлем из ледометалла",
   "item_frometalhelmet_desc": "Это окончательный путь перековки для этого предмета.",
   "item_frometalhelmet_setname": "Броня из ледометалла",
@@ -224,6 +238,7 @@
   "item_frometalbelt_name": "Пояс из ледометалла",
   "item_frometalbelt_desc": "Это окончательный путь перековки для этого предмета.",
   "item_frometalbelt_setname": "Снаряжение из ледометалла",
+  
   "item_drakescalehelmet_name": "Шлем из чешуи дракона",
   "item_drakescalehelmet_desc": "Это окончательный путь перековки для этого предмета.",
   "item_drakescalehelmet_setname": "Броня из чешуи дракона",
@@ -239,6 +254,7 @@
   "item_drakescalebelt_name": "Пояс из чешуи дракона",
   "item_drakescalebelt_desc": "Это окончательный путь перековки для этого предмета.",
   "item_drakescalebelt_setname": "Снаряжение из чешуи дракона",
+  
   "item_flametalhelmet_name": "Шлем из огнеметалла",
   "item_flametalhelmet_desc": "Это окончательный путь перековки для этого предмета.",
   "item_flametalhelmet_setname": "Броня из огнеметалла",
@@ -254,6 +270,7 @@
   "item_flametalbelt_name": "Пояс из огнеметалла",
   "item_flametalbelt_desc": "Это окончательный путь перековки для этого предмета.",
   "item_flametalbelt_setname": "Снаряжение из огнеметалла",
+  
   "item_forgescalehelmet_name": "Шлем из кузнечной чешуи",
   "item_forgescalehelmet_desc": "Это окончательный путь перековки для этого предмета.",
   "item_forgescalehelmet_setname": "Броня из кузнечной чешуи",
@@ -331,17 +348,17 @@
   
   "item_ancientbow_name": "Древний лук",
   "item_ancientbow_desc": "Лук изготовленный из древней коры. Он не подлежит ремонту и в конечном итоге сломается.",
-  "item_ancientatgeir_name": "Древная алебарда",
+  "item_ancientatgeir_name": "Древняя алебарда",
   "item_ancientatgeir_desc": "Алебарда изготовленная из древней коры. Она не подлежит ремонту и в конечном итоге сломается.",
-  "item_ancientclub_name": "Древная дубина",
+  "item_ancientclub_name": "Древняя дубина",
   "item_ancientclub_desc": "Дубина изготовленная из древней коры. Она не подлежит ремонту и в конечном итоге сломается.",
-  "item_ancientsledge_name": "Древная кувалда",
+  "item_ancientsledge_name": "Древняя кувалда",
   "item_ancientsledge_desc": "Кувалда изготовленная из древней коры. Она не подлежит ремонту и в конечном итоге сломается.",
   "item_ancientbattleaxe_name": "Древний боевой топор",
   "item_ancientbattleaxe_desc": "Боевой топор изготовленный из древней коры. Он не подлежит ремонту и в конечном итоге сломается.",
   "item_ancientsword_name": "Древний меч",
   "item_ancientsword_desc": "Меч изготовленный из древней коры. Он не подлежит ремонту и в конечном итоге сломается.",
-  "item_ancientmace_name": "Древная булава",
+  "item_ancientmace_name": "Древняя булава",
   "item_ancientmace_desc": "Булава изготовленная из древней коры. Она не подлежит ремонту и в конечном итоге сломается.",
   "item_ancientshield_name": "Древний щит",
   "item_ancientshield_desc": "Щит изготовленный из древней коры. Он не подлежит ремонту и в конечном итоге сломается.",
@@ -349,9 +366,9 @@
   "item_ancienttowershield_desc": "Башенный щит изготовленный из древней коры. Он не подлежит ремонту и в конечном итоге сломается.",
 
   "item_ironspear_name": "Железное копье",
-  "item_ironspear_desc": "Сделаное из железа.",
+  "item_ironspear_desc": "Сделанное из железа.",
   "item_ironknife_name": "Железный нож",
-  "item_ironknife_desc": "Сделаное из железа.",
+  "item_ironknife_desc": "Сделанное из железа.",
   
   "item_abyssalbow_name": "Лук из глубин",
   "item_abyssalbow_desc": "Лук изготовленный из хитина. Он не подлежит ремонту и в конечном итоге сломается.",
@@ -604,12 +621,12 @@
   "mob_pygmylox_name": "Пигмейный быкоящер",
   "mob_nightlox_name": "Ночной быкоящер",
   "mob_mossylox_name": "Пушистый быкоящер",
-  "mob_flaminglox_name": "Огненый быкоящер",
+  "mob_flaminglox_name": "Огненный быкоящер",
   "mob_frozenspiderling_name": "Ледяной паучок",
   "mob_pygmyspiderling_name": "Пигмейный паучок",
   "mob_widowspiderling_name": "Паучок вдовой",
   "mob_ancientspiderling_name": "Древний паучок",
   "mob_mistyspiderling_name": "Туманный паучок",
-  "mob_flamingspiderling_name": "Огненый паучок",
+  "mob_flamingspiderling_name": "Огненный паучок",
   "mob_radioactivespiderling_name": "Радиоактивный паучок"
 }
