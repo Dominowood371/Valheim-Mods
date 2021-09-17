@@ -1,4 +1,4 @@
-Mod Terraheim - Weapons Tools and Armor Russian Translation Version 2.1.4.
+Mod Terraheim - Weapons Tools and Armor Russian Translation Version 2.1.5.
 
 ### Описание
 
