@@ -1,12 +1,12 @@
-Mod Magic Overhaul Russian Translation Version 1.2.0.
+Mod Magic Overhaul Russian Translation Version 1.4.1.
 
 ### Описание
 
-Перевод мода [Magic Overhaul](https://www.nexusmods.com/valheim/mods/1418) на русский язык для игры Valheim. 
+Перевод мода [Magic Overhaul](https://valheim.thunderstore.io/package/KGvalheim/MagicOverhaul/) на русский язык для игры Valheim. 
 
 ### Установка
 
-Скачайте файл `MagicOverhaulLocalization.cfg` и с заменой переместите файл в папку `Valheim\BepInEx\config\MagicOverhaulLocalization`
+Скачайте файл `MagicOverhaulLocalization-1.4.1.cfg` и с заменой переместите файл в папку `Valheim\BepInEx\config\MagicOverhaulLocalization`
 
 ### Скачивание
 
