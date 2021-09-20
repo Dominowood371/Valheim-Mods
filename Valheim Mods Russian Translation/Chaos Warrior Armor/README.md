@@ -1,8 +1,8 @@
-Mod Chaos Warrior Armor Russian Translation Version 6.0.1.
+Mod Chaos Warrior Armor Russian Translation Version 6.0.1 - 6.0.4.
 
 ### Описание
 
-Перевод мода [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) на русский язык для игры Valheim. 
+Перевод мода [Chaos Warrior Armor](https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/) на русский язык для игры Valheim. 
 
 ### Установка
 
