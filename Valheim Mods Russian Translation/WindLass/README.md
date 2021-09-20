@@ -2,7 +2,7 @@ Mod WindLass Russian Translation Version 1.0.5.
 
 ### Описание
 
-Перевод мода [WindLass](https://www.nexusmods.com/valheim/mods/1209) на русский язык для игры Valheim. 
+Перевод мода [WindLass](https://valheim.thunderstore.io/package/OdinPlus/TheWindlass/) на русский язык для игры Valheim. 
 
 ### Установка
 
