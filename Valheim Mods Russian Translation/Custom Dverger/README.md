@@ -1,8 +1,8 @@
-Mod Custom Dverger Russian Translation Version 0.0.1.
+Mod Custom Dverger Russian Translation Version 0.0.1 - 0.0.2.
 
 ### Описание
 
-Перевод мода [Custom Dverger](https://www.nexusmods.com/valheim/mods/1351) на русский язык для игры Valheim. 
+Перевод мода [Custom Dverger](https://valheim.thunderstore.io/package/OdinPlus/CustomDverger/) на русский язык для игры Valheim. 
 
 ### Установка
 
