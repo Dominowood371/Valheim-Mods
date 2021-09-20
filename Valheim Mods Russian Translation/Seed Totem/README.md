@@ -1,8 +1,8 @@
-Mod Seed Totem Russian Translation Version 1.1.5.
+Mod Seed Totem Russian Translation Version 1.2.0.
 
 ### Описание
 
-Перевод мода [Seed Totem](https://www.nexusmods.com/valheim/mods/876) на русский язык для игры Valheim. 
+Перевод мода [Seed Totem](https://valheim.thunderstore.io/package/MathiasDecrock/SeedTotem/) на русский язык для игры Valheim. 
 
 ### Установка
 
