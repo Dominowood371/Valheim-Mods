@@ -1,8 +1,8 @@
-Mod Project Auga Russian Translation Version 1.0.2.
+Mod Project Auga Russian Translation Version 1.0.4	.
 
 ### Описание
 
-Перевод мода [Project Auga](https://www.nexusmods.com/valheim/mods/1413) на русский язык для игры Valheim. 
+Перевод мода [Project Auga](https://valheim.thunderstore.io/package/RandyKnapp/Auga/) на русский язык для игры Valheim. 
 
 ### Установка
 
