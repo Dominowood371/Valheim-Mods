@@ -15,7 +15,7 @@
   "piece_plan_totem_desc": "Строит запланированные части постройки в области вокруг него",
   "piece_plan_totem_container": "Хранилище",
   "piece_plan_totem_missing": "Отсутствующие ремесленные стойки:",
-  "piece_plan_totem_connected": "Запланированано частей $1 (имеют опору $2)",
+  "piece_plan_totem_connected": "Запланировано частей $1 (имеют опору $2)",
   "piece_plan_totem_required": "Необходимые материалы:",
   "piece_world_standing_blueprint_rune": "Постоянная руна с чертежами",
   "piece_world_standing_blueprint_rune_desc": "Большая руна с чертежами, которыми можно поделиться с другими игроками.",
@@ -30,8 +30,8 @@
   "piece_blueprint_desc": "Создает сооружение, прилагаемое к этому чертежу.",
   "piece_blueprint_capture": "Создать новый чертеж",
   "piece_blueprint_capture_desc": "Создает чертеж для нового строения.",
-  "piece_blueprint_snappoint": "Маркер точки соеденения",
-  "piece_blueprint_snappoint_desc": "Маркеры необходимы при создании чертежа и сохраняются в чертеже как точки соеденения вместо обычных частей плана.",
+  "piece_blueprint_snappoint": "Маркер точки соединения",
+  "piece_blueprint_snappoint_desc": "Маркеры необходимы при создании чертежа и сохраняются в чертеже как точки соединения вместо обычных частей плана.",
   "piece_blueprint_centerpoint": "Маркер точки центра",
   "piece_blueprint_centerpoint_desc": "Маркер необходим при создании чертежа и будет использоваться для определения центра вашего чертежа.",
   "piece_blueprint_delete": "Удалить часть планировки",
@@ -95,6 +95,6 @@
   "msg_bpmarket_admin_restricted": "Только администраторы могут редактировать чертежи для серверов",
   "msg_bpmarket_save_failed": "Не удалось сохранить чертеж",
   "jotunn_modsettings": "Настройки модов",
-  "jotunn_cat_tools": "Инструменты",	
+  "jotunn_cat_tools": "Инструменты",
   "jotunn_cat_blueprints": "Чертежи"
 }
