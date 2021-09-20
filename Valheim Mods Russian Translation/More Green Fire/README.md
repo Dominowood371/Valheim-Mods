@@ -1,8 +1,8 @@
-Mod More Green Fire Russian Translation Version 0.0.1.
+Mod More Green Fire Russian Translation Version 0.0.1 - 0.0.2.
 
 ### Описание
 
-Перевод мода [More Green Fire](https://www.nexusmods.com/valheim/mods/1352) на русский язык для игры Valheim. 
+Перевод мода [More Green Fire](https://valheim.thunderstore.io/package/OdinPlus/MoreGreenFire/) на русский язык для игры Valheim. 
 
 ### Установка
 
