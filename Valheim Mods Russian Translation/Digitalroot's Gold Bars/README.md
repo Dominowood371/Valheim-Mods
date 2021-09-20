@@ -1,4 +1,4 @@
-Mod Digitalroot's Gold Bars Russian Translation Version 1.1.2.
+Mod Digitalroot's Gold Bars Russian Translation Version 1.1.2 - 1.2.0.
 
 ### Описание
 
