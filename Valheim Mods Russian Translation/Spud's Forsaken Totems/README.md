@@ -2,7 +2,7 @@ Mod Spud's Forsaken Totems Russian Translation Version 2.2.1.
 
 ### Описание
 
-Перевод мода [Spud's Forsaken Totems](https://www.nexusmods.com/valheim/mods/715) на русский язык для игры Valheim. 
+Перевод мода [Spud's Forsaken Totems](https://valheim.thunderstore.io/package/SpudTatterson/SpudsForsakenTotems/) на русский язык для игры Valheim. 
 
 ### Установка
 
