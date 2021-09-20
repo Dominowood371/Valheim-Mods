@@ -1,8 +1,8 @@
-Mod Clutter Russian Translation Version 0.0.8.
+Mod Clutter Russian Translation Version 0.0.8 - 0.0.9.
 
 ### Описание
 
-Перевод мода [Clutter](https://www.nexusmods.com/valheim/mods/1350) на русский язык для игры Valheim. 
+Перевод мода [Clutter](https://valheim.thunderstore.io/package/OdinPlus/Clutter/) на русский язык для игры Valheim. 
 
 ### Установка
 
