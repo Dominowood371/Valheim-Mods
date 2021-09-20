@@ -1,8 +1,8 @@
-Mod OdinArchitect - Custom buildings Russian Translation Version 0.0.4.
+Mod OdinArchitect - Custom buildings Russian Translation Version 0.0.4 - 0.1.0.
 
 ### Описание
 
-Перевод мода [OdinArchitect - Custom buildings](https://www.nexusmods.com/valheim/mods/1174) на русский язык для игры Valheim. 
+Перевод мода [OdinArchitect - Custom buildings](https://valheim.thunderstore.io/package/Raelaziel/OdinArchitect_Custom_buildings/) на русский язык для игры Valheim. 
 
 ### Установка
 
