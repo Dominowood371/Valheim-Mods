@@ -1,4 +1,4 @@
-Mod Surtling Core Overclocking Russian Translation Version 1.2.0.
+Mod Surtling Core Overclocking Russian Translation Version 1.1.1 - 1.2.0.
 
 ### Описание
 
