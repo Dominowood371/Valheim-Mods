@@ -45,19 +45,29 @@
  - [X] [More Green Fire](https://www.nexusmods.com/valheim/mods/1352) ✔
  - [X] [OdinArchitect - Custom buildings](https://www.nexusmods.com/valheim/mods/1174) ✔
  - [X] [PlantIt](https://www.nexusmods.com/valheim/mods/1251) ✔
- - [X] [Build It](https://www.nexusmods.com/valheim/mods/1385) ❌
- - [X] [More Gates](https://www.nexusmods.com/valheim/mods/1087) ❌
- - [X] [Candles Lanterns and Beeswax](https://www.nexusmods.com/valheim/mods/1226) ❌
+ - [X] [Build It](https://valheim.thunderstore.io/package/OdinPlus/BuildIt/) ❌
+ - - [X] Version 1.3.1 (Valheim v0.156.2)
+ - [X] [More Gates](https://valheim.thunderstore.io/package/RagnarokHCRP/MoreGates/) ❌
+ - - [X] Version 1.0.10 (Valheim v0.156.2)
+ - [X] [Candles Lanterns and Beeswax](https://valheim.thunderstore.io/package/MagikarpSushiCandlesLantern/CandlesLanternBeeswax/) ❌
+ - - [X] Version 1.1.0 (Valheim v0.156.2)
  - [X] [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/1335) ❌
+ - - [X] Version 0.0.2 (Valheim v0.156.2)
  - [X] [More Lighting](https://www.nexusmods.com/valheim/mods/1214) ❌
+ - - [X] Version 1.0.3 (Valheim v0.156.2)
  - [X] [MoArBuIlDs](https://valheim.thunderstore.io/package/OdinPlus/MoArBuIlDs/) ❌
+ - - [X] Version 1.1.4 (Valheim v0.156.2)
  - [X] [CustomBuildingItems](https://valheim.thunderstore.io/package/Smallo/CustomBuildingItems/) ✔
  - [X] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌
+ - - [X] Version 0.0.5 (Valheim v0.156.2)
 
 **Weapons**
  - [X] [Forsaken](https://www.nexusmods.com/valheim/mods/799) ❌
+ - - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
  - [X] [Ninja Pack](https://www.nexusmods.com/valheim/mods/1182) ❌
+ - - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
  - [X] [Fisticuffs](https://valheim.thunderstore.io/package/OdinPlus/Fisticuffs/) ❌
+ - - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
  - [X] [IronBarInValheim](https://www.nexusmods.com/valheim/mods/1196) ✔
  - [X] [Hugos Armory](https://www.nexusmods.com/valheim/mods/1189) ✔
  - [X] [Runic Swords](https://valheim.thunderstore.io/package/OdinPlus/RunicSwords/) ✔
@@ -77,7 +87,8 @@
  - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
  - [X] [ZethPack](https://www.nexusmods.com/valheim/mods/1242) ✔
  - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
- - [X] [Bone Appetit](https://www.nexusmods.com/valheim/mods/1250) ❌ без перевода эффектов
+ - [X] [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) ❌ без перевода эффектов
+ - - [X] Version 3.0.2 (Valheim v0.156.2)
  - [ ] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
 
