@@ -1,4 +1,4 @@
-Mod Valweed Russian Translation Version 0.3.0.
+Mod Valweed Russian Translation Version 0.2.7 - 0.3.0.
 
 ### Описание
 
