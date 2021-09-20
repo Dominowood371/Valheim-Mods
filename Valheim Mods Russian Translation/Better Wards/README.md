@@ -2,7 +2,7 @@ Mod Better Wards Russian Translation Version 1.6.0.
 
 ### Описание
 
-Перевод мода [Better Wards](https://www.nexusmods.com/valheim/mods/402) на русский язык для игры Valheim. 
+Перевод мода [Better Wards](https://valheim.thunderstore.io/package/Azumatt/BetterWards/) на русский язык для игры Valheim. 
 
 ### Установка
 
