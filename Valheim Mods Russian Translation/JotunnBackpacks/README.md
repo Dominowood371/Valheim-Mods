@@ -1,8 +1,8 @@
-Mod JotunnBackpacks Russian Translation Version 1.0.1.
+Mod JotunnBackpacks Russian Translation Version 2.0.0.
 
 ### Описание
 
-Перевод мода [JotunnBackpacks](https://www.nexusmods.com/valheim/mods/1416) на русский язык для игры Valheim. 
+Перевод мода [JotunnBackpacks](https://valheim.thunderstore.io/package/EmrikNorth_and_Aedenthorn/JotunnBackpacks/) на русский язык для игры Valheim. 
 
 ### Установка
 
