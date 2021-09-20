@@ -8,18 +8,36 @@
 ### Моды
 
 **Gameplay**
- - [X] [EpicLoot](https://www.nexusmods.com/valheim/mods/387) ✔
- - [X] [JotunnBackpacks](https://www.nexusmods.com/valheim/mods/1416) ✔
- - [X] [PlanBuild - Blueprint Rune](https://www.nexusmods.com/valheim/mods/1125) ✔
- - [X] [Seed Totem](https://www.nexusmods.com/valheim/mods/876) ✔
- - [X] [Spud's Forsaken Totems](https://www.nexusmods.com/valheim/mods/715) ✔
- - [X] [Surtling Core Overclocking](https://www.nexusmods.com/valheim/mods/909) ✔
- - [X] [Valweed](https://www.nexusmods.com/valheim/mods/1023) ✔
+ - [X] [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) ✔
+ - -  [X] Version 0.8.0 - 0.8.4 (Valheim v0.156.2)
+ - -  [X] Version 0.8.6 (Valheim v0.202.14)
+ - [X] [JotunnBackpacks](https://valheim.thunderstore.io/package/EmrikNorth_and_Aedenthorn/JotunnBackpacks/) ✔
+ - - [X] Version 1.0.1 (Valheim v0.156.2)
+ - - [X] Version 2.0.0 (Valheim v0.202.14)
+ - [X] [PlanBuild - Blueprint Rune](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/) ✔
+ - - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
+ - - [X] Version 0.6.0 - 0.6.2 (Valheim v0.202.14)
+ - [X] [Seed Totem](https://valheim.thunderstore.io/package/MathiasDecrock/SeedTotem/) ✔
+ - - [X] Version 1.1.5 (Valheim v0.156.2)
+ - - [X] Version 1.2.0 (Valheim v0.202.14)
+ - [X] [Spud's Forsaken Totems](https://valheim.thunderstore.io/package/SpudTatterson/SpudsForsakenTotems/) ✔
+ - - [X] Version 2.2.1 (Valheim v0.156.2)
+ - - [ ] Version ? (Valheim v0.202.14)
+ - [X] [Surtling Core Overclocking](https://valheim.thunderstore.io/package/MathiasDecrock/SurtlingCoreOverclocking/) ✔
+ - - [X] Version 1.1.1 (Valheim v0.156.2)
+ - - [X] Version 1.2.0 (Valheim v0.202.14)
+ - [X] [Valweed](https://valheim.thunderstore.io/package/dannypacquiao/Valweed/) ✔
+ - - [X] Version 0.2.7 (Valheim v0.156.2)
+ - - [X] Version 0.2.8 - 0.3.0 (Valheim v0.202.14)
  - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌ возможно но там очень много текста
  - [X] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL) ✔
- - [X] [Magic Overhaul](https://www.nexusmods.com/valheim/mods/1418) ✔
- - [X] [Better Wards](https://www.nexusmods.com/valheim/mods/402) ✔
-
+ - [X] [Magic Overhaul](https://valheim.thunderstore.io/package/KGvalheim/MagicOverhaul/) ✔
+ - - [X] Version 1.3.0 (Valheim v0.156.2)
+ - - [X] Version 1.4.1 (Valheim v0.202.14)
+ - [X] [Better Wards](https://valheim.thunderstore.io/package/Azumatt/BetterWards/) ✔
+ - - [X] Version 1.3.0 (Valheim v0.156.2)
+ - - [ ] ? (Valheim v0.202.14)
+ 
 **Construction**
  - [X] [Digitalroot's Gold Bars](https://www.nexusmods.com/valheim/mods/1448) ✔
  - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653) ✔
