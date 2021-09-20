@@ -1,9 +1,9 @@
 ### Description
 
-> Translations of various [mods](https://www.nexusmods.com/valheim/) into Russian for the game **Valheim**. 
+> Translations of various mods from [nexusmods](https://www.nexusmods.com/valheim/) и [thunderstore](https://valheim.thunderstore.io/) into Russian for the game **Valheim**. 
 
 ### Описание
-> Переводы различных [модов](https://www.nexusmods.com/valheim/) на русский язык для игры **Valheim**.
+> Переводы различных модов из [nexusmods](https://www.nexusmods.com/valheim/) и [thunderstore](https://valheim.thunderstore.io/) на русский язык для игры **Valheim**.
 
 ### Моды
 
@@ -43,10 +43,10 @@
 **Construction**
  - [X] [Digitalroot's Gold Bars](https://www.nexusmods.com/valheim/mods/1448) ✔
  - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653) ✔
- - [X] [Clutter](https://www.nexusmods.com/valheim/mods/1350) ✔
- - [X] [More Green Fire](https://www.nexusmods.com/valheim/mods/1352) ✔
- - [X] [OdinArchitect - Custom buildings](https://www.nexusmods.com/valheim/mods/1174) ✔
- - [X] [PlantIt](https://www.nexusmods.com/valheim/mods/1251) ✔
+ - [X] [Clutter](https://valheim.thunderstore.io/package/OdinPlus/Clutter/) ✔
+ - [X] [More Green Fire](https://valheim.thunderstore.io/package/OdinPlus/MoreGreenFire/) ✔
+ - [X] [OdinArchitect - Custom buildings](https://valheim.thunderstore.io/package/Raelaziel/OdinArchitect_Custom_buildings/) ✔
+ - [X] [PlantIt](https://valheim.thunderstore.io/package/OdinPlus/PlantIt/) ✔
  - [X] [Build It](https://valheim.thunderstore.io/package/OdinPlus/BuildIt/) ❌
  - - [X] Version 1.3.1 (Valheim v0.156.2)
  - [X] [More Gates](https://valheim.thunderstore.io/package/RagnarokHCRP/MoreGates/) ❌
@@ -71,23 +71,24 @@
  - [X] [Fisticuffs](https://valheim.thunderstore.io/package/OdinPlus/Fisticuffs/) ❌
  - - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
  - [X] [IronBarInValheim](https://www.nexusmods.com/valheim/mods/1196) ✔
- - [X] [Hugos Armory](https://www.nexusmods.com/valheim/mods/1189) ✔
+ - [X] [Hugos Armory](https://valheim.thunderstore.io/package/HugotheDwarf/Hugos_Armory/) ✔
  - [X] [Runic Swords](https://valheim.thunderstore.io/package/OdinPlus/RunicSwords/) ✔
  - [X] [Steel Age](https://www.nexusmods.com/valheim/mods/1143) ✔
- - [X] [Terraheim - Weapons Tools and Armor](https://www.nexusmods.com/valheim/mods/803) ✔ без перевода эффектов
+ - [X] [Terraheim](https://valheim.thunderstore.io/package/DasSauerkraut/Terraheim/) ✔ без перевода эффектов
  - [X] [WindLass](https://www.nexusmods.com/valheim/mods/1209) ✔
  - [X] [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301) ✔
  - [X] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288) ✔
 
 **Armour**
- - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
- - [X] [Plate Armor](https://www.nexusmods.com/valheim/mods/567) ✔
- - [X] [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) ✔
- - [X] [Custom Hair (AKA CustomWigs)](https://www.nexusmods.com/valheim/mods/1236) ✔
+ - [X] [Chaos Warrior Armor](https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/) ✔
+ - [ ] [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/) ✔
+ - - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
+ - - [X] [Plate Armor](https://www.nexusmods.com/valheim/mods/567) ✔
+ - [X] [Custom Hair (AKA CustomWigs)](https://valheim.thunderstore.io/package/OdinPlus/CustomWigs/) ✔
 
 **Food/Potion**
  - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
- - [X] [ZethPack](https://www.nexusmods.com/valheim/mods/1242) ✔
+ - [X] [ZethPack](https://valheim.thunderstore.io/package/Zethin/ZethPack/) ✔
  - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
  - [X] [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) ❌ без перевода эффектов
  - - [X] Version 3.0.2 (Valheim v0.156.2)
