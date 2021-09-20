@@ -1,8 +1,8 @@
-Mod PlanBuild - Blueprint Rune Russian Translation Version 0.4.0.
+Mod PlanBuild - Blueprint Rune Russian Translation Version 0.6.2.
 
 ### Описание
 
-Перевод мода [PlanBuild - Blueprint Rune](https://www.nexusmods.com/valheim/mods/1125) на русский язык для игры Valheim. 
+Перевод мода [PlanBuild - Blueprint Rune](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/) на русский язык для игры Valheim. 
 
 ### Установка
 
