@@ -1,8 +1,8 @@
-Mod PlantIt Russian Translation Version 0.1.2.
+Mod PlantIt Russian Translation Version 0.1.2 0.1.3.
 
 ### Описание
 
-Перевод мода [PlantIt](https://www.nexusmods.com/valheim/mods/1251) на русский язык для игры Valheim. 
+Перевод мода [PlantIt](https://valheim.thunderstore.io/package/OdinPlus/PlantIt/) на русский язык для игры Valheim. 
 
 ### Установка
 
