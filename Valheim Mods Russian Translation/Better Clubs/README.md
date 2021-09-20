@@ -1,4 +1,4 @@
-Mod Better Clubs Russian Translation Version 1.0.3.
+Mod Better Clubs Russian Translation Version 1.0.3 - 1.1.2.
 
 ### Описание
 
