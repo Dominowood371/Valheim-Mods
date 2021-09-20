@@ -95,11 +95,14 @@
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
 
 **User Interface**
- - [X] [Project Auga](https://www.nexusmods.com/valheim/mods/1413) ✔
+ - [X] [Project Auga](https://valheim.thunderstore.io/package/RandyKnapp/Auga/) ✔
+ - - [X] Version 1.0.2 (Valheim v0.156.2)
+ - - [X] Version 1.0.4 (Valheim v0.202.14)
 
 **Character Appearance**
- - [X] [Custom Dverger](https://www.nexusmods.com/valheim/mods/1351) ✔
-
+ - [X] [Custom Dverger](https://valheim.thunderstore.io/package/OdinPlus/CustomDverger/) ✔
+ - - [X] Version 0.0.1 (Valheim v0.156.2)
+ - - [X] Version 0.0.2 (Valheim v0.202.14)
 
 ### Обозначения
 
