@@ -1,8 +1,8 @@
-Mod Terraheim - Weapons Tools and Armor Russian Translation Version 2.1.5.
+Mod Terraheim - Weapons Tools and Armor Russian Translation Version 2.1.5 - 2.1.8.
 
 ### Описание
 
-Перевод мода [Terraheim - Weapons Tools and Armor](https://www.nexusmods.com/valheim/mods/803) на русский язык для игры Valheim. 
+Перевод мода [Terraheim - Weapons Tools and Armor](https://valheim.thunderstore.io/package/DasSauerkraut/Terraheim/) на русский язык для игры Valheim. 
 
 Автор мода не предусмотрел возможность перевести магические эффекты, по этому они без перевода!
 
