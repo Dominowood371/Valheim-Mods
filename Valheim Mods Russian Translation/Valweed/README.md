@@ -1,8 +1,8 @@
-Mod Valweed Russian Translation Version 0.2.7.
+Mod Valweed Russian Translation Version 0.3.0.
 
 ### Описание
 
-Перевод мода [Valweed](https://www.nexusmods.com/valheim/mods/1023) на русский язык для игры Valheim. 
+Перевод мода [Valweed](https://valheim.thunderstore.io/package/dannypacquiao/Valweed/) на русский язык для игры Valheim. 
 
 ### Установка
 
