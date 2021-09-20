@@ -1,8 +1,8 @@
-Mod Surtling Core Overclocking Russian Translation Version 1.1.1.
+Mod Surtling Core Overclocking Russian Translation Version 1.2.0.
 
 ### Описание
 
-Перевод мода [Surtling Core Overclocking](https://www.nexusmods.com/valheim/mods/909) на русский язык для игры Valheim. 
+Перевод мода [Surtling Core Overclocking](https://valheim.thunderstore.io/package/MathiasDecrock/SurtlingCoreOverclocking/) на русский язык для игры Valheim. 
 
 ### Установка
 
