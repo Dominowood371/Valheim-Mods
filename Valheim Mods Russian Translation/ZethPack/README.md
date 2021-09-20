@@ -1,4 +1,4 @@
-Mod ZethPack Russian Translation Version 1.2.5.
+Mod ZethPack Russian Translation Version 1.2.5 - 1.3.1.
 
 ### Описание
 
