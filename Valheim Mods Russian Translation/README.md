@@ -30,13 +30,15 @@
  - - [X] Version 0.2.7 (Valheim v0.156.2)
  - - [X] Version 0.2.8 - 0.3.0 (Valheim v0.202.14)
  - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌ возможно но там очень много текста
+ - - [ ] Version 0.4.1 (Valheim v0.156.2)
  - [X] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL) ✔
+ - - [X] Version ? (Valheim v0.202.14)
  - [X] [Magic Overhaul](https://valheim.thunderstore.io/package/KGvalheim/MagicOverhaul/) ✔
  - - [X] Version 1.3.0 (Valheim v0.156.2)
  - - [X] Version 1.4.1 (Valheim v0.202.14)
  - [X] [Better Wards](https://valheim.thunderstore.io/package/Azumatt/BetterWards/) ✔
  - - [X] Version 1.3.0 (Valheim v0.156.2)
- - - [ ] ? (Valheim v0.202.14)
+ - - [ ] Version ? (Valheim v0.202.14)
  
 **Construction**
  - [X] [Digitalroot's Gold Bars](https://www.nexusmods.com/valheim/mods/1448) ✔
