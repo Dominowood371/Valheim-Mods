@@ -54,8 +54,8 @@
     - [X] Version 0.0.1 (Valheim v0.156.2)
     - [X] Version 0.0.2 (Valheim v0.202.14)
  - [X] [OdinArchitect - Custom buildings](https://valheim.thunderstore.io/package/Raelaziel/OdinArchitect_Custom_buildings/) ✔
-    - [X] Version  (Valheim v0.156.2)
-    - [ ] Version  (Valheim v0.202.14)
+    - [X] Version 0.0.4 (Valheim v0.156.2)
+    - [ ] Version 0.1.0 (Valheim v0.202.14)
  - [X] [PlantIt](https://valheim.thunderstore.io/package/OdinPlus/PlantIt/) ✔
     - [X] Version 0.1.2 (Valheim v0.156.2)
     - [ ] Version 0.1.3 (Valheim v0.202.14)
