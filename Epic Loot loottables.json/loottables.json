@@ -107,6 +107,124 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Valheim Expanded MOD
+    // Item                   IDS:                        Tier         Handed Weapon    Type Weapon 
+    // 
+    // Crossbow               crossbow                    Tier3
+    // Adventurer's Torch     torch                       Tier0
+    //   BoneFragments
+    // Bone Bow               BowBone                     Tier1
+    // Bone Atgeir            AtgeirBone                  Tier1 
+    // Bone Club              ClubBone                    Tier1
+    // Bone Sledge            SledgeBone                  Tier1
+    // Bone Battleaxe         BattleaxeBone               Tier1
+    // Bone Spear             SpearBone                   Tier1
+    // Bone Knife             KnifeBone                   Tier1
+    // Bone Mace              MaceBone                    Tier1
+    // Bone Sword             SwordBone                   Tier1
+    // Bone Shield            ShieldBone                  Tier1
+    // Bone Tower Shield      ShieldBoneTower             Tier1
+    //   Bronze
+    // Bronze Sledge          SledgeBronze                Tier2
+    // Bronze Battleaxe       BattleaxeBronze             Tier2
+    // Bronze Knife           KnifeBronze                 Tier2
+    //   ElderBark
+    // Ancient Bow            BowAncient                  Tier3
+    // Ancient Atgeir         AtgeirAncient               Tier3
+    // Ancient Club           ClubAncient                 Tier3
+    // Ancient Sledge         SledgeAncient               Tier3
+    // Ancient Battleaxe      BattleaxeAncient            Tier3
+    // Ancient Sword          SwordAncient                Tier3
+    // Ancient Mace           MaceAncient                 Tier3
+    // Ancient Shield         ShieldAncient               Tier3
+    // Ancient Tower Shield   ShieldAncientTower          Tier3
+    //   Iron
+    // Iron Spear             SpearIron                   Tier3
+    // Iron Knife             KnifeIron                   Tier3
+    //   Chitin Iron
+    // Abyssal Bow            BowAbyssal                  Tier3
+    // Abyssal Atgeir         AtgeirAbyssal               Tier3
+    // Abyssal Club           ClubAbyssal                 Tier3
+    // Abyssal Sledge         SledgeAbyssal               Tier3
+    // Abyssal Battleaxe      BattleaxeAbyssal            Tier3
+    // Abyssal Mace           MaceAbyssal                 Tier3
+    // Abyssal Sword          SwordAbyssal                Tier3
+    // Abyssal Shield         ShieldAbyssal               Tier3
+    // Abyssal Tower Shield   ShieldAbyssalTower          Tier3
+    //   Silver
+    // Silver Bow             BowSilver                   Tier4
+    // Silver Atgeir          AtgeirSilver                Tier4
+    // Silver Club            ClubSilver                  Tier4
+    // Silver Sledge          SledgeSilver                Tier4
+    // Silver Battleaxe       BattleaxeSilver             Tier4
+    // Silver Spear           SpearSilver                 Tier4
+    // Silver Knife           KnifeSilver                 Tier4
+    // Silver Tower Shield    ShieldSilverTower           Tier4
+    // Silver Axe             AxeSilver                   Tier4
+    // Silver Pickaxe         PickaxeSilver               Tier4
+    //   HeavymetalBar(BlackMetalScrap HeatedIronBar) HeatedIronBar(Iron)
+    // Heavymetal Bow         BowHeavymetal                Tier5
+    // Heavymetal Club        ClubHeavymetal
+    // Heavymetal Sledge      SledgeHeavymetal
+    // Heavymetal Battleaxe   BattleaxeHeavymetal
+    // Heavymetal Spear       SpearHeavymetal
+    // Heavymetal Mace        MaceHeavymetal
+    // Heavymetal Pickaxe     PickaxeHeavymetal
+    // Heavymetal Sledgeaxe   SledgeaxeHeavymetal
+    //       FrometalBar(HeatedIronBar FrometalEssence) HeavymetalBar
+    // Frometal Bow           BowFrometal                Tier6
+    // Frometal Atgeir        AtgeirFrometal
+    // Frometal Club          ClubFrometal
+    // Frometal Sledge        SledgeFrometal
+    // Frometal Battleaxe     BattleaxeFrometal
+    // Frometal Spear         SpearFrometal
+    // Frometal Knife         KnifeFrometal
+    // Frometal Mace          MaceFrometal
+    // Frometal Sword         SwordFrometal
+    // Frometal Shield        ShieldFrometal
+    // Frometal Tower Shield  ShieldFrometalTower
+    // Frometal Axe           AxeFrometal
+    // Frometal Pickaxe       PickaxeFrometal
+    // Frometal Sledgeaxe     SledgeaxeFrometal
+    //      FlametalBar(SerpentScale HeavymetalBar FrometalBar FlametalEssence) HeavymetalBar
+    // Flametal Bow           BowFlametal                Tier6
+    // Flametal Atgeir        AtgeirFlametal
+    // Flametal Club          ClubFlametal
+    // Flametal Sledge        SledgeFlametal
+    // Flametal Battleaxe     BattleaxeFlametal
+    // Flametal Spear         SpearFlametal
+    // Flametal Knife         KnifeFlametal
+    // Flametal Mace          MaceFlametal
+    // Flametal Sword         SwordFlametal
+    // Flametal Shield        ShieldFlametal
+    // Flametal Tower Shield  ShieldFlametalTower
+    // Flametal Axe           AxeFlametal
+    // Flametal Pickaxe       PickaxeFlametal
+    //       Mistmetal (YagluthDrop)
+    // Mistmetal Bow          BowMistmetal                Tier6
+    // Mistmetal Atgeir       AtgeirMistmetal
+    // Mistmetal Club         ClubMistmetal
+    // Mistmetal Sledge       SledgeMistmetal
+    // Mistmetal Sledgeaxe    SledgeaxeMistmetal
+    // Mistmetal Battleaxe    BattleaxeMistmetal
+    // Mistmetal Spear        SpearMistmetal
+    // Mistmetal Knife        KnifeMistmetal
+    // Mistmetal Mace         MaceMistmetal
+    // Mistmetal Sword        SwordMistmetal
+    // Mistmetal Shield       ShieldMistmetal
+    // Mistmetal Tower Shield ShieldMistmetalTower
+    // Mistmetal Axe          AxeMistmetal
+    // Mistmetal Pickaxe      PickaxeMistmetal
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Judes Equipment MOD
     // Item                            IDS:                                  Tier
     // 
