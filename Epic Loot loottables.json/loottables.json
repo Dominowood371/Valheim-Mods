@@ -107,42 +107,41 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // Plate Armor MOD
+    // Judes Equipment MOD
     // Item                            IDS:                                  Tier
     // 
+    // Helmet                          ArmorPlateIronHelmetJD                Tier3
     // Chest                           ArmorPlateIronChestJD                 Tier3
     // Legs                            ArmorPlateIronLegsJD                  Tier3
-    // Helmet                          ArmorPlateIronHelmetJD                Tier3
-    // 
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-    {
-      "Name": "Tier3PlateArmor",
-      "Loot": [
-        { "Item": "ArmorPlateIronChestJD",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorPlateIronLegsJD",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorPlateIronHelmetJD",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
-      ]
-    },
-
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // Barbarian's Armor MOD
-    // Item                            IDS:                                  Tier
     // 
     // Helmet                          ArmorBarbarianBronzeHelmetJD          Tier3
     // Chest                           ArmorBarbarianBronzeChestJD           Tier3
     // Legs                            ArmorBarbarianBronzeLegsJD            Tier3
     // Cape                            ArmorBarbarianCapeJD                  Tier3
     // 
+    // Helmet                          ArmorBlackmetalgarbHelmet             Tier3
+    // Chest                           ArmorBlackmetalgarbChest              Tier3
+    // Legs                            ArmorBlackmetalgarbLegs               Tier3
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     {
-      "Name": "Tier3BarbariansArmor",
+      "Name": "Tier3JudesEquipment",
       "Loot": [
-        { "Item": "ArmorBarbarianBronzeHelmetJD",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianBronzeChestJD",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianBronzeLegsJD",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianCapeJD",            "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+        { "Item": "ArmorPlateIronChestJD",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronLegsJD",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronHelmetJD",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianBronzeHelmetJD",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianBronzeChestJD",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianBronzeLegsJD",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorBarbarianCapeJD",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    },
+    {
+      "Name": "Tier5JudesEquipment",
+      "Loot": [
+        { "Item": "ArmorBlackmetalgarbHelmet",    "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorBlackmetalgarbChest",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorBlackmetalgarbLegs",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
       ]
     },
 
@@ -905,8 +904,7 @@
         { "Item": "Tier3Armor"   },
         { "Item": "Tier3Shields" },
         { "Item": "Tier3Tools"   },
-        { "Item": "Tier3PlateArmor"        },
-        { "Item": "Tier3BarbariansArmor"   },
+        { "Item": "Tier3JudesEquipment"    },
         { "Item": "Tier3ChaosWarriorArmor" },
         { "Item": "Tier3HugosArmory"       },
         { "Item": "Tier3TerraheimWeapons"  },
@@ -992,6 +990,7 @@
         { "Item": "Tier5Weapons" },
         { "Item": "Tier5Armor"   },
         { "Item": "Tier5Shields" },
+        { "Item": "Tier5JudesEquipment"   },
         { "Item": "Tier5HugosArmory"      },
         { "Item": "Tier5TerraheimWeapons" },
         { "Item": "Tier5TerraheimTools"   },
