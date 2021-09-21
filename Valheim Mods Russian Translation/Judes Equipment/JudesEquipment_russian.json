@@ -1,0 +1,29 @@
+{
+  "ArmorBarbarianBronzeHelmetJD": "Варварский шлем",
+  "ArmorBarbarianBronzeHelmetJD_description": "Шлем изготовленный из бронзового сплава.",
+  "ArmorBarbarianBronzeChestJD": "Варварский нагрудник",
+  "ArmorBarbarianBronzeChestJD_description": "Бронзовый диск, закрепленный кожаными ремням, настоящий варвар бросится в бой, даже несмотря на отсутствие защиты.",
+  "ArmorBarbarianBronzeLegsJD": "Варварский пояс",
+  "ArmorBarbarianBronzeLegsJD_description": "Толстая шкура, обернутая вокруг талии, которая закрепленная модным бронзовым поясом.",
+  "ArmorBarbarianCapeJD": "Варварский плащ",
+  "ArmorBarbarianCapeJD_description": "Толстая, но короткая накидка изготовленная из меха. Прикроет вам спину, когда ваши пьяные приятели по налету не смогут помочь.",
+  
+  "ArmorBlackmetalgarbHelmet": "Шлем кочевников",
+  "ArmorBlackmetalgarbHelmet_description": "Шлем изготовленный из черного металла с яркой набивкой, предназначенный для кочевника.",
+  "ArmorBlackmetalgarbChest": "Одеяние кочевников",
+  "ArmorBlackmetalgarbChest_description": "Одежда кочевников, украшенная защитными элементами из черного металла, обычно встречается на родине кочевников в равнинах.",
+  "ArmorBlackmetalgarbLegs": "Сапоги кочевников",
+  "ArmorBlackmetalgarbLegs_description": "Толстые кожаные ботинки защищенные черным металлом, спасают, когда на кого-то наступает Быкоящер.", 
+  
+  "ArmorPlateIronHelmetJD": "Прочный шлем", 
+  "ArmorPlateIronHelmetJD_description": "Прочный шлем с кожаной защитой для шеи.",
+  "ArmorPlateIronChestJD": "Пластинчатый доспех",
+  "ArmorPlateIronChestJD_description": "Толстые металлические пластины, приклепанные к кожаной обвязке.",
+  "ArmorPlateIronLegsJD": "Пластинчатые наголенники",
+  "ArmorPlateIronLegsJD_description": "Надежные наголенники и наколенники.",
+  
+  "BackpackSimple": "Простой рюкзак",
+  "BackpackSimple_description": "Кожаное вместилище из деревянного каркаса.",
+  
+  "jotunn_modsettings": "Настройки модов"
+}
