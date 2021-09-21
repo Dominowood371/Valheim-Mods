@@ -108,113 +108,113 @@
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Valheim Expanded MOD
-    // Item                   IDS:                        Tier         Handed Weapon    Type Weapon 
+    // Item                   IDS:                        Tier    Type Weapon 
     // 
-    // Crossbow               crossbow                    Tier3
-    // Adventurer's Torch     torch                       Tier0
+    // Crossbow               crossbow                    Tier3    Bows
+    // Adventurer's Torch     torch                       Tier0   Torches
     //   BoneFragments
-    // Bone Bow               BowBone                     Tier1
-    // Bone Atgeir            AtgeirBone                  Tier1 
-    // Bone Club              ClubBone                    Tier1
-    // Bone Sledge            SledgeBone                  Tier1
-    // Bone Battleaxe         BattleaxeBone               Tier1
-    // Bone Spear             SpearBone                   Tier1
-    // Bone Knife             KnifeBone                   Tier1
-    // Bone Mace              MaceBone                    Tier1
-    // Bone Sword             SwordBone                   Tier1
-    // Bone Shield            ShieldBone                  Tier1
-    // Bone Tower Shield      ShieldBoneTower             Tier1
+    // Bone Bow               BowBone                     Tier1    Bows
+    // Bone Atgeir            AtgeirBone                  Tier1    Polearms
+    // Bone Club              ClubBone                    Tier1    Clubs
+    // Bone Sledge            SledgeBone                  Tier1    Sledges
+    // Bone Battleaxe         BattleaxeBone               Tier1    TwoHandAxes
+    // Bone Spear             SpearBone                   Tier1    Spears
+    // Bone Knife             KnifeBone                   Tier1    Knives
+    // Bone Mace              MaceBone                    Tier1    Clubs
+    // Bone Sword             SwordBone                   Tier1    Swords
+    // Bone Shield            ShieldBone                  Tier1    RoundShields
+    // Bone Tower Shield      ShieldBoneTower             Tier1    TowerShields
     //   Bronze
-    // Bronze Sledge          SledgeBronze                Tier2
-    // Bronze Battleaxe       BattleaxeBronze             Tier2
-    // Bronze Knife           KnifeBronze                 Tier2
+    // Bronze Sledge          SledgeBronze                Tier2    Sledges
+    // Bronze Battleaxe       BattleaxeBronze             Tier2    TwoHandAxes
+    // Bronze Knife           KnifeBronze                 Tier2    Knives
     //   ElderBark
-    // Ancient Bow            BowAncient                  Tier3
-    // Ancient Atgeir         AtgeirAncient               Tier3
-    // Ancient Club           ClubAncient                 Tier3
-    // Ancient Sledge         SledgeAncient               Tier3
-    // Ancient Battleaxe      BattleaxeAncient            Tier3
-    // Ancient Sword          SwordAncient                Tier3
-    // Ancient Mace           MaceAncient                 Tier3
-    // Ancient Shield         ShieldAncient               Tier3
-    // Ancient Tower Shield   ShieldAncientTower          Tier3
+    // Ancient Bow            BowAncient                  Tier3    Bows
+    // Ancient Atgeir         AtgeirAncient               Tier3    Polearms
+    // Ancient Club           ClubAncient                 Tier3    Clubs
+    // Ancient Sledge         SledgeAncient               Tier3    Sledges
+    // Ancient Battleaxe      BattleaxeAncient            Tier3    TwoHandAxes
+    // Ancient Sword          SwordAncient                Tier3    Swords
+    // Ancient Mace           MaceAncient                 Tier3    Clubs
+    // Ancient Shield         ShieldAncient               Tier3    RoundShields
+    // Ancient Tower Shield   ShieldAncientTower          Tier3    TowerShields
     //   Iron
-    // Iron Spear             SpearIron                   Tier3
-    // Iron Knife             KnifeIron                   Tier3
+    // Iron Spear             SpearIron                   Tier3    Spears
+    // Iron Knife             KnifeIron                   Tier3    Knives
     //   Chitin Iron
-    // Abyssal Bow            BowAbyssal                  Tier3
-    // Abyssal Atgeir         AtgeirAbyssal               Tier3
-    // Abyssal Club           ClubAbyssal                 Tier3
-    // Abyssal Sledge         SledgeAbyssal               Tier3
-    // Abyssal Battleaxe      BattleaxeAbyssal            Tier3
-    // Abyssal Mace           MaceAbyssal                 Tier3
-    // Abyssal Sword          SwordAbyssal                Tier3
-    // Abyssal Shield         ShieldAbyssal               Tier3
-    // Abyssal Tower Shield   ShieldAbyssalTower          Tier3
+    // Abyssal Bow            BowAbyssal                  Tier3    Bows
+    // Abyssal Atgeir         AtgeirAbyssal               Tier3    Polearms
+    // Abyssal Club           ClubAbyssal                 Tier3    Clubs
+    // Abyssal Sledge         SledgeAbyssal               Tier3    Sledges
+    // Abyssal Battleaxe      BattleaxeAbyssal            Tier3    TwoHandAxes
+    // Abyssal Mace           MaceAbyssal                 Tier3    Clubs
+    // Abyssal Sword          SwordAbyssal                Tier3    Swords
+    // Abyssal Shield         ShieldAbyssal               Tier3    RoundShields
+    // Abyssal Tower Shield   ShieldAbyssalTower          Tier3    TowerShields
     //   Silver
-    // Silver Bow             BowSilver                   Tier4
-    // Silver Atgeir          AtgeirSilver                Tier4
-    // Silver Club            ClubSilver                  Tier4
-    // Silver Sledge          SledgeSilver                Tier4
-    // Silver Battleaxe       BattleaxeSilver             Tier4
-    // Silver Spear           SpearSilver                 Tier4
-    // Silver Knife           KnifeSilver                 Tier4
-    // Silver Tower Shield    ShieldSilverTower           Tier4
-    // Silver Axe             AxeSilver                   Tier4
-    // Silver Pickaxe         PickaxeSilver               Tier4
+    // Silver Bow             BowSilver                   Tier4    Bows
+    // Silver Atgeir          AtgeirSilver                Tier4    Polearms
+    // Silver Club            ClubSilver                  Tier4    Clubs
+    // Silver Sledge          SledgeSilver                Tier4    Sledges
+    // Silver Battleaxe       BattleaxeSilver             Tier4    TwoHandAxes
+    // Silver Spear           SpearSilver                 Tier4    Spears
+    // Silver Knife           KnifeSilver                 Tier4    Knives
+    // Silver Tower Shield    ShieldSilverTower           Tier4    TowerShields
+    // Silver Axe             AxeSilver                   Tier4    Axes
+    // Silver Pickaxe         PickaxeSilver               Tier4    Pickaxes
     //   HeavymetalBar(BlackMetalScrap HeatedIronBar) HeatedIronBar(Iron)
-    // Heavymetal Bow         BowHeavymetal                Tier5
-    // Heavymetal Club        ClubHeavymetal
-    // Heavymetal Sledge      SledgeHeavymetal
-    // Heavymetal Battleaxe   BattleaxeHeavymetal
-    // Heavymetal Spear       SpearHeavymetal
-    // Heavymetal Mace        MaceHeavymetal
-    // Heavymetal Pickaxe     PickaxeHeavymetal
-    // Heavymetal Sledgeaxe   SledgeaxeHeavymetal
+    // Heavymetal Bow         BowHeavymetal               Tier5    Bows
+    // Heavymetal Club        ClubHeavymetal              Tier5    Clubs
+    // Heavymetal Sledge      SledgeHeavymetal            Tier5    Sledges
+    // Heavymetal Battleaxe   BattleaxeHeavymetal         Tier5    TwoHandAxes
+    // Heavymetal Spear       SpearHeavymetal             Tier5    Spears
+    // Heavymetal Mace        MaceHeavymetal              Tier5    Clubs
+    // Heavymetal Pickaxe     PickaxeHeavymetal           Tier5    Pickaxes
+    // Heavymetal Sledgeaxe   SledgeaxeHeavymetal         Tier5    Sledges
     //       FrometalBar(HeatedIronBar FrometalEssence) HeavymetalBar
-    // Frometal Bow           BowFrometal                Tier6
-    // Frometal Atgeir        AtgeirFrometal
-    // Frometal Club          ClubFrometal
-    // Frometal Sledge        SledgeFrometal
-    // Frometal Battleaxe     BattleaxeFrometal
-    // Frometal Spear         SpearFrometal
-    // Frometal Knife         KnifeFrometal
-    // Frometal Mace          MaceFrometal
-    // Frometal Sword         SwordFrometal
-    // Frometal Shield        ShieldFrometal
-    // Frometal Tower Shield  ShieldFrometalTower
-    // Frometal Axe           AxeFrometal
-    // Frometal Pickaxe       PickaxeFrometal
-    // Frometal Sledgeaxe     SledgeaxeFrometal
+    // Frometal Bow           BowFrometal                 Tier6    Bows
+    // Frometal Atgeir        AtgeirFrometal              Tier5    Polearms
+    // Frometal Club          ClubFrometal                Tier5    Clubs
+    // Frometal Sledge        SledgeFrometal              Tier5    Sledges
+    // Frometal Battleaxe     BattleaxeFrometal           Tier5    TwoHandAxes
+    // Frometal Spear         SpearFrometal               Tier5    Spears
+    // Frometal Knife         KnifeFrometal               Tier5    Knives
+    // Frometal Mace          MaceFrometal                Tier5    Clubs
+    // Frometal Sword         SwordFrometal               Tier5    Swords
+    // Frometal Shield        ShieldFrometal              Tier5    RoundShields
+    // Frometal Tower Shield  ShieldFrometalTower         Tier5    TowerShields
+    // Frometal Axe           AxeFrometal                 Tier5    Axes
+    // Frometal Pickaxe       PickaxeFrometal             Tier5    Pickaxes
+    // Frometal Sledgeaxe     SledgeaxeFrometal           Tier5    Sledges
     //      FlametalBar(SerpentScale HeavymetalBar FrometalBar FlametalEssence) HeavymetalBar
-    // Flametal Bow           BowFlametal                Tier6
-    // Flametal Atgeir        AtgeirFlametal
-    // Flametal Club          ClubFlametal
-    // Flametal Sledge        SledgeFlametal
-    // Flametal Battleaxe     BattleaxeFlametal
-    // Flametal Spear         SpearFlametal
-    // Flametal Knife         KnifeFlametal
-    // Flametal Mace          MaceFlametal
-    // Flametal Sword         SwordFlametal
-    // Flametal Shield        ShieldFlametal
-    // Flametal Tower Shield  ShieldFlametalTower
-    // Flametal Axe           AxeFlametal
-    // Flametal Pickaxe       PickaxeFlametal
+    // Flametal Bow           BowFlametal                 Tier6    Bows
+    // Flametal Atgeir        AtgeirFlametal              Tier6    Polearms
+    // Flametal Club          ClubFlametal                Tier6    Clubs
+    // Flametal Sledge        SledgeFlametal              Tier6    Sledges
+    // Flametal Battleaxe     BattleaxeFlametal           Tier6    TwoHandAxes
+    // Flametal Spear         SpearFlametal               Tier6    Spears
+    // Flametal Knife         KnifeFlametal               Tier6    Knives
+    // Flametal Mace          MaceFlametal                Tier6    Clubs
+    // Flametal Sword         SwordFlametal               Tier6    Swords
+    // Flametal Shield        ShieldFlametal              Tier6    RoundShields
+    // Flametal Tower Shield  ShieldFlametalTower         Tier6    TowerShields
+    // Flametal Axe           AxeFlametal                 Tier6    Axes
+    // Flametal Pickaxe       PickaxeFlametal             Tier6    Pickaxes
     //       Mistmetal (YagluthDrop)
-    // Mistmetal Bow          BowMistmetal                Tier6
-    // Mistmetal Atgeir       AtgeirMistmetal
-    // Mistmetal Club         ClubMistmetal
-    // Mistmetal Sledge       SledgeMistmetal
-    // Mistmetal Sledgeaxe    SledgeaxeMistmetal
-    // Mistmetal Battleaxe    BattleaxeMistmetal
-    // Mistmetal Spear        SpearMistmetal
-    // Mistmetal Knife        KnifeMistmetal
-    // Mistmetal Mace         MaceMistmetal
-    // Mistmetal Sword        SwordMistmetal
-    // Mistmetal Shield       ShieldMistmetal
-    // Mistmetal Tower Shield ShieldMistmetalTower
-    // Mistmetal Axe          AxeMistmetal
-    // Mistmetal Pickaxe      PickaxeMistmetal
+    // Mistmetal Bow          BowMistmetal                Tier6    Bows
+    // Mistmetal Atgeir       AtgeirMistmetal             Tier6    Polearms
+    // Mistmetal Club         ClubMistmetal               Tier6    Clubs
+    // Mistmetal Sledge       SledgeMistmetal             Tier6    Sledges
+    // Mistmetal Sledgeaxe    SledgeaxeMistmetal          Tier6    Sledges
+    // Mistmetal Battleaxe    BattleaxeMistmetal          Tier6    TwoHandAxes
+    // Mistmetal Spear        SpearMistmetal              Tier6    Spears
+    // Mistmetal Knife        KnifeMistmetal              Tier6    Knives
+    // Mistmetal Mace         MaceMistmetal               Tier6    Clubs
+    // Mistmetal Sword        SwordMistmetal              Tier6    Swords
+    // Mistmetal Shield       ShieldMistmetal             Tier6    RoundShields
+    // Mistmetal Tower Shield ShieldMistmetalTower        Tier6    TowerShields
+    // Mistmetal Axe          AxeMistmetal                Tier6    Axes
+    // Mistmetal Pickaxe      PickaxeMistmetal            Tier6    Pickaxes
     // 
     // 
     // 
