@@ -14,7 +14,8 @@ List of mods to be added to the table:
 | [Hugo's Armory](https://www.nexusmods.com/valheim/mods/1189) | 5.0.0 | Weapons |
 | [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.1.0 | Weapons |
 | [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
-| [Plate Armor](https://www.nexusmods.com/valheim/mods/567) | 2.0.1 | Armor |
+| [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/)| 1.0.0 | Armor |
+| [Plate Armor](https://www.nexusmods.com/valheim/mods/567)| 2.0.1 | Armor |
 | [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 2.0.1 | Armor |
 | [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.1 | Armor |
 | [MonsterLabZ](https://www.nexusmods.com/valheim/mods/1264) | 1.7.0 | Enemies, Monsters |
@@ -46,24 +47,23 @@ Distribution of mods in the table.
 * Tier 6 - Flametal Weapons, Belt
 
 **Plate Armor**
-
 * Tier 3 - Iron Armor
 
 **Barbarian's Armor**
-
 * Tier 2 - Bronze Armor
 * Tier 3 - Iron Armor
 * Tier 4 - Silver Armor
 * Tier 5 - Padded Armor
 
-**Chaos Warrior Armor**
+**Nomadic Armor**
+* Tier 5 - Blackmetal Armor
 
+**Chaos Warrior Armor**
 * Tier 2 - Bronze Armor
 * Tier 3 - Iron Armor
 * Tier 6 - Flametal Armor
 
 **Forsaken**
-
 Very powerful weapons, therefore, only drop from bosses:
 
 * Eikthyr - Static Cleaver
@@ -105,7 +105,6 @@ Adds two-handed weapon drop:
 * Tier3 - Iron Knuckles
 
 **Steel Age**
-
 * Tier4 - Nordic Hero Bow
 * Tier4 - Draugr Sword
 * Tier4 - Steel Battle Axe
@@ -117,7 +116,6 @@ Adds two-handed weapon drop:
 * Tier4 - Steel Viking Axe
  
 **Runic Swords**
-
 Very powerful weapons, therefore, only drop from bosses:
 
 * Eikthyr - Runic Lightning Sword
@@ -137,7 +135,6 @@ Very powerful weapons, therefore, only drop from bosses:
 * Yagluth - Runic Fire Dagger
  
 **Monsternomicon**
-
 Added item drops for new mobs:
 
 * Tier 5 - Ocean, DeepNorth, Others
@@ -193,7 +190,6 @@ Added item drops for new mobs:
 | Jotunn                        | Jotunn           | Troll                | 18000 | Blunt, Chop, Pickaxe | Tier 5 | Static Cleaver, Bolts Edge, Spiritine, Rotclub, Wyrmfist, Wyrmripper, Rimefang, Icicle, Chaotic Hand, Molten Star, Aegis of the Dead King, Riftblade, Lycanthro, Runic Lightning Sword, Runic Spirit Sword, Runic Poison Sword, Runic Ice Sword, Runic Fire Sword, Great Runic Lightning Sword, Great Runic Spirit Sword, Great Runic Poison Sword, Great Runic Ice Sword, Great Runic Fire Sword, Runic Lightning Dagger, Runic Spirit Dagger, Runic Poison Dagger, Runic Ice Dagger, Runic Fire Dagger
 
 **MonsterMas**
-
 Added item drops for new mobs:
 
 | Mods | Location | Tier |
@@ -217,7 +213,6 @@ Added item drops for new mobs:
 | WendigoSwamp               | BlackForest   | Tier2     |
 
 **ValheimExpanded**
-
 Added item drops for new mobs:
 
 | Mods | Health  | Location | Tier |
@@ -235,13 +230,13 @@ Added item drops for new mobs:
 | Misty Spiderling          | 1000 | Swamp        | Tier3 |
 | Pygmy Spiderling          | 1000 | Plains       | Tier5 |
 | Radioactive Spiderling    | 1000 | BlackForest  | Tier2 |
+
 ### Install
 To install, just copy the text from the `loottable.json` file and paste into your `loottable.json` file or download the `loottable.json` file with replacement, move the file to the folder `\Valheim\BepInEx\plugins`
 
 > just in case, I recommend making a backup copy of the original file: `loottable.json`.
 
 ### Note
-
 >If you want to use the table without adding mods for monsters, this will not affect the game itself and will not cause errors.
 
 >If you want to use the table without adding mods for weapons and armor, this will affect the chance of items dropping, since items that do not exist will drop, and an error will be displayed in the logs about this, such an error will not affect the game itself, but this will reduce the chance drops of the items themselves from Epic Loot.
