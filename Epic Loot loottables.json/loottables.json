@@ -721,9 +721,10 @@
     {
       "Name": "Tier0Weapons",
       "Loot": [
-        { "Item": "Club",     "Rarity": [ 97, 2, 1, 0 ] },
-        { "Item": "AxeStone", "Rarity": [ 97, 2, 1, 0 ] },
-        { "Item": "Torch",   "Rarity": [ 97, 2, 1, 0 ] }
+        { "Item": "Club",         "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "AxeStone",     "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "Torch",        "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "KnifeButcher", "Rarity": [ 97, 2, 1, 0 ] }
       ]
     },
     {
@@ -781,6 +782,12 @@
       ]
     },
     {
+      "Name": "Tier1Shields",
+      "Loot": [
+        { "Item": "ShieldBoneTower", "Rarity": [ 94, 3, 2, 1 ] }
+      ]
+    },
+    {
       "Name": "Tier1Tools",
       "Loot": [
         { "Item": "PickaxeAntler", "Rarity": [ 94, 3, 2, 1 ] }
@@ -791,6 +798,7 @@
       "Loot": [
         { "Item": "Tier1Weapons" },
         { "Item": "Tier1Armor"   },
+        { "Item": "Tier1Shields" },
         { "Item": "Tier1Tools"   },
         { "Item": "Tier1HugosArmory"      },
         { "Item": "Tier1TerraheimWeapons" },
@@ -887,8 +895,9 @@
     {
       "Name": "Tier3Shields",
       "Loot": [
-        { "Item": "ShieldBanded",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ShieldIronTower", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+        { "Item": "ShieldBanded",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ShieldIronTower",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ShieldIronBuckler", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
     {
@@ -918,10 +927,12 @@
     {
       "Name": "Tier4Weapons",
       "Loot": [
-        { "Item": "SwordSilver",   "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "SpearWolfFang", "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "MaceSilver",    "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "BowDraugrFang", "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] }
+        { "Item": "SwordSilver",      "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "SpearWolfFang",    "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "MaceSilver",       "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "BowDraugrFang",    "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "KnifeSilver",      "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "BattleaxeCrystal", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
       ]
     },
     {
@@ -1591,7 +1602,7 @@
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    //Begin Tier 5 Mobs (Stone Golem, Fenring, Serpent, Deathsquito, Lox, Fuling, Fuling Archer)
+    //Begin Tier 5 Mobs (Stone Golem, Fenring, Serpent, Deathsquito, Lox, Fuling, Fuling Archer, Growth)
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     // Stone Golem (StoneGolem)
@@ -1634,6 +1645,12 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "GoblinArcher",
+      "RefObject": "Tier5Mob"
+    },
+    // Growth
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "BlobTar",
       "RefObject": "Tier5Mob"
     },
 
