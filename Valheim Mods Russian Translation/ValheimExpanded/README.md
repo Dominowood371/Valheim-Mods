@@ -6,7 +6,7 @@ Mod ValheimExpanded Russian Translation Version 0.4.1.
 
 ### Установка
 
-Скачайте архив `ValheimExpanded-0.4.1-Rus.rar` и распакуйте архив, в архиве будет папка `ValheimExpanded` переместите эту папку со всем содержимым в папку с игрой `Valheim\BepInEx\plugins`.
+Скачайте архив `ValheimExpanded-0-4-1-Rus.zip` и распакуйте архив, в архиве будет папка `ValEx` переместите эту папку со всем содержимым в папку с игрой `Valheim\BepInEx\plugins`.
 
 Требуемие моды для работоспособности мода:
 * [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
@@ -14,11 +14,11 @@ Mod ValheimExpanded Russian Translation Version 0.4.1.
 * [HookGenPatcher](https://www.nexusmods.com/valheim/mods/505)
 
 ### Скачивание
-1. Найдите архив `ValheimExpanded-0.4.1-Rus.rar`, который вы хотите загрузить.
+1. Найдите архив `ValheimExpanded-0-4-1-Rus.zip`, который вы хотите загрузить.
 2. Нажмите на его, чтобы просмотреть содержимое файла в GitHub.
 3. В правом верхнем углу файла, найдите кнопку `Download`.
 4. Нажмите кнопу `Download` и выберите куда сохратить файл.
 
 <br>
 
-[![Скачать](https://img.shields.io/badge/Скачать-0.4.1-blue?style=for-the-badge)]()
+[![Скачать](https://img.shields.io/badge/Скачать-0.4.1-blue?style=for-the-badge)](https://github.com/Dominowood371/Valheim-Mods/releases/download/ValheimExpanded-0.4.1-Rus/ValheimExpanded-0-4-1-Rus.zip)
