@@ -28,7 +28,7 @@
     - [X] Version 1.2.0 (Valheim v0.202.14)
  - [X] [Valweed](https://valheim.thunderstore.io/package/dannypacquiao/Valweed/) ✔
     - [X] Version 0.2.7 (Valheim v0.156.2)
-    - [X] Version 0.2.8 - 0.3.0 (Valheim v0.202.14)
+    - [X] Version 0.2.8 - 0.3.2 (Valheim v0.202.14)
  - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌ возможно но там очень много текста
     - [ ] Version 0.4.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
