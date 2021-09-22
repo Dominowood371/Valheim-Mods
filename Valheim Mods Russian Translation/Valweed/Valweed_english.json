@@ -26,8 +26,9 @@
   "indica_joint_effectname": "High (Indica)",
   "sativa_joint_effectname": "High (Sativa)",
   "hybrid_joint_tooltip": "You feel balanced.",
-  "indica_joint_tooltip": "You feel relaxed.\nMakes you Rested.\nIf you are already Rested, the timer will be increased by this buff's duration. This is halved if you are already high.",
-  "sativa_joint_tooltip": "You feel motivated.\nHunger rate -50%",
+  "indica_joint_tooltip": "You feel relaxed.\nMakes you Rested.\n\nIf you are already Rested, the timer will be increased by this buff's duration. This is halved if you are already high.",
+  "sativa_joint_tooltip": "You feel motivated.",
+  "bong_tooltip": "You feel ZOOTED.\nAll three joint effects are combined.",
   "joint_effectstart": "You feel high.",
   "joint_effectstop": "You're coming down."
 }
