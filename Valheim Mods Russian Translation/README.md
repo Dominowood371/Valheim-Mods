@@ -54,7 +54,7 @@
  - [X] [More Green Fire](https://valheim.thunderstore.io/package/OdinPlus/MoreGreenFire/) ✔
     - [X] Version 0.0.1 (Valheim v0.156.2)
     - [X] Version 0.0.2 (Valheim v0.202.14)
- - [X] [OdinArchitect - Custom buildings](https://valheim.thunderstore.io/package/Raelaziel/OdinArchitect_Custom_buildings/) ✔
+ - [X] [OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect/) ✔
     - [X] Version 0.0.4 (Valheim v0.156.2)
     - [X] Version 0.1.0 (Valheim v0.202.14)
  - [X] [PlantIt](https://valheim.thunderstore.io/package/OdinPlus/PlantIt/) ✔
