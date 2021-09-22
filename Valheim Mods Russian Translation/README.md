@@ -30,7 +30,7 @@
     - [X] Version 0.2.7 (Valheim v0.156.2)
     - [X] Version 0.2.8 - 0.3.2 (Valheim v0.202.14)
  - [ ] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌ возможно но там очень много текста
-    - [ ] Version 0.4.1 (Valheim v0.156.2)
+    - [X] Version 0.4.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL) ✔
     - [X] Version ? (Valheim v0.202.14)
