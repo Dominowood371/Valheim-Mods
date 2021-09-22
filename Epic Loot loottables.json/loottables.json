@@ -215,6 +215,91 @@
     // Mistmetal Tower Shield ShieldMistmetalTower        Tier6    TowerShields
     // Mistmetal Axe          AxeMistmetal                Tier6    Axes
     // Mistmetal Pickaxe      PickaxeMistmetal            Tier6    Pickaxes
+    //
+    //   LeatherScraps
+    // Rag Hat                HelmetRag                   Tier
+    // Rag Tunic              ArmorRagsChes
+    // Rag Pants              ArmorRagsLeg
+    // Rag Cape               CapeRag
+    // Rag Belt               BeltRag
+    //   DeerHide
+    // Leather Helmet         HelmetLeathe                Tier
+    // Leather Tunic          ArmorLeatherChes
+    // Leather Pants          ArmorLeatherLeg
+    // Deerskin Cape          CapeDeerHid
+    // Leather Belt           BeltLeather
+    //   BoneFragments
+    // Bone Helmet            HelmetBone                 Tier
+    // Bone Chestplate        ArmorBoneChest
+    // Bone Greaves           ArmorBoneLegs
+    // Bone Cape              CapeBone
+    // Bone Belt              BeltBone
+    //   TrollHide
+    // HelmetTrollLeathe      Trollskin Hood           Tier
+    // ArmorTrollLeatherChes  Trollskin Tunic
+    // ArmorTrollLeatherLeg   Trollskin Pants
+    // CapeTrollHid           Trollskin Cape
+    // Trollskin Belt         BeltTrollHide
+    //   Bronze
+    // Bronze Helmet          HelmetBronz           Tier2
+    // Bronze Cuirass         ArmorBronzeChes
+    // Bronze Greaves         ArmorBronzeLeg
+    // Bronze Cape            CapeBronze
+    // Bronze Belt            BeltBronze
+    //   Bronze ElderBark
+    // Ancient Helmet         HelmetAncient           Tier2
+    // Ancient Chestplate     ArmorAncientChest
+    // Ancient Greaves        ArmorAncientLegs
+    // Ancient Cape           CapeAncient
+    // Ancient Belt           BeltAncient
+    //   Iron
+    // Iron Helmet            HelmetIro           Tier3
+    // Iron Plate Cuirass     ArmorIronChes
+    // Iron Plate Greaves     ArmorIronLeg
+    // Iron Cape              CapeIron
+    // Iron Belt              BeltIron
+    //   Chitin
+    // Abyssal Helmet         HelmetAbyssal           Tier3
+    // Abyssal Chestplate     ArmorAbyssalChest
+    // Abyssal Greaves        ArmorAbyssalLegs
+    // Abyssal Cape           CapeAbyssal
+    // Abyssal Belt           BeltAbyssal
+    //   Silver Iron
+    // Silver Helmet          HelmetSilver           Tier4
+    // Silver Cuirass         ArmorSilverChest
+    // Silver Greaves         ArmorSilverLegs
+    // Silver Cape            CapeSilver
+    // Silver Belt            BeltSilver
+    //   Drakescale   HeavymetalBar
+    // Wolfskin Helmet        HelmetDrak
+    // Wolfskin Chestplate    ArmorWolfChes
+    // Wolfskin Greaves       ArmorWolfLeg
+    // WolfPelt Cape          CapeWol
+    // WolfPelt Belt          BeltWolf
+    //   BlackMetal 
+    // BlackMetal Helmet      HelmetBlackMetal           Tier5
+    // BlackMetal Chestplate  ArmorBlackMetalChest
+    // BlackMetal Greaves     ArmorBlackMetalLegs
+    // BlackMetal Cape        CapeBlackMetal
+    // BlackMetal Belt        BeltBlackMetal
+    //   BlackMetal
+    // Padded Combat Helmet     HelmetPadde             Tier5
+    // Padded Combat Chestplate ArmorPaddedChes
+    // Padded Combat Greaves    ArmorPaddedLeg
+    // Padded Combat Cape       CapePadded
+    // Padded Combat Belt       BeltPadded
+    //   HeavymetalBar
+    // Heavymetal Helmet        HelmetHeavymetal           Tier6
+    // Heavymetal Cuirass       ArmorHeavymetalChest
+    // Heavymetal Greaves       ArmorHeavymetalLegs
+    // Heavymetal Cape          CapeHeavymetal
+    // Heavymetal Belt          BeltHeavymetal
+    //   Heavyscale
+    // Heavyscale Helmet        HelmetHeavyscale           Tier6
+    // Heavyscale Cuirass       ArmorHeavyscaleChest     
+    // Heavyscale Greaves       ArmorHeavyscaleLegs 
+    // Heavyscale Cape          CapeHeavyscale 
+    // Heavyscale Belt          BeltHeavyscale
     // 
     // 
     // 
@@ -224,6 +309,26 @@
     // 
     // 
     // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    // 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Judes Equipment MOD
     // Item                            IDS:                                  Tier
