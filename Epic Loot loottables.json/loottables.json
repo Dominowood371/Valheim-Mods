@@ -112,7 +112,7 @@
     // 
     // Crossbow               crossbow                    Tier3    Bows
     // Adventurer's Torch     torch                       Tier0   Torches
-    //   BoneFragments
+    //      BoneFragments
     // Bone Bow               BowBone                     Tier1    Bows
     // Bone Atgeir            AtgeirBone                  Tier1    Polearms
     // Bone Club              ClubBone                    Tier1    Clubs
@@ -124,11 +124,11 @@
     // Bone Sword             SwordBone                   Tier1    Swords
     // Bone Shield            ShieldBone                  Tier1    RoundShields
     // Bone Tower Shield      ShieldBoneTower             Tier1    TowerShields
-    //   Bronze
+    //      Bronze
     // Bronze Sledge          SledgeBronze                Tier2    Sledges
     // Bronze Battleaxe       BattleaxeBronze             Tier2    TwoHandAxes
     // Bronze Knife           KnifeBronze                 Tier2    Knives
-    //   ElderBark
+    //      ElderBark
     // Ancient Bow            BowAncient                  Tier3    Bows
     // Ancient Atgeir         AtgeirAncient               Tier3    Polearms
     // Ancient Club           ClubAncient                 Tier3    Clubs
@@ -138,10 +138,10 @@
     // Ancient Mace           MaceAncient                 Tier3    Clubs
     // Ancient Shield         ShieldAncient               Tier3    RoundShields
     // Ancient Tower Shield   ShieldAncientTower          Tier3    TowerShields
-    //   Iron
+    //      Iron
     // Iron Spear             SpearIron                   Tier3    Spears
     // Iron Knife             KnifeIron                   Tier3    Knives
-    //   Chitin Iron
+    //      Chitin Iron
     // Abyssal Bow            BowAbyssal                  Tier3    Bows
     // Abyssal Atgeir         AtgeirAbyssal               Tier3    Polearms
     // Abyssal Club           ClubAbyssal                 Tier3    Clubs
@@ -151,7 +151,7 @@
     // Abyssal Sword          SwordAbyssal                Tier3    Swords
     // Abyssal Shield         ShieldAbyssal               Tier3    RoundShields
     // Abyssal Tower Shield   ShieldAbyssalTower          Tier3    TowerShields
-    //   Silver
+    //      Silver
     // Silver Bow             BowSilver                   Tier4    Bows
     // Silver Atgeir          AtgeirSilver                Tier4    Polearms
     // Silver Club            ClubSilver                  Tier4    Clubs
@@ -162,7 +162,7 @@
     // Silver Tower Shield    ShieldSilverTower           Tier4    TowerShields
     // Silver Axe             AxeSilver                   Tier4    Axes
     // Silver Pickaxe         PickaxeSilver               Tier4    Pickaxes
-    //   HeavymetalBar(BlackMetalScrap HeatedIronBar) HeatedIronBar(Iron)
+    //      HeavymetalBar HeatedIronBar
     // Heavymetal Bow         BowHeavymetal               Tier5    Bows
     // Heavymetal Club        ClubHeavymetal              Tier5    Clubs
     // Heavymetal Sledge      SledgeHeavymetal            Tier5    Sledges
@@ -171,7 +171,7 @@
     // Heavymetal Mace        MaceHeavymetal              Tier5    Clubs
     // Heavymetal Pickaxe     PickaxeHeavymetal           Tier5    Pickaxes
     // Heavymetal Sledgeaxe   SledgeaxeHeavymetal         Tier5    Sledges
-    //       FrometalBar(HeatedIronBar FrometalEssence) HeavymetalBar
+    //      FrometalBar HeavymetalBar
     // Frometal Bow           BowFrometal                 Tier6    Bows
     // Frometal Atgeir        AtgeirFrometal              Tier5    Polearms
     // Frometal Club          ClubFrometal                Tier5    Clubs
@@ -186,7 +186,7 @@
     // Frometal Axe           AxeFrometal                 Tier5    Axes
     // Frometal Pickaxe       PickaxeFrometal             Tier5    Pickaxes
     // Frometal Sledgeaxe     SledgeaxeFrometal           Tier5    Sledges
-    //      FlametalBar(SerpentScale HeavymetalBar FrometalBar FlametalEssence) HeavymetalBar
+    //      FlametalBar HeavymetalBar
     // Flametal Bow           BowFlametal                 Tier6    Bows
     // Flametal Atgeir        AtgeirFlametal              Tier6    Polearms
     // Flametal Club          ClubFlametal                Tier6    Clubs
@@ -200,7 +200,7 @@
     // Flametal Tower Shield  ShieldFlametalTower         Tier6    TowerShields
     // Flametal Axe           AxeFlametal                 Tier6    Axes
     // Flametal Pickaxe       PickaxeFlametal             Tier6    Pickaxes
-    //       Mistmetal (YagluthDrop)
+    //       Mistmetal
     // Mistmetal Bow          BowMistmetal                Tier6    Bows
     // Mistmetal Atgeir       AtgeirMistmetal             Tier6    Polearms
     // Mistmetal Club         ClubMistmetal               Tier6    Clubs
@@ -216,115 +216,98 @@
     // Mistmetal Axe          AxeMistmetal                Tier6    Axes
     // Mistmetal Pickaxe      PickaxeMistmetal            Tier6    Pickaxes
     //
-    //   LeatherScraps
-    // Rag Hat                HelmetRag                   Tier
-    // Rag Tunic              ArmorRagsChes
-    // Rag Pants              ArmorRagsLeg
-    // Rag Cape               CapeRag
-    // Rag Belt               BeltRag
-    //   DeerHide
-    // Leather Helmet         HelmetLeathe                Tier
-    // Leather Tunic          ArmorLeatherChes
-    // Leather Pants          ArmorLeatherLeg
-    // Deerskin Cape          CapeDeerHid
-    // Leather Belt           BeltLeather
-    //   BoneFragments
-    // Bone Helmet            HelmetBone                 Tier
-    // Bone Chestplate        ArmorBoneChest
-    // Bone Greaves           ArmorBoneLegs
-    // Bone Cape              CapeBone
-    // Bone Belt              BeltBone
-    //   TrollHide
-    // HelmetTrollLeathe      Trollskin Hood           Tier
-    // ArmorTrollLeatherChes  Trollskin Tunic
-    // ArmorTrollLeatherLeg   Trollskin Pants
-    // CapeTrollHid           Trollskin Cape
-    // Trollskin Belt         BeltTrollHide
-    //   Bronze
-    // Bronze Helmet          HelmetBronz           Tier2
-    // Bronze Cuirass         ArmorBronzeChes
-    // Bronze Greaves         ArmorBronzeLeg
-    // Bronze Cape            CapeBronze
-    // Bronze Belt            BeltBronze
-    //   Bronze ElderBark
-    // Ancient Helmet         HelmetAncient           Tier2
-    // Ancient Chestplate     ArmorAncientChest
-    // Ancient Greaves        ArmorAncientLegs
-    // Ancient Cape           CapeAncient
-    // Ancient Belt           BeltAncient
-    //   Iron
-    // Iron Helmet            HelmetIro           Tier3
-    // Iron Plate Cuirass     ArmorIronChes
-    // Iron Plate Greaves     ArmorIronLeg
-    // Iron Cape              CapeIron
-    // Iron Belt              BeltIron
-    //   Chitin
-    // Abyssal Helmet         HelmetAbyssal           Tier3
-    // Abyssal Chestplate     ArmorAbyssalChest
-    // Abyssal Greaves        ArmorAbyssalLegs
-    // Abyssal Cape           CapeAbyssal
-    // Abyssal Belt           BeltAbyssal
-    //   Silver Iron
-    // Silver Helmet          HelmetSilver           Tier4
-    // Silver Cuirass         ArmorSilverChest
-    // Silver Greaves         ArmorSilverLegs
-    // Silver Cape            CapeSilver
-    // Silver Belt            BeltSilver
-    //   Drakescale   HeavymetalBar
-    // Wolfskin Helmet        HelmetDrak
-    // Wolfskin Chestplate    ArmorWolfChes
-    // Wolfskin Greaves       ArmorWolfLeg
-    // WolfPelt Cape          CapeWol
-    // WolfPelt Belt          BeltWolf
-    //   BlackMetal 
-    // BlackMetal Helmet      HelmetBlackMetal           Tier5
-    // BlackMetal Chestplate  ArmorBlackMetalChest
-    // BlackMetal Greaves     ArmorBlackMetalLegs
-    // BlackMetal Cape        CapeBlackMetal
-    // BlackMetal Belt        BeltBlackMetal
-    //   BlackMetal
-    // Padded Combat Helmet     HelmetPadde             Tier5
-    // Padded Combat Chestplate ArmorPaddedChes
-    // Padded Combat Greaves    ArmorPaddedLeg
-    // Padded Combat Cape       CapePadded
-    // Padded Combat Belt       BeltPadded
-    //   HeavymetalBar
+    //      LeatherScraps
+    // Rag Hat                HelmetRag                   Tier0
+    // Rag Tunic              ArmorRagsChes               Tier0
+    // Rag Pants              ArmorRagsLeg                Tier0
+    // Rag Cape               CapeRag                     Tier0
+    // Rag Belt               BeltRag                     Tier0
+    //      DeerHide
+    // Leather Helmet         HelmetLeathe                Tier1
+    // Leather Tunic          ArmorLeatherChes            Tier1
+    // Leather Pants          ArmorLeatherLeg             Tier1
+    // Deerskin Cape          CapeDeerHid                 Tier1
+    // Leather Belt           BeltLeather                 Tier1
+    //      BoneFragments
+    // Bone Helmet            HelmetBone                  Tier1
+    // Bone Chestplate        ArmorBoneChest              Tier1
+    // Bone Greaves           ArmorBoneLegs               Tier1
+    // Bone Cape              CapeBone                    Tier1
+    // Bone Belt              BeltBone                    Tier1
+    //      TrollHide
+    // HelmetTrollLeathe      Trollskin Hood              Tier2
+    // ArmorTrollLeatherChes  Trollskin Tunic             Tier2
+    // ArmorTrollLeatherLeg   Trollskin Pants             Tier2
+    // CapeTrollHid           Trollskin Cape              Tier2
+    // Trollskin Belt         BeltTrollHide               Tier2
+    //      Bronze
+    // Bronze Helmet          HelmetBronz                 Tier2
+    // Bronze Cuirass         ArmorBronzeChes             Tier2
+    // Bronze Greaves         ArmorBronzeLeg              Tier2
+    // Bronze Cape            CapeBronze                  Tier2
+    // Bronze Belt            BeltBronze                  Tier2
+    //      Bronze ElderBark
+    // Ancient Helmet         HelmetAncient               Tier3
+    // Ancient Chestplate     ArmorAncientChest           Tier3
+    // Ancient Greaves        ArmorAncientLegs            Tier3
+    // Ancient Cape           CapeAncient                 Tier3
+    // Ancient Belt           BeltAncient                 Tier3
+    //      Iron
+    // Iron Helmet            HelmetIro                   Tier3
+    // Iron Plate Cuirass     ArmorIronChes               Tier3
+    // Iron Plate Greaves     ArmorIronLeg                Tier3
+    // Iron Cape              CapeIron                    Tier3
+    // Iron Belt              BeltIron                    Tier3
+    //      Chitin
+    // Abyssal Helmet         HelmetAbyssal               Tier2
+    // Abyssal Chestplate     ArmorAbyssalChest           Tier2
+    // Abyssal Greaves        ArmorAbyssalLegs            Tier2
+    // Abyssal Cape           CapeAbyssal                 Tier2
+    // Abyssal Belt           BeltAbyssal                 Tier2
+    //      Silver Iron
+    // Silver Helmet          HelmetSilver                Tier4
+    // Silver Cuirass         ArmorSilverChest            Tier4
+    // Silver Greaves         ArmorSilverLegs             Tier4
+    // Silver Cape            CapeSilver                  Tier4
+    // Silver Belt            BeltSilver                  Tier4
+    //      Drakescale   HeavymetalBar
+    // Wolfskin Helmet        HelmetDrak                  Tier6
+    // Wolfskin Chestplate    ArmorWolfChes               Tier6
+    // Wolfskin Greaves       ArmorWolfLeg                Tier6
+    // WolfPelt Cape          CapeWol                     Tier6
+    // WolfPelt Belt          BeltWolf                    Tier6
+    //      BlackMetal 
+    // BlackMetal Helmet      HelmetBlackMetal            Tier5
+    // BlackMetal Chestplate  ArmorBlackMetalChest        Tier5
+    // BlackMetal Greaves     ArmorBlackMetalLegs         Tier5
+    // BlackMetal Cape        CapeBlackMetal              Tier5
+    // BlackMetal Belt        BeltBlackMetal              Tier5
+    //      BlackMetal
+    // Padded Combat Helmet     HelmetPadde               Tier5
+    // Padded Combat Chestplate ArmorPaddedChes           Tier5
+    // Padded Combat Greaves    ArmorPaddedLeg            Tier5
+    // Padded Combat Cape       CapePadded                Tier5
+    // Padded Combat Belt       BeltPadded                Tier5
+    //      HeavymetalBar
     // Heavymetal Helmet        HelmetHeavymetal           Tier6
-    // Heavymetal Cuirass       ArmorHeavymetalChest
-    // Heavymetal Greaves       ArmorHeavymetalLegs
-    // Heavymetal Cape          CapeHeavymetal
-    // Heavymetal Belt          BeltHeavymetal
-    //   Heavyscale
+    // Heavymetal Cuirass       ArmorHeavymetalChest       Tier6
+    // Heavymetal Greaves       ArmorHeavymetalLegs        Tier6
+    // Heavymetal Cape          CapeHeavymetal             Tier6
+    // Heavymetal Belt          BeltHeavymetal             Tier6
+    //      Heavyscale
     // Heavyscale Helmet        HelmetHeavyscale           Tier6
-    // Heavyscale Cuirass       ArmorHeavyscaleChest     
-    // Heavyscale Greaves       ArmorHeavyscaleLegs 
-    // Heavyscale Cape          CapeHeavyscale 
-    // Heavyscale Belt          BeltHeavyscale
+    // Heavyscale Cuirass       ArmorHeavyscaleChest       Tier6
+    // Heavyscale Greaves       ArmorHeavyscaleLegs        Tier6
+    // Heavyscale Cape          CapeHeavyscale             Tier6
+    // Heavyscale Belt          BeltHeavyscale             Tier6
     // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
-    // 
+    // Heavyscale(SerpentScale HeavymetalBar Coal HeatedIronBar)
+    // HeavymetalBar(HeatedIronBar BlackMetalScrap Coal)
+    // HeatedIronBar(Iron Coal)
+    // Drakescale(Heavyscale FrometalEssence)
+    // Mistmetal(YagluthDrop)
+    // FlametalBar(SerpentScale HeavymetalBar FrometalBar FlametalEssence) 
+    // FrometalBar(HeatedIronBar FrometalEssence) 
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
