@@ -333,68 +333,100 @@
     {
       "Name": "Tier2ValheimExpandedWeapons",
       "Loot": [
-        { "Item": "KnifeCopper",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "SledgeStagbreaker", "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "SwordBronze",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "AxeBronze",         "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "MaceBronze",        "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "AtgeirBronze",      "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "SpearBronze",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "BowFineWood",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "KnifeChitin",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
-        { "Item": "SpearChitin",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] }
+        { "Item": "SledgeBronze",     "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "BattleaxeBronze",  "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "KnifeBronze",      "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] }
       ]
     },
     {
       "Name": "Tier3ValheimExpandedWeapons",
       "Loot": [
-        { "Item": "Battleaxe",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "SwordIron",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "AxeIron",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "SledgeIron",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "MaceIron",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "AtgeirIron",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "SpearElderbark", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+        { "Item": "BowAncient",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "AtgeirAncient",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ClubAncient",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "SledgeAncient",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "BattleaxeAncient",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "SwordAncient",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "MaceAncient",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "SpearIron",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "KnifeIron",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "BowAbyssal",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "AtgeirAbyssal",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ClubAbyssal",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "SledgeAbyssal",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "BattleaxeAbyssal",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "MaceAbyssal",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "SwordAbyssal",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "crossbow",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
     {
       "Name": "Tier4ValheimExpandedWeapons",
       "Loot": [
-        { "Item": "SwordSilver",      "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "SpearWolfFang",    "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "MaceSilver",       "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "BowDraugrFang",    "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "KnifeSilver",      "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "BattleaxeCrystal", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
+        { "Item": "BowSilver",        "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "AtgeirSilver",     "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "ClubSilver",       "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "SledgeSilver",     "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "BattleaxeSilver",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "SpearSilver",      "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "KnifeSilver",      "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "AxeSilver",        "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "PickaxeSilver",    "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
       ]
     },
     {
       "Name": "Tier5ValheimExpandedWeapons",
       "Loot": [
-        { "Item": "AtgeirBlackmetal", "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "AxeBlackMetal",    "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "KnifeBlackMetal",  "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "SwordBlackmetal",  "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "MaceNeedle",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+        { "Item": "BowHeavymetal",        "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ClubHeavymetal",       "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SledgeHeavymetal",     "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "BattleaxeHeavymetal",  "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SpearHeavymetal",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "MaceHeavymetal",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "PickaxeHeavymetal",    "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SledgeaxeHeavymetal",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "BowFrometal",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "AtgeirFrometal",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ClubFrometal",         "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SledgeFrometal",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "BattleaxeFrometal",    "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SpearFrometal",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "KnifeFrometal",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "MaceFrometal",         "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SwordFrometal",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "AxeFrometal",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "PickaxeFrometal",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SledgeaxeFrometal",    "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
       ]
     },
     {
       "Name": "Tier6ValheimExpandedWeapons",
       "Loot": [
-        { "Item": "AtgeirFireTH",     "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "AxeFireTH",        "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "BattleaxeFireTH",  "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "BowFireTH",        "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "KnifeFireTH",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "GreatswordFireTH", "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "MaceFireTH",       "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "SledgeFireTH",     "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "SpearFireTH",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
-        { "Item": "ThrowingAxeFire",  "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] }
+        { "Item": "BowFlametal",         "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "AtgeirFlametal",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ClubFlametal",        "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SledgeFlametal",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "BattleaxeFlametal",   "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SpearFlametal",       "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "KnifeFlametal",       "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SwordFlametal",       "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "MaceFlametal",        "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "AxeFlametal",         "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "PickaxeFlametal",     "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "BowMistmetal",        "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "AtgeirMistmetal",     "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ClubMistmetal",       "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SledgeMistmetal",     "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SledgeaxeMistmetal",  "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "BattleaxeMistmetal",  "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SpearMistmetal",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "KnifeMistmetal",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "MaceMistmetal",       "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SwordMistmetal",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "AxeMistmetal",        "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "PickaxeMistmetal",    "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] }
       ]
     },
-	  
-	  
     {
       "Name": "Tier1ValheimExpandedShields",
       "Loot": [
