@@ -377,10 +377,10 @@
     {
       "Name": "Tier5ValheimExpandedWeapons",
       "Loot": [
-        { "Item": "BowHeavymetal",        "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "ClubHeavymetal",       "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "SledgeHeavymetal",     "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "BattleaxeHeavymetal",  "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "BowHeavymetal",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ClubHeavymetal",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SledgeHeavymetal",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "BattleaxeHeavymetal",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "SpearHeavymetal",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "MaceHeavymetal",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "PickaxeHeavymetal",    "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
@@ -446,7 +446,7 @@
     {
       "Name": "Tier4ValheimExpandedShields",
       "Loot": [
-        { "Item": "ShieldSilverTower",    "Weight": 5, "Rarity": [ 5, 35, 50, 20 ] }
+        { "Item": "ShieldSilverTower",    "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
       ]
     },
     {
