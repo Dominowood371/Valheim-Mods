@@ -111,7 +111,7 @@
     // Item                   IDS:                        Tier    Type Weapon 
     // 
     // Crossbow               crossbow                    Tier3    Bows
-    // Adventurer's Torch     torch                       Tier0   Torches
+    // Adventurer's Torch     torch                       Tier0    Torches
     //      BoneFragments
     // Bone Bow               BowBone                     Tier1    Bows
     // Bone Atgeir            AtgeirBone                  Tier1    Polearms
@@ -310,7 +310,235 @@
     // FrometalBar(HeatedIronBar FrometalEssence) 
     // 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+    {
+      "Name": "Tier0ValheimExpandedTools",
+      "Loot": [
+        { "Item": "torch", "Rarity": [ 97, 2, 1, 0 ] }
+      ]
+    },
+    {
+      "Name": "Tier1ValheimExpandedWeapons",
+      "Loot": [
+        { "Item": "BowBone",       "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "AtgeirBone",    "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "ClubBone",      "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "SledgeBone",    "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "BattleaxeBone", "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "SpearBone",     "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "KnifeBone",     "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "MaceBone",      "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "SwordBone",     "Rarity": [ 94, 3, 2, 1 ] }
+      ]
+    },
+    {
+      "Name": "Tier2ValheimExpandedWeapons",
+      "Loot": [
+        { "Item": "KnifeCopper",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "SledgeStagbreaker", "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "SwordBronze",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "AxeBronze",         "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "MaceBronze",        "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "AtgeirBronze",      "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "SpearBronze",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "BowFineWood",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "KnifeChitin",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "SpearChitin",       "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] }
+      ]
+    },
+    {
+      "Name": "Tier3ValheimExpandedWeapons",
+      "Loot": [
+        { "Item": "Battleaxe",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "SwordIron",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "AxeIron",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "SledgeIron",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "MaceIron",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "AtgeirIron",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "SpearElderbark", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    },
+    {
+      "Name": "Tier4ValheimExpandedWeapons",
+      "Loot": [
+        { "Item": "SwordSilver",      "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "SpearWolfFang",    "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "MaceSilver",       "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "BowDraugrFang",    "Weight": 1,  "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "KnifeSilver",      "Weight": 10, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "BattleaxeCrystal", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
+      ]
+    },
+    {
+      "Name": "Tier5ValheimExpandedWeapons",
+      "Loot": [
+        { "Item": "AtgeirBlackmetal", "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "AxeBlackMetal",    "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "KnifeBlackMetal",  "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "SwordBlackmetal",  "Weight": 3, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "MaceNeedle",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+      ]
+    },
+    {
+      "Name": "Tier6ValheimExpandedWeapons",
+      "Loot": [
+        { "Item": "AtgeirFireTH",     "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "AxeFireTH",        "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "BattleaxeFireTH",  "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "BowFireTH",        "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "KnifeFireTH",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "GreatswordFireTH", "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "MaceFireTH",       "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SledgeFireTH",     "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "SpearFireTH",      "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ThrowingAxeFire",  "Weight": 1,  "Rarity": [ 0, 10, 60, 30 ] }
+      ]
+    },
+	  
+	  
+    {
+      "Name": "Tier1ValheimExpandedShields",
+      "Loot": [
+        { "Item": "ShieldBone",      "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "ShieldBoneTower", "Rarity": [ 94, 3, 2, 1 ] }
+      ]
+    },
+    {
+      "Name": "Tier3ValheimExpandedShields",
+      "Loot": [
+        { "Item": "ShieldAncient",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ShieldAncientTower",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ShieldAbyssal",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ShieldAbyssalTower",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    },
+    {
+      "Name": "Tier4ValheimExpandedShields",
+      "Loot": [
+        { "Item": "ShieldSilverTower",    "Weight": 5, "Rarity": [ 5, 35, 50, 20 ] }
+      ]
+    },
+    {
+      "Name": "Tier5ValheimExpandedShields",
+      "Loot": [
+        { "Item": "ShieldFrometal",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ShieldFrometalTower", "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+      ]
+    },
+    {
+      "Name": "Tier6ValheimExpandedShields",
+      "Loot": [
+        { "Item": "ShieldFlametal",       "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ShieldFlametalTower",  "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ShieldMistmetal",      "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ShieldMistmetalTower", "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] }
+      ]
+    },
+	  
+    {
+      "Name": "Tier0ValheimExpandedArmor",
+      "Loot": [
+        { "Item": "HelmetRag",     "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorRagsChes", "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorRagsLeg",  "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "CapeRag",       "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "BeltRag",       "Rarity": [ 97, 2, 1, 0 ] }
+      ]
+    },
+    {
+      "Name": "Tier1ValheimExpandedArmor",
+      "Loot": [
+        { "Item": "HelmetLeathe",     "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "ArmorLeatherChes", "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "ArmorLeatherLeg",  "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "CapeDeerHid",      "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "BeltLeather",      "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "HelmetBone",       "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "ArmorBoneChest",   "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "ArmorBoneLegs",    "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "CapeBone",         "Rarity": [ 94, 3, 2, 1 ] },
+        { "Item": "BeltBone",         "Rarity": [ 94, 3, 2, 1 ] }
+      ]
+    },
+    {
+      "Name": "Tier2ValheimExpandedArmor",
+      "Loot": [
+        { "Item": "HelmetTrollLeathe",     "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorTrollLeatherChes", "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorTrollLeatherLeg",  "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "CapeTrollHid",          "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "BeltTrollHide",         "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "HelmetBronz",           "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorBronzeChes",       "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorBronzeLeg",        "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "CapeBronze",            "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "BeltBronze",            "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "HelmetAbyssal",         "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorAbyssalChest",     "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorAbyssalLegs",      "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "CapeAbyssal",           "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "BeltAbyssal",           "Rarity": [ 80, 14, 4, 2 ] }
+      ]
+    },
+    {
+      "Name": "Tier3ValheimExpandedArmor",
+      "Loot": [
+        { "Item": "HelmetAncient",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorAncientChest", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorAncientLegs",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "CapeAncient",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "BeltAncient",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "HelmetIro",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorIronChes",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorIronLeg",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "CapeIron",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "BeltIron",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    },
+    {
+      "Name": "Tier4ValheimExpandedArmor",
+      "Loot": [
+        { "Item": "HelmetSilver",     "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "ArmorSilverChest", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "ArmorSilverLegs",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "CapeSilver",       "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "BeltSilver",       "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
+      ]
+    },
+    {
+      "Name": "Tier5ValheimExpandedArmor",
+      "Loot": [
+        { "Item": "HelmetBlackMetal",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorBlackMetalChest", "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorBlackMetalLegs",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "CapeBlackMetal",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "BeltBlackMetal",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "HelmetPadde",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorPaddedChes",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorPaddedLeg",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "CapePadded",           "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "BeltPadded",           "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+      ]
+    },
+    {
+      "Name": "Tier6ValheimExpandedArmor",
+      "Loot": [
+        { "Item": "HelmetDrak",           "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ArmorWolfChes",        "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ArmorWolfLeg",         "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "CapeWol",              "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "BeltWolf",             "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "HelmetHeavymetal",     "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ArmorHeavymetalChest", "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ArmorHeavymetalLegs",  "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "CapeHeavymetal",       "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "BeltHeavymetal",       "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "HelmetHeavyscale",     "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ArmorHeavyscaleChest", "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ArmorHeavyscaleLegs",  "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "CapeHeavyscale",       "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "BeltHeavyscale",       "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] }
+      ]
+    },
 	  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Judes Equipment MOD
