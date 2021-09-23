@@ -7,17 +7,17 @@ List of mods to be added to the table:
 
 | Mods | Version | Categories |
 | -- | -- | -- |
-| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) | 0.8.4 | Оriginal items Game |
+| [Epic Loot](http://www.nexusmods.com/valheim/mods/387) | 0.8.6 | Оriginal items Game |
 | [ValheimExpanded](http://www.nexusmods.com/valheim/mods/1154) | 0.4.1 | Weapons, Armor, Enemies, Monsters |
-| [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.1.4 | Weapons, Armor |
+| [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.2.0 | Weapons, Armor |
 | [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons |
 | [Hugo's Armory](https://www.nexusmods.com/valheim/mods/1189) | 5.0.0 | Weapons |
 | [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.1.0 | Weapons |
 | [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
-| [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/)| 1.0.0 | Armor |
+| [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/)| 1.0.2 | Armor |
 | [Plate Armor](https://www.nexusmods.com/valheim/mods/567)| 2.0.1 | Armor |
 | [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 2.0.1 | Armor |
-| [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.1 | Armor |
+| [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.2 | Armor |
 | [MonsterLabZ](https://www.nexusmods.com/valheim/mods/1264) | 1.7.0 | Enemies, Monsters |
 | [Monsternomicon](https://www.nexusmods.com/valheim/mods/1166) | 1.0.5 | Enemies, Monsters |
 | [MonsterMash](https://www.nexusmods.com/valheim/mods/1284) | 0.0.9 | Enemies, Monsters |
@@ -98,7 +98,6 @@ Adds two-handed weapon drop:
 * Tier5 - Flametal Great Sword
 * Tier5 - Black Metal Battleaxe
 * Tier5 - Dragon Slayer
-* 
 * Tier5 - Body of the Devoted
 * Tier5 - Buck and Doe
 * Tier2 - Bronze Knuckles 
