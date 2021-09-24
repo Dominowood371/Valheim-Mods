@@ -37,6 +37,15 @@ Distribution of mods in the table.
 * Tier 5-6 - Fuling Berserker, Fuling Shaman
 * Tier 6 - Surtling
 
+**Valheim Expanded**
+* Tier 0 - Torch, Rags Armor
+* Tier 1 - Bone Weapons, Bone Armor, Leather Armor
+* Tier 2 - Bronze Weapons, Trollskin Armor, Bronze Armor, Abyssal Armor
+* Tier 3 - Crossbow, Abyssal Weapons, Iron Weapons, Ancient Weapons, Ancient Armor, Iron Armor
+* Tier 4 - Silver Weapons, Silver Armor,
+* Tier 5 - Frometal Weapons, Heavymetal Weapons, BlackMetal Armor, Padded Armor
+* Tier 6 - Flametal Weapons, Mistmetal Weapons, Wolfskin Armor, Heavymetal Armor, Heavyscale Armor
+
 **Terraheim - Weapons Tools and Armor**
 * Tier 0 - Wood Weapons, Stone Weapons
 * Tier 1 - Flint Weapons, Leather Cape
@@ -64,6 +73,7 @@ Distribution of mods in the table.
 * Tier 6 - Flametal Armor
 
 **Forsaken**
+
 Very powerful weapons, therefore, only drop from bosses:
 
 * Eikthyr - Static Cleaver
@@ -115,6 +125,7 @@ Adds two-handed weapon drop:
 * Tier4 - Steel Viking Axe
  
 **Runic Swords**
+
 Very powerful weapons, therefore, only drop from bosses:
 
 * Eikthyr - Runic Lightning Sword
@@ -134,6 +145,7 @@ Very powerful weapons, therefore, only drop from bosses:
 * Yagluth - Runic Fire Dagger
  
 **Monsternomicon**
+
 Added item drops for new mobs:
 
 * Tier 5 - Ocean, DeepNorth, Others
@@ -189,6 +201,7 @@ Added item drops for new mobs:
 | Jotunn                        | Jotunn           | Troll                | 18000 | Blunt, Chop, Pickaxe | Tier 5 | Static Cleaver, Bolts Edge, Spiritine, Rotclub, Wyrmfist, Wyrmripper, Rimefang, Icicle, Chaotic Hand, Molten Star, Aegis of the Dead King, Riftblade, Lycanthro, Runic Lightning Sword, Runic Spirit Sword, Runic Poison Sword, Runic Ice Sword, Runic Fire Sword, Great Runic Lightning Sword, Great Runic Spirit Sword, Great Runic Poison Sword, Great Runic Ice Sword, Great Runic Fire Sword, Runic Lightning Dagger, Runic Spirit Dagger, Runic Poison Dagger, Runic Ice Dagger, Runic Fire Dagger
 
 **MonsterMas**
+
 Added item drops for new mobs:
 
 | Mods | Location | Tier |
@@ -212,6 +225,7 @@ Added item drops for new mobs:
 | WendigoSwamp               | BlackForest   | Tier2     |
 
 **ValheimExpanded**
+
 Added item drops for new mobs:
 
 | Mods | Health  | Location | Tier |
