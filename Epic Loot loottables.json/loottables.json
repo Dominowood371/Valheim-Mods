@@ -235,10 +235,10 @@
     // Bone Cape              CapeBone                    Tier1
     // Bone Belt              BeltBone                    Tier1
     //      TrollHide
-    // HelmetTrollLeathe      Trollskin Hood              Tier2
-    // ArmorTrollLeatherChes  Trollskin Tunic             Tier2
-    // ArmorTrollLeatherLeg   Trollskin Pants             Tier2
-    // CapeTrollHid           Trollskin Cape              Tier2
+    // Trollskin Hood         HelmetTrollLeathe           Tier2
+    // Trollskin Tunic        ArmorTrollLeatherChes       Tier2
+    // Trollskin Pants        ArmorTrollLeatherLeg        Tier2
+    // Trollskin Cape         CapeTrollHid               Tier2
     // Trollskin Belt         BeltTrollHide               Tier2
     //      Bronze
     // Bronze Helmet          HelmetBronz                 Tier2
@@ -1221,6 +1221,8 @@
         { "Item": "Tier0Tools"   },
         { "Item": "Tier0Armor"   },
         { "Item": "Tier0Shields" },
+        { "Item": "Tier0ValheimExpandedTools" },
+        { "Item": "Tier0ValheimExpandedArmor" },
         { "Item": "Tier0TerraheimWeapons" },
         { "Item": "Tier1TerraheimArmor"   },
         { "Item": "Tier0Fisticuffs"       }
@@ -1266,10 +1268,13 @@
         { "Item": "Tier1Armor"   },
         { "Item": "Tier1Shields" },
         { "Item": "Tier1Tools"   },
-        { "Item": "Tier1HugosArmory"      },
-        { "Item": "Tier1TerraheimWeapons" },
-        { "Item": "Tier1TerraheimArmor"   },
-        { "Item": "Tier1Fisticuffs"       }
+        { "Item": "Tier1ValheimExpandedWeapons" },
+        { "Item": "Tier1ValheimExpandedShields" },
+        { "Item": "Tier1ValheimExpandedArmor"   },
+        { "Item": "Tier1HugosArmory"            },
+        { "Item": "Tier1TerraheimWeapons"       },
+        { "Item": "Tier1TerraheimArmor"         },
+        { "Item": "Tier1Fisticuffs"             }
       ]
     },
 
@@ -1328,11 +1333,13 @@
         { "Item": "Tier2Armor"   },
         { "Item": "Tier2Shields" },
         { "Item": "Tier2Tools"   },
-        { "Item": "Tier2ChaosWarriorArmor" },
-        { "Item": "Tier2HugosArmory"       },
-        { "Item": "Tier2TerraheimWeapons"  },
-        { "Item": "Tier2TerraheimArmor"    },
-        { "Item": "Tier2Fisticuffs"        }
+        { "Item": "Tier2ValheimExpandedWeapons" },
+        { "Item": "Tier2ValheimExpandedArmor"   },
+        { "Item": "Tier2ChaosWarriorArmor"      },
+        { "Item": "Tier2HugosArmory"            },
+        { "Item": "Tier2TerraheimWeapons"       },
+        { "Item": "Tier2TerraheimArmor"         },
+        { "Item": "Tier2Fisticuffs"             }
       ]
     },
 
@@ -1379,12 +1386,15 @@
         { "Item": "Tier3Armor"   },
         { "Item": "Tier3Shields" },
         { "Item": "Tier3Tools"   },
-        { "Item": "Tier3JudesEquipment"    },
-        { "Item": "Tier3ChaosWarriorArmor" },
-        { "Item": "Tier3HugosArmory"       },
-        { "Item": "Tier3TerraheimWeapons"  },
-        { "Item": "Tier3TerraheimArmor"    },
-        { "Item": "Tier3Fisticuffs"        }
+        { "Item": "Tier3ValheimExpandedWeapons" },
+        { "Item": "Tier3ValheimExpandedShields" },
+        { "Item": "Tier3ValheimExpandedArmor"   },
+        { "Item": "Tier3JudesEquipment"         },
+        { "Item": "Tier3ChaosWarriorArmor"      },
+        { "Item": "Tier3HugosArmory"            },
+        { "Item": "Tier3TerraheimWeapons"       },
+        { "Item": "Tier3TerraheimArmor"         },
+        { "Item": "Tier3Fisticuffs"             }
       ]
     },
 
@@ -1424,11 +1434,14 @@
         { "Item": "Tier4Armor"   },
         { "Item": "Tier4Shields" },
         { "Item": "TierSteelAge" },
-        { "Item": "Tier4HugosArmory"       },
-        { "Item": "Tier4TerraheimWeapons"  },
-        { "Item": "Tier4TerraheimShields"  },
-        { "Item": "Tier4TerraheimArmor"    },
-        { "Item": "Tier4Fisticuffs"        }
+        { "Item": "Tier4ValheimExpandedWeapons" },
+        { "Item": "Tier4ValheimExpandedShields" },
+        { "Item": "Tier4ValheimExpandedArmor"   },
+        { "Item": "Tier4HugosArmory"            },
+        { "Item": "Tier4TerraheimWeapons"       },
+        { "Item": "Tier4TerraheimShields"       },
+        { "Item": "Tier4TerraheimArmor"         },
+        { "Item": "Tier4Fisticuffs"             }
       ]
     },
 
@@ -1467,12 +1480,15 @@
         { "Item": "Tier5Weapons" },
         { "Item": "Tier5Armor"   },
         { "Item": "Tier5Shields" },
-        { "Item": "Tier5JudesEquipment"   },
-        { "Item": "Tier5HugosArmory"      },
-        { "Item": "Tier5TerraheimWeapons" },
-        { "Item": "Tier5TerraheimTools"   },
-        { "Item": "Tier5TerraheimArmor"   },
-        { "Item": "Tier5Fisticuffs"       }
+        { "Item": "Tier5ValheimExpandedWeapons" },
+        { "Item": "Tier5ValheimExpandedShields" },
+        { "Item": "Tier5ValheimExpandedArmor"   },
+        { "Item": "Tier5JudesEquipment"         },
+        { "Item": "Tier5HugosArmory"            },
+        { "Item": "Tier5TerraheimWeapons"       },
+        { "Item": "Tier5TerraheimTools"         },
+        { "Item": "Tier5TerraheimArmor"         },
+        { "Item": "Tier5Fisticuffs"             }
       ]
     },
 	  
@@ -1481,10 +1497,13 @@
     {
       "Name": "Tier6Everything",
       "Loot": [
-        { "Item": "Tier6ChaosWarriorArmor" },
-        { "Item": "Tier6TerraheimWeapons"  },
-        { "Item": "Tier6TerraheimShields"  },
-        { "Item": "Tier6TerraheimArmor"    }
+        { "Item": "Tier6ValheimExpandedWeapons" },
+        { "Item": "Tier6ValheimExpandedShields" },
+        { "Item": "Tier6ValheimExpandedArmor"   },
+        { "Item": "Tier6ChaosWarriorArmor"      },
+        { "Item": "Tier6TerraheimWeapons"       },
+        { "Item": "Tier6TerraheimShields"       },
+        { "Item": "Tier6TerraheimArmor"         }
       ]
     }
   ],
