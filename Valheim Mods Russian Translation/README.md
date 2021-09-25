@@ -115,7 +115,7 @@
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301) ✔
     - [X] Version 0.7.6 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
+    - [X] Version 1.0.0 (Valheim v0.202.14)
  - [X] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288) ✔
     - [X] Version 1.0.3 (Valheim v0.156.2)
     - [X] Version 1.1.2 (Valheim v0.202.14)
@@ -124,15 +124,12 @@
  - [X] [Chaos Warrior Armor](https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/) ✔
     - [X] Version 6.0.1 (Valheim v0.156.2)
     - [X] Version 6.0.4 (Valheim v0.202.14)
- - [ ] [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/) ✔
-    - [ ] Version  (Valheim v0.156.2)
-    - [ ] Version  (Valheim v0.202.14)
+ - [X] [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/) ✔
+    - [X] Version 1.0.0	- 1.1.0 (Valheim v0.202.14)
  - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
     - [X] Version 2.0.1 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
  - [X] [Plate Armor](https://www.nexusmods.com/valheim/mods/567) ✔
     - [X] Version 2.0.1 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
  - [X] [Custom Hair (AKA CustomWigs)](https://valheim.thunderstore.io/package/OdinPlus/CustomWigs/) ✔
     - [X] Version 0.0.3 (Valheim v0.156.2)
     - [X] Version 0.0.4 (Valheim v0.202.14)
