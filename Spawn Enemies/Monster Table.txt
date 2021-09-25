@@ -40,9 +40,9 @@ https://valheim.fandom.com/wiki/Creatures
     // TheNasty                  Entrails Bloodbag Chitin                         (80)   50     Tier3    Swamp         "m_faction": 3, Undead
     // WereBearGray              Entrails RawMeat LeatherScraps                  (400) 1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
     // WereBearBlack             Entrails RawMeat LeatherScraps                  (300) 1850     Tier4    Mountain      "m_faction": 5, MountainMonsters
-    // WereBearRed               Entrails RawMeat LeatherScraps                  (400) 1850     Tier5    DeepNorth     "m_faction": 5, MountainMonsters
+    // WereBearRed               Entrails RawMeat LeatherScraps                  (400) 1850     Tier5    BlackForest   "m_faction": 5, MountainMonsters
     // WendigoForest             Entrails RawMeat LeatherScraps TrophyDeer       (500) 1850     Tier6    Mistlands     "m_faction": 2, ForestMonsters
-    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer       (200) 1850     Tier2    BlackForest   "m_faction": 3, Undead
+    // WendigoSwamp              Entrails RawMeat LeatherScraps TrophyDeer       (200) 1850     Tier2    Swamp         "m_faction": 3, Undead
     //  
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // MonsterLabZ MOD
