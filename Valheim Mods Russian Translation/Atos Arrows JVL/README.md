@@ -1,4 +1,4 @@
-Mod Atos Arrows JVL Russian Translation Version 0.7.6.
+Mod Atos Arrows JVL Russian Translation Version 0.7.6 - 1.0.0.
 
 ### Описание
 
