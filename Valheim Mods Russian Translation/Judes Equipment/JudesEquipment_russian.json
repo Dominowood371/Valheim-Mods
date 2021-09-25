@@ -21,6 +21,15 @@
   "ArmorPlateIronChestJD_description": "Толстые металлические пластины, приклепанные к кожаной обвязке.",
   "ArmorPlateIronLegsJD": "Пластинчатые наголенники",
   "ArmorPlateIronLegsJD_description": "Надежные наголенники и наколенники.",
+                         
+  "ArmorWandererHelmet": "Соломенная шляпа странника",
+  "ArmorWandererHelmet_description": "Армированная соломенная шляпа.",
+  "ArmorWandererChest": "Пластинчатое пальто странника",
+  "ArmorWandererChest_description": "Небольшие металлические пластины, прикрепленные к кожаной куртке, удобны в обслуживании во время путешествий.",
+  "ArmorWandererLegs": "Штаны странника",
+  "ArmorWandererLegs_description": "Прочные штаны с импровизированной защитой вокруг голеней.",                        
+  "ArmorWandererCape": "Соломенный плащ",
+  "ArmorWandererCape_description": "Дешевая в изготовлении накидка из соломы, собранной на равнинах, защищает от непогоды, но быстро воспламеняется.",
   
   "BackpackSimple": "Простой рюкзак",
   "BackpackSimple_description": "Кожаное вместилище из деревянного каркаса.",
