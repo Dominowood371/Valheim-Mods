@@ -123,7 +123,7 @@
     // Bone Mace              MaceBone                    Tier1    Clubs
     // Bone Sword             SwordBone                   Tier1    Swords
     // Bone Shield            ShieldBone                  Tier1    RoundShields
-    // Bone Tower Shield      ShieldBoneTower             Tier1    TowerShields
+    // -Bone Tower Shield      ShieldBoneTower             Tier1    TowerShields
     //      Bronze
     // Bronze Sledge          SledgeBronze                Tier2    Sledges
     // Bronze Battleaxe       BattleaxeBronze             Tier2    TwoHandAxes
@@ -158,7 +158,7 @@
     // Silver Sledge          SledgeSilver                Tier4    Sledges
     // Silver Battleaxe       BattleaxeSilver             Tier4    TwoHandAxes
     // Silver Spear           SpearSilver                 Tier4    Spears
-    // Silver Knife           KnifeSilver                 Tier4    Knives
+    // -Silver Knife           KnifeSilver                 Tier4    Knives
     // Silver Tower Shield    ShieldSilverTower           Tier4    TowerShields
     // Silver Axe             AxeSilver                   Tier4    Axes
     // Silver Pickaxe         PickaxeSilver               Tier4    Pickaxes
@@ -369,7 +369,6 @@
         { "Item": "SledgeSilver",     "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
         { "Item": "BattleaxeSilver",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
         { "Item": "SpearSilver",      "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "KnifeSilver",      "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
         { "Item": "AxeSilver",        "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
         { "Item": "PickaxeSilver",    "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
       ]
@@ -430,8 +429,7 @@
     {
       "Name": "Tier1ValheimExpandedShields",
       "Loot": [
-        { "Item": "ShieldBone",      "Rarity": [ 94, 3, 2, 1 ] },
-        { "Item": "ShieldBoneTower", "Rarity": [ 94, 3, 2, 1 ] }
+        { "Item": "ShieldBone", "Rarity": [ 94, 3, 2, 1 ] }
       ]
     },
     {
