@@ -573,31 +573,41 @@
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Judes Equipment MOD
     // Item                            IDS:                                  Tier
-    // 
+    //           Bronze
+    // Helmet                          ArmorBarbarianBronzeHelmetJD          Tier2
+    // Chest                           ArmorBarbarianBronzeChestJD           Tier2
+    // Legs                            ArmorBarbarianBronzeLegsJD            Tier2
+    // Cape                            ArmorBarbarianCapeJD                  Tier2
+    //           Iron
     // Helmet                          ArmorPlateIronHelmetJD                Tier3
     // Chest                           ArmorPlateIronChestJD                 Tier3
     // Legs                            ArmorPlateIronLegsJD                  Tier3
-    // 
-    // Helmet                          ArmorBarbarianBronzeHelmetJD          Tier3
-    // Chest                           ArmorBarbarianBronzeChestJD           Tier3
-    // Legs                            ArmorBarbarianBronzeLegsJD            Tier3
-    // Cape                            ArmorBarbarianCapeJD                  Tier3
-    // 
-    // Helmet                          ArmorBlackmetalgarbHelmet             Tier3
-    // Chest                           ArmorBlackmetalgarbChest              Tier3
-    // Legs                            ArmorBlackmetalgarbLegs               Tier3
+    //           BlackMetal
+    // Helmet                          ArmorBlackmetalgarbHelmet             Tier5
+    // Chest                           ArmorBlackmetalgarbChest              Tier5
+    // Legs                            ArmorBlackmetalgarbLegs               Tier5
+    //           Iron 
+    // Helmet                          ArmorWandererHelmet                   Tier5
+    // Chest                           ArmorWandererChest                    Tier5
+    // Legs                            ArmorWandererLegs                     Tier5
+    // Cape                            ArmorWandererCape                     Tier5
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     {
+      "Name": "Tier2JudesEquipment",
+      "Loot": [
+        { "Item": "ArmorBarbarianBronzeHelmetJD", "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorBarbarianBronzeChestJD",  "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorBarbarianBronzeLegsJD",   "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] },
+        { "Item": "ArmorBarbarianCapeJD",         "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] }
+      ]
+    },
+    {
       "Name": "Tier3JudesEquipment",
       "Loot": [
-        { "Item": "ArmorPlateIronChestJD",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorPlateIronLegsJD",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorPlateIronHelmetJD",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianBronzeHelmetJD",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianBronzeChestJD",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianBronzeLegsJD",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianCapeJD",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+        { "Item": "ArmorPlateIronChestJD",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronLegsJD",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronHelmetJD",       "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
     {
@@ -605,7 +615,11 @@
       "Loot": [
         { "Item": "ArmorBlackmetalgarbHelmet",    "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "ArmorBlackmetalgarbChest",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "ArmorBlackmetalgarbLegs",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+        { "Item": "ArmorBlackmetalgarbLegs",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorWandererHelmet",          "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorWandererChest",           "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorWandererLegs",            "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorWandererCape",            "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
       ]
     },
 
@@ -1333,6 +1347,7 @@
         { "Item": "Tier2Tools"   },
         { "Item": "Tier2ValheimExpandedWeapons" },
         { "Item": "Tier2ValheimExpandedArmor"   },
+        { "Item": "Tier2JudesEquipment"         },
         { "Item": "Tier2ChaosWarriorArmor"      },
         { "Item": "Tier2HugosArmory"            },
         { "Item": "Tier2TerraheimWeapons"       },
