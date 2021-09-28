@@ -67,6 +67,9 @@ Distribution of mods in the table.
 **Nomadic Armor**
 * Tier 5 - Blackmetal Armor
 
+**Wanderer Armor**
+* Tier 5 - Padded Armor
+
 **Chaos Warrior Armor**
 * Tier 2 - Bronze Armor
 * Tier 3 - Iron Armor
