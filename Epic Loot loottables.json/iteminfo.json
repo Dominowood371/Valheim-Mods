@@ -237,7 +237,21 @@
         "ArmorBarbarianBronzeChestJDT4_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorBarbarianBronzeChestJDT5_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorPlateIronChestJDT4_Terraheim_AddNewSets_AddPlateArmor", 
-        "ArmorBlackmetalgarbChestT6_Terraheim_AddNewSets_AddNomadArmor"
+        "ArmorBlackmetalgarbChestT6_Terraheim_AddNewSets_AddNomadArmor", 
+        "ArmorRagsChes", 
+        "ArmorLeatherChes", 
+        "ArmorBoneChest", 
+        "ArmorTrollLeatherChes", 
+        "ArmorBronzeChes", 
+        "ArmorAncientChest", 
+        "ArmorIronChes", 
+        "ArmorAbyssalChest", 
+        "ArmorSilverChest", 
+        "ArmorWolfChes", 
+        "ArmorBlackMetalChest", 
+        "ArmorPaddedChes", 
+        "ArmorHeavymetalChest", 
+        "ArmorHeavyscaleChest"
       ]
     },
     {
@@ -268,7 +282,21 @@
         "ArmorBarbarianBronzeLegsJDT4_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorBarbarianBronzeLegsJDT5_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorPlateIronLegsJDT4_Terraheim_AddNewSets_AddPlateArmor", 
-        "ArmorBlackmetalgarbLegsT6_Terraheim_AddNewSets_AddNomadArmor"
+        "ArmorBlackmetalgarbLegsT6_Terraheim_AddNewSets_AddNomadArmor",
+        "ArmorRagsLeg", 
+        "ArmorLeatherLeg", 
+        "ArmorBoneLegs", 
+        "ArmorTrollLeatherLeg", 
+        "ArmorBronzeLeg", 
+        "ArmorAncientLegs", 
+        "ArmorIronLeg", 
+        "ArmorAbyssalLegs", 
+        "ArmorSilverLegs", 
+        "ArmorWolfLeg", 
+        "ArmorBlackMetalLegs", 
+        "ArmorPaddedLeg", 
+        "ArmorHeavymetalLegs", 
+        "ArmorHeavyscaleLegs"
       ]
     },
     {
@@ -298,7 +326,21 @@
         "ArmorBarbarianBronzeHelmetJDT4_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorPlateIronHelmetJDT4_Terraheim_AddNewSets_AddPlateArmor", 
-        "ArmorBlackmetalgarbHelmetT6_Terraheim_AddNewSets_AddNomadArmor"
+        "ArmorBlackmetalgarbHelmetT6_Terraheim_AddNewSets_AddNomadArmor",
+        "HelmetRag",  
+        "HelmetLeathe",  
+        "HelmetBone",  
+        "HelmetTrollLeathe",  
+        "HelmetBronz",  
+        "HelmetAncient",  
+        "HelmetIro",  
+        "HelmetAbyssal",  
+        "HelmetSilver",  
+        "HelmetDrak",  
+        "HelmetBlackMetal",  
+        "HelmetPadde",  
+        "HelmetHeavymetal",  
+        "HelmetHeavyscale"
       ]
     },
     {
@@ -319,7 +361,21 @@
         "CapeWolfT1TH", 
         "CapeLoxT1TH", 
         "CapeLinenT0TH", 
-        "CapeLinenT1TH"
+        "CapeLinenT1TH", 
+        "CapeRag", 
+        "CapeDeerHid", 
+        "CapeBone", 
+        "CapeTrollHid", 
+        "CapeBronze", 
+        "CapeAncient", 
+        "CapeIron", 
+        "CapeAbyssal", 
+        "CapeSilver", 
+        "CapeWol", 
+        "CapeBlackMetal", 
+        "CapePadded", 
+        "CapeHeavymetal", 
+        "CapeHeavyscale"
       ]
     },
     {
@@ -344,7 +400,21 @@
         "BeltMiner_Terraheim_AddCirculets_AddMinersCirculet", 
         "BeltFarmer_Terraheim_AddCirculets_AddFarmerBelt", 
         "BeltThief_Terraheim_AddCirculets_AddThiefBelt", 
-        "BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt"
+        "BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt", 
+        "BeltRag", 
+        "BeltLeather", 
+        "BeltBone", 
+        "BeltTrollHide", 
+        "BeltBronze", 
+        "BeltAncient", 
+        "BeltIron", 
+        "BeltAbyssal", 
+        "BeltSilver", 
+        "BeltWolf", 
+        "BeltBlackMetal", 
+        "BeltPadded", 
+        "BeltHeavymetal", 
+        "BeltHeavyscale"
       ]
     }
   ]
