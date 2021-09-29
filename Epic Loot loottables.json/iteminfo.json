@@ -44,7 +44,13 @@
         "GreatswordChitinTH", 
         "SwordFolcbrand", 
         "GreatswordBlackmetal", 
-        "GreatswordFireTH"
+        "GreatswordFireTH", 
+        "SwordBone", 
+        "SwordAncient", 
+        "SwordAbyssal", 
+        "SwordFrometal", 
+        "SwordFlametal", 
+        "SwordMistmetal"
       ]
     },
     {
@@ -67,7 +73,11 @@
         "ThrowingAxeIron", 
         "ThrowingAxeSilver", 
         "ThrowingAxeBlackmetal", 
-        "ThrowingAxeFire"   
+        "ThrowingAxeFire", 
+        "AxeSilver", 
+        "AxeFrometal", 
+        "AxeFlametal", 
+        "AxeMistmetal"
       ]
     },
     {
@@ -82,7 +92,16 @@
         "BattleaxeBronzeTerraheim", 
         "BattleaxeSilver", 
         "GreataxeBlackmetal", 
-        "BattleaxeFireTH"   
+        "BattleaxeFireTH", 
+        "BattleaxeBone", 
+        "BattleaxeBronze", 
+        "BattleaxeAncient", 
+        "BattleaxeAbyssal", 
+        "BattleaxeSilver", 
+        "BattleaxeHeavymetal", 
+        "BattleaxeFrometal", 
+        "BattleaxeFlametal", 
+        "BattleaxeMistmetal"
       ]
     },
     {
