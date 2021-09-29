@@ -1,5 +1,4 @@
-    // Plate Armor MOD ✔
-    // Barbarian's Armor MOD ✔
+    // Judes Equipment MOD ✔
     // Chaos Warrior Armor MOD ✔
     // Steel Age MOD ✔
     // Runic Swords MOD ✔
@@ -222,7 +221,9 @@
         "ArmorWolfChest", 
         "ArmorPaddedCuirass", 
         "ArmorPlateIronChestJD", 
-        "ArmorBarbarianBronzeChestJDT", 
+        "ArmorBarbarianBronzeChestJD", 
+        "ArmorBlackmetalgarbChest",
+        "ArmorWandererChest",
         "T1ChaosPlateArmor", 
         "T2ChaosPlateArmor", 
         "ChaosPlateArmorBody", 
@@ -234,7 +235,9 @@
         "ArmorBarbarianBronzeChestJDT3", 
         "ArmorBarbarianBronzeChestJDT3_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorBarbarianBronzeChestJDT4_Terraheim_BarbarianArmor_AddNewSets", 
-        "ArmorBarbarianBronzeChestJDT5_Terraheim_BarbarianArmor_AddNewSets"
+        "ArmorBarbarianBronzeChestJDT5_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorPlateIronChestJDT4_Terraheim_AddNewSets_AddPlateArmor", 
+        "ArmorBlackmetalgarbChestT6_Terraheim_AddNewSets_AddNomadArmor"
       ]
     },
     {
@@ -249,7 +252,9 @@
         "ArmorWolfLegs", 
         "ArmorPaddedGreaves", 
         "ArmorPlateIronLegsJD", 
-        "ArmorBarbarianBronzeLegsJDT", 
+        "ArmorBarbarianBronzeLegsJD", 
+        "ArmorBlackmetalgarbLegs", 
+        "ArmorWandererLegs", 
         "T1ChaosPlateLegs", 
         "T2ChaosPlateLegs", 
         "ChaosPlateLegs", 
@@ -261,7 +266,9 @@
         "ArmorBarbarianBronzeLegsJDT3", 
         "ArmorBarbarianBronzeLegsJDT3_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorBarbarianBronzeLegsJDT4_Terraheim_BarbarianArmor_AddNewSets", 
-        "ArmorBarbarianBronzeLegsJDT5_Terraheim_BarbarianArmor_AddNewSets"
+        "ArmorBarbarianBronzeLegsJDT5_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorPlateIronLegsJDT4_Terraheim_AddNewSets_AddPlateArmor", 
+        "ArmorBlackmetalgarbLegsT6_Terraheim_AddNewSets_AddNomadArmor"
       ]
     },
     {
@@ -275,7 +282,9 @@
         "HelmetDrake", 
         "HelmetPadded", 
         "ArmorPlateIronHelmetJD", 
-        "ArmorBarbarianBronzeHelmetJDT", 
+        "ArmorBarbarianBronzeHelmetJD", 
+        "ArmorBlackmetalgarbHelmet", 
+        "ArmorWandererHelmet", 
         "T1ChaosPlateHelm", 
         "T2ChaosPlateHelm", 
         "ChaosPlateHelm", 
@@ -287,7 +296,9 @@
         "ArmorBarbarianBronzeHelmetJDT3", 
         "ArmorBarbarianBronzeHelmetJDT3_Terraheim_BarbarianArmor_AddNewSets", 
         "ArmorBarbarianBronzeHelmetJDT4_Terraheim_BarbarianArmor_AddNewSets", 
-        "ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets"
+        "ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets", 
+        "ArmorPlateIronHelmetJDT4_Terraheim_AddNewSets_AddPlateArmor", 
+        "ArmorBlackmetalgarbHelmetT6_Terraheim_AddNewSets_AddNomadArmor"
       ]
     },
     {
@@ -299,7 +310,8 @@
         "CapeWolf", 
         "CapeLinen", 
         "CapeLox", 
-        "ArmorBarbarianCapeJD", 
+        "ArmorBarbarianCapeJD",  
+        "ArmorWandererCape", 
         "CapeDeerHideT0TH", 
         "CapeDeerHideT1TH", 
         "CapeTrollHideT0TH", 
