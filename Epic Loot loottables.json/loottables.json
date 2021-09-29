@@ -987,25 +987,13 @@
     // Chest                      ArmorPaddedCuirassT6_Terraheim_AddNewSets_AddPaddedArmor               Tier5
     // Legs                       ArmorPaddedGreavesT6_Terraheim_AddNewSets_AddPaddedArmor               Tier5
     //          Plate
-    // Helmet                     ArmorPlateIronHelmetJDT4_Terraheim_AddNewSets_AddPlateArmor            Tier
-    // Chest                      ArmorPlateIronChestJDT4_Terraheim_AddNewSets_AddPlateArmor             Tier
-    // Legs                       ArmorPlateIronLegsJDT4_Terraheim_AddNewSets_AddPlateArmor              Tier
+    // Helmet                     ArmorPlateIronHelmetJDT4_Terraheim_AddNewSets_AddPlateArmor            Tier3
+    // Chest                      ArmorPlateIronChestJDT4_Terraheim_AddNewSets_AddPlateArmor             Tier3
+    // Legs                       ArmorPlateIronLegsJDT4_Terraheim_AddNewSets_AddPlateArmor              Tier3
     //          Nomadic 
     // Helmet                     ArmorBlackmetalgarbHelmetT6_Terraheim_AddNewSets_AddNomadArmor         Tier5
     // Chest                      ArmorBlackmetalgarbChestT6_Terraheim_AddNewSets_AddNomadArmor          Tier5
     // Legs                       ArmorBlackmetalgarbLegsT6_Terraheim_AddNewSets_AddNomadArmor           Tier5
-    //          Chaos Warrior
-    // Chest                      T1ChaosPlateArmorT0_Terraheim_AddNewSets_AddChaosT0Armor               Tier2
-    // Helmet                     T1ChaosPlateHelmT0_Terraheim_AddNewSets_AddChaosT0Armor                Tier2
-    // Legs                       T1ChaosPlateLegsT0_Terraheim_AddNewSets_AddChaosT0Armor                Tier2
-    // 
-    // Chest                      T2ChaosPlateArmorT0_Terraheim_AddNewSets_AddChaosT1Armor               Tier3
-    // Helmet                     T2ChaosPlateHelmT0_Terraheim_AddNewSets_AddChaosT1Armor                Tier3
-    // Legs                       T2ChaosPlateLegsT0_Terraheim_AddNewSets_AddChaosT1Armor                Tier3
-    // 
-    // Helmet                     ChaosPlateHelmT0_Terraheim_AddNewSets_AddChaosT2Armor                  Tier6
-    // Chest                      ChaosPlateArmorBodyT0_Terraheim_AddNewSets_AddChaosT2Armor             Tier6
-    // Legs                       ChaosPlateLegsT0_Terraheim_AddNewSets_AddChaosT2Armor                  Tier6
     //                                                                    Barbarian
     //
     //          BASE:
@@ -1171,7 +1159,10 @@
         { "Item": "ArmorBarbarianBronzeChestJDT3_Terraheim_BarbarianArmor_AddNewSets",  "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
         { "Item": "ArmorBarbarianBronzeLegsJDT3_Terraheim_BarbarianArmor_AddNewSets",   "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
         { "Item": "ArmorBarbarianCapeJDT0TH",                                           "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-        { "Item": "ArmorBarbarianCapeJDT1TH",                                           "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+        { "Item": "ArmorBarbarianCapeJDT1TH",                                           "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronHelmetJDT4_Terraheim_AddNewSets_AddPlateArmor",        "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronChestJDT4_Terraheim_AddNewSets_AddPlateArmor",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorPlateIronLegsJDT4_Terraheim_AddNewSets_AddPlateArmor",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
     {
@@ -1197,7 +1188,10 @@
         { "Item": "ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets", "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "CapeLoxT1TH",                                                        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
         { "Item": "CapeLinenT0TH",                                                      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-        { "Item": "CapeLinenT1TH",                                                      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+        { "Item": "CapeLinenT1TH",                                                      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorBlackmetalgarbHelmetT6_Terraheim_AddNewSets_AddNomadArmor",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorBlackmetalgarbChestT6_Terraheim_AddNewSets_AddNomadArmor",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+        { "Item": "ArmorBlackmetalgarbLegsT6_Terraheim_AddNewSets_AddNomadArmor",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
       ]
     },
     {
