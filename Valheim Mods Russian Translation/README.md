@@ -147,7 +147,8 @@
  - [X] [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) ❌ без перевода эффектов
     - [X] Version 3.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [ ] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
+ - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
+    - [X] Version 1.1.1 - 2.0.5 (Valheim v0.202.14)
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
     - [X] Version 2.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
