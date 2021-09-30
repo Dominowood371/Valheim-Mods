@@ -14,7 +14,7 @@ List of mods to be added to the table:
 | [Hugo's Armory](https://www.nexusmods.com/valheim/mods/1189) | 5.0.0 | Weapons |
 | [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.1.0 | Weapons |
 | [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
-| [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/)| 1.0.2 | Armor |
+| [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/)| 1.2.0 | Armor |
 | [Plate Armor](https://www.nexusmods.com/valheim/mods/567)| 2.0.1 | Armor |
 | [Barbarian's Armor](https://www.nexusmods.com/valheim/mods/640) | 2.0.1 | Armor |
 | [Chaos Warrior Armor](https://www.nexusmods.com/valheim/mods/1215) | 6.0.2 | Armor |
@@ -69,6 +69,9 @@ Distribution of mods in the table.
 
 **Wanderer Armor**
 * Tier 5 - Padded Armor
+
+**Mistlands Armor**
+* Tier 6 - Flametal Armor
 
 **Chaos Warrior Armor**
 * Tier 2 - Bronze Armor
