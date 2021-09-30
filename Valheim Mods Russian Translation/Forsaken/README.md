@@ -4,7 +4,10 @@ Mod Forsaken Russian Translation Version 0.7.0.
 
 Перевод мода [Forsaken](https://www.nexusmods.com/valheim/mods/799) на русский язык для игры Valheim. 
 
+
 ### Установка
+
+Скачайте файл `Forsaken_russian.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\Forsaken\Assets\Translations\Russian`.
 
 Скачайте архив `Forsaken-0-7-0-Rus.zip` и распакуйте архив, в архиве будет папка `Forsaken` переместите эту папку со всем содержимым в папку с игрой `Valheim\BepInEx\plugins`.
 
