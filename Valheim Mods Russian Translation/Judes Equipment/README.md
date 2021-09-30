@@ -1,4 +1,4 @@
-Mod JotunnBackpacks Russian Translation Version 1.0.0 - 1.1.0.
+Mod JotunnBackpacks Russian Translation Version 1.0.0 - 1.2.0.
 
 ### Описание
 
