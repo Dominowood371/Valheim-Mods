@@ -123,7 +123,13 @@
         "v801_KnifeFrost",
         "KnifeIron",
         "KnifeSilverTH",
-        "KnifeFireTH"
+        "KnifeFireTH",
+        "KnifeBone",
+        "KnifeBronze",
+        "KnifeIron",
+        "KnifeFrometal",
+        "KnifeFlametal",
+        "KnifeMistmetal"
       ]
     },
     {
@@ -141,7 +147,22 @@
         "MaceGraspUndying", 
         "MaceSilverGreat", 
         "GreataxeFlintTH", 
-        "MaceFireTH"
+        "MaceFireTH", 
+        "ClubBone", 
+        "MaceBone", 
+        "ClubAncient", 
+        "MaceAncient", 
+        "ClubAbyssal", 
+        "MaceAbyssal", 
+        "ClubSilver", 
+        "ClubHeavymetal", 
+        "MaceHeavymetal", 
+        "ClubFrometal", 
+        "MaceFrometal", 
+        "ClubFlametal", 
+        "MaceFlametal", 
+        "ClubMistmetal", 
+        "MaceMistmetal"
       ]
     },
     {
@@ -153,7 +174,19 @@
         "v801_SledgePoison", 
         "v801_SledgeFire", 
         "BattleaxeBlackmetal", 
-        "SledgeFireTH"
+        "SledgeFireTH", 
+        "SledgeBone", 
+        "SledgeBronze", 
+        "SledgeAncient", 
+        "SledgeAbyssal", 
+        "SledgeSilver", 
+        "SledgeHeavymetal", 
+        "SledgeaxeHeavymetal", 
+        "SledgeFrometal", 
+        "SledgeaxeFrometal", 
+        "SledgeFlametal", 
+        "SledgeMistmetal", 
+        "SledgeaxeMistmetal"
       ]
     },
     {
@@ -164,7 +197,14 @@
         "AtgeirIron", 
         "AtgeirBlackmetal", 
         "AtgeirSilver", 
-        "AtgeirFireTH"
+        "AtgeirFireTH", 
+        "AtgeirBone", 
+        "AtgeirAncient", 
+        "AtgeirAbyssal", 
+        "AtgeirSilver", 
+        "AtgeirFrometal", 
+        "AtgeirFlametal", 
+        "AtgeirMistmetal"
       ]
     },
     {
@@ -178,7 +218,14 @@
         "SpearWolfFang", 
         "v801_SpearSpirit", 
         "SpearBlackmetal", 
-        "SpearFireTH"
+        "SpearFireTH", 
+        "SpearBone", 
+        "SpearIron", 
+        "SpearSilver", 
+        "SpearHeavymetal", 
+        "SpearFrometal", 
+        "SpearFlametal", 
+        "SpearMistmetal"
       ]
     },
     {
@@ -188,7 +235,12 @@
         "PickaxeAntler", 
         "PickaxeBronze", 
         "PickaxeIron", 
-        "PickaxeBlackmetal"
+        "PickaxeBlackmetal", 
+        "PickaxeSilver",
+        "PickaxeHeavymetal", 
+        "PickaxeFrometal", 
+        "PickaxeFlametal", 
+        "PickaxeMistmetal"
       ]
     },
     {
