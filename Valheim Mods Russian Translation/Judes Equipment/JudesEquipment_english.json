@@ -31,6 +31,13 @@
   "ArmorWandererCape": "Straw cape",
   "ArmorWandererCape_description": "Cheap to make cape made from straw collected in the plains, protects against the elements but is quick to catch fire",
   
+  "ArmorMistlandsHelmet": "Mistlands helmet",
+  "ArmorMistlandsHelmet_description": "Helmet made from a rare material only found within the mistlands",
+  "ArmorMistlandsChest": "Mistlands armor",
+  "ArmorMistlandsChest_description": "Thick, multi layered gambeson provides protection from the searing heat of flametal, which in turns protects from blows",
+  "ArmorMistlandsLegs": "Mistlands greaves",
+  "ArmorMistlandsLegs_description": "One need not fear the cold while wearing these",
+  
   "BackpackSimple": "Simple backpack",
   "BackpackSimple_description": "Leather container attached to a wooden frame"
 }
