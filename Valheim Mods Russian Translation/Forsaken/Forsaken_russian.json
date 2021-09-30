@@ -31,8 +31,8 @@
   "item_forsaken_staffgoblin_description": "В этом 10-м мире такая странная магия...",
   "item_forsaken_swordghost": "Заполнитель",
   "item_forsaken_swordghost_description": "Заполнитель.",
-  "effect_sE_lifeleech_name": "Кровопийца жизни",
-  "effect_sE_lifeleech_tooltip1": "Восстанавливает",
-  "effect_sE_lifeleech_tooltip2": "здоровья от нанесеного урона за каждый удар.",
+  "effect_se_lifeleech_name": "Кровопийца жизни",
+  "effect_se_lifeleech_tooltip1": "Восстанавливает",
+  "effect_se_lifeleech_tooltip2": "здоровья от нанесеного урона за каждый удар.",
   "jotunn_modsettings": "Настройки модов"
 }
