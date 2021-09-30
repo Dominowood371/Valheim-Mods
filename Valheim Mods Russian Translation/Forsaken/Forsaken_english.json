@@ -25,13 +25,13 @@
   "item_forsaken_unarmedfrostoh_description": "Dragon Queen's Underbite",
   "item_forsaken_unarmedfrost": "Wyrmfist",
   "item_forsaken_unarmedfrost_description": "Dragon Queen's Overbite",
-  "LegsFeral_Name": "Feral Treads Coded",
-  "LegsFeral_Description": "Bzzzzzzzt.",
-  "StaffGoblin_Name": "Goblin Staff",
-  "StaffGoblin_Description": "Strange magics in this 10th world.",
-  "SwordGhost_Name": "Placeholder",
-  "SwordGhost_Description": "Plac",
-  "Effect_SE_LifeLeech_Name": "Life Leech",
-  "Effect_SE_LifeLeech_Tooltip1": "Heal",
-  "Effect_SE_LifeLeech_Tooltip2": "of damage dealt as HP each hit."
+  "item_forsaken_legsferal": "Feral Treads Coded",
+  "item_forsaken_legsferal_description": "Bzzzzzzzt.",
+  "item_forsaken_staffgoblin": "Goblin Staff",
+  "item_forsaken_staffgoblin_description": "Strange magics in this 10th world.",
+  "item_forsaken_swordghost": "Placeholder",
+  "item_forsaken_swordghost_description": "Plac",
+  "effect_sE_lifeleech_name": "Life Leech",
+  "effect_sE_lifeleech_tooltip1": "Heal",
+  "effect_sE_lifeleech_tooltip2": "of damage dealt as HP each hit."
 }
