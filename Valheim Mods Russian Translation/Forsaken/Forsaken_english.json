@@ -31,7 +31,7 @@
   "item_forsaken_staffgoblin_description": "Strange magics in this 10th world.",
   "item_forsaken_swordghost": "Placeholder",
   "item_forsaken_swordghost_description": "Plac",
-  "effect_sE_lifeleech_name": "Life Leech",
-  "effect_sE_lifeleech_tooltip1": "Heal",
-  "effect_sE_lifeleech_tooltip2": "of damage dealt as HP each hit."
+  "effect_se_lifeleech_name": "Life Leech",
+  "effect_se_lifeleech_tooltip1": "Heal",
+  "effect_se_lifeleech_tooltip2": "of damage dealt as HP each hit."
 }
