@@ -87,8 +87,8 @@
 
 **Weapons**
  - [X] [Forsaken](https://www.nexusmods.com/valheim/mods/799) ❌
-    - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
+    - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2) ❌
+    - [X] Version JVL 1.0.0  (Valheim v0.202.14) ✔
  - [X] [Ninja Pack](https://www.nexusmods.com/valheim/mods/1182) ❌
     - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
@@ -125,7 +125,7 @@
     - [X] Version 6.0.1 (Valheim v0.156.2)
     - [X] Version 6.0.4 (Valheim v0.202.14)
  - [X] [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/) ✔
-    - [X] Version 1.0.0	- 1.1.0 (Valheim v0.202.14)
+    - [X] Version 1.0.0	- 1.2.0 (Valheim v0.202.14)
  - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
     - [X] Version 2.0.1 (Valheim v0.156.2)
  - [X] [Plate Armor](https://www.nexusmods.com/valheim/mods/567) ✔
@@ -148,7 +148,7 @@
     - [X] Version 3.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
-    - [X] Version 1.1.1 - 2.0.5 (Valheim v0.202.14)
+    - [X] Version 1.1.1 - 2.0.6 (Valheim v0.202.14)
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
     - [X] Version 2.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
