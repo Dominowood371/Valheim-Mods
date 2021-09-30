@@ -591,6 +591,10 @@
     // Chest                           ArmorWandererChest                    Tier5
     // Legs                            ArmorWandererLegs                     Tier5
     // Cape                            ArmorWandererCape                     Tier5
+    //           Flametal 
+    // Helmet                          ArmorMistlandsHelmet                  Tier6
+    // Chest                           ArmorMistlandsChest                   Tier6
+    // Legs                            ArmorMistlandsLegs                    Tier6
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     {
@@ -622,7 +626,14 @@
         { "Item": "ArmorWandererCape",            "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
       ]
     },
-
+    {
+      "Name": "Tier6JudesEquipment",
+      "Loot": [
+        { "Item": "ArmorMistlandsHelmet",           "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ArmorMistlandsChest",        "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] },
+        { "Item": "ArmorMistlandsLegs",         "Weight": 1, "Rarity": [ 0, 10, 60, 30 ] }
+      ]
+    },
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Chaos Warrior Armor MOD
     // Item                            IDS:                     Tier
@@ -1523,6 +1534,7 @@
     {
       "Name": "Tier6Everything",
       "Loot": [
+        { "Item": "Tier6JudesEquipment"         },
         { "Item": "Tier6ValheimExpandedWeapons" },
         { "Item": "Tier6ValheimExpandedShields" },
         { "Item": "Tier6ValheimExpandedArmor"   },
