@@ -5,6 +5,7 @@
     // Hugos Armory MOD ✔
     // Forsaken MOD ✔
     // Terraheim - Weapons Tools and Armor MOD ✔
+    // Valheim Expanded MOD ✔
     // If you add two identical items, it throws an error
 {
   "ItemInfo": [
@@ -254,7 +255,16 @@
         "NordHeroBow", 
         "v801_BowFrost", 
         "BowBlackmetalTH", 
-        "BowFireTH"
+        "BowFireTH",  
+        "crossbow", 
+        "BowBone", 
+        "BowAncient", 
+        "BowAbyssal", 
+        "BowSilver", 
+        "BowHeavymetal", 
+        "BowFrometal", 
+        "BowFlametal", 
+        "BowMistmetal"
       ]
     },
     {
@@ -270,7 +280,13 @@
         "v801_UnarmedFrostOH", 
         "v801_ShieldFire", 
         "ShieldSilverDagger", 
-        "ShieldFireTH"
+        "ShieldFireTH", 
+        "ShieldBone", 
+        "ShieldAncient", 
+        "ShieldAbyssal", 
+        "ShieldFrometal", 
+        "ShieldFlametal", 
+        "ShieldMistmetal"
       ]
     },
     {
@@ -282,7 +298,13 @@
         "ShieldIronTower", 
         "ShieldSerpentscale", 
         "ShieldBlackmetalTower", 
-        "ShieldFireTowerTH"
+        "ShieldFireTowerTH", 
+        "ShieldAncientTower", 
+        "ShieldAbyssalTower", 
+        "ShieldSilverTower", 
+        "ShieldFrometalTower", 
+        "ShieldFlametalTower", 
+        "ShieldMistmetalTower"
       ]
     },
     {
@@ -460,7 +482,10 @@
     {
       "Type": "Torches",
       "Fallback": "Club",
-      "Items": [ "Torch" ]
+      "Items": [ 
+        "torch", 
+        "Torch" 
+      ]
     },
     {
       "Type": "Tools",
