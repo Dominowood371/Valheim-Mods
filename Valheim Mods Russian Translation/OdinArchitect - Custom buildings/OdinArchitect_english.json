@@ -166,5 +166,20 @@
 	"piece_woodgate_crystal": "Wooden doors with window",
 	"piece_woodgate_crystal_desc": "Wooden doors with crystal window",
 	"rae_hidden_door": "Hidden hatch",
-	"rae_hidden_door_desc": "Wooden hidden hatch"
+	"rae_hidden_door_desc": "Wooden hidden hatch",
+	"rae_bird_house": "Bird House",
+	"rae_bird_house_desc": "This bird house will give you some feathers",
+	"piece_rae_bird_name": "Bird House",
+	"piece_rae_bird_add": "Give worms",
+	"piece_rae_bird_empty": "Birds are hungry",
+	"rae_fish_trap": "Fish Trap",
+	"rae_fish_trap_desc": "Simple fish trap",
+	"rae_fish_trap_name": "Fish Trap",
+	"rae_fish_trap_add": "Give worms",
+	"rae_fish_trap_empty": "No worms inside",
+
+	"rae_elevator": "Simple elevator",
+	"rae_elevator_desc": "It moves every one floor",
+	"rae_elevator_big": "Transport elevator",
+	"rae_elevator_big_desc": "It moves every one floor"
 }
