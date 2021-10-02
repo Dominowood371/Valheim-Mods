@@ -16,7 +16,7 @@
     - [X] Version 2.0.0 (Valheim v0.202.14)
  - [X] [PlanBuild - Blueprint Rune](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/) ✔
     - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
-    - [X] Version 0.6.0 - 0.6.2 (Valheim v0.202.14)
+    - [X] Version 0.6.0 - 0.6.8 (Valheim v0.202.14)
  - [X] [Seed Totem](https://valheim.thunderstore.io/package/MathiasDecrock/SeedTotem/) ✔
     - [X] Version 1.1.5 (Valheim v0.156.2)
     - [X] Version 1.2.0 (Valheim v0.202.14)
@@ -56,7 +56,7 @@
     - [X] Version 0.0.2 (Valheim v0.202.14)
  - [X] [OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect/) ✔
     - [X] Version 0.0.4 (Valheim v0.156.2)
-    - [X] Version 0.1.0 (Valheim v0.202.14)
+    - [X] Version 0.1.0 - 0.1.1 (Valheim v0.202.14)
  - [X] [PlantIt](https://valheim.thunderstore.io/package/OdinPlus/PlantIt/) ✔
     - [X] Version 0.1.2 (Valheim v0.156.2)
     - [X] Version 0.1.3 (Valheim v0.202.14)
@@ -109,7 +109,7 @@
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [Terraheim](https://valheim.thunderstore.io/package/DasSauerkraut/Terraheim/) ✔ без перевода эффектов
     - [X] Version 2.1.5 (Valheim v0.156.2)
-    - [X] Version 2.1.8 (Valheim v0.202.14)
+    - [X] Version 2.1.8 - 2.2.0 (Valheim v0.202.14)
  - [X] [WindLass](https://valheim.thunderstore.io/package/OdinPlus/TheWindlass/) ✔
     - [X] Version 1.0.5 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
@@ -125,7 +125,7 @@
     - [X] Version 6.0.1 (Valheim v0.156.2)
     - [X] Version 6.0.4 (Valheim v0.202.14)
  - [X] [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/) ✔
-    - [X] Version 1.0.0	- 1.2.0 (Valheim v0.202.14)
+    - [X] Version 1.0.0	- 1.2.1 (Valheim v0.202.14)
  - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
     - [X] Version 2.0.1 (Valheim v0.156.2)
  - [X] [Plate Armor](https://www.nexusmods.com/valheim/mods/567) ✔
@@ -147,8 +147,8 @@
  - [X] [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) ❌ без перевода эффектов
     - [X] Version 3.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ❌
-    - [X] Version 1.1.1 - 2.0.6 (Valheim v0.202.14)
+ - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ✔
+    - [X] Version 1.1.1 - 2.1.2 (Valheim v0.202.14)
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
     - [X] Version 2.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
