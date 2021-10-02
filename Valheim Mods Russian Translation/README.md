@@ -29,7 +29,7 @@
  - [X] [Valweed](https://valheim.thunderstore.io/package/dannypacquiao/Valweed/) ✔
     - [X] Version 0.2.7 (Valheim v0.156.2)
     - [X] Version 0.2.8 - 0.3.2 (Valheim v0.202.14)
- - [X] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌ возможно но там очень много текста
+ - [X] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌
     - [X] Version 0.4.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL) ✔
@@ -144,8 +144,8 @@
  - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
     - [X] Version 0.3.16 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) ❌ без перевода эффектов
-    - [X] Version 3.0.2 (Valheim v0.156.2)
+ - [X] [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) ❌
+    - [X] Version 3.0.2 (Valheim v0.156.2) без перевода эффектов
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ✔
     - [X] Version 1.1.1 - 2.1.2 (Valheim v0.202.14)
