@@ -167,6 +167,21 @@
 	"piece_woodgate_crystal_desc": "Деревянные двери с кристальным окном",
 	"rae_hidden_door": "Скрытый люк",
 	"rae_hidden_door_desc": "Деревянный скрытый люк",
+	"rae_bird_house": "Cкворечник",
+	"rae_bird_house_desc": "Этот скворечник подарит вам перья",
+	"piece_rae_bird_name": "Cкворечник",
+	"piece_rae_bird_add": "Дать червей",
+	"piece_rae_bird_empty": "Птицы голодны",
+	"rae_fish_trap": "Садок рыболовный",
+	"rae_fish_trap_desc": "Простая ловушка для рыбы",
+	"rae_fish_trap_name": "Садок рыболовный",
+	"rae_fish_trap_add": "Дать червей",
+	"rae_fish_trap_empty": "Внутри нет червей",
+
+	"rae_elevator": "Простой лифт",
+	"rae_elevator_desc": "Он движется на каждый этаж",
+	"rae_elevator_big": "Транспортный лифт",
+	"rae_elevator_big_desc": "Он движется на каждый этаж",
 	
 	"jotunn_modsettings": "Настройки модов"
 }
