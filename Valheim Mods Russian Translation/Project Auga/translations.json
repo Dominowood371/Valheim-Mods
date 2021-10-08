@@ -95,5 +95,8 @@
   "tameable" : "Прирученный", 
   "untameable" : "Неукротимый",
   "settings_altplace_short": "Альтернативное размещение",
+  "trash": "Мусор",
+  "percent_effective": "Эффективность:",
+  "status_desc": "Базовый <color=$1>$2</color> + Еда <color=$3>$4</color>",
   "" : ""
 }
