@@ -1,3 +1,11 @@
+камень
+vfx_RockDestroyed
+sfx_rock_destroyed
+vfx_RockHit
+sfx_rock_hit
+
+  
+  
   "m_description": "$piece_reforger $piece_upgrade",
   			var electriccreameffect = electriccream_prefab.GetComponent<StatusEffect>();
 	                electriccreameffect.m_name = "11111111111";
