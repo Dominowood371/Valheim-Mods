@@ -16,7 +16,7 @@
     - [X] Version 2.0.0 (Valheim v0.202.14)
  - [X] [PlanBuild - Blueprint Rune](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/) ✔
     - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
-    - [X] Version 0.6.0 - 0.6.8 (Valheim v0.202.14)
+    - [X] Version 0.6.0 - 0.6.12 (Valheim v0.202.14)
  - [X] [Seed Totem](https://valheim.thunderstore.io/package/MathiasDecrock/SeedTotem/) ✔
     - [X] Version 1.1.5 (Valheim v0.156.2)
     - [X] Version 1.2.0 (Valheim v0.202.14)
@@ -148,7 +148,7 @@
     - [X] Version 3.0.2 (Valheim v0.156.2) без перевода эффектов
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ✔
-    - [X] Version 1.1.1 - 2.1.2 (Valheim v0.202.14)
+    - [X] Version 1.1.1 - 3.0.1 (Valheim v0.202.14)
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
     - [X] Version 2.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
