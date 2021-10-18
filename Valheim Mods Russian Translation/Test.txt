@@ -1,9 +1,32 @@
-камень
+wood
+vfx_Place_wood_wall
+sfx_build_hammer_wood
+
+sfx_wood_destroyed
+vfx_SawDust
+
+vfx_SawDust
+
+stone
+vfx_Place_stone_wall_2x1
+sfx_build_hammer_stone
+
 vfx_RockDestroyed
 sfx_rock_destroyed
+
 vfx_RockHit
 sfx_rock_hit
 
+iron
+vfx_Place_wood_wall
+sfx_build_hammer_metal
+
+sfx_metal_blocked
+vfx_HitSparks
+
+vfx_HitSparks
+  
+  
   
   
   "m_description": "$piece_reforger $piece_upgrade",
