@@ -7,7 +7,7 @@
   "ArmorBarbarianBronzeLegsJD_description": "Thick hide wrapped around one's waist, fastened with a fashionable bronze belt",
   "ArmorBarbarianCapeJD": "Barbarian's fur cape",
   "ArmorBarbarianCapeJD_description": "Thick but short cape made of fur. Covers ones back when his drunk raidmates can't.",
-
+  
   "ArmorBlackmetalgarbHelmet": "Nomadic helmet",
   "ArmorBlackmetalgarbHelmet_description": "Helmet made of blackmetal with colorful padding fit for a nomad",
   "ArmorBlackmetalgarbChest": "Nomadic garb",
@@ -21,7 +21,14 @@
   "ArmorPlateIronChestJD_description": "Thick plates of metal riveted to a leather harness",
   "ArmorPlateIronLegsJD": "Plate greaves",
   "ArmorPlateIronLegsJD_description": "Reliable greaves and kneeguards",
-                         
+
+  "ArmorDragonslayerHelmet": "Dragonslayer's helm",
+  "ArmorDragonslayerHelmet_description": "Dragon's tremble in fear when they see the blackened helmet adorned with the horns of their kin",
+  "ArmorDragonslayerChest": "Dragonslayer's armor",
+  "ArmorDragonslayerChest_description": "Obsidian layer over silver plates provides reliable protection",
+  "ArmorDragonslayerLegs": "Spiked greaves",
+  "ArmorDragonslayerLegs_description": "Unlucky is he who finds himself in the way of these",
+  
   "ArmorWandererHelmet": "Wanderer's straw hat",
   "ArmorWandererHelmet_description": "A reinforced straw hat",
   "ArmorWandererChest": "Wanderer's coat of plates",
