@@ -1,4 +1,4 @@
-Mod Chaos Warrior Armor Russian Translation Version 6.0.1 - 6.0.4.
+Mod Chaos Warrior Armor Russian Translation Version 6.0.1 - 7.0.0.
 
 ### Описание
 
