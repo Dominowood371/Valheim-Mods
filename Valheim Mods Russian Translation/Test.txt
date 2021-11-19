@@ -29,6 +29,35 @@ vfx_HitSparks
   
   
   
+  
+  	[Header("Placement rules")] Правила размещения
+	public bool m_groundPiece;               размещение на земле
+	public bool m_allowAltGroundPlacement;   разрешить альтернативное размещение на земле
+	public bool m_groundOnly;                только земля
+	public bool m_cultivatedGroundOnly;      только возделываемая земля
+	public bool m_waterPiece;                размещения на воде
+	public bool m_clipGround;                захват земли
+	public bool m_clipEverything;            захват всего
+	public bool m_noInWater;                 не в воде
+	public bool m_notOnWood;                 не на дереве
+	public bool m_notOnTiltingSurface;       не на наклонной поверхности
+	public bool m_inCeilingOnly;             только на потолке
+	public bool m_notOnFloor;                не на полу для флагов
+	public bool m_noClipping;                не захватвается
+	public bool m_onlyInTeleportArea;        только в зоне телепорта
+	public bool m_allowedInDungeons;         разрешено в подземельях
+	public float m_spaceRequirement;         потребность в пространстве
+	public bool m_repairPiece;               ремонт постройки
+	public bool m_canBeRemoved = true;       можно удалить
+	public bool m_allowRotatedOverlap;       разрешить поворотное перекрытие, для арок
+  
+  
+  
+  
+  
+  
+  
+  
   "m_description": "$piece_reforger $piece_upgrade",
   			var electriccreameffect = electriccream_prefab.GetComponent<StatusEffect>();
 	                electriccreameffect.m_name = "11111111111";
