@@ -842,72 +842,76 @@
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Hugos Armory MOD
-    // Item                            IDS:                     Tier   Handed Weapon    Type Weapon  
+    // Item                            IDS:                         Tier   Handed Weapon    Type Weapon  
     // 
-    // Iron Great Sword                SwordIronGreat           Tier3  TwoHandedWeapon  Swords
-    // Heavy Iron Great Sword          SwordFlametalGreatIron   Tier3  TwoHandedWeapon  Swords
-    // Great Core Mace                 MaceCoreGreat            Tier3  TwoHandedWeapon  Clubs
-    // Great Core Mace (Green)         MaceCoreGreatGreen       Tier3  TwoHandedWeapon  Clubs
+    // Iron Great Sword                IronGreatSwordHTD            Tier3  TwoHandedWeapon  Swords
+    // Heavy Iron Great Sword          IronHeavyGreatSwordHTD       Tier3  TwoHandedWeapon  Swords
+    // Great Core Mace                 CoreGreatMaceHTD             Tier3  TwoHandedWeapon  Clubs
+    // Great Core Mace (Green)         CoreGreatMaceGreenHTD        Tier3  TwoHandedWeapon  Clubs
+    // Great Core Mace (Blue)          CoreGreatMaceBlueHTD         Tier3  TwoHandedWeapon  Clubs
     // 
-    // Grasp of Undying                MaceGraspUndying         Tier4  TwoHandedWeapon  Clubs
-    // Silver Great Sword              SwordSilverGreat         Tier4  TwoHandedWeapon  Swords
-    // Great Silver Mace               MaceSilverGreat          Tier4  TwoHandedWeapon  Clubs
-    // Silver Battleaxe                AxeSilverBattle          Tier4  TwoHandedWeapon  TwoHandAxes
+    // Grasp of Undying                BoneGreatMaceHTD             Tier4  TwoHandedWeapon  Clubs
+    // Silver Great Sword              SilverGreatSwordHTD          Tier4  TwoHandedWeapon  Swords
+    // Great Silver Mace               SilverGreatMaceHTD           Tier4  TwoHandedWeapon  Clubs
+    // Silver Battleaxe                SilverBattleaxeHTD           Tier4  TwoHandedWeapon  TwoHandAxes
     // 
-    // Black Metal Great Sword         SwordBlackMetalGreat     Tier5  TwoHandedWeapon  Swords
-    // Black Metal Great Sword Foreign SwordIronGreatBlack      Tier5  TwoHandedWeapon  Swords
-    // Moder's Sorrow                  SwordObsidianGreat       Tier5  TwoHandedWeapon  Swords
-    // Flametal Great Sword            SwordFlametalGreat       Tier5  TwoHandedWeapon  Swords
-    // Black Metal Battleaxe           AxeBlackMetalBattle      Tier5  TwoHandedWeapon  TwoHandAxes
-    // Dragon Slayer                   SwordDragonSlayer        Tier5  TwoHandedWeapon  Swords
+    // Black Metal Great Sword         BlackMetalGreatSwordHTD      Tier5  TwoHandedWeapon  Swords
+    // Black Metal Great Sword Foreign BlackMetalGreatSwordAltHTD   Tier5  TwoHandedWeapon  Swords
+    // Moder's Sorrow                  ObsidianGreatSwordHTD        Tier5  TwoHandedWeapon  Swords
+    // Moder's Sorrow Red              ObsidianGreatSwordRedHTD     Tier5  TwoHandedWeapon  Swords
+    // Flametal Great Sword            FlametalGreatSwordHTD        Tier5  TwoHandedWeapon  Swords
+    // Black Metal Battleaxe           BlackMetalBattleaxeHTD       Tier5  TwoHandedWeapon  TwoHandAxes
+    // Dragon Slayer                   DragonSlayerSwordHTD         Tier5  TwoHandedWeapon  Swords
     // 
-    // Body of the Devoted             SwordBoneGreat           Tier4  TwoHandedWeapon  Swords
-    // Buck and Doe                    FistBuckAndDoe           Tier1  TwoHandedWeapon  Knuckles
-    // Bronze Knuckles                 FistBronze               Tier2  TwoHandedWeapon  Knuckles
-    // Iron Knuckles                   FistIron                 Tier3  TwoHandedWeapon  Knuckles
+    // Body of the Devoted             BoneGreatSwordHTD            Tier4  TwoHandedWeapon  Swords
+    // Buck and Doe                    DeerFistsHTD                 Tier1  TwoHandedWeapon  Knuckles
+    // Bronze Knuckles                 BronzeFistsHTD               Tier2  TwoHandedWeapon  Knuckles
+    // Iron Knuckles                   IronFistsHTD                 Tier3  TwoHandedWeapon  Knuckles
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "Name": "Tier1HugosArmory",
       "Loot": [
-	{ "Item": "FistBuckAndDoe",         "Weight": 1, "Rarity": [ 94, 3, 2, 1 ] }
+	{ "Item": "DeerFistsHTD",         "Weight": 1, "Rarity": [ 94, 3, 2, 1 ] }
       ]
     },
     {
       "Name": "Tier2HugosArmory",
       "Loot": [
-	{ "Item": "FistBronze",             "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] }
+	{ "Item": "BronzeFistsHTD",             "Weight": 1, "Rarity": [ 80, 14, 4, 2 ] }
       ]
     },
 	  
     {
       "Name": "Tier3HugosArmory",
       "Loot": [
-	{ "Item": "SwordIronGreat",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-	{ "Item": "SwordFlametalGreatIron", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-	{ "Item": "MaceCoreGreat",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-	{ "Item": "MaceCoreGreatGreen",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
-	{ "Item": "FistIron",               "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+	{ "Item": "IronGreatSwordHTD",         "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+	{ "Item": "IronHeavyGreatSwordHTD",    "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+	{ "Item": "CoreGreatMaceHTD",          "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+	{ "Item": "CoreGreatMaceGreenHTD",     "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+	{ "Item": "CoreGreatMaceBlueHTD",      "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+	{ "Item": "IronFistsHTD",              "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
       ]
     },
     {
       "Name": "Tier4HugosArmory",
       "Loot": [
-	{ "Item": "MaceGraspUndying", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-	{ "Item": "SwordSilverGreat", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-	{ "Item": "MaceSilverGreat",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "AxeSilverBattle",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
-        { "Item": "SwordBoneGreat",   "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
+	{ "Item": "BoneGreatMaceHTD", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "SilverGreatSwordHTD", "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+	{ "Item": "SilverGreatMaceHTD",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "SilverBattleaxeHTD",  "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] },
+        { "Item": "BoneGreatSwordHTD",   "Weight": 1, "Rarity": [ 5, 35, 50, 20 ] }
       ]
     },
     {
       "Name": "Tier5HugosArmory",
       "Loot": [
-	{ "Item": "SwordBlackMetalGreat", "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SwordIronGreatBlack",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SwordObsidianGreat",   "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SwordFlametalGreat",   "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "AxeBlackMetalBattle",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
-	{ "Item": "SwordDragonSlayer",    "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
+	{ "Item": "BlackMetalGreatSwordHTD",     "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "BlackMetalGreatSwordAltHTD",  "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "ObsidianGreatSwordHTD",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "ObsidianGreatSwordRedHTD",    "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "FlametalGreatSwordHTD",       "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "BlackMetalBattleaxeHTD",      "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] },
+	{ "Item": "DragonSlayerSwordHTD",        "Weight": 1, "Rarity": [ 0, 15, 60, 25 ] }
       ]
     },
 
