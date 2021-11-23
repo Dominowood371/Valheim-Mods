@@ -11,7 +11,7 @@ List of mods to be added to the table:
 | [ValheimExpanded](http://www.nexusmods.com/valheim/mods/1154) | 0.4.1 | Weapons, Armor, Enemies, Monsters |
 | [Terraheim](https://www.nexusmods.com/valheim/mods/803) | 2.2.0 | Weapons, Armor |
 | [Forsaken](http://www.nexusmods.com/valheim/mods/799) | 0.7.0 | Weapons |
-| [Hugo's Armory](https://www.nexusmods.com/valheim/mods/1189) | 5.0.0 | Weapons |
+| [Hugo's Armory](https://www.nexusmods.com/valheim/mods/1189) | 5.0.1 | Weapons |
 | [Runic Swords](https://www.nexusmods.com/valheim/mods/1179) | 1.1.0 | Weapons |
 | [Steel Age](https://www.nexusmods.com/valheim/mods/1143) | 1.0.11 | Weapons |
 | [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/)| 1.2.0 | Armor |
@@ -104,6 +104,7 @@ Adds two-handed weapon drop:
 * Tier3 - Heavy Iron Great Sword
 * Tier3 - Great Core Mace
 * Tier3 - Great Core Mace (Green)
+* Tier3 - Great Core Mace (Blue)
 * Tier4 - Grasp of Undying
 * Tier4 - Silver Great Sword
 * Tier4 - Great Silver Mace
@@ -111,6 +112,7 @@ Adds two-handed weapon drop:
 * Tier5 - Black Metal Great Sword
 * Tier5 - Black Metal Great Sword Foreign
 * Tier5 - Moder's Sorrow
+* Tier5 - Moder's Sorrow Red
 * Tier5 - Flametal Great Sword
 * Tier5 - Black Metal Battleaxe
 * Tier5 - Dragon Slayer
