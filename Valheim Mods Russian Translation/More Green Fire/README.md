@@ -1,4 +1,4 @@
-Mod More Green Fire Russian Translation Version 0.0.1 - 0.0.2.
+Mod More Green Fire Russian Translation Version 0.0.1 - 0.0.4.
 
 ### Описание
 
