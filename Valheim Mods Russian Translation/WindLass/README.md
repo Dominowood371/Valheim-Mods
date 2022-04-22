@@ -1,4 +1,4 @@
-Mod WindLass Russian Translation Version 1.0.5.
+Mod WindLass Russian Translation Version 1.0.6.
 
 ### Описание
 
