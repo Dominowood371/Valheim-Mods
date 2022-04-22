@@ -1,0 +1,80 @@
+---
+# Use the Abenaki entry in this file as a template for any language localizations you want to add
+# The list of supported languages for localization for now is as follows:
+# English (hardcoded but can be overwritten in this file)
+# Swedish
+# French
+# Italian
+# German
+# Spanish
+# Russian
+# Romanian
+# Bulgarian
+# Macedonian
+# Finnish
+# Danish
+# Norwegian
+# Icelandic
+# Turkish
+# Lithuanian
+# Czech
+# Hungarian
+# Slovak
+# Polish
+# Dutch
+# Portuguese_European
+# Portuguese_Brazilian
+# Chinese
+# Japanese
+# Korean
+# Hindi
+# Thai
+# Abenaki
+# Croatian
+# Georgian
+# Greek
+# Serbian
+# Ukrainian
+
+Localizations:
+    English:
+        T1ChaosPlateHelm:
+            Name: "Tusk plate helm"
+            Description: "A plate helm, bearing the fierce tusks of a boar. The beast's death throes echo eerily within its hollow confines."
+        T1ChaosPlateArmor:
+            Name: "Half plate harness"
+            Description: "A battered suit of heavy plate. The eight-spoked star clasped over the breastplate is dull and rusted."
+        T1ChaosPlateLegs:
+            Name: "Battered plate leggings"
+            Description: "Thick leather leggings reinforced with metal. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased."
+        T2ChaosPlateHelm:
+            Name: "Fang plate helm"
+            Description: "A plate helm, sporting the razor fangs of a mountain wolf. The metal is ever-cold to the touch, as though the ice has sunk its claws into it."
+        T2ChaosPlateArmor:
+            Name: "Three quarters plate harness"
+            Description: "A battered suit of heavy plate, cast from blackened silver. The eight-spoked star clasped over the breastplate catches the sun's rays with an uncanny, icy glint."
+        T2ChaosPlateLegs:
+            Name: "Refurbished plate leggings"
+            Description: "Thick leather leggings reinforced with blackened silver. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased."
+        ChaosPlateHelm:
+            Name: "Uncanny plate helm"
+            Description: "A vicious-looking casque. The alloy plate that encloses it seems corroded and stained, even though the structure yet holds steady. An uncanny air of familiarity echoes within its confines."
+        ChaosPlateArmorBody:
+            Name: "Uncanny plate harness"
+            Description: "A hollow suit of fully enclosing armor. The thick plate is pitted and scarred, but remains incredibly sturdy. The eight-spoked star clasped over the breastplate evokes a hazy, blood-addled nostalgia."
+        ChaosPlateLegs:
+            Name: "Uncanny plate leggings"
+            Description: "Thick leather leggings reinforced with metal. The armor plates are heavy, anchoring the boots to the earth with stains and scars that cannot be erased. And yet, they do little to burden the wearer."
+        ChaosPlateHelmAlt:
+            Name: "Tenebrous plate helm"
+            Description: "Dragged out from the murky shadows, visions of a distant and dark millennium glimmer like embers in the helm's eyeslits. What has been seen cannot be unseen."
+        EliteChaosPlateHelm:
+            Name: "Abyssal plate helm"
+            Description: "Shrouded in darkness as your plated skin may be, the horned proof of your bloody victories will ensure your place in the eyes of the gods."
+        EliteChaosPlateArmor:
+            Name: "Stygian plate harness"
+            Description: "Dragged out from the murky shadows, visions of a distant and dark millennium glimmer like embers in the helm's eyeslits. What has been seen cannot be unseen."
+        EliteChaosPlateLegs:
+            Name: "Umbral greaves"
+            Description: "The blood of the fallen drags at your armor-shod feet. But the feeble grasp of the dead means little to those who look forward to taking yet more lives."
+		
