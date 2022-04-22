@@ -118,7 +118,7 @@
     - [X] Version 1.0.0 (Valheim v0.202.14)
  - [X] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288) ✔
     - [X] Version 1.0.3 (Valheim v0.156.2)
-    - [X] Version 1.1.2 (Valheim v0.202.14)
+    - [X] Version 1.1.4 (Valheim v0.205.5)
 
 **Armour**
  - [X] [Chaos Warrior Armor](https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/) ✔
