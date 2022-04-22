@@ -1,4 +1,4 @@
-Mod EnhancedPotions Russian Translation Version 0.3.16.
+Mod EnhancedPotions Russian Translation Version 0.3.18.
 
 ### Описание
 
