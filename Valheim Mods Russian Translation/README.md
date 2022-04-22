@@ -112,7 +112,7 @@
     - [X] Version 2.1.8 - 2.2.0 (Valheim v0.202.14)
  - [X] [WindLass](https://valheim.thunderstore.io/package/OdinPlus/TheWindlass/) ✔
     - [X] Version 1.0.5 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
+    - [X] Version 1.0.6 (Valheim v0.202.14)
  - [X] [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301) ✔
     - [X] Version 0.7.6 (Valheim v0.156.2)
     - [X] Version 1.0.0 (Valheim v0.202.14)
