@@ -186,7 +186,53 @@
 	"custompiece_celticidol12":"Celtic Idol 12",
 	
 	"custompiece_lokistatue":"Loki Statue",
-	"custompiece_odinstatue":"Odin Statue"
+	"custompiece_odinstatue":"Odin Statue",
 	
+	
+	"custompiece_bearspainting":"Bears Painting",
+	"custompiece_couch1":"Deer Hide Couch",
+	"custompiece_couch2":"Jute Couch",
+	"custompiece_couch3":"Wolf Pelt Couch",
+	"custompiece_couch4":"Lox Pelt Couch",
+	"custompiece_couchbed1":"Deer Hide Couchbed",
+	"custompiece_couchbed2":"Jute Couchbed",
+	"custompiece_flintbowl":"Serving Bowl",
+	"custompiece_newbluebook":"Blue Book",
+	"custompiece_newgreenbook":"Green Book",
+	"custompiece_newredbook":"Red Book",
+	"custompiece_newshelf":"Shelf",
+	"custompiece_pillow1":"Pillow",
+	"custompiece_pillow2":"Pillow",
+	"custompiece_pillow3":"Pillow",
+	"custompiece_rectangulartable":"Table",
+	"custompiece_vangogh":"Starry Night Painting",
+	"custompiece_wallshelf":"Wall Shelf",
+	
+	
+	"customitem_bloodybat":"Bloody Bat",
+	"customitem_bloodycleaver":"Bloody Cleaver",
+	"customitem_bloodysickle":"Bloody Sickle",
+	"customitem_bloodyswagger":"Bloody Swagger",
+	
+	
+	"custompiece_armbook":"ZomBook",
+	"custompiece_bloodyrag":"Bloody Rag",
+	"custompiece_bloodyshelf":"Bloody Wall Shelf",
+	"custompiece_bloodytable":"Bloody Table",
+	"custompiece_creepyleatherbook":"Leather Book",
+	"custompiece_creepyopenbook":"Open Book",
+	"custompiece_devilwindow":"Devil Window",
+	"custompiece_fishskeleton":"Fish Skeleton",
+	"custompiece_handprint":"Bloody Handprint",
+	"custompiece_magicbooks":"Magic Books",
+	"custompiece_ouijabook":"Ouija Book",
+	"custompiece_pentagram":"Pentagram - Horizontal",
+	"custompiece_pentagram_vertical":"Pentagram - Vertical",
+	"custompiece_pentagram_verticalsmall":"Pentagram - Vertical Small",
+	"custompiece_pictureframe":"Spooky Painting - Small",
+	"custompiece_pictureframebig":"Spooky Painting - Large",
+	"custompiece_skullcandle":"Skull Candle",
+	"custompiece_skullcandle2":"Skull Candle",
+	"custompiece_zombiedeerhead":"Zombie Deer Head"
 	
 }
