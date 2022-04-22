@@ -1,4 +1,4 @@
-Mod Seed Totem Russian Translation Version 1.1.5 - 4.1.0.
+Mod Seed Totem Russian Translation Version 1.1.5 - 4.2.0.
 
 ### Описание
 
