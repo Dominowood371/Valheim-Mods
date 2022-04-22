@@ -1,4 +1,4 @@
-Mod Chaos Warrior Armor Russian Translation Version 6.0.1 - 7.0.0.
+Mod Chaos Warrior Armor Russian Translation Version 6.0.1 - 7.0.0 / 9.0.4 - 9.0.6.
 
 ### Описание
 
@@ -6,7 +6,11 @@ Mod Chaos Warrior Armor Russian Translation Version 6.0.1 - 7.0.0.
 
 ### Установка
 
+#### Верисия 6.0.1 - 7.0.0 
 Скачайте файл `ChaosArmor_russian.json` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\ChaosArmor\Assets\Translations\Russian`.
+
+#### Верисия 9.0.4 - 9.0.6
+Скачайте файл `Localization.yml` и с заменой переместите файл в папку `Valheim\BepInEx\plugins\AeehyehssReeper-ChaosArmor`.
 
 #### Архив с дополнительным переводом
 В оригинальном моде отсутвует перевод брони `Reepus, Deepus, Delmeepus` и их эффектов, поэтому можете использовать мой архив где я добавил его.
