@@ -1,4 +1,4 @@
-Mod PotionPlus Russian Translation Version 1.1.0 - 3.0.1.
+Mod PotionPlus Russian Translation Version 1.1.0 - 3.2.2.
 
 ### Описание
 
