@@ -123,7 +123,7 @@
 **Armour**
  - [X] [Chaos Warrior Armor](https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/) ✔
     - [X] Version 6.0.1 (Valheim v0.156.2)
-    - [X] Version 6.0.4 (Valheim v0.202.14)
+    - [X] Version 6.0.4 - 9.0.6 (Valheim v0.202.14)
  - [X] [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/) ✔
     - [X] Version 1.0.0	- 1.2.1 (Valheim v0.202.14)
  - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
