@@ -16,10 +16,10 @@
     - [X] Version 2.0.0 (Valheim v0.202.14)
  - [X] [PlanBuild - Blueprint Rune](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/) ✔
     - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
-    - [X] Version 0.6.0 - 0.6.12 (Valheim v0.202.14)
+    - [X] Version 0.6.0 - 0.9.5 (Valheim v0.202.14)
  - [X] [Seed Totem](https://valheim.thunderstore.io/package/MathiasDecrock/SeedTotem/) ✔
     - [X] Version 1.1.5 (Valheim v0.156.2)
-    - [X] Version 4.1.0 (Valheim v0.202.14)
+    - [X] Version 4.2.0 (Valheim v0.202.14)
  - [X] [Spud's Forsaken Totems](https://valheim.thunderstore.io/package/SpudTatterson/SpudsForsakenTotems/) ✔
     - [X] Version 2.2.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
@@ -53,13 +53,13 @@
     - [X] Version 0.0.9 (Valheim v0.202.14)
  - [X] [More Green Fire](https://valheim.thunderstore.io/package/OdinPlus/MoreGreenFire/) ✔
     - [X] Version 0.0.1 (Valheim v0.156.2)
-    - [X] Version 0.0.2 (Valheim v0.202.14)
+    - [X] Version 0.0.4 (Valheim v0.202.14)
  - [X] [OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect/) ✔
     - [X] Version 0.0.4 (Valheim v0.156.2)
     - [X] Version 0.1.0 - 0.1.3 (Valheim v0.202.14)
  - [X] [PlantIt](https://valheim.thunderstore.io/package/OdinPlus/PlantIt/) ✔
     - [X] Version 0.1.2 (Valheim v0.156.2)
-    - [X] Version 0.1.3 (Valheim v0.202.14)
+    - [X] Version 0.1.5 (Valheim v0.202.14)
  - [X] [Build It](https://valheim.thunderstore.io/package/OdinPlus/BuildIt/) ❌
     - [X] Version 1.3.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
@@ -143,12 +143,12 @@
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
     - [X] Version 0.3.16 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
+    - [X] Version 0.3.18 (Valheim v0.202.14)
  - [X] [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) ❌
     - [X] Version 3.0.2 (Valheim v0.156.2) без перевода эффектов
     - [ ] Version ? (Valheim v0.202.14)
  - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ✔
-    - [X] Version 1.1.1 - 3.0.1 (Valheim v0.202.14)
+    - [X] Version 1.1.1 - 3.2.2 (Valheim v0.202.14)
  - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
     - [X] Version 2.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
@@ -156,7 +156,7 @@
 **User Interface**
  - [X] [Project Auga](https://valheim.thunderstore.io/package/RandyKnapp/Auga/) ✔
     - [X] Version 1.0.2 (Valheim v0.156.2)
-    - [X] Version 1.0.4 (Valheim v0.202.14)
+    - [X] Version 1.0.10 (Valheim v0.202.14)
 
 **Character Appearance**
  - [X] [Custom Dverger](https://valheim.thunderstore.io/package/OdinPlus/CustomDverger/) ✔
