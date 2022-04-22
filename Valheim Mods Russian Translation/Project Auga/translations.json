@@ -1,6 +1,6 @@
 {
   "project" : "Проект",
-  "show_changelog" : "Показать список изменений Вальхейма",
+  "show_changelog" : "Показать историю изменений Вальхейма",
   "menu_refresh": "Обновить", 
   "menu_filter": "Фильтр", 
   "menu_loading_noelipsis": "Загрузка", 
