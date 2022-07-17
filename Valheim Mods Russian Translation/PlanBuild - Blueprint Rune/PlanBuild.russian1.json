@@ -36,7 +36,7 @@
     "piece_blueprint_select_snappoints_desc": "Точек привязки: $1",
     "piece_blueprint_select_center_desc": "Центральная точка задана",
     "piece_blueprint_select_add": "Выделить объекты",
-  "piece_blueprint_select_add_desc": "Выделите объекты, которые вы хотите сохранить в чертеже. Когда вы решите сохранить, виберете инструмент редактирования чтобы создать чертеж.",
+    "piece_blueprint_select_add_desc": "Выделите объекты, которые вы хотите сохранить в чертеже. Когда вы решите сохранить, виберете инструмент редактирования чтобы создать чертеж.",
     "piece_blueprint_select_remove": "Исключить объекты",
     "piece_blueprint_select_remove_desc": "Удалите объекты из выделенного, если вы не хотите добавить их в чертеж.",
     "piece_blueprint_select_edit": "Редактировать выделенное",
