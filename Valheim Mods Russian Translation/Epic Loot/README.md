@@ -1,4 +1,4 @@
-Mod EpicLoot Russian Translation Version 0.8.0 - 0.8.6.
+Mod EpicLoot Russian Translation Version 0.8.0 - 0.9.4.
 
 ## Описание
 Перевод мода [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) на русский язык для игры Valheim.
@@ -8,7 +8,7 @@ Mod EpicLoot Russian Translation Version 0.8.0 - 0.8.6.
 Названия префиксов для эпических предметов к сожалению имеют сокращенный вид, так как возможность перевода файла мода не предусматривает падежи русского языка.
 
 ## Установка
-Работает только для версии EpicLoot 0.8.0 - 0.8.6, на других версиях не гарантирую работу при полной замене.
+Работает только для версии EpicLoot 0.8.0 - 0.9.4, на других версиях не гарантирую работу при полной замене.
 
 Скачайте и замените файл `translations.json` в папке `Valheim\BepInEx\plugins\files` или `Valheim\BepInEx\plugins\EpicLoot`
 
