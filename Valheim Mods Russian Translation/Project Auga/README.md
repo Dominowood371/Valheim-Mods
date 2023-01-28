@@ -1,4 +1,4 @@
-Mod Project Auga Russian Translation Version 1.0.2 - 1.0.10.
+Mod Project Auga Russian Translation Version 1.0.2 - 1.1.2.
 
 ### Описание
 
