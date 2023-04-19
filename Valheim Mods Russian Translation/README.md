@@ -62,7 +62,7 @@
     - [ ] Version ? (Valheim v0.202.14)
 
 **Weapons**
- - [Forsaken] - (https://valheim.thunderstore.io/package/Digitalroot/ForsakenJVL/) Version 2.0.11
+ - [Forsaken] (https://valheim.thunderstore.io/package/Digitalroot/ForsakenJVL/) - Version 2.0.11
  - [X] [IronBarInValheim](https://www.nexusmods.com/valheim/mods/1196)
     - [X] Version 1.0.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
