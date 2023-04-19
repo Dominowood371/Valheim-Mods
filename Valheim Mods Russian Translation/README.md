@@ -8,158 +8,120 @@
 ### Моды
 
 **Gameplay**
- - [X] [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) ✔
+ - [X] [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/)
     - [X] Version 0.8.0 - 0.8.4 (Valheim v0.156.2)
     - [X] Version 0.8.6 (Valheim v0.202.14)
- - [X] [JotunnBackpacks](https://valheim.thunderstore.io/package/EmrikNorth_and_Aedenthorn/JotunnBackpacks/) ✔
+ - [X] [JotunnBackpacks](https://valheim.thunderstore.io/package/EmrikNorth_and_Aedenthorn/JotunnBackpacks/)
     - [X] Version 1.0.1 (Valheim v0.156.2)
     - [X] Version 2.0.0 (Valheim v0.202.14)
- - [X] [PlanBuild - Blueprint Rune](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/) ✔
+ - [X] [PlanBuild - Blueprint Rune](https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/)
     - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
     - [X] Version 0.6.0 - 0.9.5 (Valheim v0.202.14)
- - [X] [Seed Totem](https://valheim.thunderstore.io/package/MathiasDecrock/SeedTotem/) ✔
+ - [X] [Seed Totem](https://valheim.thunderstore.io/package/MathiasDecrock/SeedTotem/)
     - [X] Version 1.1.5 (Valheim v0.156.2)
     - [X] Version 4.2.0 (Valheim v0.202.14)
- - [X] [Spud's Forsaken Totems](https://valheim.thunderstore.io/package/SpudTatterson/SpudsForsakenTotems/) ✔
+ - [X] [Spud's Forsaken Totems](https://valheim.thunderstore.io/package/SpudTatterson/SpudsForsakenTotems/)
     - [X] Version 2.2.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [Surtling Core Overclocking](https://valheim.thunderstore.io/package/MathiasDecrock/SurtlingCoreOverclocking/) ✔
+ - [X] [Surtling Core Overclocking](https://valheim.thunderstore.io/package/MathiasDecrock/SurtlingCoreOverclocking/)
     - [X] Version 1.1.1 (Valheim v0.156.2)
     - [X] Version 1.2.0 (Valheim v0.202.14)
- - [X] [Valweed](https://valheim.thunderstore.io/package/dannypacquiao/Valweed/) ✔
+ - [X] [Valweed](https://valheim.thunderstore.io/package/dannypacquiao/Valweed/)
     - [X] Version 0.2.7 (Valheim v0.156.2)
     - [X] Version 0.2.8 - 0.3.2 (Valheim v0.202.14)
- - [X] [ValheimExpanded](https://www.nexusmods.com/valheim/mods/1154) ❌
-    - [X] Version 0.4.1 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL) ✔
+ - [X] [OdinPlusRemakeJVL](https://github.com/Digitalroot-Valheim/OdinPlusRemakeJVL)
     - [X] Version ? (Valheim v0.202.14)
- - [X] [Magic Overhaul](https://valheim.thunderstore.io/package/KGvalheim/MagicOverhaul/) ✔
+ - [X] [Magic Overhaul](https://valheim.thunderstore.io/package/KGvalheim/MagicOverhaul/)
     - [X] Version 1.3.0 (Valheim v0.156.2)
     - [X] Version 1.4.1 (Valheim v0.202.14)
- - [X] [Better Wards](https://valheim.thunderstore.io/package/Azumatt/BetterWards/) ✔
+ - [X] [Better Wards](https://valheim.thunderstore.io/package/Azumatt/BetterWards/)
     - [X] Version 1.3.0 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14) похоже убрана локализация
  
 **Construction**
- - [X] [Digitalroot's Gold Bars](https://www.nexusmods.com/valheim/mods/1448) ✔
+ - [X] [Digitalroot's Gold Bars](https://www.nexusmods.com/valheim/mods/1448)
     - [X] Version 1.1.2 (Valheim v0.156.2)
     - [X] Version 1.2.0 (Valheim v0.202.14)
- - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653) ✔
+ - [X] [ChestReloaded](https://www.nexusmods.com/valheim/mods/653)
     - [X] Version 0.7.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [Clutter](https://valheim.thunderstore.io/package/OdinPlus/Clutter/) ✔
+ - [X] [Clutter](https://valheim.thunderstore.io/package/OdinPlus/Clutter/)
     - [X] Version 0.0.8 (Valheim v0.156.2)
     - [X] Version 0.0.9 (Valheim v0.202.14)
- - [X] [More Green Fire](https://valheim.thunderstore.io/package/OdinPlus/MoreGreenFire/) ✔
+ - [X] [More Green Fire](https://valheim.thunderstore.io/package/OdinPlus/MoreGreenFire/)
     - [X] Version 0.0.1 (Valheim v0.156.2)
     - [X] Version 0.0.4 (Valheim v0.202.14)
- - [X] [OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect/) ✔
+ - [X] [OdinArchitect](https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect/)
     - [X] Version 0.0.4 (Valheim v0.156.2)
     - [X] Version 0.1.0 - 0.1.3 (Valheim v0.202.14)
- - [X] [PlantIt](https://valheim.thunderstore.io/package/OdinPlus/PlantIt/) ✔
+ - [X] [PlantIt](https://valheim.thunderstore.io/package/OdinPlus/PlantIt/)
     - [X] Version 0.1.2 (Valheim v0.156.2)
     - [X] Version 0.1.5 (Valheim v0.202.14)
- - [X] [Build It](https://valheim.thunderstore.io/package/OdinPlus/BuildIt/) ❌
-    - [X] Version 1.3.1 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [More Gates](https://valheim.thunderstore.io/package/RagnarokHCRP/MoreGates/) ❌
-    - [X] Version 1.0.10 (Valheim v0.156.2)
-    - [ ] Version 1.0.10 (Valheim v0.202.14)
- - [X] [Candles Lanterns and Beeswax](https://valheim.thunderstore.io/package/MagikarpSushiCandlesLantern/CandlesLanternBeeswax/) ❌
-    - [X] Version 1.1.0 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [Catalyst Buildables](https://www.nexusmods.com/valheim/mods/1335) ❌
-    - [X] Version 0.0.2 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [More Lighting](https://www.nexusmods.com/valheim/mods/1214) ❌
-    - [X] Version 1.0.3 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [MoArBuIlDs](https://valheim.thunderstore.io/package/OdinPlus/MoArBuIlDs/) ❌
-    - [X] Version 1.1.4 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [CustomBuildingItems](https://valheim.thunderstore.io/package/Smallo/CustomBuildingItems/) ✔
+ - [X] [CustomBuildingItems](https://valheim.thunderstore.io/package/Smallo/CustomBuildingItems/)
     - [X] Version 2.0.4 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [Catalyst Machines](https://www.nexusmods.com/valheim/mods/1306) ❌
-    - [X] Version 0.0.5 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
 
 **Weapons**
- - [X] [Forsaken](https://www.nexusmods.com/valheim/mods/799) ❌
-    - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2) ❌
-    - [X] Version JVL 1.0.0  (Valheim v0.202.14) ✔
- - [X] [Ninja Pack](https://www.nexusmods.com/valheim/mods/1182) ❌
-    - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [Fisticuffs](https://valheim.thunderstore.io/package/OdinPlus/Fisticuffs/) ❌
-    - [X] Version 0.4.0 - 0.5.2 (Valheim v0.156.2)
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [IronBarInValheim](https://www.nexusmods.com/valheim/mods/1196) ✔
+ - [Forsaken] - (https://valheim.thunderstore.io/package/Digitalroot/ForsakenJVL/) Version 2.0.11
+ - [X] [IronBarInValheim](https://www.nexusmods.com/valheim/mods/1196)
     - [X] Version 1.0.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [Hugos Armory](https://valheim.thunderstore.io/package/HugotheDwarf/Hugos_Armory/) ✔
+ - [X] [Hugos Armory](https://valheim.thunderstore.io/package/HugotheDwarf/Hugos_Armory/)
     - [X] Version 5.0.0 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [Runic Swords](https://valheim.thunderstore.io/package/OdinPlus/RunicSwords/) ✔
+ - [X] [Runic Swords](https://valheim.thunderstore.io/package/OdinPlus/RunicSwords/)
     - [X] Version 1.1.0 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [Steel Age](https://www.nexusmods.com/valheim/mods/1143) ✔
+ - [X] [Steel Age](https://www.nexusmods.com/valheim/mods/1143)
     - [X] Version 1.0.11 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [Terraheim](https://valheim.thunderstore.io/package/DasSauerkraut/Terraheim/) ✔ без перевода эффектов
+ - [X] [Terraheim](https://valheim.thunderstore.io/package/DasSauerkraut/Terraheim/) без перевода эффектов
     - [X] Version 2.1.5 (Valheim v0.156.2)
     - [X] Version 2.1.8 - 2.2.0 (Valheim v0.202.14)
- - [X] [WindLass](https://valheim.thunderstore.io/package/OdinPlus/TheWindlass/) ✔
-    - [X] Version 1.0.5 (Valheim v0.156.2)
-    - [X] Version 1.0.6 (Valheim v0.202.14)
- - [X] [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301) ✔
+ - [X] [Atos Arrows JVL](https://www.nexusmods.com/valheim/mods/1301)
     - [X] Version 0.7.6 (Valheim v0.156.2)
     - [X] Version 1.0.0 (Valheim v0.202.14)
- - [X] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288) ✔
+ - [X] [Better Clubs](https://www.nexusmods.com/valheim/mods/1288)
     - [X] Version 1.0.3 (Valheim v0.156.2)
     - [X] Version 1.1.4 (Valheim v0.205.5)
 
 **Armour**
- - [X] [Chaos Warrior Armor](https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/) ✔
+ - [X] [Chaos Warrior Armor](https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/)
     - [X] Version 6.0.1 (Valheim v0.156.2)
     - [X] Version 6.0.4 - 9.0.6 (Valheim v0.202.14)
- - [X] [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/) ✔
+ - [X] [Judes Equipment](https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/)
     - [X] Version 1.0.0	- 1.2.1 (Valheim v0.202.14)
- - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640) ✔
+ - [X] [Barbarian's](https://www.nexusmods.com/valheim/mods/640)
     - [X] Version 2.0.1 (Valheim v0.156.2)
- - [X] [Plate Armor](https://www.nexusmods.com/valheim/mods/567) ✔
+ - [X] [Plate Armor](https://www.nexusmods.com/valheim/mods/567)
     - [X] Version 2.0.1 (Valheim v0.156.2)
- - [X] [Custom Hair (AKA CustomWigs)](https://valheim.thunderstore.io/package/OdinPlus/CustomWigs/) ✔
+ - [X] [Custom Hair (AKA CustomWigs)](https://valheim.thunderstore.io/package/OdinPlus/CustomWigs/)
     - [X] Version 0.0.3 (Valheim v0.156.2)
     - [X] Version 0.0.4 (Valheim v0.202.14)
 
 **Food/Potion**
- - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225) ✔
+ - [X] [WeWantToEatRice](https://www.nexusmods.com/valheim/mods/1225)
     - [X] Version 0.0.3 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [ZethPack](https://valheim.thunderstore.io/package/Zethin/ZethPack/) ✔
+ - [X] [ZethPack](https://valheim.thunderstore.io/package/Zethin/ZethPack/)
     - [X] Version 1.2.5 - 1.3.1 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
- - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/) ✔
+ - [X] [EnhancedPotions](https://valheim.thunderstore.io/package/hbocao/EnhancedPotions/)
     - [X] Version 0.3.16 (Valheim v0.156.2)
     - [X] Version 0.3.18 (Valheim v0.202.14)
- - [X] [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) ❌
-    - [X] Version 3.0.2 (Valheim v0.156.2) без перевода эффектов
-    - [ ] Version ? (Valheim v0.202.14)
- - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/) ✔
+ - [X] [PotionPlus](https://valheim.thunderstore.io/package/OdinPlus/PotionPlus/)
     - [X] Version 1.1.1 - 3.2.2 (Valheim v0.202.14)
- - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/) ✔
+ - [X] [HoneyPlus](https://valheim.thunderstore.io/package/OhhLoz/HoneyPlus/)
     - [X] Version 2.0.2 (Valheim v0.156.2)
     - [ ] Version ? (Valheim v0.202.14)
 
 **User Interface**
- - [X] [Project Auga](https://valheim.thunderstore.io/package/RandyKnapp/Auga/) ✔
+ - [X] [Project Auga](https://valheim.thunderstore.io/package/RandyKnapp/Auga/)
     - [X] Version 1.0.2 (Valheim v0.156.2)
     - [X] Version 1.0.10 (Valheim v0.202.14)
 
 **Character Appearance**
- - [X] [Custom Dverger](https://valheim.thunderstore.io/package/OdinPlus/CustomDverger/) ✔
+ - [X] [Custom Dverger](https://valheim.thunderstore.io/package/OdinPlus/CustomDverger/)
     - [X] Version 0.0.1 (Valheim v0.156.2)
     - [X] Version 0.0.2 (Valheim v0.202.14)
 
@@ -167,7 +129,3 @@
 
 - [X] Сделан перевод на русский язык.
 - [ ] Перевод еще не сделан.
-
- ✔ Автор мода добавил возможность локализации
- 
- ❌ Автор мода не добавил возможность локализации, по этому тут изменяется файл .dll
