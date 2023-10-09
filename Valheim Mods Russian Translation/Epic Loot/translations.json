@@ -500,6 +500,7 @@
   "mod_epicloot_merchant_abandonbountyconfirm": "Отказаться?",
   "mod_epicloot_merchant_abandonbountydesc": "Вы не сможете принять его повторно",
   "mod_epicloot_merchant_acceptbounty": "Принять заказ",
+  "mod_epicloot_merchant_max_bounties": "Максимум получено наград",
   "mod_epicloot_merchant_bounties": "Охота",
   "mod_epicloot_merchant_bountiesactive": "Активные",
   "mod_epicloot_merchant_bountiesavailable": "Доступные",
